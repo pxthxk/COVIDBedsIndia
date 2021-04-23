@@ -18,12 +18,7 @@ class DelhiHospital {
 
   // private or govt
   hsp_type(hsp_name) {
-    for(var j in gnctd_covid_data) {
-        if(gnctd_covid_data[j][hsp_name]){
-          return gnctd_covid_data[j][hsp_name]["type"] + "<br>";
-      }
-    }
-    return "";
+    return gnctd_covid_facilities_data[hsp_name]["type"] + "<br>"
   }
 
   last_updated_at(hsp_name) {
@@ -120,6 +115,8 @@ class Delhi {
       var bed_info = hsp.bed_info(i);
       var type = hsp.hsp_type(i);
       var last_updated_at = hsp.last_updated_at(i);
+
+      // console.log(hsp_info, type, last_updated_at);
 
       var marker = L.marker([coord[0], coord[1]]).addTo(mymap).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info).openPopup();
     }
