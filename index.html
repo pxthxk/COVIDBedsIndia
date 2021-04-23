@@ -2677,7 +2677,9 @@
             }
 
             var hspInfo = "<b>" + ahmedabad_data[i]["HOSPITAL_NAME"] + "</b><br>";
-            var zone = "Zone/Ward: " + ahmedabad_data[i]["ZONE_WARDS"] + "<br><br>";
+            var zone = "Zone/Ward: " + ahmedabad_data[i]["ZONE_WARDS"] + "<br>";
+            var loc = "<a href=" + ahmedabad_data[i]["LOCATION"] + " target='_blank'>Click for Google Maps</a><br>";
+            var last_updated_at = "Last Updated: " + ahmedabad_data[i]["LAST_UPDATED"] + "<br><br>";
             var type = ahmedabad_data[i]["TYPE"] + "<br><br>";
             var iso_occ = "<b>ISOLATION BEDS</b><br>Occupied: " + ahmedabad_data[i]["ISOLATION_OCCUPIED"] + "<br>";
             var iso_vac = "Vacant: " + ahmedabad_data[i]["ISOLATION_VACANT"] + "<br><br>";
@@ -2688,7 +2690,7 @@
             var ven_occ = "<b>ICU WITH VENTILATOR BEDS</b><br>Occupied: " + ahmedabad_data[i]["ICU_WITH_VENTILATOR_OCCUPIED"] + "<br>";
             var ven_vac = "Vacant: " + ahmedabad_data[i]["ICU_WITH_VENTILATOR_VACANT"] + "<br><br>";
 
-            var marker = L.marker([coord[0], coord[1]]).addTo(mymap).bindPopup(hspInfo + zone + type + iso_occ + iso_vac + hdu_occ + hdu_vac + icu_occ + icu_vac + ven_occ + ven_vac).openPopup();
+            var marker = L.marker([coord[0], coord[1]]).addTo(mymap).bindPopup(hspInfo + zone + loc + last_updated_at + type + iso_occ + iso_vac + hdu_occ + hdu_vac + icu_occ + icu_vac + ven_occ + ven_vac).openPopup();
           }
         }
       }
