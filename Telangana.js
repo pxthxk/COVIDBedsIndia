@@ -1,5 +1,5 @@
 class Telangana {
-  populate(mymap) {
+  populate(mcg) {
     for(var i in telangana_data) {
       if((telangana_data[i]["LAT"] != "") && (telangana_data[i]["LONG"] != "")) {
         var coord = [telangana_data[i]["LAT"], telangana_data[i]["LONG"]];
@@ -16,7 +16,8 @@ class Telangana {
         var icu_occ = "<b>ICU BEDS (Ventilator/ CPAP)</b><br>Total: " + telangana_data[i]["ICU_BEDS_TOTAL"] + "<br>";
         var icu_vac = "Vacant: " + telangana_data[i]["ICU_BEDS_VACANT"] + "<br><br>";
         
-        var marker = L.marker([coord[0], coord[1]]).addTo(mymap).bindPopup(hspInfo + type + contact + loc + last_updated_at + reg_occ + reg_vac + oxy_occ + oxy_vac + icu_occ + icu_vac).openPopup();
+        var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + type + contact + loc + last_updated_at + reg_occ + reg_vac + oxy_occ + oxy_vac + icu_occ + icu_vac);
+        mcg.addLayer(marker);
       }
     }
   }

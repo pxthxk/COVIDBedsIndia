@@ -9,32 +9,87 @@
   <meta property="og:url" content="https://www.covidbedsindia.in">
   <meta property="og:title" content="COVID Beds in India: Realtime availability numbers">
   <meta property="og:description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
+  
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
   crossorigin=""/>
+  <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+  <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
   crossorigin=""></script>
+  <script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <style type="text/css">
+    body {
+      color: #1f3349;
+      font-size: 15px;
+      line-height: 24px;
+      font-family: 'Open Sans',sans-serif;
+      font-weight: 600;
+      -webkit-font-smoothing: antialiased;
+    }
+    #disclaimer {
+      padding: 10px 20px;
+      font-size: 1.4em;
+      line-height: 1.4em;
+    }
     #city {
       display: block;
       margin: 20px auto;
-      font-size: 1.4em;
+      font-size: 2em;
     }
     #mapid {
       width: 100%;
-      height: 90vh;
+      height: 80vh;
     }
     .leaflet-popup-content {
       font-size: 1.25em;
       width: 300px !important;
     }
-    .leaflet-container .leaflet-marker-pane img {
+    /*.leaflet-container .leaflet-marker-pane img {
       margin-left: -8px !important;
       margin-top: -27px !important;
       width: 17px !important;
       height: 27px !important;
+    }*/
+    .marker-cluster-small {
+      background-color: rgba(150,150,150,0.6);
+    }
+    .marker-cluster-medium {
+      background-color: rgba(150,150,150,0.6);
+    }
+    .marker-cluster-large {
+      background-color: rgba(150,150,150,0.6);
+    }
+    .marker-cluster-small div {
+      background-color: rgb(150,150,150);
+      color: white;
+      font-size: 16px !important;
+    }
+    .marker-cluster-medium div {
+      background-color: rgb(150,150,150);
+      color: white;
+      font-size: 16px !important;
+    }
+    .marker-cluster-large div {
+      background-color: rgb(150,150,150);
+      color: white;
+      font-size: 14px !important;
+    }
+    .marker-cluster span {
+      line-height: 24px !important;;
+    }
+    .marker-cluster div {
+      width: 24px !important;;
+      height: 24px !important;;
+      margin-left: 4px !important;;
+      margin-top: 4px !important;;
+    }
+    .marker-cluster {
+      width: 32px !important;
+      height: 32px !important;
     }
   </style>
 </head>
@@ -93,6 +148,7 @@
     <option value="Warangal Urban">Warangal Urban, Telangana</option>
   </select>
 
+  <div id="disclaimer">NOTE: The number in the circle represents the number of hospitals in the area and <b>NOT the number of beds</b>. Please click on the blue marker to get the bed availability details.</div>
   <div id="mapid"></div>
 
   <script src="resources/Delhi_missing_hospital_locations.js"></script>
@@ -105,8 +161,8 @@
   <script src="Telangana.js"></script>
   <script type="text/javascript">
     latlong = {
-      "Delhi": [28.6469655, 77.0932634],
-      "Ahmedabad": [23.0324082, 72.5842058],
+      "Delhi": [28.6466773,77.182488],
+      "Ahmedabad": [23.0324082,72.5842058],
       "Ambala": [30.372128,76.7774268],
       "Bhiwani": [28.7991128,76.1305033],
       "Charki Dadri": [28.5934121,76.2629269],
@@ -214,26 +270,33 @@
 
     var mymap = L.map("mapid");
 
+    var mcg = L.markerClusterGroup({
+      maxClusterRadius: 30
+    });
+
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ', {
       attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
       maxZoom: 18,
       id: 'mapbox/streets-v11',
+      // id: 'mapbox/light-v10',
       tileSize: 512,
       zoomOffset: -1,
       accessToken: 'pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ'
     }).addTo(mymap);
 
     var delhi = new Delhi();
-    delhi.populate(mymap);
+    delhi.populate(mcg);
 
     var ahmedabad = new Ahmedabad();
-    ahmedabad.populate(mymap);
+    ahmedabad.populate(mcg);
 
     var haryana = new Haryana();
-    haryana.populate(mymap);
+    haryana.populate(mcg);
 
     var telangana = new Telangana();
-    telangana.populate(mymap);
+    telangana.populate(mcg);
+
+    mymap.addLayer(mcg);
 
     function loadCity(cityName) {
       mymap.setView(latlong[cityName], zoomFactor[cityName]);

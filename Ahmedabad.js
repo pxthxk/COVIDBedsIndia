@@ -1,5 +1,5 @@
 class Ahmedabad {
-  populate(mymap) {
+  populate(mcg) {
     for(var i in ahmedabad_data) {
       if(ahmedabad_data[i]["LOCATION"] != "") {
         if(ahmedabad_data[i]["LOCATION"].split("/")[6].split(",").length == 3) {
@@ -23,7 +23,8 @@ class Ahmedabad {
         var ven_occ = "<b>ICU WITH VENTILATOR BEDS</b><br>Occupied: " + ahmedabad_data[i]["ICU_WITH_VENTILATOR_OCCUPIED"] + "<br>";
         var ven_vac = "Vacant: " + ahmedabad_data[i]["ICU_WITH_VENTILATOR_VACANT"] + "<br><br>";
 
-        var marker = L.marker([coord[0], coord[1]]).addTo(mymap).bindPopup(hspInfo + zone + contact + loc + last_updated_at + type + iso_occ + iso_vac + hdu_occ + hdu_vac + icu_occ + icu_vac + ven_occ + ven_vac).openPopup();
+        var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + zone + contact + loc + last_updated_at + type + iso_occ + iso_vac + hdu_occ + hdu_vac + icu_occ + icu_vac + ven_occ + ven_vac);
+        mcg.addLayer(marker);
       }
     }
   }

@@ -77,7 +77,7 @@ class DelhiHospital {
 }
 
 class Delhi {
-  populate(mymap) {
+  populate(mcg) {
     $.getJSON('https://coronabeds.jantasamvad.org/covid-facilities.js?callback=?', function(data) {
       gnctd_covid_facilities_data = data;
     });
@@ -96,7 +96,8 @@ class Delhi {
         var type = hsp.hsp_type(i);
         var last_updated_at = hsp.last_updated_at(i);
 
-        var marker = L.marker([coord[0], coord[1]]).addTo(mymap).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info).openPopup();
+        var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info);
+        mcg.addLayer(marker);
       }
     }, 2000);
   }
