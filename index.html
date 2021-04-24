@@ -30,12 +30,39 @@
       font-size: 1.25em;
       width: 300px !important;
     }
+    .leaflet-container .leaflet-marker-pane img {
+      margin-left: -8px !important;
+      margin-top: -27px !important;
+      width: 17px !important;
+      height: 27px !important;
+    }
   </style>
 </head>
 <body>
   <select name="city" id="city" onchange = "cityChanged(this.value)">
     <option value="Delhi">Delhi</option>
-    <option value="Ahmedabad">Ahmedabad</option>
+    <option value="Ahmedabad">Ahmedabad, Gujarat</option>
+    <option value="Ambala">Ambala, Haryana</option>
+    <option value="Bhiwani">Bhiwani, Haryana</option>
+    <option value="Charki Dadri">Charki Dadri, Haryana</option>
+    <option value="Faridabad">Faridabad, Haryana</option>
+    <option value="Fatehabad">Fatehabad, Haryana</option>
+    <option value="Gurugram">Gurugram, Haryana</option>
+    <option value="Hisar">Hisar, Haryana</option>
+    <option value="Jhajjar">Jhajjar, Haryana</option>
+    <option value="Jind">Jind, Haryana</option>
+    <option value="Kaithal">Kaithal, Haryana</option>
+    <option value="Karnal">Karnal, Haryana</option>
+    <option value="Kurukshetra">Kurukshetra, Haryana</option>
+    <option value="Mahendragarh">Mahendragarh, Haryana</option>
+    <option value="Palwal">Palwal, Haryana</option>
+    <option value="Panchkula">Panchkula, Haryana</option>
+    <option value="Panipat">Panipat, Haryana</option>
+    <option value="Rewari">Rewari, Haryana</option>
+    <option value="Rohtak">Rohtak, Haryana</option>
+    <option value="Sirsa">Sirsa, Haryana</option>
+    <option value="Sonipat">Sonipat, Haryana</option>
+    <option value="Yamunanagar">Yamunanagar, Haryana</option>
     <option value="Adilabad">Adilabad, Telangana</option>
     <option value="Badradri">Badradri, Telangana</option>
     <option value="Hyderabad">Hyderabad, Telangana</option>
@@ -70,14 +97,37 @@
 
   <script src="resources/Delhi_missing_hospital_locations.js"></script>
   <script src="resources/Ahmedabad_hospital_information.js"></script>
+  <script src="resources/Haryana_hospital_information.js"></script>
   <script src="resources/Telangana_hospital_information.js"></script>
   <script src="Delhi.js"></script>
   <script src="Ahmedabad.js"></script>
+  <script src="Haryana.js"></script>
   <script src="Telangana.js"></script>
   <script type="text/javascript">
     latlong = {
       "Delhi": [28.6469655, 77.0932634],
       "Ahmedabad": [23.0324082, 72.5842058],
+      "Ambala": [30.372128,76.7774268],
+      "Bhiwani": [28.7991128,76.1305033],
+      "Charki Dadri": [28.5934121,76.2629269],
+      "Faridabad": [28.4031806,77.3290282],
+      "Fatehabad": [29.5051287,75.4503522],
+      "Gurugram": [28.4219801,76.9924859],
+      "Hisar": [29.1506259,75.7239508],
+      "Jhajjar": [28.6053703,76.656312],
+      "Jind": [29.3097452,76.307773],
+      "Kaithal": [29.793866,76.3988393],
+      "Karnal": [29.6856134,76.9767585],
+      "Kurukshetra": [29.9696488,76.8812145],
+      "Mahendragarh": [28.26352,76.144021],
+      "Palwal": [28.1441541,77.3246723],
+      "Panchkula": [30.7020434,76.8516057],
+      "Panipat": [29.3908091,76.9685817],
+      "Rewari": [28.1982391,76.6154261],
+      "Rohtak": [28.8870516,76.605348],
+      "Sirsa": [29.5351127,75.0310929],
+      "Sonipat": [28.9476949,77.0766424],
+      "Yamunanagar": [30.1310208,77.2645472],
       "Adilabad": [19.6618588,78.5351437],
       "Badradri": [17.6276612,80.7789769],
       "Hyderabad": [17.4086963,78.4581602],
@@ -111,6 +161,27 @@
     zoomFactor = {
       "Delhi": 11,
       "Ahmedabad": 12,
+      "Ambala": 14,
+      "Bhiwani": 14,
+      "Charki Dadri": 14,
+      "Faridabad": 12,
+      "Fatehabad": 14,
+      "Gurugram": 12,
+      "Hisar": 14,
+      "Jhajjar": 14,
+      "Jind": 14,
+      "Kaithal": 14,
+      "Karnal": 14,
+      "Kurukshetra": 13,
+      "Mahendragarh": 14,
+      "Palwal": 14,
+      "Panchkula": 13,
+      "Panipat": 12,
+      "Rewari": 14,
+      "Rohtak": 14,
+      "Sirsa": 14,
+      "Sonipat": 12,
+      "Yamunanagar": 13,
       "Adilabad": 14,
       "Badradri": 12,
       "Hyderabad": 11,
@@ -157,6 +228,9 @@
 
     var ahmedabad = new Ahmedabad();
     ahmedabad.populate(mymap);
+
+    var haryana = new Haryana();
+    haryana.populate(mymap);
 
     var telangana = new Telangana();
     telangana.populate(mymap);
