@@ -167,6 +167,29 @@
       <option value="Vizag">Vizag, Andhra Pradesh</option>
       <option value="West Godavari">West Godavari, Andhra Pradesh</option>
       <option value="YSR">YSR, Andhra Pradesh</option>
+      <option value="Kolkata">Kolkata, West Bengal</option>
+      <option value="Alipurduar">Alipurduar, West Bengal</option>
+      <option value="Bankura">Bankura, West Bengal</option>
+      <option value="Birbhum">Birbhum, West Bengal</option>
+      <option value="Coochbehar">Coochbehar, West Bengal</option>
+      <option value="Dakshin Dinajpur">Dakshin Dinajpur, West Bengal</option>
+      <option value="Darjeeling">Darjeeling, West Bengal</option>
+      <option value="Hooghly">Hooghly, West Bengal</option>
+      <option value="Howrah">Howrah, West Bengal</option>
+      <option value="Jalpaiguri">Jalpaiguri, West Bengal</option>
+      <option value="Jhargram">Jhargram, West Bengal</option>
+      <option value="Kalimpong">Kalimpong, West Bengal</option>
+      <option value="Malda">Malda, West Bengal</option>
+      <option value="Murshidabad">Murshidabad, West Bengal</option>
+      <option value="Nadia">Nadia, West Bengal</option>
+      <option value="North 24 Pgs">North 24 Pgs, West Bengal</option>
+      <option value="Paschim Bardhaman">Paschim Bardhaman, West Bengal</option>
+      <option value="Paschim Medinipur">Paschim Medinipur, West Bengal</option>
+      <option value="Purba Burdwan">Purba Burdwan, West Bengal</option>
+      <option value="Purba Mednipur">Purba Mednipur, West Bengal</option>
+      <option value="Purulia">Purulia, West Bengal</option>
+      <option value="South 24 Parganas">South 24 Parganas, West Bengal</option>
+      <option value="Uttar Dinajpur">Uttar Dinajpur, West Bengal</option>
     </select>
   </div>
 
@@ -178,11 +201,13 @@
   <script src="resources/Haryana_hospital_information.js"></script>
   <script src="resources/Telangana_hospital_information.js"></script>
   <script src="resources/Andhra_Pradesh_hospital_information.js"></script>
+  <script src="resources/West_Bengal_hospital_information.js"></script>
   <script src="Delhi.js"></script>
   <script src="Ahmedabad.js"></script>
   <script src="Haryana.js"></script>
   <script src="Telangana.js"></script>
   <script src="Andhra_Pradesh.js"></script>
+  <script src="West_Bengal.js"></script>
   <script type="text/javascript">
     latlong = {
       "Delhi": [28.6466773,77.182488],
@@ -247,7 +272,30 @@
       "Srikakulam": [18.2734803,84.14237],
       "Vizag": [17.5670033,82.6582013],
       "West Godavari": [16.6741789,81.4248735],
-      "YSR": [14.2081563,78.8117276]
+      "YSR": [14.2081563,78.8117276],
+      "Kolkata": [22.639634,88.3502869],
+      "Alipurduar": [26.4805605,89.5370466],
+      "Bankura": [23.2247826,87.0627024],
+      "Birbhum": [23.7335789,87.7285189],
+      "Coochbehar": [26.3168082,89.4473167],
+      "Dakshin Dinajpur": [25.161314,88.5545508],
+      "Darjeeling": [27.0176695,88.2682793],
+      "Hooghly": [22.7366766,88.1077925],
+      "Howrah": [22.531689,88.2123297],
+      "Jalpaiguri": [26.5077935,88.6870474],
+      "Jhargram": [22.4277834,87.0102692],
+      "Kalimpong": [27.0347134,88.4796482],
+      "Malda": [25.0683516,88.1116812],
+      "Murshidabad": [24.1631151,88.2733434],
+      "Nadia": [23.210411,88.5574794],
+      "North 24 Pgs": [22.338556,88.8390175],
+      "Paschim Bardhaman": [23.0654447,87.8902026],
+      "Paschim Medinipur": [22.0100446,87.3564164],
+      "Purba Burdwan": [23.1959718,87.8762049],
+      "Purba Mednipur": [22.0367965,87.7705533],
+      "Purulia": [23.3035492,86.3642758],
+      "South 24 Parganas": [21.7161411,88.5705683],
+      "Uttar Dinajpur": [25.5981415,88.3278881],
     }
 
     zoomFactor = {
@@ -313,7 +361,30 @@
       "Srikakulam": 9,
       "Vizag": 9,
       "West Godavari": 9,
-      "YSR": 9
+      "YSR": 9,
+      "Kolkata": 10,
+      "Alipurduar": 12,
+      "Bankura": 12,
+      "Birbhum": 11,
+      "Coochbehar": 12,
+      "Dakshin Dinajpur": 12,
+      "Darjeeling": 12,
+      "Hooghly": 10,
+      "Howrah": 11,
+      "Jalpaiguri": 11,
+      "Jhargram": 11,
+      "Kalimpong": 12,
+      "Malda": 10,
+      "Murshidabad": 11,
+      "Nadia": 10,
+      "North 24 Pgs": 12,
+      "Paschim Bardhaman": 11,
+      "Paschim Medinipur": 10,
+      "Purba Burdwan": 12,
+      "Purba Mednipur": 10,
+      "Purulia": 12,
+      "South 24 Parganas": 10,
+      "Uttar Dinajpur": 11,
     }
 
     var mymap = L.map("mapid");
@@ -345,6 +416,9 @@
 
     var andhrapradesh = new Andhra_Pradesh();
     andhrapradesh.populate(mcg);
+
+    var westbengal = new West_Bengal();
+    westbengal.populate(mcg);
 
     mymap.addLayer(mcg);
 
