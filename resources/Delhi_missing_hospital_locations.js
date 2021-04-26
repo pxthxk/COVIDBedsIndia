@@ -27,10 +27,11 @@ missing_delhi_hsp_location = {
       "Chacha nehru bal Chikitsalaya": "https://www.google.co.in/maps/place/Chacha+Nehru+Bal+Chikitsalaya/@28.6528049,77.2664733,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfc95c4b97037:0x265d83e7df683dde!8m2!3d28.6528002!4d77.268662?hl=en",
       "Attar Sain Jain Eye Hospital": "https://www.google.co.in/maps/place/Attar+Sain+Jain+Hospital/@28.6821157,77.1480429,17z/data=!3m1!4b1!4m5!3m4!1s0x390d024b3eeb61e5:0x932d22d7054ad52d!8m2!3d28.682111!4d77.1502316?hl=en",
       "Nestiva Hospital": "https://www.google.com/maps/place/Nestiva+Hospital+Delhi/@28.5531823,77.1745499,15z/data=!4m2!3m1!1s0x0:0x1f8b3c62d704f4ef?sa=X&ved=2ahUKEwi9zsGH6JPwAhVlwTgGHcAyAs0Q_BIwGnoECCMQBQ",
-      "IHBAS": "https://www.google.com/maps/dir/29.2036954,78.9627617/ihbas/@28.91114,76.9740483,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cfb9c3b9f8491:0x65fb67213e52121b!2m2!1d77.3049532!2d28.6826275",
-      "ILBS": "https://www.google.com/maps/dir/29.2036954,78.9627617/ILBS+hospital/@28.7779694,76.8656779,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cfcd80ec13561:0x3652e3d9251178c7!2m2!1d77.1659994!2d28.5068854",
-      "Northern Railway": "https://www.google.com/maps/dir/29.2036954,78.9627617/Northern+Railway+hospital/@28.8967655,76.967591,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cfd478c37cdd5:0xd89d625fe85543b8!2m2!1d77.2174596!2d28.6365182",
-      "GB pant hospital": "https://www.google.com/maps/dir/29.2036954,78.9627617/GB+pant+hospital/@28.8967655,76.9697532,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cfcd80ec13561:0x8941ec4bf9184f80!2m2!1d77.2350332!2d28.6393553",
-      "Delhi state cancer institute": "https://www.google.com/maps/dir/29.2036954,78.9627617/Delhi+state+cancer+institute/@28.91114,76.9740483,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cfb9259329041:0x296039d4f87a8c6a!2m2!1d77.3094787!2d28.6858247",
-      "Poor house hospital": "https://www.google.com/maps/dir/29.2036954,78.9627617/Sewa+Kutir+Complex+,+Kingsway+Camp/@28.8369014,77.1723005,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cfdef65295491:0xa567197d18050080!2m2!1d77.209641!2d28.70233"
+      "IHBAS": "https://www.google.com/maps/place/IHBAS/@28.6826275,77.3049532,15z/data=!4m5!3m4!1s0x0:0x65fb67213e52121b!8m2!3d28.6826275!4d77.3049532",
+      "ILBS": "https://www.google.com/maps/place/Institute+of+Liver+and+Biliary+Sciences/@28.5068854,77.1659994,15z/data=!4m5!3m4!1s0x0:0x3652e3d9251178c7!8m2!3d28.5068854!4d77.1659994",
+      "Northern Railway": "https://www.google.com/maps/place/Northern+Railway+Central+Hospital/@28.6365182,77.2174596,15z/data=!4m5!3m4!1s0x0:0xd89d625fe85543b8!8m2!3d28.6365182!4d77.2174596",
+      "GB pant hospital": "https://www.google.com/maps/place/Govind+Ballabh+Pant+Hospital/@28.6393553,77.2350332,15z/data=!4m5!3m4!1s0x0:0x8941ec4bf9184f80!8m2!3d28.6393553!4d77.2350332",
+      "Delhi state cancer institute": "https://www.google.com/maps/place/Delhi+State+Cancer+Institute/@28.6858247,77.3094787,15z/data=!4m5!3m4!1s0x0:0x296039d4f87a8c6a!8m2!3d28.6858247!4d77.3094787",
+      "Poor house hospital": "https://www.google.com/maps/place/Sewa+Kutir/@28.70233,77.209641,15z/data=!4m5!3m4!1s0x0:0xa567197d18050080!8m2!3d28.70233!4d77.209641",
+      "Sanjeevan Medical Res. , Daryaganj": "https://www.google.com/maps/place/Sanjeevan+Hospital/@28.6412212,77.2429296,15z/data=!4m5!3m4!1s0x0:0xeec8c89cdfac676d!8m2!3d28.6412212!4d77.2429296"
 }
