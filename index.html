@@ -179,6 +179,7 @@
       <option value="Ujjain">Ujjain, Madhya Pradesh</option>
       <option value="Umaria">Umaria, Madhya Pradesh</option>
       <option value="Vidisha">Vidisha, Madhya Pradesh</option>
+      <option value="Pune">Pune, Maharashtra</option>
       <option value="Ariyalur">Ariyalur, Tamil Nadu</option>
       <option value="Chengalpattu">Chengalpattu, Tamil Nadu</option>
       <option value="Chengalpet">Chengalpet, Tamil Nadu</option>
@@ -285,6 +286,7 @@
 
   <script src="resources/Delhi_missing_hospital_locations.js"></script>
   <script src="resources/Ahmedabad_hospital_information.js"></script>
+  <script src="resources/Pune_hospital_information.js"></script>
   <script src="resources/Andhra_Pradesh_hospital_information.js"></script>
   <script src="resources/Haryana_hospital_information.js"></script>
   <script src="resources/Madhya_Pradesh_hospital_information.js"></script>
@@ -293,6 +295,7 @@
   <script src="resources/West_Bengal_hospital_information.js"></script>
   <script src="Delhi.js"></script>
   <script src="Ahmedabad.js"></script>
+  <script src="Pune.js"></script>
   <script src="Andhra_Pradesh.js"></script>
   <script src="Haryana.js"></script>
   <script src="Madhya_Pradesh.js"></script>
@@ -303,6 +306,7 @@
     latlong = {
       "Delhi": [28.6466773,77.182488],
       "Ahmedabad": [23.0324082,72.5842058],
+      "Pune": [18.5164779,73.8567876],
       "Ambala": [30.372128,76.7774268],
       "Bhiwani": [28.7991128,76.1305033],
       "Charki Dadri": [28.5934121,76.2629269],
@@ -479,6 +483,7 @@
     zoomFactor = {
       "Delhi": 11,
       "Ahmedabad": 12,
+      "Pune": 11,
       "Ambala": 14,
       "Bhiwani": 14,
       "Charki Dadri": 14,
@@ -681,6 +686,9 @@
 
     var madhyapradesh = new Madhya_Pradesh();
     madhyapradesh.populate(mcg);
+
+    var pune = new Pune();
+    pune.populate(mcg);
 
     var tamilnadu = new Tamil_Nadu();
     tamilnadu.populate(mcg);
