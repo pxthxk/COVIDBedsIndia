@@ -127,6 +127,7 @@
       <option value="Sirsa">Sirsa, Haryana</option>
       <option value="Sonipat">Sonipat, Haryana</option>
       <option value="Yamunanagar">Yamunanagar, Haryana</option>
+      <option value="Bengaluru">Bengaluru, Karnataka</option>
       <option value="Agar Malwa">Agar Malwa, Madhya Pradesh</option>
       <option value="Alirajpur">Alirajpur, Madhya Pradesh</option>
       <option value="Anuppur">Anuppur, Madhya Pradesh</option>
@@ -286,6 +287,7 @@
 
   <script src="resources/Delhi_missing_hospital_locations.js"></script>
   <script src="resources/Ahmedabad_hospital_information.js"></script>
+  <script src="resources/Bengaluru_hospital_information.js"></script>
   <script src="resources/Pune_hospital_information.js"></script>
   <script src="resources/Andhra_Pradesh_hospital_information.js"></script>
   <script src="resources/Haryana_hospital_information.js"></script>
@@ -295,6 +297,7 @@
   <script src="resources/West_Bengal_hospital_information.js"></script>
   <script src="Delhi.js"></script>
   <script src="Ahmedabad.js"></script>
+  <script src="Bengaluru.js"></script>
   <script src="Pune.js"></script>
   <script src="Andhra_Pradesh.js"></script>
   <script src="Haryana.js"></script>
@@ -306,6 +309,7 @@
     latlong = {
       "Delhi": [28.6466773,77.182488],
       "Ahmedabad": [23.0324082,72.5842058],
+      "Bengaluru": [12.9533282,77.5876808],
       "Pune": [18.5164779,73.8567876],
       "Ambala": [30.372128,76.7774268],
       "Bhiwani": [28.7991128,76.1305033],
@@ -483,6 +487,7 @@
     zoomFactor = {
       "Delhi": 11,
       "Ahmedabad": 12,
+      "Bengaluru": 11,
       "Pune": 11,
       "Ambala": 14,
       "Bhiwani": 14,
@@ -678,6 +683,12 @@
     var ahmedabad = new Ahmedabad();
     ahmedabad.populate(mcg);
 
+    var bengaluru = new Bengaluru();
+    bengaluru.populate(mcg);
+
+    var pune = new Pune();
+    pune.populate(mcg);
+
     var andhrapradesh = new Andhra_Pradesh();
     andhrapradesh.populate(mcg);
 
@@ -686,9 +697,6 @@
 
     var madhyapradesh = new Madhya_Pradesh();
     madhyapradesh.populate(mcg);
-
-    var pune = new Pune();
-    pune.populate(mcg);
 
     var tamilnadu = new Tamil_Nadu();
     tamilnadu.populate(mcg);
