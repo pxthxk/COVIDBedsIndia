@@ -11,7 +11,12 @@ class DelhiHospital {
   }
 
   location(hsp_name) {
-    return "<a href=" + gnctd_covid_facilities_data[hsp_name]["location"] + " target='_blank'>Click for Google Maps</a><br>";
+    if(hsp_name in missing_delhi_hsp_location) {
+      var loc = missing_delhi_hsp_location[hsp_name];
+    } else {
+      var loc = gnctd_covid_facilities_data[hsp_name]["location"]
+    } 
+    return "<a href=" + loc + " target='_blank'>Click for Google Maps</a><br>";
   }
 
   // private or govt
@@ -43,20 +48,21 @@ class DelhiHospital {
 
   coord(hsp_name) {
     try {
-      if(gnctd_covid_facilities_data[hsp_name]["location"]) {
+      if(hsp_name in missing_delhi_hsp_location) {
+          if(missing_delhi_hsp_location[hsp_name].split("/")[6].split(",").length == 3) {
+            return missing_delhi_hsp_location[hsp_name].split("/")[6].replace("@", "").split(",");
+          } else {
+            return missing_delhi_hsp_location[hsp_name].split("/")[7].replace("@", "").split(",");
+          }
+        }
+       else {
+        if(gnctd_covid_facilities_data[hsp_name]["location"]) {
         if(gnctd_covid_facilities_data[hsp_name]["location"].split("/")[6].split(",").length == 3) {
           return gnctd_covid_facilities_data[hsp_name]["location"].split("/")[6].replace("@", "").split(",");
         } else {
           return gnctd_covid_facilities_data[hsp_name]["location"].split("/")[7].replace("@", "").split(",");
         }
       } else {
-        if(hsp_name in missing_delhi_hsp_location) {
-          if(missing_delhi_hsp_location[hsp_name].split("/")[6].split(",").length == 3) {
-            return missing_delhi_hsp_location[hsp_name].split("/")[6].replace("@", "").split(",");
-          } else {
-            return missing_delhi_hsp_location[hsp_name].split("/")[7].replace("@", "").split(",");
-          }
-        } else {
           return ["", ""]
         }
       }
