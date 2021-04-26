@@ -9,7 +9,12 @@
   <meta property="og:url" content="https://www.covidbedsindia.in">
   <meta property="og:title" content="COVID Beds in India: Realtime availability numbers">
   <meta property="og:description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
-  
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/css/select2.min.css" rel="stylesheet" />
+
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
     integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
     crossorigin="" />
@@ -709,6 +714,8 @@
       "Virudhunagar": 10,
     }
 
+    var mymap = L.map("mapid");
+
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ', {
       attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
       maxZoom: 18,
@@ -772,10 +779,8 @@
     }
 
     loadCity("Delhi");
-  </script>
 
-  <script>
-    $("#city").select2({
+     $("#city").select2({
       placeholder: "Select State",
       allowClear: true
     });
