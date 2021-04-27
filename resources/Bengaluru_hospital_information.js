@@ -921,7 +921,7 @@ bengaluru_data=[
     "AVAILABLE_BEDS_TOTAL": 0,
     "TYPE": "Private Hospitals (Government Quota Covid Beds)",
     "LAST_UPDATED": "27 April 2021, 900PM",
-    "LOCATION": "google.com/maps/place/Columbia+Asia+Referral+Hospital+–+Yeshwanthpur/@13.0141378,77.5561526,17z/data=!4m5!3m4!1s0x3bae162a55555555:0x886d228d64097005!8m2!3d13.0141901!4d77.5560668?hl=en"
+    "LOCATION": "https://www.google.com/maps/place/Columbia+Asia+Referral+Hospital+–+Yeshwanthpur/@13.0141378,77.5561526,17z/data=!4m5!3m4!1s0x3bae162a55555555:0x886d228d64097005!8m2!3d13.0141901!4d77.5560668?hl=en"
   },
   {
     "HOSPITAL_NAME": "Comfort Multi Speciality Hospital",
