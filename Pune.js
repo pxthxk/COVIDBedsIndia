@@ -18,7 +18,7 @@ class Pune {
         var oxy_vac = "Available: " + pune_data[i]["AVAILABLE_BEDS_WITH_OXYGEN"] + "<br><br>";
         var icu_occ = "<b>ICU BEDS</b><br>Total: " + pune_data[i]["TOTAL_ICU_BEDS_WITHOUT_VENTILATOR"] + "<br>";
         var icu_vac = "Available: " + pune_data[i]["AVAILABLE_ICU_BEDS_WITHOUT_VENTILATOR"] + "<br><br>";
-        var ven_occ = "<b>ICU BEDS WITH VENTILATOR</b><br>Total: " + pune_data[i]["TOTAL_ICU_BEDS_WITHOUT_VENTILATOR"] + "<br>";
+        var ven_occ = "<b>ICU BEDS WITH VENTILATOR</b><br>Total: " + pune_data[i]["TOTAL_ICU_BEDS_WITH_VENTILATOR"] + "<br>";
         var ven_vac = "Available: " + pune_data[i]["AVAILABLE_ICU_BEDS_WITH_VENTILATOR"] + "<br><br>";
         
         var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + cat + addr + contact + type + loc + last_updated_at + reg_occ + reg_vac + oxy_occ + oxy_vac + icu_occ + icu_vac + ven_occ + ven_vac);
