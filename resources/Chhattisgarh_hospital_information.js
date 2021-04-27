@@ -1,4 +1,4 @@
-chattisgarh_data=[
+chhattisgarh_data=[
   {
     "SNO": 1,
     "DISTRICT": "BALOD",
