@@ -63,6 +63,7 @@ class DelhiHospital {
           return gnctd_covid_facilities_data[hsp_name]["location"].split("/")[7].replace("@", "").split(",");
         }
       } else {
+          console.log(`No location found for ${hsp_name} in Delhi`);
           return ["", ""]
         }
       }
@@ -102,8 +103,10 @@ class Delhi {
         var type = hsp.hsp_type(i);
         var last_updated_at = hsp.last_updated_at(i);
 
-        var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info);
+        if (coord[0] || coord[1]) {
+          var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info);
         mcg.addLayer(marker);
+        }
       }
     }, 2000);
   }
