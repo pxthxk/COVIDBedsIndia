@@ -6287,7 +6287,7 @@ chhattisgarh_data=[
     "LAST_UPDATED_DATE": "27/04/2021",
     "LAST_UPDATED_TIME": "13:06",
     "LOCATION": "https://www.google.com/maps/place/Mahima+Hospital/@22.0722358,81.6979214,17z/data=!4m5!3m4!1s0x3a28391f6709951d:0xa6d0f1f638c4df22!8m2!3d22.0724297!4d81.697621?hl=en",
-    "LAT": "22.0722358,81.6979214",
+    "LAT": 22.0722358,
     "LONG": 81.6979214
   },
   {
