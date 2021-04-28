@@ -9,52 +9,67 @@
   <meta property="og:url" content="https://www.covidbedsindia.in">
   <meta property="og:title" content="COVID Beds in India: Realtime availability numbers">
   <meta property="og:description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
-  
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/css/select2.min.css" rel="stylesheet" />
+
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-  crossorigin=""/>
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin="" />
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
 
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-  integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-  crossorigin=""></script>
-  <script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+  <script type='text/javascript'
+    src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
+
   <style type="text/css">
     body {
       color: #1f3349;
       font-size: 15px;
       line-height: 24px;
-      font-family: 'Open Sans',sans-serif;
+      font-family: 'Open Sans', sans-serif;
       font-weight: 400;
       -webkit-font-smoothing: antialiased;
     }
+
     #dropdown {
       text-align: center;
     }
+
     #dropdown p {
       display: inline-block;
       font-size: 1.5em;
       padding-right: 0.5em;
     }
+
     #dropdown select {
       display: inline-block;
       font-size: 2em;
     }
+
     #disclaimer {
       padding: 10px 20px;
       font-size: 1.4em;
       line-height: 1.4em;
     }
+
     #mapid {
       width: 100%;
       height: 80vh;
     }
+
     .leaflet-popup-content {
       font-size: 1.25em;
       width: 300px !important;
     }
+
     /*.leaflet-container .leaflet-marker-pane img {
       margin-left: -8px !important;
       margin-top: -27px !important;
@@ -62,223 +77,260 @@
       height: 27px !important;
     }*/
     .marker-cluster-small {
-      background-color: rgba(150,150,150,0.5);
+      background-color: rgba(150, 150, 150, 0.5);
     }
+
     .marker-cluster-medium {
-      background-color: rgba(150,150,150,0.5);
+      background-color: rgba(150, 150, 150, 0.5);
     }
+
     .marker-cluster-large {
-      background-color: rgba(150,150,150,0.5);
+      background-color: rgba(150, 150, 150, 0.5);
     }
+
     .marker-cluster-small div {
-      background-color: rgba(150,150,150,0.5);
+      background-color: rgba(150, 150, 150, 0.5);
       color: white;
       font-size: 16px !important;
     }
+
     .marker-cluster-medium div {
-      background-color: rgba(150,150,150,0.5);
+      background-color: rgba(150, 150, 150, 0.5);
       color: white;
       font-size: 16px !important;
     }
+
     .marker-cluster-large div {
-      background-color: rgba(150,150,150,0.5);
+      background-color: rgba(150, 150, 150, 0.5);
       color: white;
       font-size: 14px !important;
     }
+
     .marker-cluster span {
-      line-height: 24px !important;;
+      line-height: 24px !important;
+      ;
     }
+
     .marker-cluster div {
       width: 24px !important;;
       height: 24px !important;;
       margin-left: 4px !important;;
       margin-top: 4px !important;;
     }
+
     .marker-cluster {
       width: 32px !important;
       height: 32px !important;
     }
+
+    .select2-dropdown {
+      left: 8px !important;
+    }
   </style>
 </head>
+
 <body>
   <div id="dropdown">
     <p>Select your city/district: </p>
     <select name="city" id="city" onchange = "cityChanged(this.value)">
-      <option value="Delhi">Delhi</option>
-      <option value="Ahmedabad">Ahmedabad, Gujarat</option>
-      <option value="Ambala">Ambala, Haryana</option>
-      <option value="Bhiwani">Bhiwani, Haryana</option>
-      <option value="Charki Dadri">Charki Dadri, Haryana</option>
-      <option value="Faridabad">Faridabad, Haryana</option>
-      <option value="Fatehabad">Fatehabad, Haryana</option>
-      <option value="Gurugram">Gurugram, Haryana</option>
-      <option value="Hisar">Hisar, Haryana</option>
-      <option value="Jhajjar">Jhajjar, Haryana</option>
-      <option value="Jind">Jind, Haryana</option>
-      <option value="Kaithal">Kaithal, Haryana</option>
-      <option value="Karnal">Karnal, Haryana</option>
-      <option value="Kurukshetra">Kurukshetra, Haryana</option>
-      <option value="Mahendragarh">Mahendragarh, Haryana</option>
-      <option value="Palwal">Palwal, Haryana</option>
-      <option value="Panchkula">Panchkula, Haryana</option>
-      <option value="Panipat">Panipat, Haryana</option>
-      <option value="Rewari">Rewari, Haryana</option>
-      <option value="Rohtak">Rohtak, Haryana</option>
-      <option value="Sirsa">Sirsa, Haryana</option>
-      <option value="Sonipat">Sonipat, Haryana</option>
-      <option value="Yamunanagar">Yamunanagar, Haryana</option>
-      <option value="Bengaluru">Bengaluru, Karnataka</option>
-      <option value="Agar Malwa">Agar Malwa, Madhya Pradesh</option>
-      <option value="Alirajpur">Alirajpur, Madhya Pradesh</option>
-      <option value="Anuppur">Anuppur, Madhya Pradesh</option>
-      <option value="Ashoknagar">Ashoknagar, Madhya Pradesh</option>
-      <option value="Balaghat">Balaghat, Madhya Pradesh</option>
-      <option value="Barwani">Barwani, Madhya Pradesh</option>
-      <option value="Betul">Betul, Madhya Pradesh</option>
-      <option value="Bhind">Bhind, Madhya Pradesh</option>
-      <option value="Bhopal">Bhopal, Madhya Pradesh</option>
-      <option value="Burhanpur">Burhanpur, Madhya Pradesh</option>
-      <option value="Chhatarpur">Chhatarpur, Madhya Pradesh</option>
-      <option value="Chhindwara">Chhindwara, Madhya Pradesh</option>
-      <option value="Damoh">Damoh, Madhya Pradesh</option>
-      <option value="Datia">Datia, Madhya Pradesh</option>
-      <option value="Dewas">Dewas, Madhya Pradesh</option>
-      <option value="Dhar">Dhar, Madhya Pradesh</option>
-      <option value="Dindori">Dindori, Madhya Pradesh</option>
-      <option value="Guna">Guna, Madhya Pradesh</option>
-      <option value="Gwalior">Gwalior, Madhya Pradesh</option>
-      <option value="Harda">Harda, Madhya Pradesh</option>
-      <option value="Hoshangabad">Hoshangabad, Madhya Pradesh</option>
-      <option value="Indore">Indore, Madhya Pradesh</option>
-      <option value="Jabalpur">Jabalpur, Madhya Pradesh</option>
-      <option value="Jhabua">Jhabua, Madhya Pradesh</option>
-      <option value="Katni">Katni, Madhya Pradesh</option>
-      <option value="Khandwa">Khandwa, Madhya Pradesh</option>
-      <option value="Khargone">Khargone, Madhya Pradesh</option>
-      <option value="Mandla">Mandla, Madhya Pradesh</option>
-      <option value="Mandsaur">Mandsaur, Madhya Pradesh</option>
-      <option value="Morena">Morena, Madhya Pradesh</option>
-      <option value="Narsinghpur">Narsinghpur, Madhya Pradesh</option>
-      <option value="Neemuch">Neemuch, Madhya Pradesh</option>
-      <option value="Niwari">Niwari, Madhya Pradesh</option>
-      <option value="Panna">Panna, Madhya Pradesh</option>
-      <option value="Raisen">Raisen, Madhya Pradesh</option>
-      <option value="Rajgarh">Rajgarh, Madhya Pradesh</option>
-      <option value="Ratlam">Ratlam, Madhya Pradesh</option>
-      <option value="Rewa">Rewa, Madhya Pradesh</option>
-      <option value="Sagar">Sagar, Madhya Pradesh</option>
-      <option value="Satna">Satna, Madhya Pradesh</option>
-      <option value="Sehore">Sehore, Madhya Pradesh</option>
-      <option value="Seoni">Seoni, Madhya Pradesh</option>
-      <option value="Shahdol">Shahdol, Madhya Pradesh</option>
-      <option value="Shajapur">Shajapur, Madhya Pradesh</option>
-      <option value="Sheopur">Sheopur, Madhya Pradesh</option>
-      <option value="Shivpuri">Shivpuri, Madhya Pradesh</option>
-      <option value="Sidhi">Sidhi, Madhya Pradesh</option>
-      <option value="Singrauli">Singrauli, Madhya Pradesh</option>
-      <option value="Tikamgarh">Tikamgarh, Madhya Pradesh</option>
-      <option value="Ujjain">Ujjain, Madhya Pradesh</option>
-      <option value="Umaria">Umaria, Madhya Pradesh</option>
-      <option value="Vidisha">Vidisha, Madhya Pradesh</option>
-      <option value="Pune">Pune, Maharashtra</option>
-      <option value="Ariyalur">Ariyalur, Tamil Nadu</option>
-      <option value="Chengalpattu">Chengalpattu, Tamil Nadu</option>
-      <option value="Chengalpet">Chengalpet, Tamil Nadu</option>
-      <option value="Chennai">Chennai, Tamil Nadu</option>
-      <option value="Coimbatore">Coimbatore, Tamil Nadu</option>
-      <option value="Cuddalore">Cuddalore, Tamil Nadu</option>
-      <option value="Dindigul">Dindigul, Tamil Nadu</option>
-      <option value="Erode">Erode, Tamil Nadu</option>
-      <option value="Kallakurichi">Kallakurichi, Tamil Nadu</option>
-      <option value="Kancheepuram">Kancheepuram, Tamil Nadu</option>
-      <option value="Kanyakumari">Kanyakumari, Tamil Nadu</option>
-      <option value="Karur">Karur, Tamil Nadu</option>
-      <option value="Krishnagiri">Krishnagiri, Tamil Nadu</option>
-      <option value="Madurai">Madurai, Tamil Nadu</option>
-      <option value="Mayiladuthurai">Mayiladuthurai, Tamil Nadu</option>
-      <option value="Nagapattinam">Nagapattinam, Tamil Nadu</option>
-      <option value="Namakkal">Namakkal, Tamil Nadu</option>
-      <option value="Perambalur">Perambalur, Tamil Nadu</option>
-      <option value="Pudukkottai">Pudukkottai, Tamil Nadu</option>
-      <option value="Ramanathapuram">Ramanathapuram, Tamil Nadu</option>
-      <option value="Salem">Salem, Tamil Nadu</option>
-      <option value="Sivagangai">Sivagangai, Tamil Nadu</option>
-      <option value="Tenkasi">Tenkasi, Tamil Nadu</option>
-      <option value="Thanjavur">Thanjavur, Tamil Nadu</option>
-      <option value="Theni">Theni, Tamil Nadu</option>
-      <option value="TheNilgiris">TheNilgiris, Tamil Nadu</option>
-      <option value="Thiruchirappalli">Thiruchirappalli, Tamil Nadu</option>
-      <option value="Thiruvarur">Thiruvarur, Tamil Nadu</option>
-      <option value="Thoothukudi">Thoothukudi, Tamil Nadu</option>
-      <option value="Tirunelveli">Tirunelveli, Tamil Nadu</option>
-      <option value="Tiruppur">Tiruppur, Tamil Nadu</option>
-      <option value="Tiruvallur">Tiruvallur, Tamil Nadu</option>
-      <option value="Tiruvannamalai">Tiruvannamalai, Tamil Nadu</option>
-      <option value="Vellore">Vellore, Tamil Nadu</option>
-      <option value="Virudhunagar">Virudhunagar, Tamil Nadu</option>
-      <option value="Adilabad">Adilabad, Telangana</option>
-      <option value="Badradri">Badradri, Telangana</option>
-      <option value="Hyderabad">Hyderabad, Telangana</option>
-      <option value="Jagtial">Jagtial, Telangana</option>
-      <option value="Jangaon">Jangaon, Telangana</option>
-      <option value="Jayashankar">Jayashankar, Telangana</option>
-      <option value="Kamareddy">Kamareddy, Telangana</option>
-      <option value="Karimnagar">Karimnagar, Telangana</option>
-      <option value="Khammam">Khammam, Telangana</option>
-      <option value="Komaram Bheem">Komaram Bheem, Telangana</option>
-      <option value="Mahabubabad">Mahabubabad, Telangana</option>
-      <option value="Mahabubnagar">Mahabubnagar, Telangana</option>
-      <option value="Mancherial">Mancherial, Telangana</option>
-      <option value="Medak">Medak, Telangana</option>
-      <option value="Medchal">Medchal, Telangana</option>
-      <option value="Nagarkurnool">Nagarkurnool, Telangana</option>
-      <option value="Nalgonda">Nalgonda, Telangana</option>
-      <option value="Nirmal">Nirmal, Telangana</option>
-      <option value="Nizamabad">Nizamabad, Telangana</option>
-      <option value="Peddapalli">Peddapalli, Telangana</option>
-      <option value="Rajanna">Rajanna, Telangana</option>
-      <option value="Rangareddy">Rangareddy, Telangana</option>
-      <option value="Sangareddy">Sangareddy, Telangana</option>
-      <option value="Siddipet">Siddipet, Telangana</option>
-      <option value="Suryapet">Suryapet, Telangana</option>
-      <option value="Wanaparthy">Wanaparthy, Telangana</option>
-      <option value="Warangal Rural">Warangal Rural, Telangana</option>
-      <option value="Warangal Urban">Warangal Urban, Telangana</option>
-      <option value="Anantapur">Anantapur, Andhra Pradesh</option>
-      <option value="Chittoor">Chittoor, Andhra Pradesh</option>
-      <option value="East Godavari">East Godavari, Andhra Pradesh</option>
-      <option value="Guntur">Guntur, Andhra Pradesh</option>
-      <option value="Krishna">Krishna, Andhra Pradesh</option>
-      <option value="Kurnool">Kurnool, Andhra Pradesh</option>
-      <option value="Prakasam">Prakasam, Andhra Pradesh</option>
-      <option value="Spsr Nellore">Spsr Nellore, Andhra Pradesh</option>
-      <option value="Srikakulam">Srikakulam, Andhra Pradesh</option>
-      <option value="Vizag">Vizag, Andhra Pradesh</option>
-      <option value="West Godavari">West Godavari, Andhra Pradesh</option>
-      <option value="YSR">YSR, Andhra Pradesh</option>
-      <option value="Kolkata">Kolkata, West Bengal</option>
-      <option value="Alipurduar">Alipurduar, West Bengal</option>
-      <option value="Bankura">Bankura, West Bengal</option>
-      <option value="Birbhum">Birbhum, West Bengal</option>
-      <option value="Coochbehar">Coochbehar, West Bengal</option>
-      <option value="Dakshin Dinajpur">Dakshin Dinajpur, West Bengal</option>
-      <option value="Darjeeling">Darjeeling, West Bengal</option>
-      <option value="Hooghly">Hooghly, West Bengal</option>
-      <option value="Howrah">Howrah, West Bengal</option>
-      <option value="Jalpaiguri">Jalpaiguri, West Bengal</option>
-      <option value="Jhargram">Jhargram, West Bengal</option>
-      <option value="Kalimpong">Kalimpong, West Bengal</option>
-      <option value="Malda">Malda, West Bengal</option>
-      <option value="Murshidabad">Murshidabad, West Bengal</option>
-      <option value="Nadia">Nadia, West Bengal</option>
-      <option value="North 24 Pgs">North 24 Pgs, West Bengal</option>
-      <option value="Paschim Bardhaman">Paschim Bardhaman, West Bengal</option>
-      <option value="Paschim Medinipur">Paschim Medinipur, West Bengal</option>
-      <option value="Purba Burdwan">Purba Burdwan, West Bengal</option>
-      <option value="Purba Mednipur">Purba Mednipur, West Bengal</option>
-      <option value="Purulia">Purulia, West Bengal</option>
-      <option value="South 24 Parganas">South 24 Parganas, West Bengal</option>
-      <option value="Uttar Dinajpur">Uttar Dinajpur, West Bengal</option>
+      <option value="Delhi">Delhi | दिल्ली</option>
+      <optgroup label="Gujarat | ગુજરાત">
+        <option value="Ahmedabad">Ahmedabad | અમદાવાદ</option>
+      </optgroup>
+      <optgroup label="Haryana | हरियाणा">
+        <option value="Ambala">Ambala | अंबाला</option>
+        <option value="Bhiwani">Bhiwani | भिवानी</option>
+        <option value="Charki Dadri">Charki Dadri | Charki Dadri</option>
+        <option value="Faridabad">Faridabad | फरीदाबाद</option>
+        <option value="Fatehabad">Fatehabad | फतेहाबाद</option>
+        <option value="Gurugram">Gurugram | गुरुग्राम</option>
+        <option value="Hisar">Hisar | हिसार</option>
+        <option value="Jhajjar">Jhajjar | झज्जर</option>
+        <option value="Jind">Jind | तड़प</option>
+        <option value="Kaithal">Kaithal | कैथल</option>
+        <option value="Karnal">Karnal | कर्नल</option>
+        <option value="Kurukshetra">Kurukshetra | कुरुक्षेत्र</option>
+        <option value="Mahendragarh">Mahendragarh | महेंद्रगढ़</option>
+        <option value="Palwal">Palwal | पलवल</option>
+        <option value="Panchkula">Panchkula | पंचकुला</option>
+        <option value="Panipat">Panipat | पानीपत</option>
+        <option value="Rewari">Rewari | रेवाड़ी</option>
+        <option value="Rohtak">Rohtak | रोहतक</option>
+        <option value="Sirsa">Sirsa | सिरसा</option>
+        <option value="Sonipat">Sonipat | सोनीपत</option>
+        <option value="Yamunanagar">Yamunanagar | यमुनानगर</option>
+      </optgroup>
+      <optgroup label="Karnataka | ಕರ್ನಾಟಕ">
+        <option value="Bengaluru">Bengaluru | ಬೆಂಗಳೂರು</option>
+      </optgroup>
+      <optgroup label=" Madhya Pradesh |  मध्य प्रदेश">
+        <option value="Agar Malwa">Agar Malwa | आगर मालवा</option>
+        <option value="Alirajpur">Alirajpur | अलीराजपुर</option>
+        <option value="Anuppur">Anuppur | अनूपपुर</option>
+        <option value="Ashoknagar">Ashoknagar | अशोकनगर</option>
+        <option value="Balaghat">Balaghat | बालाघाट</option>
+        <option value="Barwani">Barwani | बरवानी।</option>
+        <option value="Betul">Betul | सही</option>
+        <option value="Bhind">Bhind | भिंड</option>
+        <option value="Bhopal">Bhopal | भोपाल</option>
+        <option value="Burhanpur">Burhanpur | बुरहानपुर</option>
+        <option value="Chhatarpur">Chhatarpur | छतरपुर</option>
+        <option value="Chhindwara">Chhindwara | छिंदवाड़ा</option>
+        <option value="Damoh">Damoh | दमोह</option>
+        <option value="Datia">Datia | दशा</option>
+        <option value="Dewas">Dewas | देवास।</option>
+        <option value="Dhar">Dhar | उधार</option>
+        <option value="Dindori">Dindori | डिंडोरी</option>
+        <option value="Guna">Guna | गुना</option>
+        <option value="Gwalior">Gwalior | ग्वालियर</option>
+        <option value="Harda">Harda | हरदा</option>
+        <option value="Hoshangabad">Hoshangabad | होशंगाबाद</option>
+        <option value="Indore">Indore | इंदौर</option>
+        <option value="Jabalpur">Jabalpur | जबलपुर</option>
+        <option value="Jhabua">Jhabua | झाबुआ</option>
+        <option value="Katni">Katni | कटनी</option>
+        <option value="Khandwa">Khandwa | खंडवा</option>
+        <option value="Khargone">Khargone | खरगोन</option>
+        <option value="Mandla">Mandla | मंडला</option>
+        <option value="Mandsaur">Mandsaur | मंदसौर</option>
+        <option value="Morena">Morena | श्यामला</option>
+        <option value="Narsinghpur">Narsinghpur | नर्सिंघ्पुर</option>
+        <option value="Neemuch">Neemuch | नीमच</option>
+        <option value="Niwari">Niwari | निवारी</option>
+        <option value="Panna">Panna | पन्ना</option>
+        <option value="Raisen">Raisen | रायसेन</option>
+        <option value="Rajgarh">Rajgarh | राजगढ़</option>
+        <option value="Ratlam">Ratlam | रतलाम</option>
+        <option value="Rewa">Rewa | रीवा</option>
+        <option value="Sagar">Sagar | सागर</option>
+        <option value="Satna">Satna | सतना</option>
+        <option value="Sehore">Sehore | सीहोर</option>
+        <option value="Seoni">Seoni | सेनी</option>
+        <option value="Shahdol">Shahdol | शहडोल</option>
+        <option value="Shajapur">Shajapur | शाजापुर</option>
+        <option value="Sheopur">Sheopur | शेओपुर</option>
+        <option value="Shivpuri">Shivpuri | शिवपुरी</option>
+        <option value="Sidhi">Sidhi | सीधी</option>
+        <option value="Singrauli">Singrauli | सिंगराउली</option>
+        <option value="Tikamgarh">Tikamgarh | टीकमगढ़</option>
+        <option value="Ujjain">Ujjain | उज्जैन</option>
+        <option value="Umaria">Umaria | उमरिअ</option>
+        <option value="Vidisha">Vidisha | विदिशा</option>
+      </optgroup>
+
+      <optgroup label="Maharashtra | महाराष्ट्र">
+        <option value="Pune">Pune | पुणे</option>
+      </optgroup>
+
+      <optgroup label="Tamil Nadu | தமிழ்நாடு">
+        <option value="Ariyalur">Ariyalur | அரியலூர்</option>
+        <option value="Chengalpattu">Chengalpattu | செங்கல்பட்டு</option>
+        <option value="Chengalpet">Chengalpet | செங்கல்பெட்</option>
+        <option value="Chennai">Chennai | சென்னை</option>
+        <option value="Coimbatore">Coimbatore | கோயம்புத்தூர்</option>
+        <option value="Cuddalore">Cuddalore | கடலூர்</option>
+        <option value="Dindigul">Dindigul | திண்டுக்கல்</option>
+        <option value="Erode">Erode | ஈரோடு</option>
+        <option value="Kallakurichi">Kallakurichi | கல்லாகூரிச்சி</option>
+        <option value="Kancheepuram">Kancheepuram | காஞ்சிபுரம்</option>
+        <option value="Kanyakumari">Kanyakumari | கன்னியாகுமரி</option>
+        <option value="Karur">Karur | கரூர்</option>
+        <option value="Krishnagiri">Krishnagiri | கிருஷ்ணகிரி</option>
+        <option value="Madurai">Madurai | மதுரை</option>
+        <option value="Mayiladuthurai">Mayiladuthurai | மானுடுரை</option>
+        <option value="Nagapattinam">Nagapattinam | நாகப்பட்டினம்</option>
+        <option value="Namakkal">Namakkal | நாமக்கல்</option>
+        <option value="Perambalur">Perambalur | பெரம்பலூர்</option>
+        <option value="Pudukkottai">Pudukkottai | புதுக்கோட்டை</option>
+        <option value="Ramanathapuram">Ramanathapuram | ராமநாதபுரம்</option>
+        <option value="Salem">Salem | சேலம்</option>
+        <option value="Sivagangai">Sivagangai | Sevgangai.</option>
+        <option value="Tenkasi">Tenkasi | Tossing.</option>
+        <option value="Thanjavur">Thanjavur | தஞ்சாவூர்</option>
+        <option value="Theni">Theni | தேனீ</option>
+        <option value="TheNilgiris">TheNilgiris | தேநீல்கிரிஸ்</option>
+        <option value="Thiruchirappalli">Thiruchirappalli | திருச்சிராப்பள்ளி</option>
+        <option value="Thiruvarur">Thiruvarur | திருவாரூர்</option>
+        <option value="Thoothukudi">Thoothukudi | தூத்துக்குடி</option>
+        <option value="Tirunelveli">Tirunelveli | திருநெல்வேலி</option>
+        <option value="Tiruppur">Tiruppur | திருப்பூர்</option>
+        <option value="Tiruvallur">Tiruvallur | திருவள்ளூர்</option>
+        <option value="Tiruvannamalai">Tiruvannamalai | திருவண்ணாமலை</option>
+        <option value="Vellore">Vellore | வேலூர்</option>
+        <option value="Virudhunagar">Virudhunagar | விருதுநகர்</option>
+      </optgroup>
+      
+      <optgroup label="Telangana | తెలంగాణ">
+        <option value="Adilabad">Adilabad | ఆదిలాబాద్</option>
+        <option value="Badradri">Badradri | బద్రాద్రి</option>
+        <option value="Hyderabad">Hyderabad | హైదరాబాద్</option>
+        <option value="Jagtial">Jagtial | జగిత్యాల</option>
+        <option value="Jangaon">Jangaon | జంగావ్</option>
+        <option value="Jayashankar">Jayashankar | జయశంకర్</option>
+        <option value="Kamareddy">Kamareddy | కామారెడ్డి</option>
+        <option value="Karimnagar">Karimnagar | కరీంనగర్</option>
+        <option value="Khammam">Khammam | ఖమ్మం</option>
+        <option value="Komaram Bheem">Komaram Bheem | కొమరం భీమ్</option>
+        <option value="Mahabubabad">Mahabubabad | మహుబబాబాద్</option>
+        <option value="Mahabubnagar">Mahabubnagar | మహ్బూబ్నగర్</option>
+        <option value="Mancherial">Mancherial</option>
+        <option value="Medak">Medak | మెదక్.</option>
+        <option value="Medchal">Medchal | మెడల్</option>
+        <option value="Nagarkurnool">Nagarkurnool | సిటీ ఫైబర్</option>
+        <option value="Nalgonda">Nalgonda | నల్గొండ</option>
+        <option value="Nirmal">Nirmal | నిర్మాత</option>
+        <option value="Nizamabad">Nizamabad | నిజామాబాదు</option>
+        <option value="Peddapalli">Peddapalli | పెద్దపల్లి</option>
+        <option value="Rajanna">Rajanna | రాజన్న</option>
+        <option value="Rangareddy">Rangareddy | రంగారెడ్డి</option>
+        <option value="Sangareddy">Sangareddy | సంగారెడ్డి</option>
+        <option value="Siddipet">Siddipet | సిద్దిపేట</option>
+        <option value="Suryapet">Suryapet | సూర్యపేట్</option>
+        <option value="Wanaparthy">Wanaparthy | వనపతి</option>
+        <option value="Warangal Rural">Warangal Rural | వరంగల్ గ్రామీణ</option>
+        <option value="Warangal Urban">Warangal Urban | వరంగల్ నగరాల</option>
+      </optgroup>
+
+      <optgroup label="Andhra Pradesh | ఆంధ్ర ప్రదేశ్">
+        <option value="Anantapur">Anantapur | అనంతపురం</option>
+        <option value="Chittoor">Chittoor | చిత్తూరు</option>
+        <option value="East Godavari">East Godavari | తూర్పు గోదావరి</option>
+        <option value="Guntur">Guntur | గుణూర్</option>
+        <option value="Krishna">Krishna | కృష్ణ</option>
+        <option value="Kurnool">Kurnool | కర్నూల్</option>
+        <option value="Prakasam">Prakasam | ప్రకాశం</option>
+        <option value="Spsr Nellore">Spsr Nellore | నెల్లూరు</option>
+        <option value="Srikakulam">Srikakulam | శ్రీకాకుళం</option>
+        <option value="Vizag">Vizag | వైజాగ్</option>
+        <option value="West Godavari">West Godavari | పశ్చిమం గోదావరి</option>
+        <option value="YSR">YSR | వైస్సార్</option>
+      </optgroup>
+      
+      <optgroup label="West Bengal | পশ্চিমবঙ্গ">
+        <option value="Kolkata">Kolkata | কলকাতা</option>
+        <option value="Alipurduar">Alipurduar | আলিপুরদুয়ার</option>
+        <option value="Bankura">Bankura | বাঁকুড়া</option>
+        <option value="Birbhum">Birbhum | বীরভূম</option>
+        <option value="Coochbehar">Coochbehar | কোচবিহার</option>
+        <option value="Dakshin Dinajpur">Dakshin Dinajpur | দক্ষিণে দিনাজপুর</option>
+        <option value="Darjeeling">Darjeeling | দার্জিলিং</option>
+        <option value="Hooghly">Hooghly | হুগলি</option>
+        <option value="Howrah">Howrah | হাওড়া</option>
+        <option value="Jalpaiguri">Jalpaiguri | জলপাইগুড়ি</option>
+        <option value="Jhargram">Jhargram | ঝাড়গ্রাম</option>
+        <option value="Kalimpong">Kalimpong | Kalimpong.</option>
+        <option value="Malda">Malda | প্রার্থনা</option>
+        <option value="Murshidabad">Murshidabad | মুর্শিদাবাদ</option>
+        <option value="Nadia">Nadia | নাদিয়া</option>
+        <option value="North 24 Pgs">North 24 Pgs | উত্তর 24 PGS.</option>
+        <option value="Paschim Bardhaman">Paschim Bardhaman | পশ্চিম বর্ধমান</option>
+        <option value="Paschim Medinipur">Paschim Medinipur | পশ্চিম মেদিনীপুর</option>
+        <option value="Purba Burdwan">Purba Burdwan | প্রাচীনকাল বর্ধমান</option>
+        <option value="Purba Mednipur">Purba Mednipur | প্রাচীনকাল মেদিনীপুর</option>
+        <option value="Purulia">Purulia | পুরুলিয়া</option>
+        <option value="South 24 Parganas">South 24 Parganas | দক্ষিণে 24. পরগনা</option>
+        <option value="Uttar Dinajpur">Uttar Dinajpur | উত্তর দিনাজপুর</option>
+      </optgroup>
     </select>
   </div>
 
@@ -666,6 +718,15 @@
 
     var mymap = L.map("mapid");
 
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ', {
+      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+      maxZoom: 18,
+      id: 'mapbox/streets-v11',
+      tileSize: 512,
+      zoomOffset: -1,
+      accessToken: 'pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ'
+    }).addTo(mymap);
+
     var mcg = L.markerClusterGroup({
       maxClusterRadius: 30
     });
@@ -723,16 +784,22 @@
     }
 
     loadCity("Delhi");
+
+     $("#city").select2({
+      placeholder: "Select State",
+      allowClear: true
+    });
   </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-YHLL5RH0L7"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'G-YHLL5RH0L7');
   </script>
 </body>
+
 </html>
