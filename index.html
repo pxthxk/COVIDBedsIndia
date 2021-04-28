@@ -1,738 +1,218 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>COVID Beds India - covidbedsindia.in</title>
-  <link rel="icon" href="assets/favicon.ico">
-  <meta name="description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
-  <meta name="keywords" content="bed, beds, oxygen, ICU, ventilator, covid, covid19, covid-19, covid19india, coronavirus, corona, india, virus, pandemic, disease, carona, karona, korona">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.covidbedsindia.in">
-  <meta property="og:title" content="COVID Beds in India: Realtime availability numbers">
-  <meta property="og:description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
-  
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-  crossorigin=""/>
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
-
-  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-  integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-  crossorigin=""></script>
-  <script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <style type="text/css">
-    body {
-      color: #1f3349;
-      font-size: 15px;
-      line-height: 24px;
-      font-family: 'Open Sans',sans-serif;
-      font-weight: 400;
-      -webkit-font-smoothing: antialiased;
-    }
-    #dropdown {
-      text-align: center;
-    }
-    #dropdown p {
-      display: inline-block;
-      font-size: 1.5em;
-      padding-right: 0.5em;
-    }
-    #dropdown select {
-      display: inline-block;
-      font-size: 2em;
-    }
-    #disclaimer {
-      padding: 10px 20px;
-      font-size: 1.4em;
-      line-height: 1.4em;
-    }
-    #mapid {
-      width: 100%;
-      height: 80vh;
-    }
-    .leaflet-popup-content {
-      font-size: 1.25em;
-      width: 300px !important;
-    }
-    /*.leaflet-container .leaflet-marker-pane img {
-      margin-left: -8px !important;
-      margin-top: -27px !important;
-      width: 17px !important;
-      height: 27px !important;
-    }*/
-    .marker-cluster-small {
-      background-color: rgba(150,150,150,0.5);
-    }
-    .marker-cluster-medium {
-      background-color: rgba(150,150,150,0.5);
-    }
-    .marker-cluster-large {
-      background-color: rgba(150,150,150,0.5);
-    }
-    .marker-cluster-small div {
-      background-color: rgba(150,150,150,0.5);
-      color: white;
-      font-size: 16px !important;
-    }
-    .marker-cluster-medium div {
-      background-color: rgba(150,150,150,0.5);
-      color: white;
-      font-size: 16px !important;
-    }
-    .marker-cluster-large div {
-      background-color: rgba(150,150,150,0.5);
-      color: white;
-      font-size: 14px !important;
-    }
-    .marker-cluster span {
-      line-height: 24px !important;;
-    }
-    .marker-cluster div {
-      width: 24px !important;;
-      height: 24px !important;;
-      margin-left: 4px !important;;
-      margin-top: 4px !important;;
-    }
-    .marker-cluster {
-      width: 32px !important;
-      height: 32px !important;
-    }
-  </style>
-</head>
-<body>
-  <div id="dropdown">
-    <p>Select your city/district: </p>
-    <select name="city" id="city" onchange = "cityChanged(this.value)">
-      <option value="Delhi">Delhi</option>
-      <option value="Ahmedabad">Ahmedabad, Gujarat</option>
-      <option value="Ambala">Ambala, Haryana</option>
-      <option value="Bhiwani">Bhiwani, Haryana</option>
-      <option value="Charki Dadri">Charki Dadri, Haryana</option>
-      <option value="Faridabad">Faridabad, Haryana</option>
-      <option value="Fatehabad">Fatehabad, Haryana</option>
-      <option value="Gurugram">Gurugram, Haryana</option>
-      <option value="Hisar">Hisar, Haryana</option>
-      <option value="Jhajjar">Jhajjar, Haryana</option>
-      <option value="Jind">Jind, Haryana</option>
-      <option value="Kaithal">Kaithal, Haryana</option>
-      <option value="Karnal">Karnal, Haryana</option>
-      <option value="Kurukshetra">Kurukshetra, Haryana</option>
-      <option value="Mahendragarh">Mahendragarh, Haryana</option>
-      <option value="Palwal">Palwal, Haryana</option>
-      <option value="Panchkula">Panchkula, Haryana</option>
-      <option value="Panipat">Panipat, Haryana</option>
-      <option value="Rewari">Rewari, Haryana</option>
-      <option value="Rohtak">Rohtak, Haryana</option>
-      <option value="Sirsa">Sirsa, Haryana</option>
-      <option value="Sonipat">Sonipat, Haryana</option>
-      <option value="Yamunanagar">Yamunanagar, Haryana</option>
-      <option value="Bengaluru">Bengaluru, Karnataka</option>
-      <option value="Agar Malwa">Agar Malwa, Madhya Pradesh</option>
-      <option value="Alirajpur">Alirajpur, Madhya Pradesh</option>
-      <option value="Anuppur">Anuppur, Madhya Pradesh</option>
-      <option value="Ashoknagar">Ashoknagar, Madhya Pradesh</option>
-      <option value="Balaghat">Balaghat, Madhya Pradesh</option>
-      <option value="Barwani">Barwani, Madhya Pradesh</option>
-      <option value="Betul">Betul, Madhya Pradesh</option>
-      <option value="Bhind">Bhind, Madhya Pradesh</option>
-      <option value="Bhopal">Bhopal, Madhya Pradesh</option>
-      <option value="Burhanpur">Burhanpur, Madhya Pradesh</option>
-      <option value="Chhatarpur">Chhatarpur, Madhya Pradesh</option>
-      <option value="Chhindwara">Chhindwara, Madhya Pradesh</option>
-      <option value="Damoh">Damoh, Madhya Pradesh</option>
-      <option value="Datia">Datia, Madhya Pradesh</option>
-      <option value="Dewas">Dewas, Madhya Pradesh</option>
-      <option value="Dhar">Dhar, Madhya Pradesh</option>
-      <option value="Dindori">Dindori, Madhya Pradesh</option>
-      <option value="Guna">Guna, Madhya Pradesh</option>
-      <option value="Gwalior">Gwalior, Madhya Pradesh</option>
-      <option value="Harda">Harda, Madhya Pradesh</option>
-      <option value="Hoshangabad">Hoshangabad, Madhya Pradesh</option>
-      <option value="Indore">Indore, Madhya Pradesh</option>
-      <option value="Jabalpur">Jabalpur, Madhya Pradesh</option>
-      <option value="Jhabua">Jhabua, Madhya Pradesh</option>
-      <option value="Katni">Katni, Madhya Pradesh</option>
-      <option value="Khandwa">Khandwa, Madhya Pradesh</option>
-      <option value="Khargone">Khargone, Madhya Pradesh</option>
-      <option value="Mandla">Mandla, Madhya Pradesh</option>
-      <option value="Mandsaur">Mandsaur, Madhya Pradesh</option>
-      <option value="Morena">Morena, Madhya Pradesh</option>
-      <option value="Narsinghpur">Narsinghpur, Madhya Pradesh</option>
-      <option value="Neemuch">Neemuch, Madhya Pradesh</option>
-      <option value="Niwari">Niwari, Madhya Pradesh</option>
-      <option value="Panna">Panna, Madhya Pradesh</option>
-      <option value="Raisen">Raisen, Madhya Pradesh</option>
-      <option value="Rajgarh">Rajgarh, Madhya Pradesh</option>
-      <option value="Ratlam">Ratlam, Madhya Pradesh</option>
-      <option value="Rewa">Rewa, Madhya Pradesh</option>
-      <option value="Sagar">Sagar, Madhya Pradesh</option>
-      <option value="Satna">Satna, Madhya Pradesh</option>
-      <option value="Sehore">Sehore, Madhya Pradesh</option>
-      <option value="Seoni">Seoni, Madhya Pradesh</option>
-      <option value="Shahdol">Shahdol, Madhya Pradesh</option>
-      <option value="Shajapur">Shajapur, Madhya Pradesh</option>
-      <option value="Sheopur">Sheopur, Madhya Pradesh</option>
-      <option value="Shivpuri">Shivpuri, Madhya Pradesh</option>
-      <option value="Sidhi">Sidhi, Madhya Pradesh</option>
-      <option value="Singrauli">Singrauli, Madhya Pradesh</option>
-      <option value="Tikamgarh">Tikamgarh, Madhya Pradesh</option>
-      <option value="Ujjain">Ujjain, Madhya Pradesh</option>
-      <option value="Umaria">Umaria, Madhya Pradesh</option>
-      <option value="Vidisha">Vidisha, Madhya Pradesh</option>
-      <option value="Pune">Pune, Maharashtra</option>
-      <option value="Ariyalur">Ariyalur, Tamil Nadu</option>
-      <option value="Chengalpattu">Chengalpattu, Tamil Nadu</option>
-      <option value="Chengalpet">Chengalpet, Tamil Nadu</option>
-      <option value="Chennai">Chennai, Tamil Nadu</option>
-      <option value="Coimbatore">Coimbatore, Tamil Nadu</option>
-      <option value="Cuddalore">Cuddalore, Tamil Nadu</option>
-      <option value="Dindigul">Dindigul, Tamil Nadu</option>
-      <option value="Erode">Erode, Tamil Nadu</option>
-      <option value="Kallakurichi">Kallakurichi, Tamil Nadu</option>
-      <option value="Kancheepuram">Kancheepuram, Tamil Nadu</option>
-      <option value="Kanyakumari">Kanyakumari, Tamil Nadu</option>
-      <option value="Karur">Karur, Tamil Nadu</option>
-      <option value="Krishnagiri">Krishnagiri, Tamil Nadu</option>
-      <option value="Madurai">Madurai, Tamil Nadu</option>
-      <option value="Mayiladuthurai">Mayiladuthurai, Tamil Nadu</option>
-      <option value="Nagapattinam">Nagapattinam, Tamil Nadu</option>
-      <option value="Namakkal">Namakkal, Tamil Nadu</option>
-      <option value="Perambalur">Perambalur, Tamil Nadu</option>
-      <option value="Pudukkottai">Pudukkottai, Tamil Nadu</option>
-      <option value="Ramanathapuram">Ramanathapuram, Tamil Nadu</option>
-      <option value="Salem">Salem, Tamil Nadu</option>
-      <option value="Sivagangai">Sivagangai, Tamil Nadu</option>
-      <option value="Tenkasi">Tenkasi, Tamil Nadu</option>
-      <option value="Thanjavur">Thanjavur, Tamil Nadu</option>
-      <option value="Theni">Theni, Tamil Nadu</option>
-      <option value="TheNilgiris">TheNilgiris, Tamil Nadu</option>
-      <option value="Thiruchirappalli">Thiruchirappalli, Tamil Nadu</option>
-      <option value="Thiruvarur">Thiruvarur, Tamil Nadu</option>
-      <option value="Thoothukudi">Thoothukudi, Tamil Nadu</option>
-      <option value="Tirunelveli">Tirunelveli, Tamil Nadu</option>
-      <option value="Tiruppur">Tiruppur, Tamil Nadu</option>
-      <option value="Tiruvallur">Tiruvallur, Tamil Nadu</option>
-      <option value="Tiruvannamalai">Tiruvannamalai, Tamil Nadu</option>
-      <option value="Vellore">Vellore, Tamil Nadu</option>
-      <option value="Virudhunagar">Virudhunagar, Tamil Nadu</option>
-      <option value="Adilabad">Adilabad, Telangana</option>
-      <option value="Badradri">Badradri, Telangana</option>
-      <option value="Hyderabad">Hyderabad, Telangana</option>
-      <option value="Jagtial">Jagtial, Telangana</option>
-      <option value="Jangaon">Jangaon, Telangana</option>
-      <option value="Jayashankar">Jayashankar, Telangana</option>
-      <option value="Kamareddy">Kamareddy, Telangana</option>
-      <option value="Karimnagar">Karimnagar, Telangana</option>
-      <option value="Khammam">Khammam, Telangana</option>
-      <option value="Komaram Bheem">Komaram Bheem, Telangana</option>
-      <option value="Mahabubabad">Mahabubabad, Telangana</option>
-      <option value="Mahabubnagar">Mahabubnagar, Telangana</option>
-      <option value="Mancherial">Mancherial, Telangana</option>
-      <option value="Medak">Medak, Telangana</option>
-      <option value="Medchal">Medchal, Telangana</option>
-      <option value="Nagarkurnool">Nagarkurnool, Telangana</option>
-      <option value="Nalgonda">Nalgonda, Telangana</option>
-      <option value="Nirmal">Nirmal, Telangana</option>
-      <option value="Nizamabad">Nizamabad, Telangana</option>
-      <option value="Peddapalli">Peddapalli, Telangana</option>
-      <option value="Rajanna">Rajanna, Telangana</option>
-      <option value="Rangareddy">Rangareddy, Telangana</option>
-      <option value="Sangareddy">Sangareddy, Telangana</option>
-      <option value="Siddipet">Siddipet, Telangana</option>
-      <option value="Suryapet">Suryapet, Telangana</option>
-      <option value="Wanaparthy">Wanaparthy, Telangana</option>
-      <option value="Warangal Rural">Warangal Rural, Telangana</option>
-      <option value="Warangal Urban">Warangal Urban, Telangana</option>
-      <option value="Anantapur">Anantapur, Andhra Pradesh</option>
-      <option value="Chittoor">Chittoor, Andhra Pradesh</option>
-      <option value="East Godavari">East Godavari, Andhra Pradesh</option>
-      <option value="Guntur">Guntur, Andhra Pradesh</option>
-      <option value="Krishna">Krishna, Andhra Pradesh</option>
-      <option value="Kurnool">Kurnool, Andhra Pradesh</option>
-      <option value="Prakasam">Prakasam, Andhra Pradesh</option>
-      <option value="Spsr Nellore">Spsr Nellore, Andhra Pradesh</option>
-      <option value="Srikakulam">Srikakulam, Andhra Pradesh</option>
-      <option value="Vizag">Vizag, Andhra Pradesh</option>
-      <option value="West Godavari">West Godavari, Andhra Pradesh</option>
-      <option value="YSR">YSR, Andhra Pradesh</option>
-      <option value="Kolkata">Kolkata, West Bengal</option>
-      <option value="Alipurduar">Alipurduar, West Bengal</option>
-      <option value="Bankura">Bankura, West Bengal</option>
-      <option value="Birbhum">Birbhum, West Bengal</option>
-      <option value="Coochbehar">Coochbehar, West Bengal</option>
-      <option value="Dakshin Dinajpur">Dakshin Dinajpur, West Bengal</option>
-      <option value="Darjeeling">Darjeeling, West Bengal</option>
-      <option value="Hooghly">Hooghly, West Bengal</option>
-      <option value="Howrah">Howrah, West Bengal</option>
-      <option value="Jalpaiguri">Jalpaiguri, West Bengal</option>
-      <option value="Jhargram">Jhargram, West Bengal</option>
-      <option value="Kalimpong">Kalimpong, West Bengal</option>
-      <option value="Malda">Malda, West Bengal</option>
-      <option value="Murshidabad">Murshidabad, West Bengal</option>
-      <option value="Nadia">Nadia, West Bengal</option>
-      <option value="North 24 Pgs">North 24 Pgs, West Bengal</option>
-      <option value="Paschim Bardhaman">Paschim Bardhaman, West Bengal</option>
-      <option value="Paschim Medinipur">Paschim Medinipur, West Bengal</option>
-      <option value="Purba Burdwan">Purba Burdwan, West Bengal</option>
-      <option value="Purba Mednipur">Purba Mednipur, West Bengal</option>
-      <option value="Purulia">Purulia, West Bengal</option>
-      <option value="South 24 Parganas">South 24 Parganas, West Bengal</option>
-      <option value="Uttar Dinajpur">Uttar Dinajpur, West Bengal</option>
-    </select>
-  </div>
-
-  <div id="disclaimer">NOTE: The number in the circle represents the number of hospitals in the area and <b>NOT the number of beds</b>. Please click on the blue marker to get the bed availability details.</div>
-  <div id="mapid"></div>
-
-  <script src="resources/Delhi_missing_hospital_locations.js"></script>
-  <script src="resources/Ahmedabad_info.js"></script>
-  <script src="resources/Bengaluru_info.js"></script>
-  <script src="resources/Pune_info.js"></script>
-  <script src="resources/Andhra_Pradesh_info.js"></script>
-  <script src="resources/Chhattisgarh_info.js"></script>
-  <script src="resources/Haryana_info.js"></script>
-  <script src="resources/Madhya_Pradesh_info.js"></script>
-  <script src="resources/Tamil_Nadu_info.js"></script>
-  <script src="resources/Telangana_info.js"></script>
-  <script src="resources/West_Bengal_info.js"></script>
-  <script src="src/Delhi.js"></script>
-  <script src="src/Ahmedabad.js"></script>
-  <script src="src/Bengaluru.js"></script>
-  <script src="src/Pune.js"></script>
-  <script src="src/Andhra_Pradesh.js"></script>
-  <script src="src/Chhattisgarh.js"></script>
-  <script src="src/Haryana.js"></script>
-  <script src="src/Madhya_Pradesh.js"></script>
-  <script src="src/Tamil_Nadu.js"></script>
-  <script src="src/Telangana.js"></script>
-  <script src="src/West_Bengal.js"></script>
-  <script type="text/javascript">
-    latlong = {
-      "Delhi": [28.6466773,77.182488],
-      "Ahmedabad": [23.0324082,72.5842058],
-      "Bengaluru": [12.9533282,77.5876808],
-      "Pune": [18.5164779,73.8567876],
-      "Ambala": [30.372128,76.7774268],
-      "Bhiwani": [28.7991128,76.1305033],
-      "Charki Dadri": [28.5934121,76.2629269],
-      "Faridabad": [28.4031806,77.3290282],
-      "Fatehabad": [29.5051287,75.4503522],
-      "Gurugram": [28.4219801,76.9924859],
-      "Hisar": [29.1506259,75.7239508],
-      "Jhajjar": [28.6053703,76.656312],
-      "Jind": [29.3097452,76.307773],
-      "Kaithal": [29.793866,76.3988393],
-      "Karnal": [29.6856134,76.9767585],
-      "Kurukshetra": [29.9696488,76.8812145],
-      "Mahendragarh": [28.26352,76.144021],
-      "Palwal": [28.1441541,77.3246723],
-      "Panchkula": [30.7020434,76.8516057],
-      "Panipat": [29.3908091,76.9685817],
-      "Rewari": [28.1982391,76.6154261],
-      "Rohtak": [28.8870516,76.605348],
-      "Sirsa": [29.5351127,75.0310929],
-      "Sonipat": [28.9476949,77.0766424],
-      "Yamunanagar": [30.1310208,77.2645472],
-      "Adilabad": [19.6618588,78.5351437],
-      "Badradri": [17.6276612,80.7789769],
-      "Hyderabad": [17.4086963,78.4581602],
-      "Jagtial": [18.7894372,78.9184211],
-      "Jangaon": [17.728075,79.1593583],
-      "Jayashankar": [18.4292109,79.8533664],
-      "Kamareddy": [18.321426,78.3372186],
-      "Karimnagar": [18.4330919,79.1336625],
-      "Khammam": [17.2472866,80.1470011],
-      "Komaram Bheem": [19.3445087,79.4778865],
-      "Mahabubabad": [17.5992483,79.9996786],
-      "Mahabubnagar": [16.7441648,78.0064696],
-      "Mancherial": [18.8804315,79.4566649],
-      "Medak": [18.0499535,78.2710194],
-      "Medchal": [17.6308651,78.4853853],
-      "Nagarkurnool": [16.4915205,78.3066414],
-      "Nalgonda": [17.0538242,79.2706484],
-      "Nirmal": [19.0901111,78.3449433],
-      "Nizamabad": [18.6798212,78.0891461],
-      "Peddapalli": [18.6077274,79.3828338],
-      "Rajanna": [18.3886556,78.8150803],
-      "Rangareddy": [17.2512509,78.1023499],
-      "Sangareddy": [17.6114635,78.0797088],
-      "Siddipet": [18.1015989,78.8471709],
-      "Suryapet": [16.9999412,79.9584367],
-      "Wanaparthy": [16.3559253,78.0596636],
-      "Warangal Rural": [16.3559253,78.0596636],
-      "Warangal Urban": [17.9997004,79.5684808],
-      "Anantapur": [14.2998871,77.4833238],
-      "Chittoor": [13.208426,79.0118872],
-      "East Godavari": [16.9952507,81.8335035],
-      "Guntur": [15.948729,80.0770085],
-      "Krishna": [16.1578901,80.7317983],
-      "Kurnool": [15.1767067,77.8898704],
-      "Prakasam": [15.3088069,79.5812711],
-      "Spsr Nellore": [14.1353143,79.7618745],
-      "Srikakulam": [18.2734803,84.14237],
-      "Vizag": [17.5670033,82.6582013],
-      "West Godavari": [16.6741789,81.4248735],
-      "YSR": [14.2081563,78.8117276],
-      "Kolkata": [22.639634,88.3502869],
-      "Alipurduar": [26.4805605,89.5370466],
-      "Bankura": [23.2247826,87.0627024],
-      "Birbhum": [23.7335789,87.7285189],
-      "Coochbehar": [26.3168082,89.4473167],
-      "Dakshin Dinajpur": [25.161314,88.5545508],
-      "Darjeeling": [27.0176695,88.2682793],
-      "Hooghly": [22.7366766,88.1077925],
-      "Howrah": [22.531689,88.2123297],
-      "Jalpaiguri": [26.5077935,88.6870474],
-      "Jhargram": [22.4277834,87.0102692],
-      "Kalimpong": [27.0347134,88.4796482],
-      "Malda": [25.0683516,88.1116812],
-      "Murshidabad": [24.1631151,88.2733434],
-      "Nadia": [23.210411,88.5574794],
-      "North 24 Pgs": [22.338556,88.8390175],
-      "Paschim Bardhaman": [23.0654447,87.8902026],
-      "Paschim Medinipur": [22.0100446,87.3564164],
-      "Purba Burdwan": [23.1959718,87.8762049],
-      "Purba Mednipur": [22.0367965,87.7705533],
-      "Purulia": [23.3035492,86.3642758],
-      "South 24 Parganas": [21.7161411,88.5705683],
-      "Uttar Dinajpur": [25.5981415,88.3278881],
-      "Agar Malwa": [23.7047751,76.0174849],
-      "Alirajpur": [22.3013058,74.3551683],
-      "Anuppur": [23.0015526,81.6122353],
-      "Ashoknagar": [24.5601385,77.8640313],
-      "Balaghat": [21.6487823,80.3297566],
-      "Barwani": [21.6814418,74.9146487],
-      "Betul": [21.5833668,77.8730167],
-      "Bhind": [26.3353391,78.7350381],
-      "Bhopal": [23.1782034,77.3804754],
-      "Burhanpur": [21.2621596,76.3494025],
-      "Chhatarpur": [24.5673561,79.7342595],
-      "Chhindwara": [21.8619493,78.9316269],
-      "Damoh": [23.5485494,79.4439326],
-      "Datia": [25.8766699,78.5488101],
-      "Dewas": [22.5605161,76.3471646],
-      "Dhar": [22.2810923,75.0958889],
-      "Dindori": [22.9017968,80.9914275],
-      "Guna": [24.3310555,77.1429218],
-      "Gwalior": [26.2142929,78.1713271],
-      "Harda": [22.2271966,77.0600864],
-      "Hoshangabad": [22.5401393,77.9005775],
-      "Indore": [22.7218991,75.8477112],
-      "Jabalpur": [23.1734703,79.9584507],
-      "Jhabua": [22.8124306,74.6487851],
-      "Katni": [23.6861051,80.3967638],
-      "Khandwa": [21.9705755,76.4713898],
-      "Khargone": [21.6250793,75.8403997],
-      "Mandla": [22.3016509,80.4792372],
-      "Mandsaur": [24.2590715,75.3360183],
-      "Morena": [26.395531,77.8872875],
-      "Narsinghpur": [22.8469566,79.0779011],
-      "Neemuch": [24.6011894,75.1014944],
-      "Niwari": [25.3598195,78.8015091],
-      "Panna": [24.3065037,80.2806879],
-      "Raisen": [23.2584907,77.8359258],
-      "Rajgarh": [23.8646111,76.6486925],
-      "Ratlam": [23.5020242,75.1027089],
-      "Rewa": [24.7540281,81.5562963],
-      "Sagar": [23.8028835,78.6163918],
-      "Satna": [24.5793452,80.7474505],
-      "Sehore": [23.1115425,77.1336161],
-      "Seoni": [22.1899446,79.6312739],
-      "Shahdol": [23.643537,81.4647114],
-      "Shajapur": [23.3927851,76.5249609],
-      "Sheopur": [25.7506366,77.0823181],
-      "Shivpuri": [25.2343036,77.9064261],
-      "Sidhi": [24.1873905,81.822973],
-      "Singrauli": [24.2283826,82.3680618],
-      "Tikamgarh": [24.7487367,78.815832],
-      "Ujjain": [23.1689159,75.7848602],
-      "Umaria": [23.6084813,80.8867641],
-      "Vidisha": [23.8660483,77.7630662],
-      "Ariyalur": [11.0730265,79.2979303],
-      "Chengalpattu": [12.6673619,79.9906107],
-      "Chengalpet": [12.6673619,79.9906107],
-      "Chennai": [13.041133,80.199388],
-      "Coimbatore": [11.0118701,76.8971945],
-      "Cuddalore": [11.5183343,79.3368821],
-      "Dindigul": [10.4039652,77.7581924],
-      "Erode": [11.4908871,77.3531325],
-      "Kallakurichi": [11.7352646,78.9624254],
-      "Kancheepuram": [12.648379,79.9066952],
-      "Kanyakumari": [8.3261366,77.3186804],
-      "Karur": [10.828612,78.1100789],
-      "Krishnagiri": [12.5099431,78.0496546],
-      "Madurai": [9.9170741,78.121793],
-      "Mayiladuthurai": [11.1026335,79.6508519],
-      "Nagapattinam": [10.8293421,79.7137003],
-      "Namakkal": [11.3040767,78.0875269],
-      "Perambalur": [11.279764,78.8769422],
-      "Pudukkottai": [10.2926616,78.8410246],
-      "Ramanathapuram": [9.4722941,78.6666509],
-      "Salem": [11.5969447,78.1757148],
-      "Sivagangai": [9.922224,78.6402117],
-      "Tenkasi": [8.9583979,77.313534],
-      "Thanjavur": [10.6784073,79.2540597],
-      "Theni": [9.8646065,77.4556597],
-      "TheNilgiris": [11.3978824,76.5910591],
-      "Thiruchirappalli": [10.8568547,78.5304504],
-      "Thiruvarur": [10.5947106,79.5894527],
-      "Thoothukudi": [8.8471924,78.0227476],
-      "Tirunelveli": [8.6782371,77.5821117],
-      "Tiruppur": [10.8139226,77.3062108],
-      "Tiruvallur": [13.2428793,80.0943502],
-      "Tiruvannamalai": [12.4274754,79.1375182],
-      "Vellore": [12.9008054,79.1444322],
-      "Virudhunagar": [9.4653822,77.9079651],
-    }
-
-    zoomFactor = {
-      "Delhi": 11,
-      "Ahmedabad": 12,
-      "Bengaluru": 11,
-      "Pune": 11,
-      "Ambala": 14,
-      "Bhiwani": 14,
-      "Charki Dadri": 14,
-      "Faridabad": 12,
-      "Fatehabad": 14,
-      "Gurugram": 12,
-      "Hisar": 14,
-      "Jhajjar": 14,
-      "Jind": 14,
-      "Kaithal": 14,
-      "Karnal": 14,
-      "Kurukshetra": 13,
-      "Mahendragarh": 14,
-      "Palwal": 14,
-      "Panchkula": 13,
-      "Panipat": 12,
-      "Rewari": 14,
-      "Rohtak": 14,
-      "Sirsa": 14,
-      "Sonipat": 12,
-      "Yamunanagar": 13,
-      "Adilabad": 14,
-      "Badradri": 12,
-      "Hyderabad": 11,
-      "Jagtial": 14,
-      "Jangaon": 14,
-      "Jayashankar": 14,
-      "Kamareddy": 14,
-      "Karimnagar": 14,
-      "Khammam": 14,
-      "Komaram Bheem": 14,
-      "Mahabubabad": 14,
-      "Mahabubnagar": 14,
-      "Mancherial": 14,
-      "Medak": 14,
-      "Medchal": 14,
-      "Nagarkurnool": 14,
-      "Nalgonda": 14,
-      "Nirmal": 14,
-      "Nizamabad": 14,
-      "Peddapalli": 14,
-      "Rajanna": 14,
-      "Rangareddy": 10,
-      "Sangareddy": 14,
-      "Siddipet": 14,
-      "Suryapet": 14,
-      "Wanaparthy": 14,
-      "Warangal Rural": 11,
-      "Warangal Urban": 13,
-      "Anantapur": 9,
-      "Chittoor": 9,
-      "East Godavari": 9,
-      "Guntur": 9,
-      "Krishna": 9,
-      "Kurnool": 9,
-      "Prakasam": 9,
-      "Spsr Nellore": 9,
-      "Srikakulam": 9,
-      "Vizag": 9,
-      "West Godavari": 9,
-      "YSR": 9,
-      "Kolkata": 10,
-      "Alipurduar": 12,
-      "Bankura": 12,
-      "Birbhum": 11,
-      "Coochbehar": 12,
-      "Dakshin Dinajpur": 12,
-      "Darjeeling": 12,
-      "Hooghly": 10,
-      "Howrah": 11,
-      "Jalpaiguri": 11,
-      "Jhargram": 11,
-      "Kalimpong": 12,
-      "Malda": 10,
-      "Murshidabad": 11,
-      "Nadia": 10,
-      "North 24 Pgs": 12,
-      "Paschim Bardhaman": 11,
-      "Paschim Medinipur": 10,
-      "Purba Burdwan": 12,
-      "Purba Mednipur": 10,
-      "Purulia": 12,
-      "South 24 Parganas": 10,
-      "Uttar Dinajpur": 11,
-      "Agar Malwa": 14,
-      "Alirajpur": 15,
-      "Anuppur": 10,
-      "Ashoknagar": 10,
-      "Balaghat": 9,
-      "Barwani": 10,
-      "Betul": 9,
-      "Bhind": 10,
-      "Bhopal": 11,
-      "Burhanpur": 10,
-      "Chhatarpur": 9,
-      "Chhindwara": 9,
-      "Damoh": 9,
-      "Datia": 10,
-      "Dewas": 9,
-      "Dhar": 9,
-      "Dindori": 10,
-      "Guna": 9,
-      "Gwalior": 12,
-      "Harda": 10,
-      "Hoshangabad": 10,
-      "Indore": 12,
-      "Jabalpur": 13,
-      "Jhabua": 10,
-      "Katni": 10,
-      "Khandwa": 10,
-      "Khargone": 9,
-      "Mandla": 9,
-      "Mandsaur": 10,
-      "Morena": 10,
-      "Narsinghpur": 10,
-      "Neemuch": 10,
-      "Niwari": 14,
-      "Panna": 9,
-      "Raisen": 10,
-      "Rajgarh": 10,
-      "Ratlam": 10,
-      "Rewa": 10,
-      "Sagar": 9,
-      "Satna": 10,
-      "Sehore": 10,
-      "Seoni": 9,
-      "Shahdol": 9,
-      "Shajapur": 10,
-      "Sheopur": 10,
-      "Shivpuri": 9,
-      "Sidhi": 10,
-      "Singrauli": 10,
-      "Tikamgarh": 14,
-      "Ujjain": 13,
-      "Umaria": 10,
-      "Vidisha": 10,
-      "Ariyalur": 10,
-      "Chengalpattu": 13,
-      "Chengalpet": 13,
-      "Chennai": 11,
-      "Coimbatore": 12,
-      "Cuddalore": 10,
-      "Dindigul": 10,
-      "Erode": 10,
-      "Kallakurichi": 14,
-      "Kancheepuram": 10,
-      "Kanyakumari": 11,
-      "Karur": 10,
-      "Krishnagiri": 10,
-      "Madurai": 13,
-      "Mayiladuthurai": 13,
-      "Nagapattinam": 10,
-      "Namakkal": 10,
-      "Perambalur": 11,
-      "Pudukkottai": 10,
-      "Ramanathapuram": 10,
-      "Salem": 10,
-      "Sivagangai": 10,
-      "Tenkasi": 15,
-      "Thanjavur": 10,
-      "Theni": 10,
-      "TheNilgiris": 10,
-      "Thiruchirappalli": 10,
-      "Thiruvarur": 10,
-      "Thoothukudi": 10,
-      "Tirunelveli": 10,
-      "Tiruppur": 10,
-      "Tiruvallur": 11,
-      "Tiruvannamalai": 10,
-      "Vellore": 12,
-      "Virudhunagar": 10,
-    }
-
-    var mymap = L.map("mapid");
-
-    var mcg = L.markerClusterGroup({
-      maxClusterRadius: 30
-    });
-
-    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ', {
-      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-      maxZoom: 18,
-      id: 'mapbox/streets-v11',
-      tileSize: 512,
-      zoomOffset: -1,
-      accessToken: 'pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ'
-    }).addTo(mymap);
-
-    var delhi = new Delhi();
-    delhi.populate(mcg);
-
-    var ahmedabad = new Ahmedabad();
-    ahmedabad.populate(mcg);
-
-    var bengaluru = new Bengaluru();
-    bengaluru.populate(mcg);
-
-    var pune = new Pune();
-    pune.populate(mcg);
-
-    var andhrapradesh = new Andhra_Pradesh();
-    andhrapradesh.populate(mcg);
-
-    var chhattisgarh = new Chhattisgarh();
-    chhattisgarh.populate(mcg);
-
-    var haryana = new Haryana();
-    haryana.populate(mcg);
-
-    var madhyapradesh = new Madhya_Pradesh();
-    madhyapradesh.populate(mcg);
-
-    var tamilnadu = new Tamil_Nadu();
-    tamilnadu.populate(mcg);
-
-    var telangana = new Telangana();
-    telangana.populate(mcg);
-
-    var westbengal = new West_Bengal();
-    westbengal.populate(mcg);
-
-    mymap.addLayer(mcg);
-
-    function loadCity(cityName) {
-      mymap.setView(latlong[cityName], zoomFactor[cityName]);
-    }
-
-    function cityChanged(newvalue) {
-      loadCity(newvalue);
-    }
-
-    loadCity("Delhi");
-  </script>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YHLL5RH0L7"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-YHLL5RH0L7');
-  </script>
-</body>
+	<head>
+		<title>COVID Beds India - covidbedsindia.in</title>
+		<link rel="icon" href="assets/favicon.ico">
+		<meta name="description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
+		<meta name="keywords" content="bed, beds, oxygen, ICU, ventilator, covid, covid19, covid-19, covid19india, coronavirus, corona, india, virus, pandemic, disease, carona, karona, korona">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://www.covidbedsindia.in">
+		<meta property="og:title" content="COVID Beds in India: Realtime availability numbers">
+		<meta property="og:description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+		<script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+		<style type="text/css">
+			body {
+				color: #1f3349;
+				font-size: 15px;
+				line-height: 24px;
+				font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+				font-weight: 400;
+				-webkit-font-smoothing: antialiased;
+			}
+			#pointers {
+				max-width: 1024px;
+				margin: 1em auto;
+			}
+			#dropdown {
+				text-align: center;
+				padding-bottom: 1em;
+			}
+			#dropdown select {
+				font-size: 1.25em;
+			}
+			#mapid {
+				width: 100%;
+				height: 70vh;
+			}
+			.leaflet-popup-content {
+				font-size: 1.25em;
+				width: 300px !important;
+			}
+			.marker-cluster-small {
+				background-color: rgba(150,150,150,0.5);
+			}
+			.marker-cluster-medium {
+				background-color: rgba(150,150,150,0.5);
+			}
+			.marker-cluster-large {
+				background-color: rgba(150,150,150,0.5);
+			}
+			.marker-cluster-small div {
+				background-color: rgba(150,150,150,0.5);
+				color: white;
+				font-size: 16px !important;
+			}
+			.marker-cluster-medium div {
+				background-color: rgba(150,150,150,0.5);
+				color: white;
+				font-size: 16px !important;
+			}
+			.marker-cluster-large div {
+				background-color: rgba(150,150,150,0.5);
+				color: white;
+				font-size: 14px !important;
+			}
+			.marker-cluster span {
+				line-height: 24px !important;;
+			}
+			.marker-cluster div {
+				width: 24px !important;;
+				height: 24px !important;;
+				margin-left: 4px !important;;
+				margin-top: 4px !important;;
+			}
+			.marker-cluster {
+				width: 32px !important;
+				height: 32px !important;
+			}
+			@media only screen and (max-width: 768px) {
+				#pointers {
+					max-width: 90%;
+					margin: 1em auto;
+					font-size: 2em;
+					line-height: 1.5em
+				}
+				#pointers h4 {
+					font-size: 1.5em;
+				}
+				#dropdown {
+					font-size: 1.5em;
+				}
+				#mapid {
+					height: 70vh;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container responsive" id="pointers">
+			<h4>NOTE</h4>
+			<ul class="list-group list-group-flush">
+				<li>The number in the circle represents the number of hospitals in the area and <b>NOT the number of beds</b>.</li>
+				<li>To get bed availability details, click on the <b>blue marker</b>.</li>
+				<li>We use government data to get the hospital status and numbers. The actual number of availability of beds may differ. <b>Please contact the hospital prior visiting.</b>
+				</li>
+				<li>The list of all data sources is available <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">here</a>. To report issues, please reach out us on <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">GitHub</a> or <a href="https://twitter.com/covidbedsindia" target="_blank">Twitter</a>.</li>
+			</ul>
+		</div>
+		<div id="dropdown">
+			<select name="city" id="city" onchange="cityChanged(this.value)">
+				<option value="">SELECT YOUR CITY/DISTRICT</option>
+			</select>
+		</div>
+		<div id="mapid"></div>
+		<script src="resources/Locations.js"></script>
+		<script src="resources/Delhi_missing_hospital_locations.js"></script>
+		<script src="resources/Ahmedabad_info.js"></script>
+		<script src="resources/Bengaluru_info.js"></script>
+		<script src="resources/Pune_info.js"></script>
+		<script src="resources/Andhra_Pradesh_info.js"></script>
+		<script src="resources/Chhattisgarh_info.js"></script>
+		<script src="resources/Haryana_info.js"></script>
+		<script src="resources/Madhya_Pradesh_info.js"></script>
+		<script src="resources/Tamil_Nadu_info.js"></script>
+		<script src="resources/Telangana_info.js"></script>
+		<script src="resources/West_Bengal_info.js"></script>
+		<script src="src/Delhi.js"></script>
+		<script src="src/Ahmedabad.js"></script>
+		<script src="src/Bengaluru.js"></script>
+		<script src="src/Pune.js"></script>
+		<script src="src/Andhra_Pradesh.js"></script>
+		<script src="src/Chhattisgarh.js"></script>
+		<script src="src/Haryana.js"></script>
+		<script src="src/Madhya_Pradesh.js"></script>
+		<script src="src/Tamil_Nadu.js"></script>
+		<script src="src/Telangana.js"></script>
+		<script src="src/West_Bengal.js"></script>
+		<script type="text/javascript">
+			function loadCity(cityName) {
+				mymap.setView(latlong[cityName], zoomFactor[cityName]);
+			}
+			
+			function cityChanged(newvalue) {
+				loadCity(newvalue);
+			}
+			
+			var dropdown = document.getElementById("city");
+			for (var i=0; i<locations.length; i++) {
+			  dropdown.innerHTML = dropdown.innerHTML + "<option value='" + locations[i].key + "'>" + locations[i].value + "</option>";
+			}
+			
+			var mymap = L.map("mapid");
+			
+			var mcg = L.markerClusterGroup({
+				maxClusterRadius: 30
+			});
+			
+			L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ', {
+				attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+				maxZoom: 18,
+				id: 'mapbox/streets-v11',
+				tileSize: 512,
+				zoomOffset: -1,
+				accessToken: 'pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ'
+			}).addTo(mymap);
+			
+			var delhi = new Delhi();
+			delhi.populate(mcg);
+			
+			var ahmedabad = new Ahmedabad();
+			ahmedabad.populate(mcg);
+			
+			var bengaluru = new Bengaluru();
+			bengaluru.populate(mcg);
+			
+			var pune = new Pune();
+			pune.populate(mcg);
+			
+			var andhrapradesh = new Andhra_Pradesh();
+			andhrapradesh.populate(mcg);
+			
+			var chhattisgarh = new Chhattisgarh();
+			chhattisgarh.populate(mcg);
+			
+			var haryana = new Haryana();
+			haryana.populate(mcg);
+			
+			var madhyapradesh = new Madhya_Pradesh();
+			madhyapradesh.populate(mcg);
+			
+			var tamilnadu = new Tamil_Nadu();
+			tamilnadu.populate(mcg);
+			
+			var telangana = new Telangana();
+			telangana.populate(mcg);
+			
+			var westbengal = new West_Bengal();
+			westbengal.populate(mcg);
+			
+			mymap.addLayer(mcg);
+			
+			loadCity("Delhi");
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-YHLL5RH0L7"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			
+			gtag('config', 'G-YHLL5RH0L7');
+		</script>
+	</body>
 </html>
