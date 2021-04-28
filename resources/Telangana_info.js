@@ -1772,7 +1772,7 @@ telangana_data=[
     "TIME": "4:26:15 PM",
     "LOCATION": "https://www.google.com/maps/place/Dharani+Hospital/@17.388859,\n,15z/data=!4m9!1m2!2m1!1s74.+Dharani+Multi+Speciality+Hospital-Mehdipanam!3m5!1s0x3bcb9706974fe215:0xdc4dd11433c33eaa!8m2!3d17.3837978!4d78.4368159!15sCjA3NC4gRGhhcmFuaSBNdWx0aXNwZWNpYWxpdHkgSG9zcGl0YWwtTWVoZGlwYXRuYW1aVgojNzQgZGhhcmFuaSBtdWx0aXNwZWNpYWxpdHkgaG9zcGl0YWwiLzc0IGRoYXJhbmkgbXVsdGlzcGVjaWFsaXR5IGhvc3BpdGFsIG1laGRpcGF0bmFtkgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTnBMVTVYTlRaM1JSQUI",
     "LAT": 17.388859,
-    "LONG": 17.388859,
+    "LONG": 78.431204,
     "TYPE": "Private"
   },
   {
@@ -14586,9 +14586,9 @@ telangana_data=[
     "VACANT": 26,
     "DATE": "27/04/2021",
     "TIME": "7:53:35 PM",
-    "LOCATION": "https://www.google.com/maps/place/Sri+Srinivasa+Gastro+And+Liver+Center/@17.7097231,83.3054554,15z/data=!4m2!3m1!1s0x0:0x73992a8a1c467ba4?sa=X&ved=2ahUKEwjtz8zT45jwAhVI4zgGHdCiDbcQ_BIwbXoECGAQBQ",
-    "LAT": 17.71060204,
-    "LONG": 83.30815908,
+    "LOCATION": "https://www.google.com/maps/place/Srinivas+Gastro+%26+Liver+Care+Hospital/@18.6741451,78.1039239,15z/data=!4m5!3m4!1s0x0:0xfa9b242f478c9e91!8m2!3d18.6741451!4d78.1039239",
+    "LAT": 18.6741451,
+    "LONG": 78.1039239,
     "TYPE": "Private"
   },
   {
