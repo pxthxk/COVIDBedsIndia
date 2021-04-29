@@ -84,7 +84,7 @@ class DelhiHospital {
 }
 
 class Delhi {
-  populate(mcg) {
+  populate(mcg, bedtype) {
     $.getJSON('https://coronabeds.jantasamvad.org/covid-facilities.js?callback=?', function(data) {
       gnctd_covid_facilities_data = data;
     });
@@ -94,18 +94,42 @@ class Delhi {
 
     setTimeout(function() {
       for(var i in gnctd_covid_facilities_data) {
-        var hsp = new DelhiHospital(i);
-        var coord = hsp.coord(i);
-        var hsp_info = "<b>" + i + "</b><br>";
-        var contact_numbers = hsp.contact(i);
-        var loc = hsp.location(i);
-        var bed_info = hsp.bed_info(i);
-        var type = hsp.hsp_type(i);
-        var last_updated_at = hsp.last_updated_at(i);
+        var flag = 0;
 
-        if (coord[0] || coord[1]) {
-          var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info);
-        mcg.addLayer(marker);
+        var icu_tot = (gnctd_covid_data["covid_icu_beds"][i] ? gnctd_covid_data["covid_icu_beds"][i]["total"] : null)
+        var ven_tot = (gnctd_covid_data["ventilators"][i] ? gnctd_covid_data["ventilators"][i]["total"] : null)
+
+        try {
+          if(bedtype == "icu") {
+            if(icu_tot) {
+              flag = 1;
+            }
+          } else if(bedtype == "ventilator") {
+            if(ven_tot) {
+              flag = 1;
+            }
+          } else {
+            flag = 1;
+          }
+
+          if(flag == 1) {
+            var hsp = new DelhiHospital(i);
+
+            var coord = hsp.coord(i);
+            var hsp_info = "<b>" + i + "</b><br>";
+            var contact_numbers = hsp.contact(i);
+            var loc = hsp.location(i);
+            var bed_info = hsp.bed_info(i);
+            var type = hsp.hsp_type(i);
+            var last_updated_at = hsp.last_updated_at(i);
+
+            if (coord[0] || coord[1]) {
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info);
+              mcg.addLayer(marker);
+            }
+          }
+        } catch(err) {
+          console.log(err);
         }
       }
     }, 2000);

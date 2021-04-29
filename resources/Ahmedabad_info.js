@@ -13,7 +13,9 @@ ahmedabad_data=[
     "TYPE": "AMC QUOTA FOR REFFERED PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "75739 49408",
-    "LOCATION": "https://www.google.co.in/maps/search/+SMS+HOSPITAL+WZ+++Chandkheda+Gujarat+/@23.1089025,72.5693263,14z/data=!3m1!4b1?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/search/+SMS+HOSPITAL+WZ+++Chandkheda+Gujarat+/@23.1089025,72.5693263,14z/data=!3m1!4b1?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ/ India Colony",
@@ -29,7 +31,9 @@ ahmedabad_data=[
     "TYPE": "AMC QUOTA FOR REFFERED PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-66048000",
-    "LOCATION": "https://www.google.co.in/maps/place/GCS+Medical+College,+Hospital+%26+Research+Centre/@23.0386514,72.610972,17z/data=!3m1!4b1!4m5!3m4!1s0x395e842151e61b5d:0x2f759e610c72e63e!8m2!3d23.0386514!4d72.610972?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/GCS+Medical+College,+Hospital+%26+Research+Centre/@23.0386514,72.610972,17z/data=!3m1!4b1!4m5!3m4!1s0x395e842151e61b5d:0x2f759e610c72e63e!8m2!3d23.0386514!4d72.610972?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ/ Navrangpura",
@@ -45,7 +49,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "63588 88815",
-    "LOCATION": "https://www.google.co.in/maps/search/+HCG+Hospital,+Mithakali+WZ++Navrangpura+Gujarat+/@23.0495905,72.544506,14z/data=!3m1!4b1?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/search/+HCG+Hospital,+Mithakali+WZ++Navrangpura+Gujarat+/@23.0495905,72.544506,14z/data=!3m1!4b1?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / NARANPURA",
@@ -61,7 +67,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27460108",
-    "LOCATION": "https://www.google.co.in/maps/place/Guruprem+Terminal+Care+Hospital/@23.0562027,72.5488993,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84cc5001fb9b:0x4bd9586d5b5ce6c!8m2!3d23.0562027!4d72.5488993?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Guruprem+Terminal+Care+Hospital/@23.0562027,72.5488993,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84cc5001fb9b:0x4bd9586d5b5ce6c!8m2!3d23.0562027!4d72.5488993?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Nava Wadaj",
@@ -77,7 +85,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "95107 07176",
-    "LOCATION": "https://www.google.co.in/maps/search/+Care+Plus+WZ+++Nava+Wadaj+Gujarat+/@23.0674591,72.5664229,15z/data=!3m1!4b1?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/search/+Care+Plus+WZ+++Nava+Wadaj+Gujarat+/@23.0674591,72.5664229,15z/data=!3m1!4b1?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / paldi",
@@ -93,7 +103,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "72659 20920",
-    "LOCATION": "https://www.google.co.in/maps/search/+Turning+Point+Hriday+Se+WZ+++paldi+Gujarat+/@23.0218273,72.570615,17z/data=!3m1!4b1?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/search/+Turning+Point+Hriday+Se+WZ+++paldi+Gujarat+/@23.0218273,72.570615,17z/data=!3m1!4b1?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -109,7 +121,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "82380 40541",
-    "LOCATION": "https://www.google.co.in/maps/search/+Rajdeep+children+hospital+WZ+++Chandkheda+Gujarat+/@23.1002995,72.5844212,14z/data=!3m1!4b1?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/search/+Rajdeep+children+hospital+WZ+++Chandkheda+Gujarat+/@23.1002995,72.5844212,14z/data=!3m1!4b1?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / USMANPURA",
@@ -125,7 +139,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27557024",
-    "LOCATION": "https://www.google.co.in/maps/place/Kheteswar+orthopedic+joint+replacement+center+Mansarovar+Hospital/@23.0471049,72.5654165,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8488573d7877:0x8f08f444ed9cf0df!8m2!3d23.0471049!4d72.5654165?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Kheteswar+orthopedic+joint+replacement+center+Mansarovar+Hospital/@23.0471049,72.5654165,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8488573d7877:0x8f08f444ed9cf0df!8m2!3d23.0471049!4d72.5654165?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ/ Chankheda",
@@ -141,7 +157,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99790 55875",
-    "LOCATION": "https://www.google.co.in/maps/place/ANSH+MULTISPECIALITY+HOSPITAL/@23.1146674,72.5719004,15z/data=!4m9!1m2!2m1!1s+Ansh+multi.+Spe.+hospital+WZ++Chankheda+Gujarat+!3m5!1s0x395e82521037b531:0x9fb2a15c8c447f53!8m2!3d23.1146674!4d72.5806551!15sCjEgQW5zaCBtdWx0aS4gU3BlLiBob3NwaXRhbCBXWiAgQ2hhbmtoZWRhIEd1amFyYXQgWkoKGmFuc2ggbXVsdGkgc3BlIGhvc3BpdGFsIHd6IixhbnNoIG11bHRpIHNwZSBob3NwaXRhbCB3eiBjaGFua2hlZGEgZ3VqYXJhdJIBEHByaXZhdGVfaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/ANSH+MULTISPECIALITY+HOSPITAL/@23.1146674,72.5719004,15z/data=!4m9!1m2!2m1!1s+Ansh+multi.+Spe.+hospital+WZ++Chankheda+Gujarat+!3m5!1s0x395e82521037b531:0x9fb2a15c8c447f53!8m2!3d23.1146674!4d72.5806551!15sCjEgQW5zaCBtdWx0aS4gU3BlLiBob3NwaXRhbCBXWiAgQ2hhbmtoZWRhIEd1amFyYXQgWkoKGmFuc2ggbXVsdGkgc3BlIGhvc3BpdGFsIHd6IixhbnNoIG11bHRpIHNwZSBob3NwaXRhbCB3eiBjaGFua2hlZGEgZ3VqYXJhdJIBEHByaXZhdGVfaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / NAVA VADAJ",
@@ -157,7 +175,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27569006",
-    "LOCATION": "https://www.google.co.in/maps/place/Atharva+Orthopaedic+Super+Speciality+Hospital/@23.060061,72.5673839,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8595a80ddb93:0x6ac3a37c21520104!8m2!3d23.06006!4d72.5674074?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Atharva+Orthopaedic+Super+Speciality+Hospital/@23.060061,72.5673839,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8595a80ddb93:0x6ac3a37c21520104!8m2!3d23.06006!4d72.5674074?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -173,7 +193,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "89800 18180",
-    "LOCATION": "https://www.google.co.in/maps/place/Satyamev+Hospital/@23.1004205,72.5572355,13z/data=!4m9!1m2!2m1!1s+Satyamev+WZ+++Chandkheda+Gujarat+!3m5!1s0x395e825300000001:0x34886516dcace7d5!8m2!3d23.1203383!4d72.5815631!15sCiIgU2F0eWFtZXYgV1ogICBDaGFuZGtoZWRhIEd1amFyYXQgWi0KC3NhdHlhbWV2IHd6Ih5zYXR5YW1ldiB3eiBjaGFuZGtoZWRhIGd1amFyYXSSAQhob3NwaXRhbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRd2RHRnBXR05uRUFF?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Satyamev+Hospital/@23.1004205,72.5572355,13z/data=!4m9!1m2!2m1!1s+Satyamev+WZ+++Chandkheda+Gujarat+!3m5!1s0x395e825300000001:0x34886516dcace7d5!8m2!3d23.1203383!4d72.5815631!15sCiIgU2F0eWFtZXYgV1ogICBDaGFuZGtoZWRhIEd1amFyYXQgWi0KC3NhdHlhbWV2IHd6Ih5zYXR5YW1ldiB3eiBjaGFuZGtoZWRhIGd1amFyYXSSAQhob3NwaXRhbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRd2RHRnBXR05uRUFF?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / VASNA",
@@ -189,7 +211,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26609138",
-    "LOCATION": "https://www.google.co.in/maps/place/Parth+Surgical+Hospital/@23.0035805,72.5531683,17z/data=!4m9!1m2!2m1!1s+Parth+hospital+WZ+++VASNA+Gujarat+!3m5!1s0x395e851a69cbd5a7:0xdb2580031402b2c1!8m2!3d23.0029603!4d72.55429!15sCiMgUGFydGggaG9zcGl0YWwgV1ogICBWQVNOQSBHdWphcmF0IFo0ChFwYXJ0aCBob3NwaXRhbCB3eiIfcGFydGggaG9zcGl0YWwgd3ogdmFzbmEgZ3VqYXJhdJIBCGhvc3BpdGFs?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Parth+Surgical+Hospital/@23.0035805,72.5531683,17z/data=!4m9!1m2!2m1!1s+Parth+hospital+WZ+++VASNA+Gujarat+!3m5!1s0x395e851a69cbd5a7:0xdb2580031402b2c1!8m2!3d23.0029603!4d72.55429!15sCiMgUGFydGggaG9zcGl0YWwgV1ogICBWQVNOQSBHdWphcmF0IFo0ChFwYXJ0aCBob3NwaXRhbCB3eiIfcGFydGggaG9zcGl0YWwgd3ogdmFzbmEgZ3VqYXJhdJIBCGhvc3BpdGFs?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -205,7 +229,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "88666 00922",
-    "LOCATION": "https://www.google.co.in/maps/place/Dr.+Jenis+Patel,+Sentara+Multispeciality+Hospital/@23.1124586,72.5834571,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83fe2e5594e1:0xa6231d57a4424f28!8m2!3d23.1124586!4d72.5834571?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Dr.+Jenis+Patel,+Sentara+Multispeciality+Hospital/@23.1124586,72.5834571,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83fe2e5594e1:0xa6231d57a4424f28!8m2!3d23.1124586!4d72.5834571?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navrangpura",
@@ -221,7 +247,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98243 44554",
-    "LOCATION": "https://www.google.co.in/maps/place/Vijay+Shalby+Hospital/@23.0447606,72.5503205,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84f53fffffff:0x6f2a3fb1ba37f9d1!8m2!3d23.0447606!4d72.5503205?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Vijay+Shalby+Hospital/@23.0447606,72.5503205,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84f53fffffff:0x6f2a3fb1ba37f9d1!8m2!3d23.0447606!4d72.5503205?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ/ Nava Vadaj",
@@ -237,7 +265,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27642001",
-    "LOCATION": "https://www.google.co.in/maps/place/Mansi+Hospital/@23.0669892,72.562118,17z/data=!3m1!4b1!4m5!3m4!1s0x395e837eabbca013:0xee29ff90be6d0dad!8m2!3d23.0669892!4d72.562118?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Mansi+Hospital/@23.0669892,72.562118,17z/data=!3m1!4b1!4m5!3m4!1s0x395e837eabbca013:0xee29ff90be6d0dad!8m2!3d23.0669892!4d72.562118?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ / Motera",
@@ -253,7 +283,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99090 07305",
-    "LOCATION": "https://www.google.co.in/maps/place/LOTUS+MULTISPECIALITY+HOSPITAL/@23.1030044,72.59845,15z/data=!4m9!1m2!2m1!1s+LOTUS+WZ+++Motera+Gujarat+!3m5!1s0x395e83ce3b483981:0xd95aeb5d1c63da70!8m2!3d23.1044689!4d72.6025345!15sChsgTE9UVVMgV1ogICBNb3RlcmEgR3VqYXJhdCBaIwoIbG90dXMgd3oiF2xvdHVzIHd6IG1vdGVyYSBndWphcmF0kgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXdObGxJWkRWUlJSQUI?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/LOTUS+MULTISPECIALITY+HOSPITAL/@23.1030044,72.59845,15z/data=!4m9!1m2!2m1!1s+LOTUS+WZ+++Motera+Gujarat+!3m5!1s0x395e83ce3b483981:0xd95aeb5d1c63da70!8m2!3d23.1044689!4d72.6025345!15sChsgTE9UVVMgV1ogICBNb3RlcmEgR3VqYXJhdCBaIwoIbG90dXMgd3oiF2xvdHVzIHd6IG1vdGVyYSBndWphcmF0kgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXdObGxJWkRWUlJSQUI?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Nava Wadaj",
@@ -269,7 +301,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27623762",
-    "LOCATION": "https://www.google.co.in/maps/place/Trisha+Multispeciality+Hospital/@23.0708787,72.5597895,17z/data=!3m1!4b1!4m5!3m4!1s0x395e837120c644bf:0x3940e96e74a4f294!8m2!3d23.0708787!4d72.5597895?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Trisha+Multispeciality+Hospital/@23.0708787,72.5597895,17z/data=!3m1!4b1!4m5!3m4!1s0x395e837120c644bf:0x3940e96e74a4f294!8m2!3d23.0708787!4d72.5597895?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -285,7 +319,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "91523 39796",
-    "LOCATION": "https://www.google.co.in/maps/place/TLGH+HOSPITALS/@23.114681,72.5828307,17z/data=!3m1!4b1!4m5!3m4!1s0x395e836d6e1e7203:0x4fe222cb4e667085!8m2!3d23.114681!4d72.5828307?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/TLGH+HOSPITALS/@23.114681,72.5828307,17z/data=!3m1!4b1!4m5!3m4!1s0x395e836d6e1e7203:0x4fe222cb4e667085!8m2!3d23.114681!4d72.5828307?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navrangpura",
@@ -301,7 +337,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26575151",
-    "LOCATION": "https://www.google.co.in/maps/place/Saviour+Annexe+Hospital/@23.0366369,72.5696932,17z/data=!3m1!4b1!4m5!3m4!1s0x395e845fa6c8b637:0xe8c198ae850e36d4!8m2!3d23.0366369!4d72.5696932?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Saviour+Annexe+Hospital/@23.0366369,72.5696932,17z/data=!3m1!4b1!4m5!3m4!1s0x395e845fa6c8b637:0xe8c198ae850e36d4!8m2!3d23.0366369!4d72.5696932?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navrangpura",
@@ -317,7 +355,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26460600",
-    "LOCATION": "https://www.google.co.in/maps/place/Sushrusha+Hospital/@23.0309689,72.5522643,15z/data=!4m9!1m2!2m1!1s+Sushrusha%22,+Navrangpura+WZ+++Navrangpura+Gujarat+!3m5!1s0x395e84f53fffffff:0x6cfea6af3c7c90dd!8m2!3d23.0309689!4d72.561019!15sCjIgU3VzaHJ1c2hhIiwgTmF2cmFuZ3B1cmEgV1ogICBOYXZyYW5ncHVyYSBHdWphcmF0IFpQCiBzdXNocnVzaGEgd3ogbmF2cmFuZ3B1cmEgZ3VqYXJhdCIsc3VzaHJ1c2hhIG5hdnJhbmdwdXJhIHd6IG5hdnJhbmdwdXJhIGd1amFyYXSSAQhob3NwaXRhbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOSmNqaERiVE4zUlJBQg?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sushrusha+Hospital/@23.0309689,72.5522643,15z/data=!4m9!1m2!2m1!1s+Sushrusha%22,+Navrangpura+WZ+++Navrangpura+Gujarat+!3m5!1s0x395e84f53fffffff:0x6cfea6af3c7c90dd!8m2!3d23.0309689!4d72.561019!15sCjIgU3VzaHJ1c2hhIiwgTmF2cmFuZ3B1cmEgV1ogICBOYXZyYW5ncHVyYSBHdWphcmF0IFpQCiBzdXNocnVzaGEgd3ogbmF2cmFuZ3B1cmEgZ3VqYXJhdCIsc3VzaHJ1c2hhIG5hdnJhbmdwdXJhIHd6IG5hdnJhbmdwdXJhIGd1amFyYXSSAQhob3NwaXRhbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOSmNqaERiVE4zUlJBQg?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / paldi",
@@ -333,7 +373,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "76980 03120",
-    "LOCATION": "https://www.google.co.in/maps/place/Bodyline+Hospital+%E2%80%93+Urologist,+Uro+Stone+Specialist,+24*7+Emergency,+Multispecialty+Hospital+Near+Me/@23.0100288,72.5545516,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84fd57661201:0xec8b781551d73822!8m2!3d23.0100288!4d72.5545516?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Bodyline+Hospital+%E2%80%93+Urologist,+Uro+Stone+Specialist,+24*7+Emergency,+Multispecialty+Hospital+Near+Me/@23.0100288,72.5545516,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84fd57661201:0xec8b781551d73822!8m2!3d23.0100288!4d72.5545516?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -349,7 +391,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "94260 77707",
-    "LOCATION": "https://www.google.co.in/maps/place/Navjivan,+Ahmedabad,+Gujarat+380014/@23.0444435,72.5614402,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8488df7aeca5:0xf41fa396202f2736!8m2!3d23.0451147!4d72.5641074?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Navjivan,+Ahmedabad,+Gujarat+380014/@23.0444435,72.5614402,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8488df7aeca5:0xf41fa396202f2736!8m2!3d23.0451147!4d72.5641074?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -365,7 +409,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/SMS+Multi-Speciality+Hospital-Ahmedabad/@23.1089025,72.5693263,14z/data=!4m9!1m2!2m1!1s+SMS+HOSPITAL+WZ+++Chandkheda+Gujarat+!3m5!1s0x395e822c405e541d:0xfac028c17a010744!8m2!3d23.1163578!4d72.6070463!15sCiYgU01TIEhPU1BJVEFMIFdaICAgQ2hhbmRraGVkYSBHdWphcmF0IFo1Cg9zbXMgaG9zcGl0YWwgd3oiInNtcyBob3NwaXRhbCB3eiBjaGFuZGtoZWRhIGd1amFyYXSSARN1bml2ZXJzaXR5X2hvc3BpdGFsmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVI1YlhWMkxYbG5SUkFC?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/SMS+Multi-Speciality+Hospital-Ahmedabad/@23.1089025,72.5693263,14z/data=!4m9!1m2!2m1!1s+SMS+HOSPITAL+WZ+++Chandkheda+Gujarat+!3m5!1s0x395e822c405e541d:0xfac028c17a010744!8m2!3d23.1163578!4d72.6070463!15sCiYgU01TIEhPU1BJVEFMIFdaICAgQ2hhbmRraGVkYSBHdWphcmF0IFo1Cg9zbXMgaG9zcGl0YWwgd3oiInNtcyBob3NwaXRhbCB3eiBjaGFuZGtoZWRhIGd1amFyYXSSARN1bml2ZXJzaXR5X2hvc3BpdGFsmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVI1YlhWMkxYbG5SUkFC?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navarangpura",
@@ -381,7 +427,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26306401",
-    "LOCATION": "https://www.google.co.in/maps/place/Aartham+Multi+Super+Speciality+Hospital+(Ahmedabad)/@23.0253198,72.5469211,17z/data=!3m1!4b1!4m5!3m4!1s0x395e850667016d09:0x3eb59e62588d5657!8m2!3d23.0253198!4d72.5469211?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Aartham+Multi+Super+Speciality+Hospital+(Ahmedabad)/@23.0253198,72.5469211,17z/data=!3m1!4b1!4m5!3m4!1s0x395e850667016d09:0x3eb59e62588d5657!8m2!3d23.0253198!4d72.5469211?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / stadium",
@@ -397,7 +445,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "95740 00797",
-    "LOCATION": "https://www.google.co.in/maps/place/Narendra+Modi+Stadium/@23.0918122,72.5975275,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83c17dc37ee3:0xab976f6a3a1f932d!8m2!3d23.0918122!4d72.5975275?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Narendra+Modi+Stadium/@23.0918122,72.5975275,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83c17dc37ee3:0xab976f6a3a1f932d!8m2!3d23.0918122!4d72.5975275?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Naranpura",
@@ -413,7 +463,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27477400",
-    "LOCATION": "https://www.google.co.in/maps/place/Solar+Hospital/@23.052231,72.5489085,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84996c2fee1d:0x8baa4d820c2fa96b!8m2!3d23.052231!4d72.5489085?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Solar+Hospital/@23.052231,72.5489085,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84996c2fee1d:0x8baa4d820c2fa96b!8m2!3d23.052231!4d72.5489085?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / NAVA VADAJ",
@@ -429,7 +481,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99989 72844",
-    "LOCATION": "https://www.google.co.in/maps/place/Arham+Hospital/@23.0707695,72.5598697,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84b7cb29c877:0x9c47c773242b0db9!8m2!3d23.0707649!4d72.5598742?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Arham+Hospital/@23.0707695,72.5598697,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84b7cb29c877:0x9c47c773242b0db9!8m2!3d23.0707649!4d72.5598742?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / NARANPURA",
@@ -445,7 +499,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079- 26464642",
-    "LOCATION": "https://www.google.co.in/maps/place/Dr.+Manthan+R+Kansara/@23.0476696,72.5628318,17z/data=!4m9!1m2!2m1!1s+Kidney+Health+WZ+++NARANPURA+Gujarat+!3m5!1s0x395e8488dbab8b45:0x856d95eacc74c44e!8m2!3d23.0476149!4d72.5628292!15sCiYgS2lkbmV5IEhlYWx0aCBXWiAgIE5BUkFOUFVSQSBHdWphcmF0IFo2ChBraWRuZXkgaGVhbHRoIHd6IiJraWRuZXkgaGVhbHRoIHd6IG5hcmFucHVyYSBndWphcmF0kgEGZG9jdG9ymgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJEZFV4Zk5rcDNFQUU?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Dr.+Manthan+R+Kansara/@23.0476696,72.5628318,17z/data=!4m9!1m2!2m1!1s+Kidney+Health+WZ+++NARANPURA+Gujarat+!3m5!1s0x395e8488dbab8b45:0x856d95eacc74c44e!8m2!3d23.0476149!4d72.5628292!15sCiYgS2lkbmV5IEhlYWx0aCBXWiAgIE5BUkFOUFVSQSBHdWphcmF0IFo2ChBraWRuZXkgaGVhbHRoIHd6IiJraWRuZXkgaGVhbHRoIHd6IG5hcmFucHVyYSBndWphcmF0kgEGZG9jdG9ymgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJEZFV4Zk5rcDNFQUU?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navrangpura",
@@ -461,7 +517,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-40232121",
-    "LOCATION": "https://www.google.co.in/maps/place/Nidhi+Multispeciality+Hospital/@23.0400995,72.5614033,17z/data=!3m1!4b1!4m5!3m4!1s0x395e848c996426c3:0x915350ab1da7fe78!8m2!3d23.0400995!4d72.5614033?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Nidhi+Multispeciality+Hospital/@23.0400995,72.5614033,17z/data=!3m1!4b1!4m5!3m4!1s0x395e848c996426c3:0x915350ab1da7fe78!8m2!3d23.0400995!4d72.5614033?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navrangpura",
@@ -477,7 +535,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "91732 88966",
-    "LOCATION": "https://www.google.co.in/maps/place/Pushya+Hospital/@23.0332248,72.556018,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85dc1d3d3aa1:0x757879a4c249020e!8m2!3d23.0332248!4d72.556018?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Pushya+Hospital/@23.0332248,72.556018,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85dc1d3d3aa1:0x757879a4c249020e!8m2!3d23.0332248!4d72.556018?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -493,7 +553,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "94282 91000",
-    "LOCATION": "https://www.google.co.in/maps/place/Unity+Hospital,+Chandkheda/@23.1091564,72.5838887,17z/data=!4m5!3m4!1s0x395e83a290602321:0xb1c4d77c68caa71d!8m2!3d23.109635!4d72.585144?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Unity+Hospital,+Chandkheda/@23.1091564,72.5838887,17z/data=!4m5!3m4!1s0x395e83a290602321:0xb1c4d77c68caa71d!8m2!3d23.109635!4d72.585144?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navarangpura",
@@ -509,7 +571,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26562993",
-    "LOCATION": "https://www.google.co.in/maps/place/Samved+Orthopaedic+Hospital/@23.0404741,72.558142,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84f54011597d:0x47e5802e9981c67d!8m2!3d23.0404706!4d72.5581419?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Samved+Orthopaedic+Hospital/@23.0404741,72.558142,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84f54011597d:0x47e5802e9981c67d!8m2!3d23.0404706!4d72.5581419?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ / NARANPURA",
@@ -525,7 +589,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "90990 00079/80",
-    "LOCATION": ""
+    "LOCATION": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ/ Nava Vadaj",
@@ -541,7 +607,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-2764 7777",
-    "LOCATION": "https://www.google.co.in/maps/place/Krishna+Hospital+%26+ICCU/@23.0672019,72.5631717,17z/data=!3m1!4b1!4m5!3m4!1s0x395e837eb450fd2d:0x16b89759fa3ea350!8m2!3d23.0672019!4d72.5631717?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Krishna+Hospital+%26+ICCU/@23.0672019,72.5631717,17z/data=!3m1!4b1!4m5!3m4!1s0x395e837eb450fd2d:0x16b89759fa3ea350!8m2!3d23.0672019!4d72.5631717?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Vasna",
@@ -557,7 +625,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26639839",
-    "LOCATION": "https://www.google.co.in/maps/place/Dr.+Jivraj+Mehta+Hospital/@23.0076202,72.542522,18z/data=!4m9!1m2!2m1!1s+Dr.+Jivraj+Mehta++Vasna+WZ+++Vasna+Gujarat+!3m5!1s0x395e8523e21503ab:0x8125931d7376380c!8m2!3d23.0091805!4d72.5435671!15sCiwgRHIuIEppdnJhaiBNZWh0YSAgVmFzbmEgV1ogICBWYXNuYSBHdWphcmF0IFpKCiBkciBqaXZyYWogbWVodGEgd3ogdmFzbmEgZ3VqYXJhdCImZHIgaml2cmFqIG1laHRhIHZhc25hIHd6IHZhc25hIGd1amFyYXSSAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Dr.+Jivraj+Mehta+Hospital/@23.0076202,72.542522,18z/data=!4m9!1m2!2m1!1s+Dr.+Jivraj+Mehta++Vasna+WZ+++Vasna+Gujarat+!3m5!1s0x395e8523e21503ab:0x8125931d7376380c!8m2!3d23.0091805!4d72.5435671!15sCiwgRHIuIEppdnJhaiBNZWh0YSAgVmFzbmEgV1ogICBWYXNuYSBHdWphcmF0IFpKCiBkciBqaXZyYWogbWVodGEgd3ogdmFzbmEgZ3VqYXJhdCImZHIgaml2cmFqIG1laHRhIHZhc25hIHd6IHZhc25hIGd1amFyYXSSAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Sabarmati",
@@ -573,7 +643,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27506336",
-    "LOCATION": "https://www.google.co.in/maps/place/Panchshil+Hospital/@23.0512295,72.5697392,13z/data=!4m9!1m2!2m1!1s+Panchshil+WZ+++Sabarmati+Gujarat+!3m5!1s0x395e83bbbfffffff:0xafd611e95d607bfd!8m2!3d23.0843243!4d72.5920437!15sCiIgUGFuY2hzaGlsIFdaICAgU2FiYXJtYXRpIEd1amFyYXQgWi4KDHBhbmNoc2hpbCB3eiIecGFuY2hzaGlsIHd6IHNhYmFybWF0aSBndWphcmF0kgEQZ2VuZXJhbF9ob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Panchshil+Hospital/@23.0512295,72.5697392,13z/data=!4m9!1m2!2m1!1s+Panchshil+WZ+++Sabarmati+Gujarat+!3m5!1s0x395e83bbbfffffff:0xafd611e95d607bfd!8m2!3d23.0843243!4d72.5920437!15sCiIgUGFuY2hzaGlsIFdaICAgU2FiYXJtYXRpIEd1amFyYXQgWi4KDHBhbmNoc2hpbCB3eiIecGFuY2hzaGlsIHd6IHNhYmFybWF0aSBndWphcmF0kgEQZ2VuZXJhbF9ob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ/NAVARANGPURA",
@@ -589,7 +661,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26925004",
-    "LOCATION": "https://www.google.co.in/maps/place/Healthy+Mind+Hospital/@23.0369893,72.5526173,13z/data=!4m9!1m2!2m1!1s+HEALTHY+MIND+WZ+NAVARANGPURA+Gujarat+!3m5!1s0x395e851be52e9c49:0x27ee307d2998a1dd!8m2!3d23.0401957!4d72.5566376!15sCiRIRUFMVEhZIE1JTkQgV0FTIE5BVlJBTkdQVVJBIEd1amFyYXRaNAoMaGVhbHRoeSBtaW5kIiRoZWFsdGh5IG1pbmQgd2FzIG5hdnJhbmdwdXJhIGd1amFyYXSSAQhob3NwaXRhbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSNWMwNHRlSGQzUlJBQg?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Healthy+Mind+Hospital/@23.0369893,72.5526173,13z/data=!4m9!1m2!2m1!1s+HEALTHY+MIND+WZ+NAVARANGPURA+Gujarat+!3m5!1s0x395e851be52e9c49:0x27ee307d2998a1dd!8m2!3d23.0401957!4d72.5566376!15sCiRIRUFMVEhZIE1JTkQgV0FTIE5BVlJBTkdQVVJBIEd1amFyYXRaNAoMaGVhbHRoeSBtaW5kIiRoZWFsdGh5IG1pbmQgd2FzIG5hdnJhbmdwdXJhIGd1amFyYXSSAQhob3NwaXRhbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSNWMwNHRlSGQzUlJBQg?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ / NARANPURA",
@@ -605,7 +679,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97232 20274",
-    "LOCATION": "https://www.google.co.in/maps/place/DEV+HOSPITAL/@23.0300603,72.5535884,14z/data=!4m9!1m2!2m1!1s+Dev+hospital+WZ+++NARANPURA+Gujarat+!3m5!1s0x395e849ed37bec6b:0xa93319a13ae11c01!8m2!3d23.0540606!4d72.547567!15sCiUgRGV2IGhvc3BpdGFsIFdaICAgTkFSQU5QVVJBIEd1amFyYXQgkgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/DEV+HOSPITAL/@23.0300603,72.5535884,14z/data=!4m9!1m2!2m1!1s+Dev+hospital+WZ+++NARANPURA+Gujarat+!3m5!1s0x395e849ed37bec6b:0xa93319a13ae11c01!8m2!3d23.0540606!4d72.547567!15sCiUgRGV2IGhvc3BpdGFsIFdaICAgTkFSQU5QVVJBIEd1amFyYXQgkgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ / NARANPURA",
@@ -621,7 +697,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27472071,9824162365",
-    "LOCATION": "https://www.google.co.in/maps/place/Shruti+Maternity+Surgical+Nursing+Home/@23.0565377,72.5448818,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8358f71e0977:0x874923b64cf7cde7!8m2!3d23.0565377!4d72.5448818?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shruti+Maternity+Surgical+Nursing+Home/@23.0565377,72.5448818,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8358f71e0977:0x874923b64cf7cde7!8m2!3d23.0565377!4d72.5448818?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ/ Nava Vadaj",
@@ -637,7 +715,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27640405",
-    "LOCATION": "https://www.google.co.in/maps/place/Gayatri+Heart+And+Medical+Hospital/@23.0601403,72.5646607,17z/data=!3m1!4b1!4m5!3m4!1s0x395e847e3939d34f:0x7ea87903a2a108c8!8m2!3d23.0601403!4d72.5646607?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Gayatri+Heart+And+Medical+Hospital/@23.0601403,72.5646607,17z/data=!3m1!4b1!4m5!3m4!1s0x395e847e3939d34f:0x7ea87903a2a108c8!8m2!3d23.0601403!4d72.5646607?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ/ Nava Vadaj",
@@ -653,7 +733,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "84870 60609",
-    "LOCATION": "https://www.google.co.in/maps/place/Pulse+ICCU+Hospital/@23.0604241,72.5666465,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8480ffaaaaab:0xf3da2a9d5b5e375c!8m2!3d23.0604241!4d72.5666465?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Pulse+ICCU+Hospital/@23.0604241,72.5666465,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8480ffaaaaab:0xf3da2a9d5b5e375c!8m2!3d23.0604241!4d72.5666465?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ/ SABARMATI",
@@ -669,7 +751,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27506861",
-    "LOCATION": "https://www.google.co.in/maps/place/Pukhraj+Raichand+General+Hospital/@23.0359251,72.5927397,13z/data=!4m9!1m2!2m1!1s+PUKHRAJ+WZ++SABARMATI+Gujarat+!3m5!1s0x395e83eaebffffff:0x71398f7ef469686!8m2!3d23.0829333!4d72.5907935!15sCh8gUFVLSFJBSiBXWiAgU0FCQVJNQVRJIEd1amFyYXQgWioKCnB1a2hyYWogd3oiHHB1a2hyYWogd3ogc2FiYXJtYXRpIGd1amFyYXSSARBnZW5lcmFsX2hvc3BpdGFsmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5CTVZseFRtVkJFQUU?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Pukhraj+Raichand+General+Hospital/@23.0359251,72.5927397,13z/data=!4m9!1m2!2m1!1s+PUKHRAJ+WZ++SABARMATI+Gujarat+!3m5!1s0x395e83eaebffffff:0x71398f7ef469686!8m2!3d23.0829333!4d72.5907935!15sCh8gUFVLSFJBSiBXWiAgU0FCQVJNQVRJIEd1amFyYXQgWioKCnB1a2hyYWogd3oiHHB1a2hyYWogd3ogc2FiYXJtYXRpIGd1amFyYXSSARBnZW5lcmFsX2hvc3BpdGFsmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5CTVZseFRtVkJFQUU?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ / NARANPURA",
@@ -685,7 +769,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-66556655",
-    "LOCATION": "https://www.google.com/maps/place/Asian+Bariatrics+-+Weight+Loss+Surgery+Hospital/@23.036498,72.51152,15z/data=!4m5!3m4!1s0x0:0x73aceefa1520d564!8m2!3d23.036498!4d72.51152"
+    "LOCATION": "https://www.google.com/maps/place/Asian+Bariatrics+-+Weight+Loss+Surgery+Hospital/@23.036498,72.51152,15z/data=!4m5!3m4!1s0x0:0x73aceefa1520d564!8m2!3d23.036498!4d72.51152",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ/ Nava Vadaj",
@@ -701,7 +787,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "79275 61080",
-    "LOCATION": "https://www.google.co.in/maps/place/Spandan+icu+and+critical+care+hospital/@23.0584798,72.5687223,17z/data=!3m1!4b1!4m5!3m4!1s0x395e847e3aa787ad:0xda76c29db31f4aaf!8m2!3d23.0584798!4d72.5687223?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Spandan+icu+and+critical+care+hospital/@23.0584798,72.5687223,17z/data=!3m1!4b1!4m5!3m4!1s0x395e847e3aa787ad:0xda76c29db31f4aaf!8m2!3d23.0584798!4d72.5687223?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / SABARMATI",
@@ -717,7 +805,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "93288 75151",
-    "LOCATION": "https://www.google.co.in/maps/place/Shreeji+Hospital/@23.0414806,72.5920285,12z/data=!4m9!1m2!2m1!1s+shreeji+Hospital+WZ+++SABARMATI+Gujarat+!3m5!1s0x395e83b76927efcd:0xfcc1f31123cfad67!8m2!3d23.0997734!4d72.5874116!15sCikgc2hyZWVqaSBIb3NwaXRhbCBXWiAgIFNBQkFSTUFUSSBHdWphcmF0IFo8ChNzaHJlZWppIGhvc3BpdGFsIHd6IiVzaHJlZWppIGhvc3BpdGFsIHd6IHNhYmFybWF0aSBndWphcmF0kgEIaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlZPVnAxZWtwQkVBRbABAA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shreeji+Hospital/@23.0414806,72.5920285,12z/data=!4m9!1m2!2m1!1s+shreeji+Hospital+WZ+++SABARMATI+Gujarat+!3m5!1s0x395e83b76927efcd:0xfcc1f31123cfad67!8m2!3d23.0997734!4d72.5874116!15sCikgc2hyZWVqaSBIb3NwaXRhbCBXWiAgIFNBQkFSTUFUSSBHdWphcmF0IFo8ChNzaHJlZWppIGhvc3BpdGFsIHd6IiVzaHJlZWppIGhvc3BpdGFsIHd6IHNhYmFybWF0aSBndWphcmF0kgEIaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlZPVnAxZWtwQkVBRbABAA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / SABARMATI",
@@ -733,7 +823,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-40241000",
-    "LOCATION": "https://www.google.co.in/maps/place/Medilink+Institute+Of+Nursing+Sciences/@23.0743517,72.5918946,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83f2ce6131d1:0x52335f43e3f225f4!8m2!3d23.0743517!4d72.5918946?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Medilink+Institute+Of+Nursing+Sciences/@23.0743517,72.5918946,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83f2ce6131d1:0x52335f43e3f225f4!8m2!3d23.0743517!4d72.5918946?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ/NAVARANGPURA",
@@ -749,7 +841,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-61908000",
-    "LOCATION": "https://www.google.co.in/maps/place/Saviour+Hospital/@23.0340999,72.5661774,15z/data=!4m9!1m2!2m1!1s+saviour+(lakhudi+tadav)+WZ+NAVARANGPURA+Gujarat+!3m5!1s0x395e848eb92e312d:0x3aae614f99d235ed!8m2!3d23.0451422!4d72.5607897!15sCi5zYXZpb3VyIChsYWtodWRpIHRhbGF2KSBXWiBOQVZSQU5HUFVSQSBHdWphcmF0WkgKGHNhdmlvdXIgbGFraHVkaSB0YWxhdiB3eiIsc2F2aW91ciBsYWtodWRpIHRhbGF2IHd6IG5hdnJhbmdwdXJhIGd1amFyYXSSARBwcml2YXRlX2hvc3BpdGFs?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Saviour+Hospital/@23.0340999,72.5661774,15z/data=!4m9!1m2!2m1!1s+saviour+(lakhudi+tadav)+WZ+NAVARANGPURA+Gujarat+!3m5!1s0x395e848eb92e312d:0x3aae614f99d235ed!8m2!3d23.0451422!4d72.5607897!15sCi5zYXZpb3VyIChsYWtodWRpIHRhbGF2KSBXWiBOQVZSQU5HUFVSQSBHdWphcmF0WkgKGHNhdmlvdXIgbGFraHVkaSB0YWxhdiB3eiIsc2F2aW91ciBsYWtodWRpIHRhbGF2IHd6IG5hdnJhbmdwdXJhIGd1amFyYXSSARBwcml2YXRlX2hvc3BpdGFs?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / NARANPURA",
@@ -765,7 +859,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "94278 14128",
-    "LOCATION": "https://www.google.com/maps/place/Dr+Tejas+J+Patel+-+Avion+kidney+hospital/@23.0580797,72.5357633,17z/data=!3m1!4b1!4m5!3m4!1s0x395e839f28aeb7f3:0xd487773e36112988!8m2!3d23.0580797!4d72.537952"
+    "LOCATION": "https://www.google.com/maps/place/Dr+Tejas+J+Patel+-+Avion+kidney+hospital/@23.0580797,72.5357633,17z/data=!3m1!4b1!4m5!3m4!1s0x395e839f28aeb7f3:0xd487773e36112988!8m2!3d23.0580797!4d72.537952",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / SABARMATI",
@@ -781,7 +877,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": ""
+    "LOCATION": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "WZ/ Navrangpura",
@@ -797,7 +895,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "95379 16281",
-    "LOCATION": "https://www.google.co.in/maps/place/Noble+Gastro+Hospital+%E2%80%93+Senior+Gastroenterologist,+Endoscopy,+Liver,+pancreas,+Cancer+Expert+Doctor/@23.0251288,72.562416,16z/data=!4m9!1m2!2m1!1s+Noble+Gastro+Hospital+WZ++Navrangpura+Gujarat+!3m5!1s0x395e850877d18055:0x744fc9a3f7b29fa3!8m2!3d23.0306545!4d72.5642339!15sCi8gTm9ibGUgR2FzdHJvIEhvc3BpdGFsIFdaICBOYXZyYW5ncHVyYSBHdWphcmF0IFpIChhub2JsZSBnYXN0cm8gaG9zcGl0YWwgd3oiLG5vYmxlIGdhc3RybyBob3NwaXRhbCB3eiBuYXZyYW5ncHVyYSBndWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Noble+Gastro+Hospital+%E2%80%93+Senior+Gastroenterologist,+Endoscopy,+Liver,+pancreas,+Cancer+Expert+Doctor/@23.0251288,72.562416,16z/data=!4m9!1m2!2m1!1s+Noble+Gastro+Hospital+WZ++Navrangpura+Gujarat+!3m5!1s0x395e850877d18055:0x744fc9a3f7b29fa3!8m2!3d23.0306545!4d72.5642339!15sCi8gTm9ibGUgR2FzdHJvIEhvc3BpdGFsIFdaICBOYXZyYW5ncHVyYSBHdWphcmF0IFpIChhub2JsZSBnYXN0cm8gaG9zcGl0YWwgd3oiLG5vYmxlIGdhc3RybyBob3NwaXRhbCB3eiBuYXZyYW5ncHVyYSBndWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Chandkheda",
@@ -813,7 +913,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98981 22262",
-    "LOCATION": "https://www.google.co.in/maps/place/The+Lifeline+Group+of+Hospitals/@23.1132242,72.5773234,17z/data=!3m1!4b1!4m5!3m4!1s0x395e82524cbae921:0xeb892ea147b25480!8m2!3d23.1132242!4d72.5773234?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/The+Lifeline+Group+of+Hospitals/@23.1132242,72.5773234,17z/data=!3m1!4b1!4m5!3m4!1s0x395e82524cbae921:0xeb892ea147b25480!8m2!3d23.1132242!4d72.5773234?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / stadium",
@@ -829,7 +931,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "91067 20699",
-    "LOCATION": "https://www.google.com/maps/place/Jaydeep+hospital/@23.0474002,72.5505982,15z/data=!4m5!3m4!1s0x0:0xc497379d764d5163!8m2!3d23.0474002!4d72.5505982"
+    "LOCATION": "https://www.google.com/maps/place/Jaydeep+hospital/@23.0474002,72.5505982,15z/data=!4m5!3m4!1s0x0:0xc497379d764d5163!8m2!3d23.0474002!4d72.5505982",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "WZ / Navarangpura",
@@ -845,7 +949,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.com/maps/place/D.+K.+Patel+Hall/@23.0499365,72.5568649,17z/data=!4m5!3m4!1s0x395e8485440254a3:0x44f44f440101e521!8m2!3d23.0503462!4d72.5566825?hl=en"
+    "LOCATION": "https://www.google.com/maps/place/D.+K.+Patel+Hall/@23.0499365,72.5568649,17z/data=!4m5!3m4!1s0x395e8485440254a3:0x44f44f440101e521!8m2!3d23.0503462!4d72.5566825?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / NARODA",
@@ -861,7 +967,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98249 16444",
-    "LOCATION": "https://www.google.com/maps/place/Sunrise+Hospital/@23.0617762,72.6414253,17z/data=!3m1!4b1!4m5!3m4!1s0x395e873b29ea9465:0x86563ef61f2d4623!8m2!3d23.0617713!4d72.643614"
+    "LOCATION": "https://www.google.com/maps/place/Sunrise+Hospital/@23.0617762,72.6414253,17z/data=!3m1!4b1!4m5!3m4!1s0x395e873b29ea9465:0x86563ef61f2d4623!8m2!3d23.0617713!4d72.643614",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / SARASPUR",
@@ -877,7 +985,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "95589 69616",
-    "LOCATION": "https://www.google.co.in/maps/place/SHREEJI+MULTISPECIALITY+HOSPITAL+-+SARASPUR/@23.0308569,72.6124092,18z/data=!4m9!1m2!2m1!1s+Shreeji+icu+%26+multi.+Spe.+Hospital+NZ+++SARASPUR+Gujarat+!3m5!1s0x395e858440d324eb:0x450f8e4c5c7ab3ca!8m2!3d23.0309404!4d72.6147242!15sCjogU2hyZWVqaSBpY3UgJiBtdWx0aS4gU3BlLiBIb3NwaXRhbCBOWiAgIFNBUkFTUFVSIEd1amFyYXQgWlsKI3NocmVlamkgaWN1ICYgbXVsdGkgc3BlIGhvc3BpdGFsIG56IjRzaHJlZWppIGljdSAmIG11bHRpIHNwZSBob3NwaXRhbCBueiBzYXJhc3B1ciBndWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/SHREEJI+MULTISPECIALITY+HOSPITAL+-+SARASPUR/@23.0308569,72.6124092,18z/data=!4m9!1m2!2m1!1s+Shreeji+icu+%26+multi.+Spe.+Hospital+NZ+++SARASPUR+Gujarat+!3m5!1s0x395e858440d324eb:0x450f8e4c5c7ab3ca!8m2!3d23.0309404!4d72.6147242!15sCjogU2hyZWVqaSBpY3UgJiBtdWx0aS4gU3BlLiBIb3NwaXRhbCBOWiAgIFNBUkFTUFVSIEd1amFyYXQgWlsKI3NocmVlamkgaWN1ICYgbXVsdGkgc3BlIGhvc3BpdGFsIG56IjRzaHJlZWppIGljdSAmIG11bHRpIHNwZSBob3NwaXRhbCBueiBzYXJhc3B1ciBndWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / BAPUNAGAR",
@@ -893,7 +1003,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22746699",
-    "LOCATION": "https://www.google.co.in/maps/place/Aarna+Medical+Hospital/@23.0396226,72.6388065,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86eccb30264f:0xa9083ce59170200e!8m2!3d23.0396226!4d72.6388065?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Aarna+Medical+Hospital/@23.0396226,72.6388065,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86eccb30264f:0xa9083ce59170200e!8m2!3d23.0396226!4d72.6388065?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NZ / India colony",
@@ -909,7 +1021,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22201717",
-    "LOCATION": "https://www.google.co.in/maps/place/Star+Hospital/@23.0407833,72.6309387,17z/data=!4m8!1m2!2m1!1s+Star+Hospital,+Bapunagar,+NZ+++India+colony+Gujarat+!3m4!1s0x395e8696cea09451:0x5e2553fcc960d3a1!8m2!3d23.0407833!4d72.6309387?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Star+Hospital/@23.0407833,72.6309387,17z/data=!4m8!1m2!2m1!1s+Star+Hospital,+Bapunagar,+NZ+++India+colony+Gujarat+!3m4!1s0x395e8696cea09451:0x5e2553fcc960d3a1!8m2!3d23.0407833!4d72.6309387?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / India colony",
@@ -925,7 +1039,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22805500",
-    "LOCATION": "https://www.google.co.in/maps/place/Rugved+Multispeciality+Hospital/@23.050578,72.646919,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86c25272c155:0x16f5b3eb55a36454!8m2!3d23.050578!4d72.646919?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Rugved+Multispeciality+Hospital/@23.050578,72.646919,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86c25272c155:0x16f5b3eb55a36454!8m2!3d23.050578!4d72.646919?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / Thakkar bapanagar",
@@ -941,7 +1057,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97272 72415",
-    "LOCATION": "https://www.google.co.in/maps/place/Kothiya+Hospital/@23.0410104,72.650083,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86ef784fc713:0x43840d510117c4fb!8m2!3d23.0410104!4d72.650083?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Kothiya+Hospital/@23.0410104,72.650083,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86ef784fc713:0x43840d510117c4fb!8m2!3d23.0410104!4d72.650083?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ/ India Colony",
@@ -957,7 +1075,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-66048000",
-    "LOCATION": "https://www.google.co.in/maps/place/GCS+Medical+College,+Hospital+%26+Research+Centre/@23.0386514,72.610972,17z/data=!3m1!4b1!4m5!3m4!1s0x395e842151e61b5d:0x2f759e610c72e63e!8m2!3d23.0386514!4d72.610972?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/GCS+Medical+College,+Hospital+%26+Research+Centre/@23.0386514,72.610972,17z/data=!3m1!4b1!4m5!3m4!1s0x395e842151e61b5d:0x2f759e610c72e63e!8m2!3d23.0386514!4d72.610972?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / BAPUNAGAR",
@@ -973,7 +1093,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22775522",
-    "LOCATION": "https://www.google.co.in/maps/place/METALIA+HOSPITAL+AND+ICCU/@23.036207,72.629835,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86860d1d26e9:0x4cd81dca0bb62505!8m2!3d23.036207!4d72.629835?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/METALIA+HOSPITAL+AND+ICCU/@23.036207,72.629835,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86860d1d26e9:0x4cd81dca0bb62505!8m2!3d23.036207!4d72.629835?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / SAIJPUR BOGHA",
@@ -989,7 +1111,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "94092 54092",
-    "LOCATION": "https://www.google.co.in/maps/place/Anand+surgical+hospital+pvt.+Ltd./@23.054832,72.630989,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86bbb58d89c7:0xa67795b25ff1d210!8m2!3d23.054832!4d72.630989?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Anand+surgical+hospital+pvt.+Ltd./@23.054832,72.630989,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86bbb58d89c7:0xa67795b25ff1d210!8m2!3d23.054832!4d72.630989?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / NARODA",
@@ -1005,7 +1129,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99798 80044",
-    "LOCATION": "https://www.google.co.in/maps/place/Rhythm+Hospital/@23.0689784,72.6586573,15z/data=!4m9!1m2!2m1!1s+RYTHAM+HOSPITAL+NZ+++NARODA+Gujarat+!3m5!1s0x395e812ae0b38c09:0x71fea7f26ee07b11!8m2!3d23.0739179!4d72.6598821!15sCiUgUllUSEFNIEhPU1BJVEFMIE5aICAgTkFST0RBIEd1amFyYXQgWjcKEnJ5dGhhbSBob3NwaXRhbCBueiIhcnl0aGFtIGhvc3BpdGFsIG56IG5hcm9kYSBndWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Rhythm+Hospital/@23.0689784,72.6586573,15z/data=!4m9!1m2!2m1!1s+RYTHAM+HOSPITAL+NZ+++NARODA+Gujarat+!3m5!1s0x395e812ae0b38c09:0x71fea7f26ee07b11!8m2!3d23.0739179!4d72.6598821!15sCiUgUllUSEFNIEhPU1BJVEFMIE5aICAgTkFST0RBIEd1amFyYXQgWjcKEnJ5dGhhbSBob3NwaXRhbCBueiIhcnl0aGFtIGhvc3BpdGFsIG56IG5hcm9kYSBndWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ/RAKHIYAL",
@@ -1021,7 +1147,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "92274 51046",
-    "LOCATION": "https://www.google.co.in/maps/place/Tapan+Hospital/@23.0360371,72.6296245,15z/data=!3m1!4b1!4m5!3m4!1s0x395e868feaaaaaab:0xfee21f8d311a1a4d!8m2!3d23.0360371!4d72.6296245?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Tapan+Hospital/@23.0360371,72.6296245,15z/data=!3m1!4b1!4m5!3m4!1s0x395e868feaaaaaab:0xfee21f8d311a1a4d!8m2!3d23.0360371!4d72.6296245?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / BAPUNAGAR",
@@ -1037,7 +1165,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97376 11203",
-    "LOCATION": "https://www.google.co.in/maps/place/APOLLO+PRIME+EYE+HOSPITALS/@23.0421804,72.6310217,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8738fa08ee71:0x56e556730161714e!8m2!3d23.0421804!4d72.6310217?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/APOLLO+PRIME+EYE+HOSPITALS/@23.0421804,72.6310217,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8738fa08ee71:0x56e556730161714e!8m2!3d23.0421804!4d72.6310217?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NZ / Sardarnagar",
@@ -1053,7 +1183,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22800244",
-    "LOCATION": "https://www.google.co.in/maps/place/Sindhu+Hospital/@23.084527,72.6454442,17z/data=!3m1!4b1!4m5!3m4!1s0x395e813a304f7d5b:0x55558b86ed8eb2cb!8m2!3d23.084527!4d72.6454442?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sindhu+Hospital/@23.084527,72.6454442,17z/data=!3m1!4b1!4m5!3m4!1s0x395e813a304f7d5b:0x55558b86ed8eb2cb!8m2!3d23.084527!4d72.6454442?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / NARODA",
@@ -1069,7 +1201,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22811400",
-    "LOCATION": "https://www.google.co.in/maps/place/chaudhary+hospital/@23.0614258,72.639833,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86c9cc6f4bf5:0xb6ac305c0bef9f0a!8m2!3d23.0614258!4d72.639833?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/chaudhary+hospital/@23.0614258,72.639833,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86c9cc6f4bf5:0xb6ac305c0bef9f0a!8m2!3d23.0614258!4d72.639833?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / BAPUNAGAR",
@@ -1085,7 +1219,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22778438",
-    "LOCATION": "https://www.google.co.in/maps/place/Shri+Dhanvantary+General+Hospital/@23.0329221,72.6196557,15z/data=!4m9!1m2!2m1!1s+Shree+Dhanvantari+NZ+++BAPUNAGAR+Gujarat+!3m5!1s0x395e868faf783bdd:0x90adfeb7dd189e1!8m2!3d23.0349669!4d72.6297401!15sCihTaHJlZSBEaGFudmFudGFyaSBOWiAgIEJBUFVOQUdBUiBHdWphcmF0Wj4KFHNocmVlIGRoYW52YW50YXJpIG56IiZzaHJlZSBkaGFudmFudGFyaSBueiBiYXB1bmFnYXIgZ3VqYXJhdJIBCGhvc3BpdGFs?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shri+Dhanvantary+General+Hospital/@23.0329221,72.6196557,15z/data=!4m9!1m2!2m1!1s+Shree+Dhanvantari+NZ+++BAPUNAGAR+Gujarat+!3m5!1s0x395e868faf783bdd:0x90adfeb7dd189e1!8m2!3d23.0349669!4d72.6297401!15sCihTaHJlZSBEaGFudmFudGFyaSBOWiAgIEJBUFVOQUdBUiBHdWphcmF0Wj4KFHNocmVlIGRoYW52YW50YXJpIG56IiZzaHJlZSBkaGFudmFudGFyaSBueiBiYXB1bmFnYXIgZ3VqYXJhdJIBCGhvc3BpdGFs?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NZ / NARODA",
@@ -1101,7 +1237,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22801445",
-    "LOCATION": "https://www.google.co.in/maps/place/NIMS+HOSPITAL(Naroda+Institute+Of+Medical+Science)/@23.0762941,72.651136,17z/data=!3m1!4b1!4m5!3m4!1s0x395e812df1100001:0x422e37378eca22a3!8m2!3d23.0762941!4d72.651136?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/NIMS+HOSPITAL(Naroda+Institute+Of+Medical+Science)/@23.0762941,72.651136,17z/data=!3m1!4b1!4m5!3m4!1s0x395e812df1100001:0x422e37378eca22a3!8m2!3d23.0762941!4d72.651136?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ/RAKHIYAL",
@@ -1117,7 +1255,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "80675 06878",
-    "LOCATION": "https://www.google.co.in/maps/place/Narayana+Multispeciality+Hospital,+Ahmedabad/@23.0095083,72.5540115,13z/data=!4m9!1m2!2m1!1s+Narayana+NZ+RAKHIYAL+Gujarat+!3m5!1s0x395e86876b675049:0x333a7f0f520404a7!8m2!3d23.0226551!4d72.6236515!15sChtOYXJheWFuYSBOWiBSQUtISUFMIEd1amFyYXRaKgoLbmFyYXlhbmEgbnoiG25hcmF5YW5hIG56IHJha2hpYWwgZ3VqYXJhdJIBEHByaXZhdGVfaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUXdkVTFQWkZGM0VBRQ?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Narayana+Multispeciality+Hospital,+Ahmedabad/@23.0095083,72.5540115,13z/data=!4m9!1m2!2m1!1s+Narayana+NZ+RAKHIYAL+Gujarat+!3m5!1s0x395e86876b675049:0x333a7f0f520404a7!8m2!3d23.0226551!4d72.6236515!15sChtOYXJheWFuYSBOWiBSQUtISUFMIEd1amFyYXRaKgoLbmFyYXlhbmEgbnoiG25hcmF5YW5hIG56IHJha2hpYWwgZ3VqYXJhdJIBEHByaXZhdGVfaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUXdkVTFQWkZGM0VBRQ?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / NARODA",
@@ -1133,7 +1273,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99090 32354",
-    "LOCATION": "https://www.google.co.in/maps/place/Parth+Orthopedic+And+Surgical+Hospital/@23.078031,72.6545582,17z/data=!3m1!4b1!4m5!3m4!1s0x395e812e9b8b846b:0x42122d134dec7484!8m2!3d23.078031!4d72.6545582?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Parth+Orthopedic+And+Surgical+Hospital/@23.078031,72.6545582,17z/data=!3m1!4b1!4m5!3m4!1s0x395e812e9b8b846b:0x42122d134dec7484!8m2!3d23.078031!4d72.6545582?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / NARODA",
@@ -1149,7 +1291,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/VENUS+HOSPITAL/@23.0657556,72.6445677,13z/data=!4m9!1m2!2m1!1s+Venus+NZ+++NARODA+Gujarat+!3m5!1s0x395e87051c4e24ed:0xfff6623bb6834d7c!8m2!3d23.0619656!4d72.6437896!15sChsgVmVudXMgTlogICBOQVJPREEgR3VqYXJhdCCSAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/VENUS+HOSPITAL/@23.0657556,72.6445677,13z/data=!4m9!1m2!2m1!1s+Venus+NZ+++NARODA+Gujarat+!3m5!1s0x395e87051c4e24ed:0xfff6623bb6834d7c!8m2!3d23.0619656!4d72.6437896!15sChsgVmVudXMgTlogICBOQVJPREEgR3VqYXJhdCCSAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / HIRAWADI",
@@ -1165,7 +1309,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99743 76848",
-    "LOCATION": "https://www.google.co.in/maps/place/Shaiva+Children's+Hospital/@23.0460899,72.6405769,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86ea94729565:0x6a1ad44e9463bdb4!8m2!3d23.0460899!4d72.6405769?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shaiva+Children's+Hospital/@23.0460899,72.6405769,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86ea94729565:0x6a1ad44e9463bdb4!8m2!3d23.0460899!4d72.6405769?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / BAPUNAGAR",
@@ -1181,7 +1327,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-2205854/55/56/57/58,9979887938",
-    "LOCATION": "https://www.google.co.in/maps/place/Kakadiya+Hospital/@23.0400888,72.6302729,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86912590c59d:0x8f5152e53054a5a6!8m2!3d23.0400888!4d72.6302729?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Kakadiya+Hospital/@23.0400888,72.6302729,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86912590c59d:0x8f5152e53054a5a6!8m2!3d23.0400888!4d72.6302729?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NZ / NARODA",
@@ -1197,7 +1345,9 @@ ahmedabad_data=[
     "TYPE": "",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": 9316379996,
-    "LOCATION": "https://www.google.com/maps/place/NEUROLIFE+BRAIN%26SPINE+CLINIC/@23.062328,72.6434229,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87f98762c2e5:0xefac3a884acd4096!8m2!3d23.062328!4d72.6434229?hl=en"
+    "LOCATION": "https://www.google.com/maps/place/NEUROLIFE+BRAIN%26SPINE+CLINIC/@23.062328,72.6434229,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87f98762c2e5:0xefac3a884acd4096!8m2!3d23.062328!4d72.6434229?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / Nikol",
@@ -1213,7 +1363,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97276 62662",
-    "LOCATION": "https://www.google.co.in/maps/place/RABADIA+MULTISPECIALITY+HOSPITAL/@23.0453701,72.6670377,17z/data=!3m1!4b1!4m5!3m4!1s0x395e871ecf572dd9:0xf1853b69762a1e2e!8m2!3d23.0453701!4d72.6670377?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/RABADIA+MULTISPECIALITY+HOSPITAL/@23.0453701,72.6670377,17z/data=!3m1!4b1!4m5!3m4!1s0x395e871ecf572dd9:0xf1853b69762a1e2e!8m2!3d23.0453701!4d72.6670377?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / VASTRAL",
@@ -1229,7 +1381,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99137 23505",
-    "LOCATION": "https://www.google.co.in/maps/place/Jyoti+Hospital/@23.0023327,72.6524682,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8637d22fa75f:0xae593f0eb588171e!8m2!3d23.0023327!4d72.6524682?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Jyoti+Hospital/@23.0023327,72.6524682,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8637d22fa75f:0xae593f0eb588171e!8m2!3d23.0023327!4d72.6524682?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1245,7 +1399,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98253 10149",
-    "LOCATION": "https://www.google.co.in/maps/place/Sarthak+medical+and+icu+hospital/@23.0299949,72.6135955,13z/data=!4m9!1m2!2m1!1s+SARTHAK+EZ+++NIKOL+Gujarat+!3m5!1s0x395e871f5c655555:0x8a7924e273283bce!8m2!3d23.0497641!4d72.6671785!15sChwgU0FSVEhBSyBFWiAgIE5JS09MIEd1amFyYXQgkgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sarthak+medical+and+icu+hospital/@23.0299949,72.6135955,13z/data=!4m9!1m2!2m1!1s+SARTHAK+EZ+++NIKOL+Gujarat+!3m5!1s0x395e871f5c655555:0x8a7924e273283bce!8m2!3d23.0497641!4d72.6671785!15sChwgU0FSVEhBSyBFWiAgIE5JS09MIEd1amFyYXQgkgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1261,7 +1417,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-25469900",
-    "LOCATION": "https://www.google.com/maps/place/Parikh+Orthopedic+Hospital/@22.9964051,72.6086671,15z/data=!4m2!3m1!1s0x0:0xdc7ea3d15910caa7?sa=X&ved=2ahUKEwjW-dKdh5XwAhVimuYKHfLuAEIQ_BIwdXoECH4QBQ"
+    "LOCATION": "https://www.google.com/maps/place/Parikh+Orthopedic+Hospital/@22.9964051,72.6086671,15z/data=!4m2!3m1!1s0x0:0xdc7ea3d15910caa7?sa=X&ved=2ahUKEwjW-dKdh5XwAhVimuYKHfLuAEIQ_BIwdXoECH4QBQ",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / VASTRAL",
@@ -1277,7 +1435,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "96879 00147",
-    "LOCATION": "https://www.google.co.in/maps/place/Narayan+medical+Hospital+and+diabetes+clinic/@23.0023943,72.6524833,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8637d8cf1283:0x2c44081f98d5bea5!8m2!3d23.0023943!4d72.6524833?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Narayan+medical+Hospital+and+diabetes+clinic/@23.0023943,72.6524833,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8637d8cf1283:0x2c44081f98d5bea5!8m2!3d23.0023943!4d72.6524833?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / Odhav",
@@ -1293,7 +1453,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "75750 04800",
-    "LOCATION": "https://www.google.co.in/maps/place/Central+United+Hospital/@23.0241715,72.6650928,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87aafe351011:0x1097cc5fcdd1d2e8!8m2!3d23.0241715!4d72.6650928?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Central+United+Hospital/@23.0241715,72.6650928,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87aafe351011:0x1097cc5fcdd1d2e8!8m2!3d23.0241715!4d72.6650928?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / Amaraiwadi",
@@ -1309,7 +1471,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079 6513 0108",
-    "LOCATION": "https://www.google.co.in/maps/place/Tapan+Hospital/@23.0025427,72.6186955,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86744f11fbcb:0x6e6fc5450ed59153!8m2!3d23.0025427!4d72.6186955?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Tapan+Hospital/@23.0025427,72.6186955,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86744f11fbcb:0x6e6fc5450ed59153!8m2!3d23.0025427!4d72.6186955?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / VASTRAL",
@@ -1325,7 +1489,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97238 20420",
-    "LOCATION": "https://www.google.co.in/maps/place/Avadh+Multispeciality+Hospital/@23.0004719,72.6562803,17z/data=!3m1!4b1!4m5!3m4!1s0x395e876534f497d7:0xe44eccdcf6424b8a!8m2!3d23.0004719!4d72.6562803?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Avadh+Multispeciality+Hospital/@23.0004719,72.6562803,17z/data=!3m1!4b1!4m5!3m4!1s0x395e876534f497d7:0xe44eccdcf6424b8a!8m2!3d23.0004719!4d72.6562803?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / Nikol",
@@ -1341,7 +1507,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079 7123 8889",
-    "LOCATION": "https://www.google.co.in/maps/place/Shalby+Hospitals,+Naroda/@23.0693387,72.6735728,17z/data=!3m1!4b1!4m5!3m4!1s0x395e872df1e4a8e7:0xb71a301f46668b34!8m2!3d23.0693387!4d72.6735728?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shalby+Hospitals,+Naroda/@23.0693387,72.6735728,17z/data=!3m1!4b1!4m5!3m4!1s0x395e872df1e4a8e7:0xb71a301f46668b34!8m2!3d23.0693387!4d72.6735728?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / Nikol",
@@ -1357,7 +1525,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "95740 74455",
-    "LOCATION": "https://www.google.co.in/maps/place/Kanba+Hospital+(Unit+of+Lakhani+Hospital+Pvt+Ltd)/@23.0351036,72.668432,17z/data=!3m1!4b1!4m5!3m4!1s0x395e871ec2c00001:0x59201f9f855b1e67!8m2!3d23.0351036!4d72.668432?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Kanba+Hospital+(Unit+of+Lakhani+Hospital+Pvt+Ltd)/@23.0351036,72.668432,17z/data=!3m1!4b1!4m5!3m4!1s0x395e871ec2c00001:0x59201f9f855b1e67!8m2!3d23.0351036!4d72.668432?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / VASTRAL",
@@ -1373,7 +1543,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "90331 12222",
-    "LOCATION": "https://www.google.co.in/maps/place/Health1+Super+Speciality+Hospital/@22.995255,72.6650251,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8762ec5603bf:0xf73d84aae383e27a!8m2!3d22.995255!4d72.6650251?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Health1+Super+Speciality+Hospital/@22.995255,72.6650251,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8762ec5603bf:0xf73d84aae383e27a!8m2!3d22.995255!4d72.6650251?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1389,7 +1561,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "70963 60005",
-    "LOCATION": "https://www.google.co.in/maps/place/Sardar+Ortho+Hospital/@23.0380039,72.6423973,17z/data=!3m1!4b1!4m5!3m4!1s0x395e868feaaaaaab:0x6fcc16eb7c5667f5!8m2!3d23.037999!4d72.644586?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sardar+Ortho+Hospital/@23.0380039,72.6423973,17z/data=!3m1!4b1!4m5!3m4!1s0x395e868feaaaaaab:0x6fcc16eb7c5667f5!8m2!3d23.037999!4d72.644586?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / AMARAIWADI",
@@ -1405,7 +1579,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "94083 19242",
-    "LOCATION": "https://www.google.co.in/maps/place/Devasyam+Neonatal+and+Children+Hospital/@22.9918024,72.6316395,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86345a9f207d:0x367c7bb2844def92!8m2!3d22.9918024!4d72.6316395?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Devasyam+Neonatal+and+Children+Hospital/@22.9918024,72.6316395,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86345a9f207d:0x367c7bb2844def92!8m2!3d22.9918024!4d72.6316395?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1421,7 +1597,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/Swastik+hospital/@23.0577633,72.6058045,13z/data=!4m9!1m2!2m1!1s+Swastik+mult.+Spe.+Hospital+EZ+++NIKOL+Gujarat+!3m5!1s0x395e8799d09bf60f:0x30b0e394344b4d5a!8m2!3d23.0393866!4d72.6761015!15sCi1Td2FzdGlrIG11bHRpLiBTcGUuIEhvc3BpdGFsIElOIE5JS09MIEd1amFyYXSSAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Swastik+hospital/@23.0577633,72.6058045,13z/data=!4m9!1m2!2m1!1s+Swastik+mult.+Spe.+Hospital+EZ+++NIKOL+Gujarat+!3m5!1s0x395e8799d09bf60f:0x30b0e394344b4d5a!8m2!3d23.0393866!4d72.6761015!15sCi1Td2FzdGlrIG11bHRpLiBTcGUuIEhvc3BpdGFsIElOIE5JS09MIEd1amFyYXSSAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / VIRATNAGAR",
@@ -1437,7 +1615,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "95861 11006",
-    "LOCATION": "https://www.google.co.in/maps/place/Shivalik+Multispeciality+Hospital+Viratnagar/@23.0285766,72.6370652,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86f4b6f6f96b:0xd92327fe08ae547!8m2!3d23.0285717!4d72.6392539?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shivalik+Multispeciality+Hospital+Viratnagar/@23.0285766,72.6370652,17z/data=!3m1!4b1!4m5!3m4!1s0x395e86f4b6f6f96b:0xd92327fe08ae547!8m2!3d23.0285717!4d72.6392539?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1453,7 +1633,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22952575",
-    "LOCATION": "https://www.google.co.in/maps/place/Nikol+Multispeciality+Hospital/@23.0403497,72.6627776,17z/data=!4m9!1m2!2m1!1sNikol+multi+speciality+hospital!3m5!1s0x395e87ead1881c33:0x5f83f188a7344afe!8m2!3d23.0413913!4d72.6633677!15sCh9OaWtvbCBtdWx0aSBzcGVjaWFsaXR5IGhvc3BpdGFskgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Nikol+Multispeciality+Hospital/@23.0403497,72.6627776,17z/data=!4m9!1m2!2m1!1sNikol+multi+speciality+hospital!3m5!1s0x395e87ead1881c33:0x5f83f188a7344afe!8m2!3d23.0413913!4d72.6633677!15sCh9OaWtvbCBtdWx0aSBzcGVjaWFsaXR5IGhvc3BpdGFskgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1469,7 +1651,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "70416 72111",
-    "LOCATION": "https://www.google.com/maps/place/Safal+Speciality+Hospital/@22.9532394,72.6602253,15z/data=!4m2!3m1!1s0x0:0x6a561444be16b012?sa=X&ved=2ahUKEwjY8cHoiZXwAhVBg-YKHQh3C-IQ_BIwbXoECFoQBQ"
+    "LOCATION": "https://www.google.com/maps/place/Safal+Speciality+Hospital/@22.9532394,72.6602253,15z/data=!4m2!3m1!1s0x0:0x6a561444be16b012?sa=X&ved=2ahUKEwjY8cHoiZXwAhVBg-YKHQh3C-IQ_BIwbXoECFoQBQ",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / ODHAV",
@@ -1485,7 +1669,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98253 13138",
-    "LOCATION": "https://www.google.co.in/maps/place/Rangam+Hospital/@23.0099033,72.6363072,15z/data=!4m13!1m6!3m5!1s0x395e86447be24eff:0x6c44a0517192e507!2sRangam+Hospital!8m2!3d23.0099033!4d72.6450619!3m5!1s0x395e86447be24eff:0x6c44a0517192e507!8m2!3d23.0099033!4d72.6450619!15sChVyYW5nYW0gaG9zaXB0YWwgb2RoYXZaKAoPcmFuZ2FtIGhvc2lwdGFsIhVyYW5nYW0gaG9zaXB0YWwgb2RoYXaSARBwcml2YXRlX2hvc3BpdGFs?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Rangam+Hospital/@23.0099033,72.6363072,15z/data=!4m13!1m6!3m5!1s0x395e86447be24eff:0x6c44a0517192e507!2sRangam+Hospital!8m2!3d23.0099033!4d72.6450619!3m5!1s0x395e86447be24eff:0x6c44a0517192e507!8m2!3d23.0099033!4d72.6450619!15sChVyYW5nYW0gaG9zaXB0YWwgb2RoYXZaKAoPcmFuZ2FtIGhvc2lwdGFsIhVyYW5nYW0gaG9zaXB0YWwgb2RoYXaSARBwcml2YXRlX2hvc3BpdGFs?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / ODHAV",
@@ -1501,7 +1687,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "73837 06702",
-    "LOCATION": "https://www.google.co.in/maps/place/Pancham+Hospital/@23.0339949,72.6602073,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8767be176bd1:0xff2a87cb4c21109b!8m2!3d23.03399!4d72.662396?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Pancham+Hospital/@23.0339949,72.6602073,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8767be176bd1:0xff2a87cb4c21109b!8m2!3d23.03399!4d72.662396?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / VASTRAL",
@@ -1517,7 +1705,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/Kanba+Hospital+(Unit+of+Lakhani+Hospital+Pvt+Ltd)/@23.0351173,72.6662417,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87868d5ac647:0x1d5c089883f04f7e!8m2!3d23.0351124!4d72.6684304?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Kanba+Hospital+(Unit+of+Lakhani+Hospital+Pvt+Ltd)/@23.0351173,72.6662417,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87868d5ac647:0x1d5c089883f04f7e!8m2!3d23.0351124!4d72.6684304?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / Vastral",
@@ -1533,7 +1723,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "78018 85566",
-    "LOCATION": "https://www.google.co.in/maps/place/Spandan+Hospital+Vastral+Ring+Road/@22.9992148,72.6657599,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87cbaf5a8853:0xb9f91a993c987dc!8m2!3d22.9992148!4d72.6657599?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Spandan+Hospital+Vastral+Ring+Road/@22.9992148,72.6657599,17z/data=!3m1!4b1!4m5!3m4!1s0x395e87cbaf5a8853:0xb9f91a993c987dc!8m2!3d22.9992148!4d72.6657599?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / Vastral",
@@ -1549,7 +1741,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "94995 14222",
-    "LOCATION": "https://www.google.co.in/maps/place/Om+family+care+hospital/@22.9930349,72.6627094,17z/data=!3m1!4b1!4m5!3m4!1s0x395e878f87444f4f:0xaf1c208057a50224!8m2!3d22.9930393!4d72.6626811?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Om+family+care+hospital/@22.9930349,72.6627094,17z/data=!3m1!4b1!4m5!3m4!1s0x395e878f87444f4f:0xaf1c208057a50224!8m2!3d22.9930393!4d72.6626811?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / ODHAV",
@@ -1565,7 +1759,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "88568 60463",
-    "LOCATION": "https://www.google.co.in/maps/place/Gurukrupa+Multispeciality+Hospital/@23.0149188,72.6400475,19z/data=!4m9!1m2!2m1!1s+Shree+Gurukrupa+multi.+Spe.+Hospital+ODHAV+!3m5!1s0x395e865d0cc49a7b:0x6dda980ec6c0d22d!8m2!3d23.015063!4d72.6403148!15sCipTaHJlZSBHdXJ1a3J1cGEgbXVsdGkuIFNwZS4gSG9zcGl0YWwgT0RIQVZaTgoic2hyZWUgZ3VydWtydXBhIG11bHRpIHNwZSBob3NwaXRhbCIoc2hyZWUgZ3VydWtydXBhIG11bHRpIHNwZSBob3NwaXRhbCBvZGhhdpIBCGhvc3BpdGFs?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Gurukrupa+Multispeciality+Hospital/@23.0149188,72.6400475,19z/data=!4m9!1m2!2m1!1s+Shree+Gurukrupa+multi.+Spe.+Hospital+ODHAV+!3m5!1s0x395e865d0cc49a7b:0x6dda980ec6c0d22d!8m2!3d23.015063!4d72.6403148!15sCipTaHJlZSBHdXJ1a3J1cGEgbXVsdGkuIFNwZS4gSG9zcGl0YWwgT0RIQVZaTgoic2hyZWUgZ3VydWtydXBhIG11bHRpIHNwZSBob3NwaXRhbCIoc2hyZWUgZ3VydWtydXBhIG11bHRpIHNwZSBob3NwaXRhbCBvZGhhdpIBCGhvc3BpdGFs?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1581,7 +1777,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99090 05385",
-    "LOCATION": "https://www.google.co.in/maps/place/PALM+HOSPITAL/@23.0502709,72.6633237,17z/data=!4m5!3m4!1s0x395e872025e80169:0xb627065152617b37!8m2!3d23.0503696!4d72.6645468?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/PALM+HOSPITAL/@23.0502709,72.6633237,17z/data=!4m5!3m4!1s0x395e872025e80169:0xb627065152617b37!8m2!3d23.0503696!4d72.6645468?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1597,7 +1795,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-40042223",
-    "LOCATION": "https://www.google.co.in/maps/place/Vedant+Multispeciality+Hospital/@23.0758369,72.6627533,17z/data=!3m1!4b1!4m5!3m4!1s0x395e80d5073926f1:0x184f4600da79618f!8m2!3d23.075832!4d72.664942?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Vedant+Multispeciality+Hospital/@23.0758369,72.6627533,17z/data=!3m1!4b1!4m5!3m4!1s0x395e80d5073926f1:0x184f4600da79618f!8m2!3d23.075832!4d72.664942?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / NIKOL",
@@ -1613,7 +1813,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.com/maps/place/Shree+Khodiyaar+Hospital/@23.0398148,72.6636408,16z/data=!4m9!1m2!2m1!1sshree+khodiyar+hospital+nikol!3m5!1s0x395e871d812c977f:0x47af98f2c20b55d8!8m2!3d23.0414735!4d72.6626323!15sCh1zaHJlZSBraG9kaXlhciBob3NwaXRhbCBuaWtvbFo4ChdzaHJlZSBraG9kaXlhciBob3NwaXRhbCIdc2hyZWUga2hvZGl5YXIgaG9zcGl0YWwgbmlrb2ySAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.com/maps/place/Shree+Khodiyaar+Hospital/@23.0398148,72.6636408,16z/data=!4m9!1m2!2m1!1sshree+khodiyar+hospital+nikol!3m5!1s0x395e871d812c977f:0x47af98f2c20b55d8!8m2!3d23.0414735!4d72.6626323!15sCh1zaHJlZSBraG9kaXlhciBob3NwaXRhbCBuaWtvbFo4ChdzaHJlZSBraG9kaXlhciBob3NwaXRhbCIdc2hyZWUga2hvZGl5YXIgaG9zcGl0YWwgbmlrb2ySAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "EZ / BAKROL",
@@ -1629,7 +1831,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "74702 12345",
-    "LOCATION": "https://www.google.co.in/maps/place/SHIV+HOSPITAL/@22.9856059,72.7351955,17z/data=!3m1!4b1!4m5!3m4!1s0x395e7d8c00a4f805:0x1ac4677e1e9a1803!8m2!3d22.9856059!4d72.7351955?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/SHIV+HOSPITAL/@22.9856059,72.7351955,17z/data=!3m1!4b1!4m5!3m4!1s0x395e7d8c00a4f805:0x1ac4677e1e9a1803!8m2!3d22.9856059!4d72.7351955?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "SZ / Isanpur",
@@ -1645,7 +1849,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99252 30044",
-    "LOCATION": "https://www.google.co.in/maps/place/Ratan+Hospital/@22.9830268,72.5974839,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85f12e28d97b:0x79873495603f3e0d!8m2!3d22.9830268!4d72.5974839?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Ratan+Hospital/@22.9830268,72.5974839,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85f12e28d97b:0x79873495603f3e0d!8m2!3d22.9830268!4d72.5974839?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / MANINAGAR",
@@ -1661,7 +1867,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "92654 41082",
-    "LOCATION": "https://www.google.co.in/maps/place/littleflower+hospital+%26+ICU/@22.9936537,72.607393,17z/data=!3m1!4b1!4m5!3m4!1s0x395e857ffb44738f:0x97bea794308aa7a7!8m2!3d22.9936537!4d72.607393?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/littleflower+hospital+%26+ICU/@22.9936537,72.607393,17z/data=!3m1!4b1!4m5!3m4!1s0x395e857ffb44738f:0x97bea794308aa7a7!8m2!3d22.9936537!4d72.607393?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / MANINAGAR",
@@ -1677,7 +1885,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079 4010 8108",
-    "LOCATION": "https://www.google.com/maps/place/Aarna-Urology/@23.0144514,72.5591486,15z/data=!4m2!3m1!1s0x0:0xc2c7896fcaa35493?sa=X&ved=2ahUKEwiXs9qxjZXwAhVr73MBHYeIAOwQ_BIwdHoECHwQBQ"
+    "LOCATION": "https://www.google.com/maps/place/Aarna-Urology/@23.0144514,72.5591486,15z/data=!4m2!3m1!1s0x0:0xc2c7896fcaa35493?sa=X&ved=2ahUKEwiXs9qxjZXwAhVr73MBHYeIAOwQ_BIwdHoECHwQBQ",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / MANINAGAR",
@@ -1693,7 +1903,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "74900 35419",
-    "LOCATION": "https://www.google.co.in/maps/place/Laxmi+hospital+-+maninagar+ahmedabad/@22.9949974,72.5966356,15z/data=!4m9!1m2!2m1!1s+Laxmi+hospital+SZ+++MANINAGAR+Gujarat+!3m5!1s0x0:0x75a97d207f47cc81!8m2!3d22.9949983!4d72.6036242!15sCicgTGF4bWkgaG9zcGl0YWwgU1ogICBNQU5JTkFHQVIgR3VqYXJhdCBaOAoRbGF4bWkgaG9zcGl0YWwgc3oiI2xheG1pIGhvc3BpdGFsIHN6IG1hbmluYWdhciBndWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Laxmi+hospital+-+maninagar+ahmedabad/@22.9949974,72.5966356,15z/data=!4m9!1m2!2m1!1s+Laxmi+hospital+SZ+++MANINAGAR+Gujarat+!3m5!1s0x0:0x75a97d207f47cc81!8m2!3d22.9949983!4d72.6036242!15sCicgTGF4bWkgaG9zcGl0YWwgU1ogICBNQU5JTkFHQVIgR3VqYXJhdCBaOAoRbGF4bWkgaG9zcGl0YWwgc3oiI2xheG1pIGhvc3BpdGFsIHN6IG1hbmluYWdhciBndWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ/ KHOKHARA",
@@ -1709,7 +1921,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "93270 40155",
-    "LOCATION": "https://www.google.co.in/maps/place/Pallav+-+COVID+Designated+Hospital/@22.99489,72.6142306,17z/data=!4m9!1m2!2m1!1s+PALLAV+HOSPITAL+SZ++KHOKHARA+Gujarat+!3m5!1s0x395e860abfffffff:0x276ed6d236b084c6!8m2!3d22.9947249!4d72.6140503!15sCiYgUEFMTEFWIEhPU1BJVEFMIFNaICBLSE9LSEFSQSBHdWphcmF0IFo5ChJwYWxsYXYgaG9zcGl0YWwgc3oiI3BhbGxhdiBob3NwaXRhbCBzeiBraG9raGFyYSBndWphcmF0kgEQZ2VuZXJhbF9ob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Pallav+-+COVID+Designated+Hospital/@22.99489,72.6142306,17z/data=!4m9!1m2!2m1!1s+PALLAV+HOSPITAL+SZ++KHOKHARA+Gujarat+!3m5!1s0x395e860abfffffff:0x276ed6d236b084c6!8m2!3d22.9947249!4d72.6140503!15sCiYgUEFMTEFWIEhPU1BJVEFMIFNaICBLSE9LSEFSQSBHdWphcmF0IFo5ChJwYWxsYXYgaG9zcGl0YWwgc3oiI3BhbGxhdiBob3NwaXRhbCBzeiBraG9raGFyYSBndWphcmF0kgEQZ2VuZXJhbF9ob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / Ghodasar",
@@ -1725,7 +1939,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98243 60987",
-    "LOCATION": "https://www.google.co.in/maps/place/Sarthak+multi+spe+hospital/@22.9759676,72.6058833,14.47z/data=!4m9!1m2!2m1!1s+SARTHAK++HOSPITAL,GHODASAR+SZ+++Ghodasar+Gujarat+!3m5!1s0x395e8f1b064bacfd:0x5d8da36663925888!8m2!3d22.9744687!4d72.6116514!15sCjIgU0FSVEhBSyAgSE9TUElUQUwsR0hPREFTQVIgU1ogICBHaG9kYXNhciBHdWphcmF0IFpVCiRzYXJ0aGFrIGhvc3BpdGFsIHN6IGdob2Rhc2FyIGd1amFyYXQiLXNhcnRoYWsgaG9zcGl0YWwgZ2hvZGFzYXIgc3ogZ2hvZGFzYXIgZ3VqYXJhdJIBCGhvc3BpdGFsmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJEY0UweVNtTlJFQUU?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sarthak+multi+spe+hospital/@22.9759676,72.6058833,14.47z/data=!4m9!1m2!2m1!1s+SARTHAK++HOSPITAL,GHODASAR+SZ+++Ghodasar+Gujarat+!3m5!1s0x395e8f1b064bacfd:0x5d8da36663925888!8m2!3d22.9744687!4d72.6116514!15sCjIgU0FSVEhBSyAgSE9TUElUQUwsR0hPREFTQVIgU1ogICBHaG9kYXNhciBHdWphcmF0IFpVCiRzYXJ0aGFrIGhvc3BpdGFsIHN6IGdob2Rhc2FyIGd1amFyYXQiLXNhcnRoYWsgaG9zcGl0YWwgZ2hvZGFzYXIgc3ogZ2hvZGFzYXIgZ3VqYXJhdJIBCGhvc3BpdGFsmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJEY0UweVNtTlJFQUU?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "SZ / KHOKHRA",
@@ -1741,7 +1957,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "80000 97041",
-    "LOCATION": "https://www.google.co.in/maps/place/Aavishkar+Multispeciality,+ICU+%26+Trauma+Center/@22.9880829,72.5768728,13z/data=!4m9!1m2!2m1!1s+AVISHKAR+SZ+++KHOKHRA+Gujarat+!3m5!1s0x395e85e9da07067f:0x834bf97fafca70f7!8m2!3d22.9880829!4d72.6118917!15sCh8gQVZJU0hLQVIgU1ogICBLSE9LSFJBIEd1amFyYXQgWioKC2F2aXNoa2FyIHN6IhthdmlzaGthciBzeiBraG9raHJhIGd1amFyYXSSAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Aavishkar+Multispeciality,+ICU+%26+Trauma+Center/@22.9880829,72.5768728,13z/data=!4m9!1m2!2m1!1s+AVISHKAR+SZ+++KHOKHRA+Gujarat+!3m5!1s0x395e85e9da07067f:0x834bf97fafca70f7!8m2!3d22.9880829!4d72.6118917!15sCh8gQVZJU0hLQVIgU1ogICBLSE9LSFJBIEd1amFyYXQgWioKC2F2aXNoa2FyIHN6IhthdmlzaGthciBzeiBraG9raHJhIGd1amFyYXSSAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / MANINAGAR",
@@ -1757,7 +1975,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/Jankalyan+Hospital/@23.0012475,72.5903983,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85bf4cb140f5:0x6e9c0e3722b664dd!8m2!3d23.0012475!4d72.5903983?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Jankalyan+Hospital/@23.0012475,72.5903983,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85bf4cb140f5:0x6e9c0e3722b664dd!8m2!3d23.0012475!4d72.5903983?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / NAROL",
@@ -1773,7 +1993,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-25733133",
-    "LOCATION": "https://www.google.co.in/maps/place/Narol+Icu+And+Multispeciality+Hospital/@22.9646889,72.5902855,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8f6773de61d1:0xdf068fc0c3859ef4!8m2!3d22.9646889!4d72.5902855?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Narol+Icu+And+Multispeciality+Hospital/@22.9646889,72.5902855,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8f6773de61d1:0xdf068fc0c3859ef4!8m2!3d22.9646889!4d72.5902855?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / NAROL",
@@ -1789,7 +2011,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98250 15260",
-    "LOCATION": "https://www.google.co.in/maps/place/Shakti+Super+Specialty+Hospital/@22.9663428,72.6305793,12z/data=!4m9!1m2!2m1!1s+Shakti+hospital+SZ+++NAROL+Gujarat+!3m5!1s0x395e858a7cc4593b:0x393b2a6f68f8670e!8m2!3d22.9664914!4d72.5893924!15sCiQgU2hha3RpIGhvc3BpdGFsIFNaICAgTkFST0wgR3VqYXJhdCBaNgoSc2hha3RpIGhvc3BpdGFsIHN6IiBzaGFrdGkgaG9zcGl0YWwgc3ogbmFyb2wgZ3VqYXJhdJIBCGhvc3BpdGFssAEA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shakti+Super+Specialty+Hospital/@22.9663428,72.6305793,12z/data=!4m9!1m2!2m1!1s+Shakti+hospital+SZ+++NAROL+Gujarat+!3m5!1s0x395e858a7cc4593b:0x393b2a6f68f8670e!8m2!3d22.9664914!4d72.5893924!15sCiQgU2hha3RpIGhvc3BpdGFsIFNaICAgTkFST0wgR3VqYXJhdCBaNgoSc2hha3RpIGhvc3BpdGFsIHN6IiBzaGFrdGkgaG9zcGl0YWwgc3ogbmFyb2wgZ3VqYXJhdJIBCGhvc3BpdGFssAEA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / MANINAGAR",
@@ -1805,7 +2029,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-25466826",
-    "LOCATION": "https://www.google.co.in/maps/place/Shraddha+Hospital/@22.9932279,72.6108702,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85e16b6475c3:0xf14bfd436e851923!8m2!3d22.9932279!4d72.6108702?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shraddha+Hospital/@22.9932279,72.6108702,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85e16b6475c3:0xf14bfd436e851923!8m2!3d22.9932279!4d72.6108702?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "SZ / Behrampura",
@@ -1821,7 +2047,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-25384759",
-    "LOCATION": "https://www.google.co.in/maps/place/Shifa+Multispeciality+Hospital/@23.011158,72.5801949,16.39z/data=!4m9!1m2!2m1!1s+Shifa+hospitals,+Jamalpur+SZ+++Behrampura+Gujarat+!3m5!1s0x395e85b1daaed08b:0xe0accf5417f7342d!8m2!3d23.0097851!4d72.5805095!15sCjMgU2hpZmEgaG9zcGl0YWxzLCBKYW1hbHB1ciBTWiAgIEJlaHJhbXB1cmEgR3VqYXJhdCBaTQobc2hpZmEgaG9zcGl0YWxzIGphbWFscHVyIHN6Ii5zaGlmYSBob3NwaXRhbHMgamFtYWxwdXIgc3ogYmVocmFtcHVyYSBndWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shifa+Multispeciality+Hospital/@23.011158,72.5801949,16.39z/data=!4m9!1m2!2m1!1s+Shifa+hospitals,+Jamalpur+SZ+++Behrampura+Gujarat+!3m5!1s0x395e85b1daaed08b:0xe0accf5417f7342d!8m2!3d23.0097851!4d72.5805095!15sCjMgU2hpZmEgaG9zcGl0YWxzLCBKYW1hbHB1ciBTWiAgIEJlaHJhbXB1cmEgR3VqYXJhdCBaTQobc2hpZmEgaG9zcGl0YWxzIGphbWFscHVyIHN6Ii5zaGlmYSBob3NwaXRhbHMgamFtYWxwdXIgc3ogYmVocmFtcHVyYSBndWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / NAROL",
@@ -1837,7 +2065,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "87581 15358",
-    "LOCATION": "https://www.google.co.in/maps/place/Jankalyan+Janseva+Hospital/@22.9634315,72.5836572,15z/data=!4m9!1m2!2m1!1s+Jankalyan+hospital,+Narol,+Gujarat+!3m5!1s0x0:0x749df5edfd37c65d!8m2!3d22.9634312!4d72.5912428!15sCiJKYW5rYWx5YW4gaG9zcGl0YWwsIE5hcm9sLCBHdWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Jankalyan+Janseva+Hospital/@22.9634315,72.5836572,15z/data=!4m9!1m2!2m1!1s+Jankalyan+hospital,+Narol,+Gujarat+!3m5!1s0x0:0x749df5edfd37c65d!8m2!3d22.9634312!4d72.5912428!15sCiJKYW5rYWx5YW4gaG9zcGl0YWwsIE5hcm9sLCBHdWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / VATVA",
@@ -1853,7 +2083,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26460460",
-    "LOCATION": "https://www.google.co.in/maps/place/Sparsh+Multispeciality+Hospital/@22.9663351,72.6249119,17z/data=!3m1!4b1!4m5!3m4!1s0x395e892e4aa7ca97:0xa114d2298842a6f4!8m2!3d22.9663351!4d72.6249119?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sparsh+Multispeciality+Hospital/@22.9663351,72.6249119,17z/data=!3m1!4b1!4m5!3m4!1s0x395e892e4aa7ca97:0xa114d2298842a6f4!8m2!3d22.9663351!4d72.6249119?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "SZ/ MANINAGAR",
@@ -1869,7 +2101,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-25431578",
-    "LOCATION": "https://www.google.co.in/maps/place/Sardar+Patel+Hospital/@22.9990784,72.5834422,14z/data=!4m9!1m2!2m1!1s+SHREE+SARDAR+PATEL+SZ++MANINAGAR+Gujarat+!3m5!1s0x395e848bae3fc461:0x5524e4840fb48d3f!8m2!3d22.9990784!4d72.6009517!15sCihTSFJFRSBTQVJEQVIgUEFURUwgU1ogIE1BTklOQUdBUiBHdWphcmF0WkAKFXNocmVlIHNhcmRhciBwYXRlbCBzeiInc2hyZWUgc2FyZGFyIHBhdGVsIHN6IG1hbmluYWdhciBndWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sardar+Patel+Hospital/@22.9990784,72.5834422,14z/data=!4m9!1m2!2m1!1s+SHREE+SARDAR+PATEL+SZ++MANINAGAR+Gujarat+!3m5!1s0x395e848bae3fc461:0x5524e4840fb48d3f!8m2!3d22.9990784!4d72.6009517!15sCihTSFJFRSBTQVJEQVIgUEFURUwgU1ogIE1BTklOQUdBUiBHdWphcmF0WkAKFXNocmVlIHNhcmRhciBwYXRlbCBzeiInc2hyZWUgc2FyZGFyIHBhdGVsIHN6IG1hbmluYWdhciBndWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ/ MANINAGAR",
@@ -1885,7 +2119,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-2546512",
-    "LOCATION": "https://www.google.co.in/maps/place/Siddhi+Vinayak+Hospital/@23.0045105,72.5857786,14z/data=!4m9!1m2!2m1!1s+Siddhi+Vinayak+Hospital+SZ++MANINAGAR+Gujarat+!3m5!1s0x395e85db3effffff:0xf5bef81a478d1572!8m2!3d23.0041243!4d72.606385!15sCi8gU2lkZGhpIFZpbmF5YWsgSG9zcGl0YWwgU1ogIE1BTklOQUdBUiBHdWphcmF0IFpKChpzaWRkaGkgdmluYXlhayBob3NwaXRhbCBzeiIsc2lkZGhpIHZpbmF5YWsgaG9zcGl0YWwgc3ogbWFuaW5hZ2FyIGd1amFyYXSSARBnZW5lcmFsX2hvc3BpdGFsmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU4zTUZsMUxXcG5SUkFC?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Siddhi+Vinayak+Hospital/@23.0045105,72.5857786,14z/data=!4m9!1m2!2m1!1s+Siddhi+Vinayak+Hospital+SZ++MANINAGAR+Gujarat+!3m5!1s0x395e85db3effffff:0xf5bef81a478d1572!8m2!3d23.0041243!4d72.606385!15sCi8gU2lkZGhpIFZpbmF5YWsgSG9zcGl0YWwgU1ogIE1BTklOQUdBUiBHdWphcmF0IFpKChpzaWRkaGkgdmluYXlhayBob3NwaXRhbCBzeiIsc2lkZGhpIHZpbmF5YWsgaG9zcGl0YWwgc3ogbWFuaW5hZ2FyIGd1amFyYXSSARBnZW5lcmFsX2hvc3BpdGFsmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU4zTUZsMUxXcG5SUkFC?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SZ / LAMBHA",
@@ -1901,7 +2137,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/Riyaana+Multi+Speciality+hospital+Private+Limited/@22.9636539,72.5713017,12z/data=!4m9!1m2!2m1!1s+Riyana+Multi.+Spe.+Hospital+SZ+++LAMBHA+Gujarat+!3m5!1s0x395e8f41ccd44fc5:0xb2009459eecb3376!8m2!3d22.954364!4d72.5923256!15sCjEgUml5YW5hIE11bHRpLiBTcGUuIEhvc3BpdGFsIFNaICAgTEFNQkhBIEd1amFyYXQgkgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Riyaana+Multi+Speciality+hospital+Private+Limited/@22.9636539,72.5713017,12z/data=!4m9!1m2!2m1!1s+Riyana+Multi.+Spe.+Hospital+SZ+++LAMBHA+Gujarat+!3m5!1s0x395e8f41ccd44fc5:0xb2009459eecb3376!8m2!3d22.954364!4d72.5923256!15sCjEgUml5YW5hIE11bHRpLiBTcGUuIEhvc3BpdGFsIFNaICAgTEFNQkhBIEd1amFyYXQgkgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "CZ / Shahibaug",
@@ -1917,7 +2155,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99740 66000",
-    "LOCATION": "https://www.google.com/maps/place/Rajasthan+Hospital+Ahmedabad/@23.0550441,72.5969431,15z/data=!4m2!3m1!1s0x0:0x2e74535df195b8f3?sa=X&ved=2ahUKEwjh0-e5kZXwAhWb8HMBHZ5jCWYQ_BIwb3oECHEQBQ"
+    "LOCATION": "https://www.google.com/maps/place/Rajasthan+Hospital+Ahmedabad/@23.0550441,72.5969431,15z/data=!4m2!3m1!1s0x0:0x2e74535df195b8f3?sa=X&ved=2ahUKEwjh0-e5kZXwAhWb8HMBHZ5jCWYQ_BIwb3oECHEQBQ",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "CZ / Shahibaug",
@@ -1933,7 +2173,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98250 35789",
-    "LOCATION": "https://www.google.co.in/maps/place/Chandramani+Hospital/@23.0488559,72.5861162,15z/data=!4m9!1m2!2m1!1s+Chandramani+Hospital+CZ+++Shahibaug+Gujarat+!3m5!1s0x395e84138bf8509b:0xc28c1f1928126020!8m2!3d23.0488559!4d72.5948709!15sCi0gQ2hhbmRyYW1hbmkgSG9zcGl0YWwgQ1ogICBTaGFoaWJhdWcgR3VqYXJhdCBaRAoXY2hhbmRyYW1hbmkgaG9zcGl0YWwgY3oiKWNoYW5kcmFtYW5pIGhvc3BpdGFsIGN6IHNoYWhpYmF1ZyBndWphcmF0kgEQcHJpdmF0ZV9ob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Chandramani+Hospital/@23.0488559,72.5861162,15z/data=!4m9!1m2!2m1!1s+Chandramani+Hospital+CZ+++Shahibaug+Gujarat+!3m5!1s0x395e84138bf8509b:0xc28c1f1928126020!8m2!3d23.0488559!4d72.5948709!15sCi0gQ2hhbmRyYW1hbmkgSG9zcGl0YWwgQ1ogICBTaGFoaWJhdWcgR3VqYXJhdCBaRAoXY2hhbmRyYW1hbmkgaG9zcGl0YWwgY3oiKWNoYW5kcmFtYW5pIGhvc3BpdGFsIGN6IHNoYWhpYmF1ZyBndWphcmF0kgEQcHJpdmF0ZV9ob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "CZ / Shahpur",
@@ -1949,7 +2191,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98250 12300",
-    "LOCATION": "https://www.google.co.in/maps/place/Life+Care+Hospital/@23.0333195,72.5789372,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84992a3210b3:0xd4a935bd8c53b13b!8m2!3d23.0333195!4d72.5789372?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Life+Care+Hospital/@23.0333195,72.5789372,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84992a3210b3:0xd4a935bd8c53b13b!8m2!3d23.0333195!4d72.5789372?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "CZ / Shahibaug",
@@ -1965,7 +2209,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-25629000",
-    "LOCATION": "https://www.google.co.in/maps/place/BAPS+Yogiji+Maharaj+Hospital/@23.0460805,72.5887516,17z/data=!3m1!4b1!4m5!3m4!1s0x395e846b752bf3d9:0x62f0c185953205d2!8m2!3d23.0460805!4d72.5887516?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/BAPS+Yogiji+Maharaj+Hospital/@23.0460805,72.5887516,17z/data=!3m1!4b1!4m5!3m4!1s0x395e846b752bf3d9:0x62f0c185953205d2!8m2!3d23.0460805!4d72.5887516?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "CZ / Asarwa",
@@ -1981,7 +2227,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22685599",
-    "LOCATION": "https://www.google.co.in/maps/place/Prime+Hospital/@23.0488575,72.6050574,17z/data=!3m1!4b1!4m5!3m4!1s0x395e858236c8cd9b:0xff9cf7a558c18501!8m2!3d23.0488575!4d72.6050574?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Prime+Hospital/@23.0488575,72.6050574,17z/data=!3m1!4b1!4m5!3m4!1s0x395e858236c8cd9b:0xff9cf7a558c18501!8m2!3d23.0488575!4d72.6050574?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "CZ / Shahibaug",
@@ -1997,7 +2245,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22744060",
-    "LOCATION": "https://www.google.co.in/maps/place/Anand+Hospital+%26+Multispeciality+%26+spring+ivf/@23.0376939,72.5502128,13z/data=!4m9!1m2!2m1!1s+ANAND+MULTI.+HOSPITAL,+Shahibaug.+Gujarat+!3m5!1s0x395e86ea9383a313:0xba139b508301beae!8m2!3d23.0461019!4d72.6406181!15sCilBTkFORCBNVUxUSS4gSE9TUElUQUwsIFNoYWhpYmF1Zy4gR3VqYXJhdFo-ChRhbmFuZCBtdWx0aSBob3NwaXRhbCImYW5hbmQgbXVsdGkgaG9zcGl0YWwgc2hhaGliYXVnIGd1amFyYXSSAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Anand+Hospital+%26+Multispeciality+%26+spring+ivf/@23.0376939,72.5502128,13z/data=!4m9!1m2!2m1!1s+ANAND+MULTI.+HOSPITAL,+Shahibaug.+Gujarat+!3m5!1s0x395e86ea9383a313:0xba139b508301beae!8m2!3d23.0461019!4d72.6406181!15sCilBTkFORCBNVUxUSS4gSE9TUElUQUwsIFNoYWhpYmF1Zy4gR3VqYXJhdFo-ChRhbmFuZCBtdWx0aSBob3NwaXRhbCImYW5hbmQgbXVsdGkgaG9zcGl0YWwgc2hhaGliYXVnIGd1amFyYXSSAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "CZ / DARIAPUR",
@@ -2013,7 +2263,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-22162418",
-    "LOCATION": "https://www.google.co.in/maps/place/Lokhandwala+General+Hospital/@23.0347856,72.5952878,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84391716c311:0xb910d0b70256791f!8m2!3d23.0347856!4d72.5952878?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Lokhandwala+General+Hospital/@23.0347856,72.5952878,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84391716c311:0xb910d0b70256791f!8m2!3d23.0347856!4d72.5952878?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "CZ / Shahibaug",
@@ -2029,7 +2281,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-25631234",
-    "LOCATION": "https://www.google.co.in/maps/place/Shree+Bharti+Vallabh+Hospital/@23.0495616,72.5931306,18z/data=!4m9!1m2!2m1!1s+Shree+Bharati+Vallabh+CZ+++Shahibaug+Gujarat+!3m5!1s0x395e8413161b2a65:0x2e67127a4a2c5745!8m2!3d23.0495036!4d72.5929745!15sCi4gU2hyZWUgQmhhcmF0aSBWYWxsYWJoIENaICAgU2hhaGliYXVnIEd1amFyYXQgWkYKGHNocmVlIGJoYXJhdGkgdmFsbGFiaCBjeiIqc2hyZWUgYmhhcmF0aSB2YWxsYWJoIGN6IHNoYWhpYmF1ZyBndWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shree+Bharti+Vallabh+Hospital/@23.0495616,72.5931306,18z/data=!4m9!1m2!2m1!1s+Shree+Bharati+Vallabh+CZ+++Shahibaug+Gujarat+!3m5!1s0x395e8413161b2a65:0x2e67127a4a2c5745!8m2!3d23.0495036!4d72.5929745!15sCi4gU2hyZWUgQmhhcmF0aSBWYWxsYWJoIENaICAgU2hhaGliYXVnIEd1amFyYXQgWkYKGHNocmVlIGJoYXJhdGkgdmFsbGFiaCBjeiIqc2hyZWUgYmhhcmF0aSB2YWxsYWJoIGN6IHNoYWhpYmF1ZyBndWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Gota",
@@ -2045,7 +2299,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98250 66664",
-    "LOCATION": "https://www.google.co.in/maps/place/CIMS+Hospital/@23.0701125,72.5174376,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0701125!4d72.5174376?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/CIMS+Hospital/@23.0701125,72.5174376,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0701125!4d72.5174376?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Bodekdev",
@@ -2061,7 +2317,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-30983098",
-    "LOCATION": "https://www.google.co.in/maps/place/Sterling+Cancer+Hospital/@23.0414855,72.5094662,17z/data=!4m5!3m4!1s0x395e9b4f9b56f671:0x710f96e3e2fe01e4!8m2!3d23.0414855!4d72.5094662?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sterling+Cancer+Hospital/@23.0414855,72.5094662,17z/data=!4m5!3m4!1s0x395e9b4f9b56f671:0x710f96e3e2fe01e4!8m2!3d23.0414855!4d72.5094662?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Gota",
@@ -2077,7 +2335,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "02717 240 001",
-    "LOCATION": "https://www.google.co.in/maps/place/SGVP+Holistic+Hospital/@23.1325454,72.5398761,17z/data=!3m1!4b1!4m5!3m4!1s0x395e82be951ced11:0x616585b42ebdd95e!8m2!3d23.1325454!4d72.5398761?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/SGVP+Holistic+Hospital/@23.1325454,72.5398761,17z/data=!3m1!4b1!4m5!3m4!1s0x395e82be951ced11:0x616585b42ebdd95e!8m2!3d23.1325454!4d72.5398761?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / GOTA",
@@ -2093,7 +2353,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "70462 47247",
-    "LOCATION": "https://www.google.com/maps/place/City+Plus+Hospital/@23.0707826,72.5212727,15z/data=!4m5!3m4!1s0x0:0x95dab68f6a54cf43!8m2!3d23.0707826!4d72.5212727"
+    "LOCATION": "https://www.google.com/maps/place/City+Plus+Hospital/@23.0707826,72.5212727,15z/data=!4m5!3m4!1s0x0:0x95dab68f6a54cf43!8m2!3d23.0707826!4d72.5212727",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / SOLA",
@@ -2109,7 +2371,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "82385 92233",
-    "LOCATION": "https://www.google.co.in/maps/place/Shaleen+Hospital+(Multispeciality)/@23.0752999,72.5174727,17z/data=!4m9!1m2!2m1!1s+Shaleen+NWZ+++SOLA+Gujarat+!3m5!1s0x395e9d1cdbc6062d:0xd87c3c30a362f219!8m2!3d23.0755406!4d72.5176387!15sChwgU2hhbGVlbiBOV1ogICBTT0xBIEd1amFyYXQgWicKC3NoYWxlZW4gbnd6IhhzaGFsZWVuIG53eiBzb2xhIGd1amFyYXSSAQZkb2N0b3I?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shaleen+Hospital+(Multispeciality)/@23.0752999,72.5174727,17z/data=!4m9!1m2!2m1!1s+Shaleen+NWZ+++SOLA+Gujarat+!3m5!1s0x395e9d1cdbc6062d:0xd87c3c30a362f219!8m2!3d23.0755406!4d72.5176387!15sChwgU2hhbGVlbiBOV1ogICBTT0xBIEd1amFyYXQgWicKC3NoYWxlZW4gbnd6IhhzaGFsZWVuIG53eiBzb2xhIGd1amFyYXSSAQZkb2N0b3I?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ/ GOTA",
@@ -2125,7 +2389,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/v+care+gynec+and+multispeciality+hospital/@23.1009356,72.5435617,14z/data=!4m9!1m2!2m1!1s+V+CARE+GOTA+Gujarat+!3m5!1s0x395e83948ee66609:0x3e131e7af7dc877a!8m2!3d23.0988093!4d72.5487006!15sChNWIENBUkUgR09UQSBHdWphcmF0kgEIaG9zcGl0YWw?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/v+care+gynec+and+multispeciality+hospital/@23.1009356,72.5435617,14z/data=!4m9!1m2!2m1!1s+V+CARE+GOTA+Gujarat+!3m5!1s0x395e83948ee66609:0x3e131e7af7dc877a!8m2!3d23.0988093!4d72.5487006!15sChNWIENBUkUgR09UQSBHdWphcmF0kgEIaG9zcGl0YWw?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ/BOPAL",
@@ -2141,7 +2407,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "87350 31911",
-    "LOCATION": "https://www.google.co.in/maps/place/Shree+Raj+Hospital/@23.021639,72.4729785,16z/data=!4m9!1m2!2m1!1s+SHREE+RAJ+NWZ+BOPAL+Gujarat+!3m5!1s0x395e9b0b1151d9cb:0x70f5817bfb439e4!8m2!3d23.0269484!4d72.4771751!15sCh0gU0hSRUUgUkFKIE5XWiBCT1BBTCBHdWphcmF0IFosCg1zaHJlZSByYWogbnd6IhtzaHJlZSByYWogbnd6IGJvcGFsIGd1amFyYXSSAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shree+Raj+Hospital/@23.021639,72.4729785,16z/data=!4m9!1m2!2m1!1s+SHREE+RAJ+NWZ+BOPAL+Gujarat+!3m5!1s0x395e9b0b1151d9cb:0x70f5817bfb439e4!8m2!3d23.0269484!4d72.4771751!15sCh0gU0hSRUUgUkFKIE5XWiBCT1BBTCBHdWphcmF0IFosCg1zaHJlZSByYWogbnd6IhtzaHJlZSByYWogbnd6IGJvcGFsIGd1amFyYXSSAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ / BOPAL",
@@ -2157,7 +2425,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "90818 38900",
-    "LOCATION": "https://www.google.co.in/maps/place/Aditi+Hospital+%26+Dignostics/@23.0322076,72.4579848,17z/data=!4m9!1m2!2m1!1s+ADITI+hospital,++BOPAL+Gujarat+!3m5!1s0x395e9b5831e20a53:0xa006c42a2b3c7ff1!8m2!3d23.0321286!4d72.4600603!15sCh5BRElUSSBob3NwaXRhbCwgIEJPUEFMIEd1amFyYXSSAQhob3NwaXRhbA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Aditi+Hospital+%26+Dignostics/@23.0322076,72.4579848,17z/data=!4m9!1m2!2m1!1s+ADITI+hospital,++BOPAL+Gujarat+!3m5!1s0x395e9b5831e20a53:0xa006c42a2b3c7ff1!8m2!3d23.0321286!4d72.4600603!15sCh5BRElUSSBob3NwaXRhbCwgIEJPUEFMIEd1amFyYXSSAQhob3NwaXRhbA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Bodakdev",
@@ -2173,7 +2443,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97378 04000",
-    "LOCATION": "https://www.google.co.in/maps/place/Global+Hospital/@23.0413162,72.5086723,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b4f80a8d1bf:0x921f95d936981600!8m2!3d23.0413162!4d72.5086723?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Global+Hospital/@23.0413162,72.5086723,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b4f80a8d1bf:0x921f95d936981600!8m2!3d23.0413162!4d72.5086723?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Thaltej",
@@ -2189,7 +2461,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "90816 10444",
-    "LOCATION": "https://www.google.co.in/maps/place/DHS+Multispecialty+Hospital/@23.0432241,72.528628,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85f5942675b7:0x90be92473960a578!8m2!3d23.0432241!4d72.528628?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/DHS+Multispecialty+Hospital/@23.0432241,72.528628,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85f5942675b7:0x90be92473960a578!8m2!3d23.0432241!4d72.528628?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Bodakdev",
@@ -2205,7 +2479,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26306431",
-    "LOCATION": "https://www.google.co.in/maps/place/Sanjivani+Super+Speciality+Hospitals/@23.0412503,72.5262103,17z/data=!4m9!1m2!2m1!1sSanjivani+Hospital,+Sunrise+Park+Road,+Sunrise+Park,+Vastrapur,+Ahmedabad,+Gujarat!3m5!1s0x0:0xc7133af047ed5589!8m2!3d23.040212!4d72.528213!15sClJTYW5qaXZhbmkgSG9zcGl0YWwsIFN1bnJpc2UgUGFyayBSb2FkLCBTdW5yaXNlIFBhcmssIFZhc3RyYXB1ciwgQWhtZWRhYmFkLCBHdWphcmF0WmMKEnNhbmppdmFuaSBob3NwaXRhbCJNc2Fuaml2YW5pIGhvc3BpdGFsIHN1bnJpc2UgcGFyayByb2FkIHN1bnJpc2UgcGFyayB2YXN0cmFwdXIgYWhtZWRhYmFkIGd1amFyYXSSARBnZW5lcmFsX2hvc3BpdGFs?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sanjivani+Super+Speciality+Hospitals/@23.0412503,72.5262103,17z/data=!4m9!1m2!2m1!1sSanjivani+Hospital,+Sunrise+Park+Road,+Sunrise+Park,+Vastrapur,+Ahmedabad,+Gujarat!3m5!1s0x0:0xc7133af047ed5589!8m2!3d23.040212!4d72.528213!15sClJTYW5qaXZhbmkgSG9zcGl0YWwsIFN1bnJpc2UgUGFyayBSb2FkLCBTdW5yaXNlIFBhcmssIFZhc3RyYXB1ciwgQWhtZWRhYmFkLCBHdWphcmF0WmMKEnNhbmppdmFuaSBob3NwaXRhbCJNc2Fuaml2YW5pIGhvc3BpdGFsIHN1bnJpc2UgcGFyayByb2FkIHN1bnJpc2UgcGFyayB2YXN0cmFwdXIgYWhtZWRhYmFkIGd1amFyYXSSARBnZW5lcmFsX2hvc3BpdGFs?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Thaltej",
@@ -2221,7 +2497,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99251 95656",
-    "LOCATION": "https://www.google.co.in/maps/place/SAL+Hospital+%26+Medical+Institute/@23.049471,72.524174,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84ac4fa14425:0xd23e816209544b0b!8m2!3d23.049471!4d72.524174?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/SAL+Hospital+%26+Medical+Institute/@23.049471,72.524174,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84ac4fa14425:0xd23e816209544b0b!8m2!3d23.049471!4d72.524174?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Ghatlodia",
@@ -2237,7 +2515,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27467070",
-    "LOCATION": "https://www.google.co.in/maps/place/Param+Multispeciality/@23.0685469,72.5367045,17z/data=!3m1!4b1!4m5!3m4!1s0x395e835b150d32fd:0x897c3ef89429be35!8m2!3d23.0685469!4d72.5367045?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Param+Multispeciality/@23.0685469,72.5367045,17z/data=!3m1!4b1!4m5!3m4!1s0x395e835b150d32fd:0x897c3ef89429be35!8m2!3d23.0685469!4d72.5367045?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ/chandlodia",
@@ -2253,7 +2533,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-48008073",
-    "LOCATION": "https://www.google.co.in/maps/place/Lifeline+Multispeciality+Hospital/@23.0987897,72.5481169,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83193d92ff1b:0xfbf0af752c856d97!8m2!3d23.0987897!4d72.5481169?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Lifeline+Multispeciality+Hospital/@23.0987897,72.5481169,17z/data=!3m1!4b1!4m5!3m4!1s0x395e83193d92ff1b:0xfbf0af752c856d97!8m2!3d23.0987897!4d72.5481169?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Bodakdev",
@@ -2269,7 +2551,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97379 73300",
-    "LOCATION": "https://www.google.co.in/maps/place/Bopal+ICU+%26+Trauma+Centre/@23.0267355,72.4771191,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0b1039cb53:0x1bdcb80e932286be!8m2!3d23.0267355!4d72.4771191?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Bopal+ICU+%26+Trauma+Centre/@23.0267355,72.4771191,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0b1039cb53:0x1bdcb80e932286be!8m2!3d23.0267355!4d72.4771191?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / BOPAL",
@@ -2285,7 +2569,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "81402 34111",
-    "LOCATION": "https://www.google.co.in/maps/place/Adwait+Multispecialty+Hospital/@23.0303441,72.4682938,15z/data=!4m9!1m2!2m1!1s+ADWAIT+NWZ+++BOPAL+Gujarat+!3m5!1s0x395e9b757f03231b:0xa620eec315e5b523!8m2!3d23.0311106!4d72.4732051!15sChwgQURXQUlUIE5XWiAgIEJPUEFMIEd1amFyYXQgWiYKCmFkd2FpdCBud3oiGGFkd2FpdCBud3ogYm9wYWwgZ3VqYXJhdJIBCGhvc3BpdGFs?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Adwait+Multispecialty+Hospital/@23.0303441,72.4682938,15z/data=!4m9!1m2!2m1!1s+ADWAIT+NWZ+++BOPAL+Gujarat+!3m5!1s0x395e9b757f03231b:0xa620eec315e5b523!8m2!3d23.0311106!4d72.4732051!15sChwgQURXQUlUIE5XWiAgIEJPUEFMIEd1amFyYXQgWiYKCmFkd2FpdCBud3oiGGFkd2FpdCBud3ogYm9wYWwgZ3VqYXJhdJIBCGhvc3BpdGFs?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ/ Vastrapur",
@@ -2301,7 +2587,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26303312",
-    "LOCATION": "https://www.google.co.in/maps/place/Icon+Hospital(Gastro+%2B+Knee+Replacement+%2BSports+Injury)/@23.0387065,72.5308254,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84b717f299d7:0xba0133e2cd0a384f!8m2!3d23.0387065!4d72.5308254?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Icon+Hospital(Gastro+%2B+Knee+Replacement+%2BSports+Injury)/@23.0387065,72.5308254,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84b717f299d7:0xba0133e2cd0a384f!8m2!3d23.0387065!4d72.5308254?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / GOTA",
@@ -2317,7 +2605,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27601875",
-    "LOCATION": "https://www.google.co.in/maps/place/Silverstar+ICU+%26+Critical+Care+Hospital/@23.0828136,72.538065,15z/data=!4m9!1m2!2m1!1s+SILVERSTAR+hospital+GOTA!3m5!1s0x395e83152c8921eb:0xacad130a2803707e!8m2!3d23.0828136!4d72.5468197!15sChhTSUxWRVJTVEFSIGhvc3BpdGFsIEdPVEFaLwoTc2lsdmVyc3RhciBob3NwaXRhbCIYc2lsdmVyc3RhciBob3NwaXRhbCBnb3RhkgEIaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTTBOVTVYVjJKQkVBRQ?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Silverstar+ICU+%26+Critical+Care+Hospital/@23.0828136,72.538065,15z/data=!4m9!1m2!2m1!1s+SILVERSTAR+hospital+GOTA!3m5!1s0x395e83152c8921eb:0xacad130a2803707e!8m2!3d23.0828136!4d72.5468197!15sChhTSUxWRVJTVEFSIGhvc3BpdGFsIEdPVEFaLwoTc2lsdmVyc3RhciBob3NwaXRhbCIYc2lsdmVyc3RhciBob3NwaXRhbCBnb3RhkgEIaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTTBOVTVYVjJKQkVBRQ?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ/ THALTEJ",
@@ -2333,7 +2623,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99798 91672",
-    "LOCATION": "https://www.google.co.in/maps/place/Aashwi+ENT+Hospital/@23.0471083,72.5254238,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84b7cb29c877:0x74ff9084fddd17ff!8m2!3d23.0471504!4d72.5276434?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Aashwi+ENT+Hospital/@23.0471083,72.5254238,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84b7cb29c877:0x74ff9084fddd17ff!8m2!3d23.0471504!4d72.5276434?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Ghatlodia",
@@ -2349,7 +2641,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "79-276056420",
-    "LOCATION": "https://www.google.co.in/maps/place/Hetvi+Hospital/@23.0728041,72.5401997,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8342efc770e3:0xaeb930d1a0529ece!8m2!3d23.0727992!4d72.5423884?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Hetvi+Hospital/@23.0728041,72.5401997,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8342efc770e3:0xaeb930d1a0529ece!8m2!3d23.0727992!4d72.5423884?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ / Ghatlodia",
@@ -2365,7 +2659,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97129 05993",
-    "LOCATION": "https://www.google.co.in/maps/place/Modi+Multispeciality+Hospital/@23.0702106,72.5436208,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8367c2516151:0x41677f330425b083!8m2!3d23.0702057!4d72.5458095?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Modi+Multispeciality+Hospital/@23.0702106,72.5436208,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8367c2516151:0x41677f330425b083!8m2!3d23.0702057!4d72.5458095?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ / GOTA",
@@ -2381,7 +2677,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": ""
+    "LOCATION": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ / Ghatlodia",
@@ -2397,7 +2695,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "97123 64224",
-    "LOCATION": "https://www.google.co.in/maps/place/Ohm+Hospital/@23.0658299,72.5389516,17z/data=!4m12!1m6!3m5!1s0x395e835c128af585:0xe31b9843a44be40c!2sOhm+Hospital!8m2!3d23.0658299!4d72.5391233!3m4!1s0x395e835c128af585:0xe31b9843a44be40c!8m2!3d23.0658299!4d72.5391233?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Ohm+Hospital/@23.0658299,72.5389516,17z/data=!4m12!1m6!3m5!1s0x395e835c128af585:0xe31b9843a44be40c!2sOhm+Hospital!8m2!3d23.0658299!4d72.5391233!3m4!1s0x395e835c128af585:0xe31b9843a44be40c!8m2!3d23.0658299!4d72.5391233?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ/ THALTEJ",
@@ -2413,7 +2713,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-66190201",
-    "LOCATION": "https://www.google.co.in/maps/place/Zydus+Hospitals/@23.0583469,72.5166979,17z/data=!4m9!1m2!2m1!1s+Zydus+Hospital+NWZ++THALTEJ+Gujarat+!3m5!1s0x0:0x4aa886904308b889!8m2!3d23.0585079!4d72.517465!15sCiNaeWR1cyBIb3NwaXRhbCBOV1ogIFRIQUxURUogR3VqYXJhdFo5ChNud3ogdGhhbHRlaiBndWphcmF0IiJ6eWR1cyBob3NwaXRhbCBud3ogdGhhbHRlaiBndWphcmF0kgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkxNRXR1TkdsM1JSQUI?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Zydus+Hospitals/@23.0583469,72.5166979,17z/data=!4m9!1m2!2m1!1s+Zydus+Hospital+NWZ++THALTEJ+Gujarat+!3m5!1s0x0:0x4aa886904308b889!8m2!3d23.0585079!4d72.517465!15sCiNaeWR1cyBIb3NwaXRhbCBOV1ogIFRIQUxURUogR3VqYXJhdFo5ChNud3ogdGhhbHRlaiBndWphcmF0IiJ6eWR1cyBob3NwaXRhbCBud3ogdGhhbHRlaiBndWphcmF0kgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkxNRXR1TkdsM1JSQUI?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ/ THALTEJ",
@@ -2429,7 +2731,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-40011111",
-    "LOCATION": "https://www.google.co.in/maps/place/Sterling+Hospital/@23.048672,72.5311702,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84afbc804959:0x1bd6f237ba587f77!8m2!3d23.048672!4d72.5311702?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Sterling+Hospital/@23.048672,72.5311702,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84afbc804959:0x1bd6f237ba587f77!8m2!3d23.048672!4d72.5311702?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / GOTA",
@@ -2445,7 +2749,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-66770000",
-    "LOCATION": "https://www.google.co.in/maps/place/KD+Hospital/@23.135653,72.5419608,17z/data=!4m5!3m4!1s0x395e8390ebc97b4f:0x4e01d19f2121e25c!8m2!3d23.135653!4d72.5419608?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/KD+Hospital/@23.135653,72.5419608,17z/data=!4m5!3m4!1s0x395e8390ebc97b4f:0x4e01d19f2121e25c!8m2!3d23.135653!4d72.5419608?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Bodakdev",
@@ -2461,7 +2767,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-66556655",
-    "LOCATION": "https://www.google.co.in/maps/place/Asian+Bariatrics+Hospital+Ahmedabad/@23.036607,72.5115852,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b4bb737f12f:0x58eb12c859323b8f!8m2!3d23.036607!4d72.5115852?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Asian+Bariatrics+Hospital+Ahmedabad/@23.036607,72.5115852,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b4bb737f12f:0x58eb12c859323b8f!8m2!3d23.036607!4d72.5115852?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / BOPAL",
@@ -2477,7 +2785,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "90999 25275",
-    "LOCATION": "https://www.google.co.in/maps/place/Devasya+Kidney+Hospital/@23.0283157,72.4774455,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0b115205db:0x80a5f1aa1b86074f!8m2!3d23.0283157!4d72.4774455?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Devasya+Kidney+Hospital/@23.0283157,72.4774455,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0b115205db:0x80a5f1aa1b86074f!8m2!3d23.0283157!4d72.4774455?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ / Gota",
@@ -2493,7 +2803,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "92775 55750",
-    "LOCATION": "https://www.google.com/maps/place/Anant+Multi+Speciality+Hospital/@22.999693,72.645998,15z/data=!4m2!3m1!1s0x0:0x15fa51b64ca0662c?sa=X&ved=2ahUKEwj0lvu1mZXwAhXoILcAHXv5AwIQ_BIwTnoECFAQAw"
+    "LOCATION": "https://www.google.com/maps/place/Anant+Multi+Speciality+Hospital/@22.999693,72.645998,15z/data=!4m2!3m1!1s0x0:0x15fa51b64ca0662c?sa=X&ved=2ahUKEwj0lvu1mZXwAhXoILcAHXv5AwIQ_BIwTnoECFAQAw",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "NWZ / Ghatlodia",
@@ -2509,7 +2821,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-27488657",
-    "LOCATION": "https://www.google.co.in/maps/place/Gurukrupa+Hospital/@23.0604013,72.5330153,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8358586e33f7:0x4392dd115c1e0ab5!8m2!3d23.0603964!4d72.535204?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Gurukrupa+Hospital/@23.0604013,72.5330153,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8358586e33f7:0x4392dd115c1e0ab5!8m2!3d23.0603964!4d72.535204?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "NWZ/ THALTEJ",
@@ -2525,7 +2839,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": 8980001838,
-    "LOCATION": "https://www.google.com/maps/place/RICN/@23.0463454,72.5282279,17z/data=!4m5!3m4!1s0x395e84bb3ca05dcd:0xe97f662a421ede15!8m2!3d23.0465083!4d72.5284103?hl=en"
+    "LOCATION": "https://www.google.com/maps/place/RICN/@23.0463454,72.5282279,17z/data=!4m5!3m4!1s0x395e84bb3ca05dcd:0xe97f662a421ede15!8m2!3d23.0465083!4d72.5284103?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Jodhpur",
@@ -2541,7 +2857,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-40241000",
-    "LOCATION": "https://www.google.co.in/maps/place/Medilink+Hospital/@23.0173376,72.5304139,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84cf0a8203a1:0x6e74da26aa572519!8m2!3d23.0173376!4d72.5304139?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Medilink+Hospital/@23.0173376,72.5304139,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84cf0a8203a1:0x6e74da26aa572519!8m2!3d23.0173376!4d72.5304139?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Bopal",
@@ -2557,7 +2875,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98250 22188",
-    "LOCATION": "https://www.google.co.in/maps/place/Shivam+Hospital+Bopal/@23.0333773,72.4636841,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b9be05761af:0x69913f2159a6bd6c!8m2!3d23.0333724!4d72.4658728?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shivam+Hospital+Bopal/@23.0333773,72.4636841,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b9be05761af:0x69913f2159a6bd6c!8m2!3d23.0333724!4d72.4658728?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Sarkhej",
@@ -2573,7 +2893,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26823523",
-    "LOCATION": "https://www.google.co.in/maps/place/Krishna+Shalby+Hospital/@23.0206825,72.4257976,14z/data=!4m9!1m2!2m1!1s+krishna+shalby+SWZ+++Sarkhej+Gujarat+!3m5!1s0x0:0x82cde84d06a2babf!8m2!3d23.024069!4d72.4413764!15sCiYga3Jpc2huYSBzaGFsYnkgU1daICAgU2Fya2hlaiBHdWphcmF0ICIDiAEBWjgKEmtyaXNobmEgc2hhbGJ5IHN3eiIia3Jpc2huYSBzaGFsYnkgc3d6IHNhcmtoZWogZ3VqYXJhdJIBEGdlbmVyYWxfaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm5PRTB0Y1dkM1JSQUKwAQA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Krishna+Shalby+Hospital/@23.0206825,72.4257976,14z/data=!4m9!1m2!2m1!1s+krishna+shalby+SWZ+++Sarkhej+Gujarat+!3m5!1s0x0:0x82cde84d06a2babf!8m2!3d23.024069!4d72.4413764!15sCiYga3Jpc2huYSBzaGFsYnkgU1daICAgU2Fya2hlaiBHdWphcmF0ICIDiAEBWjgKEmtyaXNobmEgc2hhbGJ5IHN3eiIia3Jpc2huYSBzaGFsYnkgc3d6IHNhcmtoZWogZ3VqYXJhdJIBEGdlbmVyYWxfaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm5PRTB0Y1dkM1JSQUKwAQA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Vejalpur",
@@ -2589,7 +2911,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26812217",
-    "LOCATION": "https://www.google.co.in/maps/place/Samkit+Hospital+and+ICU/@23.0057242,72.5329318,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8525faef6833:0x8a1acb2070594157!8m2!3d23.0057242!4d72.5329318?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Samkit+Hospital+and+ICU/@23.0057242,72.5329318,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8525faef6833:0x8a1acb2070594157!8m2!3d23.0057242!4d72.5329318?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Sarkhej",
@@ -2605,7 +2929,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26823523",
-    "LOCATION": "https://www.google.co.in/maps/place/Amena+Khatun+Multi+Speciality+Hospital/@22.9927715,72.519155,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9acb5dc6021f:0x2904272604518950!8m2!3d22.9927715!4d72.519155?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Amena+Khatun+Multi+Speciality+Hospital/@22.9927715,72.519155,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9acb5dc6021f:0x2904272604518950!8m2!3d22.9927715!4d72.519155?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Jodhpur",
@@ -2621,7 +2947,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "99139 70011",
-    "LOCATION": "https://www.google.co.in/maps/place/Tapan+Hospital-+Quality+Treatment+For+Trauma,ICU,Critical+Care,Burns,Plastic+Surgery,Medical+%26+Surgical/@23.0126448,72.5128275,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b290a08cd1d:0xba1dcfc4b70dfebf!8m2!3d23.0126448!4d72.5128275?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Tapan+Hospital-+Quality+Treatment+For+Trauma,ICU,Critical+Care,Burns,Plastic+Surgery,Medical+%26+Surgical/@23.0126448,72.5128275,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b290a08cd1d:0xba1dcfc4b70dfebf!8m2!3d23.0126448!4d72.5128275?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Jodhpur",
@@ -2637,7 +2965,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "98254 45409",
-    "LOCATION": "https://www.google.co.in/maps/place/Saraswati+Multispeciality+Hospital+%26+Trauma+Center/@23.023179,72.4769184,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0bd8d7a6e1:0xd218fdd9f79416b!8m2!3d23.023179!4d72.4769184?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Saraswati+Multispeciality+Hospital+%26+Trauma+Center/@23.023179,72.4769184,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0bd8d7a6e1:0xd218fdd9f79416b!8m2!3d23.023179!4d72.4769184?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "SWZ / MAKARBA",
@@ -2653,7 +2983,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/Faith+Hospital+and+ICU/@22.9930604,72.5135408,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0431103fa5:0x7f4d1e02b58d3043!8m2!3d22.9930604!4d72.5135408?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Faith+Hospital+and+ICU/@22.9930604,72.5135408,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b0431103fa5:0x7f4d1e02b58d3043!8m2!3d22.9930604!4d72.5135408?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Sarkhej",
@@ -2669,7 +3001,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.com/maps/place/Sahyog+Hospital/@22.9872747,72.4720726,15z/data=!4m2!3m1!1s0x0:0x855d206cc0d47874?sa=X&ved=2ahUKEwidwpLpmpXwAhXJ7XMBHQ4kD-EQ_BIwaHoECHYQBQ"
+    "LOCATION": "https://www.google.com/maps/place/Sahyog+Hospital/@22.9872747,72.4720726,15z/data=!4m2!3m1!1s0x0:0x855d206cc0d47874?sa=X&ved=2ahUKEwidwpLpmpXwAhXJ7XMBHQ4kD-EQ_BIwaHoECHYQBQ",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "SWZ / Sarkhej",
@@ -2685,7 +3019,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/Jeevandeep+Hospital/@22.9765095,72.4980507,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b6c8a730c6d:0xf3abd72a81c04aec!8m2!3d22.9765095!4d72.4980507?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Jeevandeep+Hospital/@22.9765095,72.4980507,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b6c8a730c6d:0xf3abd72a81c04aec!8m2!3d22.9765095!4d72.4980507?hl=en",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "ZONE_WARDS": "SWZ / Jodhpur",
@@ -2701,7 +3037,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-40219999",
-    "LOCATION": "https://www.google.co.in/maps/place/Parekhs+Hospital+-+Knee,+Joint+Replacement+Surgeon+in+Ahmedabad,+Gujarat+%7C+Best+orthopedic+doctor/@23.0131472,72.5279391,16z/data=!4m9!1m2!2m1!1s+Parekh+hospital,+satellite+SWZ+++Jodhpur+Gujarat+!3m5!1s0x395e84d7a4b29e19:0x6b80471bf3d7dd27!8m2!3d23.0141403!4d72.5302717!15sCjIgUGFyZWtoIGhvc3BpdGFsLCBzYXRlbGxpdGUgU1daICAgSm9kaHB1ciBHdWphcmF0IFpOCh1wYXJla2ggaG9zcGl0YWwgc2F0ZWxsaXRlIHN3eiItcGFyZWtoIGhvc3BpdGFsIHNhdGVsbGl0ZSBzd3ogam9kaHB1ciBndWphcmF0kgESb3J0aG9wZWRpY19zdXJnZW9umgEgQ2hSRFNVaE5NRzluUzBWSlEwRm5TVVJETVRWMFpoQUKwAQA?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Parekhs+Hospital+-+Knee,+Joint+Replacement+Surgeon+in+Ahmedabad,+Gujarat+%7C+Best+orthopedic+doctor/@23.0131472,72.5279391,16z/data=!4m9!1m2!2m1!1s+Parekh+hospital,+satellite+SWZ+++Jodhpur+Gujarat+!3m5!1s0x395e84d7a4b29e19:0x6b80471bf3d7dd27!8m2!3d23.0141403!4d72.5302717!15sCjIgUGFyZWtoIGhvc3BpdGFsLCBzYXRlbGxpdGUgU1daICAgSm9kaHB1ciBHdWphcmF0IFpOCh1wYXJla2ggaG9zcGl0YWwgc2F0ZWxsaXRlIHN3eiItcGFyZWtoIGhvc3BpdGFsIHNhdGVsbGl0ZSBzd3ogam9kaHB1ciBndWphcmF0kgESb3J0aG9wZWRpY19zdXJnZW9umgEgQ2hSRFNVaE5NRzluUzBWSlEwRm5TVVJETVRWMFpoQUKwAQA?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Sarkhej",
@@ -2717,7 +3055,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-40203000",
-    "LOCATION": "https://www.google.co.in/maps/place/Shalby+Multi-Specialty+Hospitals/@23.019021,72.506649,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b25101211f5:0x2f374a23db429344!8m2!3d23.019021!4d72.506649?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Shalby+Multi-Specialty+Hospitals/@23.019021,72.506649,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b25101211f5:0x2f374a23db429344!8m2!3d23.019021!4d72.506649?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Jodhpur",
@@ -2733,7 +3073,9 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "079-26730253",
-    "LOCATION": "https://www.google.co.in/maps/place/Concept+Neuro+and+Spine+Care+Hospital/@23.0251659,72.52963,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84ce4d6f1169:0xfa7e2690e3e90b95!8m2!3d23.0251659!4d72.52963?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/Concept+Neuro+and+Spine+Care+Hospital/@23.0251659,72.52963,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84ce4d6f1169:0xfa7e2690e3e90b95!8m2!3d23.0251659!4d72.52963?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "ZONE_WARDS": "SWZ / Jodhpur",
@@ -2749,6 +3091,8 @@ ahmedabad_data=[
     "TYPE": "PRIVATE QUOTA FOR PRIVATE PATIENTS",
     "LAST_UPDATED": "28-04-2021 500PM",
     "CONTACT": "",
-    "LOCATION": "https://www.google.co.in/maps/place/ORCHIDS+ICU+%26+HOSPITAL/@23.0183578,72.5299613,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85eff6d25fed:0xf6db8ac6af957f5e!8m2!3d23.0183578!4d72.5299613?hl=en"
+    "LOCATION": "https://www.google.co.in/maps/place/ORCHIDS+ICU+%26+HOSPITAL/@23.0183578,72.5299613,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85eff6d25fed:0xf6db8ac6af957f5e!8m2!3d23.0183578!4d72.5299613?hl=en",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   }
 ]

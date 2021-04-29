@@ -17,7 +17,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=8338026296923797901",
     "LAT": 14.6852151,
-    "LONG": 77.5990585
+    "LONG": 77.5990585,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 2,
@@ -37,7 +39,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=8276207427070392862",
     "LAT": 14.6708369,
-    "LONG": 77.5925007
+    "LONG": 77.5925007,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 3,
@@ -57,7 +61,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://www.google.com/maps/place/Care+%26+Cure+Hospitals/@14.685867,77.5990875,16.41z/data=!4m5!3m4!1s0x3bb14ad0c7d60981:0xd8fb68c8ac44ff40!8m2!3d14.6877034!4d77.6016821",
     "LAT": 14.685867,
-    "LONG": 77.5990875
+    "LONG": 77.5990875,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 4,
@@ -77,7 +83,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 40,
     "LOCATION": "https://maps.google.com/?cid=12353643909885262093",
     "LAT": 14.6709005,
-    "LONG": 77.5943719
+    "LONG": 77.5943719,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 5,
@@ -97,7 +105,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 30,
     "LOCATION": "https://maps.google.com/?q=Hindupuram,+Andhra+Pradesh,+India&ftid=0x3bb1a37558eb49ab:0x5af44b8c44a25d7b",
     "LAT": 13.8222599,
-    "LONG": 77.5009298
+    "LONG": 77.5009298,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 6,
@@ -117,7 +127,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 20,
     "LOCATION": "https://maps.google.com/?q=Guntakal,+Andhra+Pradesh,+India&ftid=0x3bb6e588fd694eb9:0x7b06013dc38a2300",
     "LAT": 15.1660706,
-    "LONG": 77.3769836
+    "LONG": 77.3769836,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 7,
@@ -137,7 +149,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=12102563439642986049",
     "LAT": 14.6516326,
-    "LONG": 77.5819945
+    "LONG": 77.5819945,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 8,
@@ -157,7 +171,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?q=Lenin+Nagar,+Anantapur,+Andhra+Pradesh+515002,+India&ftid=0x3bb14b07fcaefd23:0x5de1559cbe5b8c1c",
     "LAT": 14.6524109,
-    "LONG": 77.6183496
+    "LONG": 77.6183496,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 9,
@@ -177,7 +193,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=3967243537040202828",
     "LAT": 14.6878284,
-    "LONG": 77.6005786
+    "LONG": 77.6005786,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 10,
@@ -197,7 +215,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=17240614266300513947",
     "LAT": 14.6715492,
-    "LONG": 77.6089413
+    "LONG": 77.6089413,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 11,
@@ -217,7 +237,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=13103206862824654634",
     "LAT": 14.6545,
-    "LONG": 77.609625
+    "LONG": 77.609625,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 12,
@@ -237,7 +259,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7831003391107317117",
     "LAT": 14.6790187,
-    "LONG": 77.6028969
+    "LONG": 77.6028969,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 13,
@@ -257,7 +281,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=2894740394052833831",
     "LAT": 14.6809002,
-    "LONG": 77.5938723
+    "LONG": 77.5938723,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 14,
@@ -277,7 +303,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=2974981535886817490",
     "LAT": 14.6730276,
-    "LONG": 77.601986
+    "LONG": 77.601986,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 15,
@@ -297,7 +325,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12446566022850955834",
     "LAT": 14.6755565,
-    "LONG": 77.6030968
+    "LONG": 77.6030968,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 16,
@@ -317,7 +347,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=6209718393229898403",
     "LAT": 14.6807148,
-    "LONG": 77.6010589
+    "LONG": 77.6010589,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 17,
@@ -337,7 +369,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=13682144879326196031",
     "LAT": 14.6880814,
-    "LONG": 77.6012232
+    "LONG": 77.6012232,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 18,
@@ -357,7 +391,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=10193606315261132174",
     "LAT": 14.6816783,
-    "LONG": 77.5998725
+    "LONG": 77.5998725,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 19,
@@ -377,7 +413,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 60,
     "LOCATION": "https://maps.google.com/?cid=2753241053600354486",
     "LAT": 14.1096225,
-    "LONG": 78.1553901
+    "LONG": 78.1553901,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 20,
@@ -397,7 +435,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://www.google.com/maps/place/Dr.+KSAR+Gaffoor+Hospitals/@14.6729588,77.607721,17z/data=!4m5!3m4!1s0x3bb14adf9973d78d:0xb2360376e464af90!8m2!3d14.673348!4d77.6072918",
     "LAT": 14.6729588,
-    "LONG": 77.607721
+    "LONG": 77.607721,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 21,
@@ -417,7 +457,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=12124245844300880496",
     "LAT": 14.6697959,
-    "LONG": 77.5908978
+    "LONG": 77.5908978,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 22,
@@ -437,7 +479,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6639995362586732508",
     "LAT": 14.6301314,
-    "LONG": 77.6205494
+    "LONG": 77.6205494,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 23,
@@ -457,7 +501,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=15007151902050929088",
     "LAT": 13.8353393,
-    "LONG": 77.4941932
+    "LONG": 77.4941932,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 24,
@@ -477,7 +523,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1436256907124001913",
     "LAT": 14.6818877,
-    "LONG": 77.6005911
+    "LONG": 77.6005911,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 25,
@@ -497,7 +545,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=2431363705957187266",
     "LAT": 14.6771179,
-    "LONG": 77.6058727
+    "LONG": 77.6058727,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 26,
@@ -517,7 +567,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8389663772873662528",
     "LAT": 15.1597076,
-    "LONG": 77.3772776
+    "LONG": 77.3772776,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 27,
@@ -537,7 +589,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5498100114771534184",
     "LAT": 14.6813335,
-    "LONG": 77.5982873
+    "LONG": 77.5982873,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 28,
@@ -557,7 +611,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5043395490002812034",
     "LAT": 14.6705797,
-    "LONG": 77.5937428
+    "LONG": 77.5937428,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 29,
@@ -577,7 +633,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 163,
     "LOCATION": "https://maps.google.com/?cid=7837890198366571177",
     "LAT": 13.2171968,
-    "LONG": 79.0933348
+    "LONG": 79.0933348,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 30,
@@ -597,7 +655,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 40,
     "LOCATION": "https://maps.google.com/?cid=3212102626456663490",
     "LAT": 13.6398468,
-    "LONG": 79.4164605
+    "LONG": 79.4164605,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 31,
@@ -617,7 +677,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 20,
     "LOCATION": "https://maps.google.com/?cid=5247798531386862226",
     "LAT": 13.6166818,
-    "LONG": 79.4160813
+    "LONG": 79.4160813,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 32,
@@ -637,7 +699,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=6734619863608269851",
     "LAT": 17.7474368,
-    "LONG": 83.2202791
+    "LONG": 83.2202791,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 33,
@@ -657,7 +721,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=7837890198366571177",
     "LAT": 13.2171968,
-    "LONG": 79.0933348
+    "LONG": 79.0933348,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 34,
@@ -677,7 +743,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=11498491231447732201",
     "LAT": 13.1833823,
-    "LONG": 79.096024
+    "LONG": 79.096024,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 35,
@@ -697,7 +765,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 8,
     "LOCATION": "https://maps.google.com/?cid=10655865687930803368",
     "LAT": 13.6646284,
-    "LONG": 79.5148259
+    "LONG": 79.5148259,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 36,
@@ -717,7 +787,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=13102162026938293495",
     "LAT": 12.790709,
-    "LONG": 78.364276
+    "LONG": 78.364276,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 37,
@@ -737,7 +809,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 9,
     "LOCATION": "https://maps.google.com/?cid=10775779819658235412",
     "LAT": 13.6284914,
-    "LONG": 79.4638056
+    "LONG": 79.4638056,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 38,
@@ -757,7 +831,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=13416204486167349124",
     "LAT": 13.6380046,
-    "LONG": 79.4171787
+    "LONG": 79.4171787,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 39,
@@ -777,7 +853,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?q=D.B.R.Bylu,+Andhra+Pradesh+517167,+India&ftid=0x3bad55f8d25ec20b:0xd0ced1405e5145cd",
     "LAT": 13.3137601,
-    "LONG": 79.2986668
+    "LONG": 79.2986668,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 40,
@@ -797,7 +875,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=3999724948871872580",
     "LAT": 13.634892,
-    "LONG": 79.4261195
+    "LONG": 79.4261195,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 41,
@@ -817,7 +897,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 50,
     "LOCATION": "https://maps.google.com/?cid=10483573088973520991",
     "LAT": 13.2512003,
-    "LONG": 79.1158172
+    "LONG": 79.1158172,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 42,
@@ -837,7 +919,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 20,
     "LOCATION": "https://www.google.co.in/maps/place/Government+Hospital/@13.5592926,78.503936,15z/data=!4m9!1m2!2m1!1sDistrict+hospital+MADANAPALLI+chittoor!3m5!1s0x3bb26675a6af36c3:0xab6245aedb06f656!8m2!3d13.5563566!4d78.5010967!15sCiZEaXN0cmljdCBob3NwaXRhbCBNQURBTkFQQUxMSSBjaGl0dG9vclo7ChFkaXN0cmljdCBob3NwaXRhbCImZGlzdHJpY3QgaG9zcGl0YWwgbWFkYW5hcGFsbGkgY2hpdHRvb3KSAQhob3NwaXRhbA?hl=en",
     "LAT": 13.5592926,
-    "LONG": 78.503936
+    "LONG": 78.503936,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 43,
@@ -857,7 +941,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 9,
     "LOCATION": "https://maps.google.com/?q=Srikalahasti,+Andhra+Pradesh,+India&ftid=0x3a4d3e543dbbc769:0xc759d83ecf891652",
     "LAT": 13.7527145,
-    "LONG": 79.7066722
+    "LONG": 79.7066722,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 44,
@@ -877,7 +963,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?q=Kuppam,+Andhra+Pradesh+517425,+India&ftid=0x3badb9cc1ee13607:0x291c3b4ae41acabf",
     "LAT": 12.7461129,
-    "LONG": 78.342291
+    "LONG": 78.342291,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 45,
@@ -897,7 +985,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=11645275456841835047",
     "LAT": 13.6368182,
-    "LONG": 79.5080958
+    "LONG": 79.5080958,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 46,
@@ -917,7 +1007,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=8501166775209808463",
     "LAT": 13.7405815,
-    "LONG": 79.7203155
+    "LONG": 79.7203155,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 47,
@@ -937,7 +1029,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17997688590418514760",
     "LAT": 13.2160199,
-    "LONG": 79.0970899
+    "LONG": 79.0970899,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 48,
@@ -957,7 +1051,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?q=Subba+Reddy+Layout,+Vivekanadanagar,+MLL+Hospital+Staff+Nurse+Residence+Quarters,+Madanapalle,+Andhra+Pradesh+517330,+India&ftid=0x3bb265d0b2355427:0x73150b99aa25d0b3",
     "LAT": 13.5490047,
-    "LONG": 78.5102645
+    "LONG": 78.5102645,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 49,
@@ -977,7 +1073,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1560077087774254283",
     "LAT": 13.2180399,
-    "LONG": 79.0990359
+    "LONG": 79.0990359,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 50,
@@ -997,7 +1095,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=12128145406226118492",
     "LAT": 13.5579136,
-    "LONG": 78.5095987
+    "LONG": 78.5095987,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 51,
@@ -1017,7 +1117,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=3675004381274334023",
     "LAT": 13.273854,
-    "LONG": 79.120313
+    "LONG": 79.120313,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 52,
@@ -1037,7 +1139,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 7,
     "LOCATION": "https://maps.google.com/?cid=12876966017358617350",
     "LAT": 13.2145135,
-    "LONG": 79.1092135
+    "LONG": 79.1092135,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 53,
@@ -1057,7 +1161,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12876966017358617350",
     "LAT": 13.2145135,
-    "LONG": 79.1092135
+    "LONG": 79.1092135,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 54,
@@ -1077,7 +1183,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13255054079466165500",
     "LAT": 13.6364361,
-    "LONG": 79.4216349
+    "LONG": 79.4216349,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 55,
@@ -1097,7 +1205,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=4954061343177048012",
     "LAT": 13.63417,
-    "LONG": 79.42928
+    "LONG": 79.42928,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 56,
@@ -1117,7 +1227,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1003319716776217906",
     "LAT": 13.6364782,
-    "LONG": 79.4215377
+    "LONG": 79.4215377,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 57,
@@ -1137,7 +1249,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=11710587448712901927",
     "LAT": 13.6355647,
-    "LONG": 79.4210664
+    "LONG": 79.4210664,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 58,
@@ -1157,7 +1271,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=6774618160362357778",
     "LAT": 13.2173513,
-    "LONG": 79.1077874
+    "LONG": 79.1077874,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 59,
@@ -1177,7 +1293,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=12446680453790696976",
     "LAT": 13.2154385,
-    "LONG": 79.1087749
+    "LONG": 79.1087749,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 60,
@@ -1197,7 +1315,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=1307363605324558754",
     "LAT": 13.2162511,
-    "LONG": 79.1074453
+    "LONG": 79.1074453,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 61,
@@ -1217,7 +1337,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=11379778999127789351",
     "LAT": 13.5544925,
-    "LONG": 78.50747
+    "LONG": 78.50747,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 62,
@@ -1237,7 +1359,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11990270613275858791",
     "LAT": 13.2214756,
-    "LONG": 79.100639
+    "LONG": 79.100639,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 63,
@@ -1257,7 +1381,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14766499093282743381",
     "LAT": 13.6272808,
-    "LONG": 79.4250353
+    "LONG": 79.4250353,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 64,
@@ -1277,7 +1403,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11103327625072700665",
     "LAT": 13.2179655,
-    "LONG": 79.1178432
+    "LONG": 79.1178432,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 65,
@@ -1297,7 +1425,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=12876966017358617350",
     "LAT": 13.2145135,
-    "LONG": 79.1092135
+    "LONG": 79.1092135,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 66,
@@ -1317,7 +1447,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=5760476235722448537",
     "LAT": 13.5597401,
-    "LONG": 78.4972799
+    "LONG": 78.4972799,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 67,
@@ -1337,7 +1469,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1000842141746726859",
     "LAT": 13.6373868,
-    "LONG": 79.4070785
+    "LONG": 79.4070785,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 68,
@@ -1357,7 +1491,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=1120171311188126019",
     "LAT": 17.02431,
-    "LONG": 82.232311
+    "LONG": 82.232311,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 69,
@@ -1377,7 +1513,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=4230631592131059121",
     "LAT": 16.9724531,
-    "LONG": 82.2486476
+    "LONG": 82.2486476,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 70,
@@ -1397,7 +1535,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17373476238774946986",
     "LAT": 16.9558286,
-    "LONG": 82.2344881
+    "LONG": 82.2344881,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 71,
@@ -1417,7 +1557,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=14583766989131908216",
     "LAT": 16.9846921,
-    "LONG": 82.2422707
+    "LONG": 82.2422707,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 72,
@@ -1437,7 +1579,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=15857118658954003610",
     "LAT": 16.9667962,
-    "LONG": 82.2316141
+    "LONG": 82.2316141,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 73,
@@ -1457,7 +1601,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=5242318347673816712",
     "LAT": 17.0197073,
-    "LONG": 81.7916304
+    "LONG": 81.7916304,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 74,
@@ -1477,7 +1623,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=18141270634346640130",
     "LAT": 17.005954,
-    "LONG": 81.78538
+    "LONG": 81.78538,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 75,
@@ -1497,7 +1645,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11843284916414160310",
     "LAT": 17.0078633,
-    "LONG": 81.7739906
+    "LONG": 81.7739906,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 76,
@@ -1517,7 +1667,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=15929502223494738914",
     "LAT": 16.5742365,
-    "LONG": 82.0021367
+    "LONG": 82.0021367,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 77,
@@ -1537,7 +1689,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?q=Sunrise+Hospital+Rd,+Srinagar,+Kakinada,+Andhra+Pradesh+533003,+India&ftid=0x3a38286ca8930a69:0x59f8c517025ff958",
     "LAT": 16.9704788,
-    "LONG": 82.2385714
+    "LONG": 82.2385714,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 78,
@@ -1557,7 +1711,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=4937852172963961750",
     "LAT": 16.9865269,
-    "LONG": 82.2392197
+    "LONG": 82.2392197,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 79,
@@ -1577,7 +1733,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 40,
     "LOCATION": "https://maps.google.com/?q=Kakinada,+Andhra+Pradesh+533001,+India&ftid=0x3a3828085b9b7779:0xbf536fcdf3591fef",
     "LAT": 16.9556927,
-    "LONG": 82.2274281
+    "LONG": 82.2274281,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 80,
@@ -1597,7 +1755,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=17474564028431529853",
     "LAT": 17.067489,
-    "LONG": 81.8843972
+    "LONG": 81.8843972,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 81,
@@ -1617,7 +1777,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=9375173906540199288",
     "LAT": 17.0113685,
-    "LONG": 81.8087254
+    "LONG": 81.8087254,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 82,
@@ -1637,7 +1799,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=14305509118977804252",
     "LAT": 16.5921202,
-    "LONG": 82.0235747
+    "LONG": 82.0235747,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 83,
@@ -1657,7 +1821,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=17427595240667502477",
     "LAT": 17.1137784,
-    "LONG": 82.2577289
+    "LONG": 82.2577289,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 84,
@@ -1677,7 +1843,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=5117149867760107785",
     "LAT": 17.0058465,
-    "LONG": 81.7857047
+    "LONG": 81.7857047,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 85,
@@ -1697,7 +1865,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5230148943776400147",
     "LAT": 17.0055109,
-    "LONG": 81.7859367
+    "LONG": 81.7859367,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 86,
@@ -1717,7 +1887,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=1178769716029407047",
     "LAT": 17.0110883,
-    "LONG": 81.7806256
+    "LONG": 81.7806256,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 87,
@@ -1737,7 +1909,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=5883193760731515560",
     "LAT": 16.947424,
-    "LONG": 82.2314236
+    "LONG": 82.2314236,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 88,
@@ -1757,7 +1931,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=15881867994387041826",
     "LAT": 16.9632238,
-    "LONG": 82.2337714
+    "LONG": 82.2337714,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 89,
@@ -1777,7 +1953,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=16805524030480927481",
     "LAT": 16.9701278,
-    "LONG": 82.2399251
+    "LONG": 82.2399251,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 90,
@@ -1797,7 +1975,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=6808087504334619793",
     "LAT": 16.9956174,
-    "LONG": 82.2411163
+    "LONG": 82.2411163,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 91,
@@ -1817,7 +1997,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=11143006906830064300",
     "LAT": 16.9707431,
-    "LONG": 82.2373361
+    "LONG": 82.2373361,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 92,
@@ -1837,7 +2019,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=3755340958519586578",
     "LAT": 16.9658663,
-    "LONG": 82.244869
+    "LONG": 82.244869,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 93,
@@ -1857,7 +2041,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14035453249077357095",
     "LAT": 17.0062095,
-    "LONG": 81.795131
+    "LONG": 81.795131,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 94,
@@ -1877,7 +2063,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=8670087823709915462",
     "LAT": 17.0078328,
-    "LONG": 81.7889589
+    "LONG": 81.7889589,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 95,
@@ -1897,7 +2085,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5641212395001177689",
     "LAT": 16.9545157,
-    "LONG": 82.2324514
+    "LONG": 82.2324514,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 96,
@@ -1917,7 +2107,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11175406664264290257",
     "LAT": 17.0218823,
-    "LONG": 81.7893264
+    "LONG": 81.7893264,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 97,
@@ -1937,7 +2129,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=4238263950166876386",
     "LAT": 16.9577318,
-    "LONG": 82.2366562
+    "LONG": 82.2366562,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 98,
@@ -1957,7 +2151,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7611786173603259063",
     "LAT": 17.0080354,
-    "LONG": 81.7867935
+    "LONG": 81.7867935,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 99,
@@ -1977,7 +2173,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13970532067181797696",
     "LAT": 16.9509609,
-    "LONG": 81.7866448
+    "LONG": 81.7866448,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 100,
@@ -1997,7 +2195,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4495680813086490956",
     "LAT": 17.0118475,
-    "LONG": 81.7712929
+    "LONG": 81.7712929,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 101,
@@ -2017,7 +2217,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 23,
     "LOCATION": "https://maps.google.com/?cid=18286037129837625744",
     "LAT": 16.4149147,
-    "LONG": 80.5575021
+    "LONG": 80.5575021,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 102,
@@ -2037,7 +2239,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=17528065842520202995",
     "LAT": 16.4445629,
-    "LONG": 80.5848103
+    "LONG": 80.5848103,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 103,
@@ -2057,7 +2261,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 57,
     "LOCATION": "https://maps.google.com/?cid=1611401824614592129",
     "LAT": 16.2997934,
-    "LONG": 80.4436494
+    "LONG": 80.4436494,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 104,
@@ -2077,7 +2283,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 34,
     "LOCATION": "https://maps.google.com/?cid=14988245187763345712",
     "LAT": 16.2444041,
-    "LONG": 80.6321141
+    "LONG": 80.6321141,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 105,
@@ -2097,7 +2305,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 11,
     "LOCATION": "https://maps.google.com/?cid=5015967069130237259",
     "LAT": 16.4844027,
-    "LONG": 80.6169481
+    "LONG": 80.6169481,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 106,
@@ -2117,7 +2327,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=12529393078224765044",
     "LAT": 16.2256199,
-    "LONG": 80.3080419
+    "LONG": 80.3080419,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 107,
@@ -2137,7 +2349,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7021558138332231952",
     "LAT": 16.2986369,
-    "LONG": 80.4527173
+    "LONG": 80.4527173,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 108,
@@ -2157,7 +2371,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=915936651104609675",
     "LAT": 16.30023,
-    "LONG": 80.449249
+    "LONG": 80.449249,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 109,
@@ -2177,7 +2393,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17497008660970964006",
     "LAT": 16.2993512,
-    "LONG": 80.4536724
+    "LONG": 80.4536724,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 110,
@@ -2197,7 +2415,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=18228817730275051144",
     "LAT": 16.295595,
-    "LONG": 80.4496025
+    "LONG": 80.4496025,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 111,
@@ -2217,7 +2437,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=16662898306512097691",
     "LAT": 16.307142,
-    "LONG": 80.463508
+    "LONG": 80.463508,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 112,
@@ -2237,7 +2459,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=9298813423916681765",
     "LAT": 16.2956772,
-    "LONG": 80.4509808
+    "LONG": 80.4509808,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 113,
@@ -2257,7 +2481,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2780528595632185230",
     "LAT": 16.2984779,
-    "LONG": 80.4544704
+    "LONG": 80.4544704,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 114,
@@ -2277,7 +2503,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=8141237644894045058",
     "LAT": 16.2986615,
-    "LONG": 80.4577625
+    "LONG": 80.4577625,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 115,
@@ -2297,7 +2525,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=9933249984917216166",
     "LAT": 16.303537,
-    "LONG": 80.44051
+    "LONG": 80.44051,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 116,
@@ -2317,7 +2547,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=18397090995423121602",
     "LAT": 16.2982208,
-    "LONG": 80.4492486
+    "LONG": 80.4492486,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 117,
@@ -2337,7 +2569,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=14065618497352002172",
     "LAT": 16.298772,
-    "LONG": 80.4531425
+    "LONG": 80.4531425,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 118,
@@ -2357,7 +2591,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=16381363172965136754",
     "LAT": 16.298857,
-    "LONG": 80.456567
+    "LONG": 80.456567,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 119,
@@ -2377,7 +2613,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=10278186875448969314",
     "LAT": 16.298617,
-    "LONG": 80.450787
+    "LONG": 80.450787,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 120,
@@ -2397,7 +2635,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11541047667390299809",
     "LAT": 16.2971511,
-    "LONG": 80.4552156
+    "LONG": 80.4552156,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 121,
@@ -2417,7 +2657,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=11914187235792988328",
     "LAT": 16.4798907,
-    "LONG": 79.8919126
+    "LONG": 79.8919126,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 122,
@@ -2437,7 +2679,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=3249651820425020056",
     "LAT": 16.2985278,
-    "LONG": 80.4542461
+    "LONG": 80.4542461,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 123,
@@ -2457,7 +2701,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=10143287544280158126",
     "LAT": 16.317479,
-    "LONG": 80.4375185
+    "LONG": 80.4375185,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 124,
@@ -2477,7 +2723,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=3147162079621859226",
     "LAT": 16.2967965,
-    "LONG": 80.4511364
+    "LONG": 80.4511364,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 125,
@@ -2497,7 +2745,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=6370203717633020646",
     "LAT": 16.3038683,
-    "LONG": 80.4414677
+    "LONG": 80.4414677,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 126,
@@ -2517,7 +2767,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?q=Anjireddy+Hospital+Rd,+Piduguralla,+Andhra+Pradesh+522413,+India&ftid=0x3a356f8a8023fac1:0xa609e12f82233ec1",
     "LAT": 16.4779676,
-    "LONG": 79.893667
+    "LONG": 79.893667,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 127,
@@ -2537,7 +2789,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=14562838018390102773",
     "LAT": 16.2307542,
-    "LONG": 80.045811
+    "LONG": 80.045811,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 128,
@@ -2557,7 +2811,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=15019527776176962658",
     "LAT": 16.3044565,
-    "LONG": 80.4615997
+    "LONG": 80.4615997,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 129,
@@ -2577,7 +2833,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1382750389653565",
     "LAT": 16.2987614,
-    "LONG": 80.4478812
+    "LONG": 80.4478812,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 130,
@@ -2597,7 +2855,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=5715008467888136085",
     "LAT": 16.2977206,
-    "LONG": 80.4555841
+    "LONG": 80.4555841,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 131,
@@ -2617,7 +2877,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=10158619745676420039",
     "LAT": 16.2991481,
-    "LONG": 80.4502931
+    "LONG": 80.4502931,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 132,
@@ -2637,7 +2899,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17650803447724202578",
     "LAT": 15.9713379,
-    "LONG": 80.5110595
+    "LONG": 80.5110595,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 133,
@@ -2657,7 +2921,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=17086515635108732128",
     "LAT": 16.305197,
-    "LONG": 80.4453147
+    "LONG": 80.4453147,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 134,
@@ -2677,7 +2943,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=3734065612428914137",
     "LAT": 16.3035927,
-    "LONG": 80.4599042
+    "LONG": 80.4599042,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 135,
@@ -2697,7 +2965,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=2896772962785879329",
     "LAT": 16.3028109,
-    "LONG": 80.448122
+    "LONG": 80.448122,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 136,
@@ -2717,7 +2987,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=1563698410647609468",
     "LAT": 16.3013622,
-    "LONG": 80.4502151
+    "LONG": 80.4502151,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 137,
@@ -2737,7 +3009,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=17969069883567431531",
     "LAT": 16.2945773,
-    "LONG": 80.4491442
+    "LONG": 80.4491442,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 138,
@@ -2757,7 +3031,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=2896772962785879329",
     "LAT": 16.3028109,
-    "LONG": 80.448122
+    "LONG": 80.448122,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 139,
@@ -2777,7 +3053,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=2959078489152058000",
     "LAT": 16.2995904,
-    "LONG": 80.4510396
+    "LONG": 80.4510396,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 140,
@@ -2797,7 +3075,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=2959078489152058000",
     "LAT": 16.2995904,
-    "LONG": 80.4510396
+    "LONG": 80.4510396,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 141,
@@ -2817,7 +3097,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17357945332353225787",
     "LAT": 16.305141,
-    "LONG": 80.4403014
+    "LONG": 80.4403014,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 142,
@@ -2837,7 +3119,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=17086515635108732128",
     "LAT": 16.305197,
-    "LONG": 80.4453147
+    "LONG": 80.4453147,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 143,
@@ -2857,7 +3141,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=10150439084888302185",
     "LAT": 16.3270837,
-    "LONG": 80.4539943
+    "LONG": 80.4539943,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 144,
@@ -2877,7 +3163,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=9089823221541217467",
     "LAT": 16.2963242,
-    "LONG": 80.4518463
+    "LONG": 80.4518463,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 145,
@@ -2897,7 +3185,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=15273551119556043136",
     "LAT": 16.2985125,
-    "LONG": 80.4499686
+    "LONG": 80.4499686,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 146,
@@ -2917,7 +3207,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2780528595632185230",
     "LAT": 16.2984779,
-    "LONG": 80.4544704
+    "LONG": 80.4544704,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 147,
@@ -2937,7 +3229,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11472860628410322660",
     "LAT": 16.2989361,
-    "LONG": 80.4580129
+    "LONG": 80.4580129,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 148,
@@ -2957,7 +3251,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8190573247238417307",
     "LAT": 16.301739,
-    "LONG": 80.4466803
+    "LONG": 80.4466803,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 149,
@@ -2977,7 +3273,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=14983434123469183543",
     "LAT": 16.2979768,
-    "LONG": 80.4558283
+    "LONG": 80.4558283,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 150,
@@ -2997,7 +3295,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=7141523633130166652",
     "LAT": 16.0523859,
-    "LONG": 79.7397363
+    "LONG": 79.7397363,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 151,
@@ -3017,7 +3317,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=14006627643064073682",
     "LAT": 16.298491,
-    "LONG": 80.457331
+    "LONG": 80.457331,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 152,
@@ -3037,7 +3339,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=11623866433847544004",
     "LAT": 16.237052,
-    "LONG": 80.0474355
+    "LONG": 80.0474355,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 153,
@@ -3057,7 +3361,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=7792101994017905050",
     "LAT": 16.2371502,
-    "LONG": 80.045286
+    "LONG": 80.045286,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 154,
@@ -3077,7 +3383,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=14845879841514685716",
     "LAT": 16.479248,
-    "LONG": 79.8929393
+    "LONG": 79.8929393,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 155,
@@ -3097,7 +3405,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=3408357578326070595",
     "LAT": 16.2985828,
-    "LONG": 80.4536154
+    "LONG": 80.4536154,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 156,
@@ -3117,7 +3427,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 81,
     "LOCATION": "https://www.google.com/maps/place/Government+General+Hospital/@16.5067157,80.6735554,13z/data=!4m9!1m2!2m1!1sGovt.+General+Hospital+(GGH),+Vijayawada!3m5!1s0x3a35e52ceb4698d1:0x54d47db016f55591!8m2!3d16.5167108!4d80.6700232!15sCihHb3Z0LiBHZW5lcmFsIEhvc3BpdGFsIChHR0gpLCBWaWpheWF3YWRhWkwKJGdvdnQgZ2VuZXJhbCBob3NwaXRhbCBnZ2ggdmlqYXlhd2FkYSIkZ292dCBnZW5lcmFsIGhvc3BpdGFsIGdnaCB2aWpheWF3YWRhkgEQZ2VuZXJhbF9ob3NwaXRhbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSVFozWlhiMEozRUFF",
     "LAT": 16.5067157,
-    "LONG": 80.6735554
+    "LONG": 80.6735554,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 157,
@@ -3137,7 +3449,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=1506248168437198227",
     "LAT": 16.5531576,
-    "LONG": 80.8304222
+    "LONG": 80.8304222,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 158,
@@ -3157,7 +3471,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=10689444751728925369",
     "LAT": 16.604861,
-    "LONG": 80.5035914
+    "LONG": 80.5035914,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 159,
@@ -3177,7 +3493,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4424570093422318063",
     "LAT": 16.5135459,
-    "LONG": 80.6692855
+    "LONG": 80.6692855,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 160,
@@ -3197,7 +3515,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11468882673845225365",
     "LAT": 16.536301,
-    "LONG": 80.584723
+    "LONG": 80.584723,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 161,
@@ -3217,7 +3537,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 8,
     "LOCATION": "https://maps.google.com/?cid=8557612828574437685",
     "LAT": 16.1905457,
-    "LONG": 81.1361543
+    "LONG": 81.1361543,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 162,
@@ -3237,7 +3559,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=3137402898193205968",
     "LAT": 16.5184836,
-    "LONG": 80.6215435
+    "LONG": 80.6215435,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 163,
@@ -3257,7 +3581,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=11312186982878398207",
     "LAT": 16.517483,
-    "LONG": 80.6750971
+    "LONG": 80.6750971,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 164,
@@ -3277,7 +3603,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=16761032917106655822",
     "LAT": 16.5117098,
-    "LONG": 80.6374619
+    "LONG": 80.6374619,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 165,
@@ -3297,7 +3625,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=1563626273530346644",
     "LAT": 16.495656,
-    "LONG": 80.70357
+    "LONG": 80.70357,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 166,
@@ -3317,7 +3647,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=3751137061280673417",
     "LAT": 16.506174,
-    "LONG": 80.648015
+    "LONG": 80.648015,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 167,
@@ -3337,7 +3669,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=16844629684171068077",
     "LAT": 16.4777588,
-    "LONG": 80.7016162
+    "LONG": 80.7016162,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 168,
@@ -3357,7 +3691,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13144254574000072627",
     "LAT": 16.4876592,
-    "LONG": 80.6774803
+    "LONG": 80.6774803,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 169,
@@ -3377,7 +3713,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=13388367673835890739",
     "LAT": 16.511072,
-    "LONG": 80.638093
+    "LONG": 80.638093,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 170,
@@ -3397,7 +3735,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11657725636870650236",
     "LAT": 16.17621,
-    "LONG": 81.125215
+    "LONG": 81.125215,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 171,
@@ -3417,7 +3757,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6209474028518169776",
     "LAT": 16.48726,
-    "LONG": 80.684152
+    "LONG": 80.684152,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 172,
@@ -3437,7 +3779,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5015967069130237259",
     "LAT": 16.4844027,
-    "LONG": 80.6169481
+    "LONG": 80.6169481,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 173,
@@ -3457,7 +3801,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1940277148361638646",
     "LAT": 16.5092574,
-    "LONG": 80.6374738
+    "LONG": 80.6374738,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 174,
@@ -3477,7 +3823,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=7394721543724763375",
     "LAT": 16.5095995,
-    "LONG": 80.6358685
+    "LONG": 80.6358685,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 175,
@@ -3497,7 +3845,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=4230641846223910011",
     "LAT": 16.5171049,
-    "LONG": 80.636688
+    "LONG": 80.636688,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 176,
@@ -3517,7 +3867,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=15680630862551067009",
     "LAT": 16.5117653,
-    "LONG": 80.6386629
+    "LONG": 80.6386629,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 177,
@@ -3537,7 +3889,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=15678013224352020244",
     "LAT": 16.5111055,
-    "LONG": 80.6294689
+    "LONG": 80.6294689,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 178,
@@ -3557,7 +3911,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=15817059332202159320",
     "LAT": 16.5117346,
-    "LONG": 80.63469
+    "LONG": 80.63469,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 179,
@@ -3577,7 +3933,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7718581183813619616",
     "LAT": 16.509834,
-    "LONG": 80.6649419
+    "LONG": 80.6649419,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 180,
@@ -3597,7 +3955,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=12774756034395104215",
     "LAT": 16.5109737,
-    "LONG": 80.6350505
+    "LONG": 80.6350505,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 181,
@@ -3617,7 +3977,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=1124196274978716246",
     "LAT": 16.509314,
-    "LONG": 80.6420918
+    "LONG": 80.6420918,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 182,
@@ -3637,7 +3999,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17452089281506470769",
     "LAT": 16.516889,
-    "LONG": 80.6426175
+    "LONG": 80.6426175,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 183,
@@ -3657,7 +4021,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5470988790958336366",
     "LAT": 16.5401784,
-    "LONG": 80.6397954
+    "LONG": 80.6397954,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 184,
@@ -3677,7 +4043,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12486109677720759432",
     "LAT": 16.5122729,
-    "LONG": 80.6315045
+    "LONG": 80.6315045,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 185,
@@ -3697,7 +4065,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7645671866290505991",
     "LAT": 16.5109261,
-    "LONG": 80.6186176
+    "LONG": 80.6186176,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 186,
@@ -3717,7 +4087,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7379894725948137960",
     "LAT": 16.5136902,
-    "LONG": 80.6372766
+    "LONG": 80.6372766,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 187,
@@ -3737,7 +4109,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2779061856534612228",
     "LAT": 16.5107997,
-    "LONG": 80.6662108
+    "LONG": 80.6662108,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 188,
@@ -3757,7 +4131,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2945804702786074822",
     "LAT": 16.5134457,
-    "LONG": 80.6352733
+    "LONG": 80.6352733,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 189,
@@ -3777,7 +4153,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13618167829891488389",
     "LAT": 16.3311178,
-    "LONG": 80.9680816
+    "LONG": 80.9680816,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 190,
@@ -3797,7 +4175,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=10456169121225149373",
     "LAT": 16.5082352,
-    "LONG": 80.6279497
+    "LONG": 80.6279497,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 191,
@@ -3817,7 +4197,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12665210178727294367",
     "LAT": 16.5101327,
-    "LONG": 80.637323
+    "LONG": 80.637323,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 192,
@@ -3837,7 +4219,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12426724736219771109",
     "LAT": 16.5135697,
-    "LONG": 80.6355164
+    "LONG": 80.6355164,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 193,
@@ -3857,7 +4241,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13837514940195965475",
     "LAT": 16.5093279,
-    "LONG": 80.6371296
+    "LONG": 80.6371296,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 194,
@@ -3877,7 +4263,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=10237557386575465960",
     "LAT": 16.4961458,
-    "LONG": 80.6392006
+    "LONG": 80.6392006,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 195,
@@ -3897,7 +4285,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14419333438347546683",
     "LAT": 16.4389,
-    "LONG": 80.9927
+    "LONG": 80.9927,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 196,
@@ -3917,7 +4307,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13976411213294149900",
     "LAT": 16.3152338,
-    "LONG": 80.7778178
+    "LONG": 80.7778178,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 197,
@@ -3937,7 +4329,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14410202214143868054",
     "LAT": 16.4345654,
-    "LONG": 80.9915147
+    "LONG": 80.9915147,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 198,
@@ -3957,7 +4351,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5776899849488883359",
     "LAT": 16.4899069,
-    "LONG": 80.6715775
+    "LONG": 80.6715775,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 199,
@@ -3977,7 +4373,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=16978532203028969807",
     "LAT": 16.5219541,
-    "LONG": 80.6774679
+    "LONG": 80.6774679,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 200,
@@ -3997,7 +4395,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://www.google.com/maps/place/Dr.Kiran+Reddy+Joint+Care+Centre/@16.4993783,80.6564471,17z/data=!4m5!3m4!1s0x3a35fb4328217de7:0x1478d31228e173f8!8m2!3d16.4993937!4d80.6560394",
     "LAT": 16.4993783,
-    "LONG": 80.6564471
+    "LONG": 80.6564471,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 201,
@@ -4017,7 +4417,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12847942059617155643",
     "LAT": 17.108986,
-    "LONG": 80.6094421
+    "LONG": 80.6094421,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 202,
@@ -4037,7 +4439,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=1720450903921395983",
     "LAT": 16.5117048,
-    "LONG": 80.6320094
+    "LONG": 80.6320094,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 203,
@@ -4057,7 +4461,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17928677118070599729",
     "LAT": 16.507707,
-    "LONG": 80.6405503
+    "LONG": 80.6405503,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 204,
@@ -4077,7 +4483,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=6164290656464292434",
     "LAT": 16.5129354,
-    "LONG": 80.6334193
+    "LONG": 80.6334193,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 205,
@@ -4097,7 +4505,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=2673385285791541109",
     "LAT": 16.5137969,
-    "LONG": 80.633707
+    "LONG": 80.633707,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 206,
@@ -4117,7 +4527,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=14480888388737555091",
     "LAT": 16.5041469,
-    "LONG": 80.6424138
+    "LONG": 80.6424138,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 207,
@@ -4137,7 +4549,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=6414090885907837019",
     "LAT": 16.5137609,
-    "LONG": 80.6332292
+    "LONG": 80.6332292,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 208,
@@ -4157,7 +4571,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4916366239073292897",
     "LAT": 16.5128448,
-    "LONG": 80.639288
+    "LONG": 80.639288,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 209,
@@ -4177,7 +4593,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=347145307754893269",
     "LAT": 16.4976143,
-    "LONG": 80.6555727
+    "LONG": 80.6555727,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 210,
@@ -4197,7 +4615,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2613164828488801001",
     "LAT": 16.5129454,
-    "LONG": 80.6356174
+    "LONG": 80.6356174,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 211,
@@ -4217,7 +4637,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=13851155629949372300",
     "LAT": 15.8254173,
-    "LONG": 80.36139
+    "LONG": 80.36139,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 212,
@@ -4237,7 +4659,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 30,
     "LOCATION": "https://maps.google.com/?cid=7141772300281619694",
     "LAT": 15.7412546,
-    "LONG": 79.2551079
+    "LONG": 79.2551079,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 213,
@@ -4257,7 +4681,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=7305225766750927873",
     "LAT": 15.8132548,
-    "LONG": 78.0564436
+    "LONG": 78.0564436,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 214,
@@ -4277,7 +4703,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=15819578995579674887",
     "LAT": 15.2132393,
-    "LONG": 79.9014643
+    "LONG": 79.9014643,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 215,
@@ -4297,7 +4725,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 9,
     "LOCATION": "https://maps.google.com/?cid=5955762896812085160",
     "LAT": 15.479061,
-    "LONG": 80.048297
+    "LONG": 80.048297,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 216,
@@ -4317,7 +4747,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=14839184885421359567",
     "LAT": 15.8281257,
-    "LONG": 78.0372793
+    "LONG": 78.0372793,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 217,
@@ -4337,7 +4769,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 254,
     "LOCATION": "https://maps.google.com/?cid=7894154013788235490",
     "LAT": 15.8188146,
-    "LONG": 78.0397689
+    "LONG": 78.0397689,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 218,
@@ -4357,7 +4791,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=9588343643220757584",
     "LAT": 15.4822769,
-    "LONG": 80.0465612
+    "LONG": 80.0465612,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 219,
@@ -4377,7 +4813,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=15239670914218660784",
     "LAT": 15.5118771,
-    "LONG": 80.0405705
+    "LONG": 80.0405705,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 220,
@@ -4397,7 +4835,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=6291900437469527256",
     "LAT": 15.8234967,
-    "LONG": 78.0413144
+    "LONG": 78.0413144,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 221,
@@ -4417,7 +4857,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=12160521391753264269",
     "LAT": 15.8134531,
-    "LONG": 78.0384473
+    "LONG": 78.0384473,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 222,
@@ -4437,7 +4879,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=7305225766750927873",
     "LAT": 15.8132548,
-    "LONG": 78.0564436
+    "LONG": 78.0564436,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 223,
@@ -4457,7 +4901,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=3642309144452275738",
     "LAT": 15.82891,
-    "LONG": 80.35928
+    "LONG": 80.35928,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 224,
@@ -4477,7 +4923,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=3865642576691201827",
     "LAT": 15.826127,
-    "LONG": 80.3585599
+    "LONG": 80.3585599,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 225,
@@ -4497,7 +4945,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=15213993785611270740",
     "LAT": 15.8010598,
-    "LONG": 78.0470273
+    "LONG": 78.0470273,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 226,
@@ -4517,7 +4967,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=4660214089351212823",
     "LAT": 15.825083,
-    "LONG": 78.030954
+    "LONG": 78.030954,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 227,
@@ -4537,7 +4989,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=2841029530339275879",
     "LAT": 15.8389275,
-    "LONG": 78.0418579
+    "LONG": 78.0418579,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 228,
@@ -4557,7 +5011,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=3984458895052647764",
     "LAT": 15.8279965,
-    "LONG": 78.0365552
+    "LONG": 78.0365552,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 229,
@@ -4577,7 +5033,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=4490253022133102120",
     "LAT": 15.6223965,
-    "LONG": 77.2787223
+    "LONG": 77.2787223,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 230,
@@ -4597,7 +5055,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4660214089351212823",
     "LAT": 15.825083,
-    "LONG": 78.030954
+    "LONG": 78.030954,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 231,
@@ -4617,7 +5077,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=17164954797211661189",
     "LAT": 15.5862712,
-    "LONG": 79.8635791
+    "LONG": 79.8635791,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 232,
@@ -4637,7 +5099,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8082422447187847341",
     "LAT": 15.6024315,
-    "LONG": 79.6230637
+    "LONG": 79.6230637,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 233,
@@ -4657,7 +5121,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=3787642724589142006",
     "LAT": 15.7737377,
-    "LONG": 79.6787767
+    "LONG": 79.6787767,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 234,
@@ -4677,7 +5143,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14464377963816100255",
     "LAT": 15.967014,
-    "LONG": 80.2765457
+    "LONG": 80.2765457,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 235,
@@ -4697,7 +5165,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2437513803717279483",
     "LAT": 15.8351616,
-    "LONG": 78.0422319
+    "LONG": 78.0422319,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 236,
@@ -4717,7 +5187,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.co.in/maps/place/CHC/@15.1331716,78.5119466,17z/data=!3m1!4b1!4m5!3m4!1s0x3bb45d7370f0e493:0xd0f8458b3014354d!8m2!3d15.1331716!4d78.5141353?hl=en",
     "LAT": 15.1331716,
-    "LONG": 78.5119466
+    "LONG": 78.5119466,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 237,
@@ -4737,7 +5209,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1494237572441263258",
     "LAT": 15.4000357,
-    "LONG": 79.5098663
+    "LONG": 79.5098663,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 238,
@@ -4757,7 +5231,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8465829219812368223",
     "LAT": 15.8357079,
-    "LONG": 78.0422412
+    "LONG": 78.0422412,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 239,
@@ -4777,7 +5253,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2085622769012218757",
     "LAT": 15.8272736,
-    "LONG": 80.3573258
+    "LONG": 80.3573258,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 240,
@@ -4797,7 +5275,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6329618396230201037",
     "LAT": 15.825344,
-    "LONG": 78.050721
+    "LONG": 78.050721,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 241,
@@ -4817,7 +5297,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=16393391284467624252",
     "LAT": 15.8251599,
-    "LONG": 78.0313108
+    "LONG": 78.0313108,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 242,
@@ -4837,7 +5319,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=13851155629949372300",
     "LAT": 15.8254173,
-    "LONG": 80.36139
+    "LONG": 80.36139,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 243,
@@ -4857,7 +5341,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 30,
     "LOCATION": "https://maps.google.com/?cid=12027276128472975936",
     "LAT": 15.7460877,
-    "LONG": 79.271578
+    "LONG": 79.271578,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 244,
@@ -4877,7 +5363,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=7443189688562985669",
     "LAT": 15.5116257,
-    "LONG": 80.0406398
+    "LONG": 80.0406398,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 245,
@@ -4897,7 +5385,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=15819578995579674887",
     "LAT": 15.2132393,
-    "LONG": 79.9014643
+    "LONG": 79.9014643,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 246,
@@ -4917,7 +5407,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 9,
     "LOCATION": "https://maps.google.com/?cid=5955762896812085160",
     "LAT": 15.479061,
-    "LONG": 80.048297
+    "LONG": 80.048297,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 247,
@@ -4937,7 +5429,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=10003525668325606768",
     "LAT": 15.5048795,
-    "LONG": 80.0513069
+    "LONG": 80.0513069,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 248,
@@ -4957,7 +5451,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 254,
     "LOCATION": "https://maps.google.com/?cid=16150006403713465857",
     "LAT": 15.4878817,
-    "LONG": 80.0471437
+    "LONG": 80.0471437,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 249,
@@ -4977,7 +5473,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=9588343643220757584",
     "LAT": 15.4822769,
-    "LONG": 80.0465612
+    "LONG": 80.0465612,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 250,
@@ -4997,7 +5495,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=15239670914218660784",
     "LAT": 15.5118771,
-    "LONG": 80.0405705
+    "LONG": 80.0405705,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 251,
@@ -5017,7 +5517,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=1092878463027783972",
     "LAT": 15.5114591,
-    "LONG": 80.0420866
+    "LONG": 80.0420866,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 252,
@@ -5037,7 +5539,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=6688205238513718207",
     "LAT": 15.5145439,
-    "LONG": 80.0434952
+    "LONG": 80.0434952,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 253,
@@ -5057,7 +5561,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=11267729025110286657",
     "LAT": 15.4970585,
-    "LONG": 80.0545353
+    "LONG": 80.0545353,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 254,
@@ -5077,7 +5583,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=3642309144452275738",
     "LAT": 15.82891,
-    "LONG": 80.35928
+    "LONG": 80.35928,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 255,
@@ -5097,7 +5605,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=3865642576691201827",
     "LAT": 15.826127,
-    "LONG": 80.3585599
+    "LONG": 80.3585599,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 256,
@@ -5117,7 +5627,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11534612618199329429",
     "LAT": 15.5109743,
-    "LONG": 80.0372535
+    "LONG": 80.0372535,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 257,
@@ -5137,7 +5649,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=17750768411004780074",
     "LAT": 15.499628,
-    "LONG": 80.043664
+    "LONG": 80.043664,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 258,
@@ -5157,7 +5671,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=5305661678111657390",
     "LAT": 15.2132312,
-    "LONG": 79.9030609
+    "LONG": 79.9030609,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 259,
@@ -5177,7 +5693,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=10016276762495630575",
     "LAT": 15.5033106,
-    "LONG": 80.0425887
+    "LONG": 80.0425887,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 260,
@@ -5197,7 +5715,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=6380347719913750942",
     "LAT": 15.5111918,
-    "LONG": 80.0395444
+    "LONG": 80.0395444,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 261,
@@ -5217,7 +5737,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=50047292458096039",
     "LAT": 15.3781682,
-    "LONG": 78.9310283
+    "LONG": 78.9310283,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 262,
@@ -5237,7 +5759,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?q=Chimakurthy,+Andhra+Pradesh+523226,+India&ftid=0x3a4ae250ca031f1d:0x8b2576d4c7d91616",
     "LAT": 15.5855375,
-    "LONG": 79.8671813
+    "LONG": 79.8671813,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 263,
@@ -5257,7 +5781,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=10858272862333249873",
     "LAT": 15.5843089,
-    "LONG": 79.8743778
+    "LONG": 79.8743778,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 264,
@@ -5277,7 +5803,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=10451116478108260599",
     "LAT": 15.7720868,
-    "LONG": 79.6771696
+    "LONG": 79.6771696,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 265,
@@ -5297,7 +5825,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6804040847803346098",
     "LAT": 15.9670436,
-    "LONG": 80.2757049
+    "LONG": 80.2757049,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 266,
@@ -5317,7 +5847,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=10588883311958282916",
     "LAT": 15.9855493,
-    "LONG": 80.1038752
+    "LONG": 80.1038752,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 267,
@@ -5337,7 +5869,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5320821672752415442",
     "LAT": 15.2447322,
-    "LONG": 79.966186
+    "LONG": 79.966186,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 268,
@@ -5357,7 +5891,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5460292509713168501",
     "LAT": 15.4054262,
-    "LONG": 79.5047722
+    "LONG": 79.5047722,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 269,
@@ -5377,7 +5913,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7985683122549639568",
     "LAT": 15.5112845,
-    "LONG": 80.0368836
+    "LONG": 80.0368836,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 270,
@@ -5397,7 +5935,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2085622769012218757",
     "LAT": 15.8272736,
-    "LONG": 80.3573258
+    "LONG": 80.3573258,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 271,
@@ -5417,7 +5957,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5162155770407488072",
     "LAT": 15.5162222,
-    "LONG": 80.0397151
+    "LONG": 80.0397151,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 272,
@@ -5437,7 +5979,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=985484472630807417",
     "LAT": 15.5129865,
-    "LONG": 80.0401828
+    "LONG": 80.0401828,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 273,
@@ -5457,7 +6001,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=17838181399971000187",
     "LAT": 14.4383479,
-    "LONG": 79.9925387
+    "LONG": 79.9925387,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 274,
@@ -5477,7 +6023,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 18,
     "LOCATION": "https://maps.google.com/?cid=15005406736756887481",
     "LAT": 14.4259731,
-    "LONG": 80.0136424
+    "LONG": 80.0136424,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 275,
@@ -5497,7 +6045,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 122,
     "LOCATION": "https://maps.google.com/?cid=4428187344946129223",
     "LAT": 14.4242962,
-    "LONG": 79.962144
+    "LONG": 79.962144,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 276,
@@ -5517,7 +6067,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1137215505823845932",
     "LAT": 14.4366521,
-    "LONG": 79.9992737
+    "LONG": 79.9992737,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 277,
@@ -5537,7 +6089,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6911962778627548376",
     "LAT": 14.4449945,
-    "LONG": 79.983335
+    "LONG": 79.983335,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 278,
@@ -5557,7 +6111,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=2322109735138352037",
     "LAT": 14.4344412,
-    "LONG": 79.9681728
+    "LONG": 79.9681728,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 279,
@@ -5577,7 +6133,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=18297524922418056099",
     "LAT": 14.4490301,
-    "LONG": 79.9831563
+    "LONG": 79.9831563,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 280,
@@ -5597,7 +6155,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=10478390432732090389",
     "LAT": 14.9091471,
-    "LONG": 79.9904988
+    "LONG": 79.9904988,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 281,
@@ -5617,7 +6177,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=3276101654586227459",
     "LAT": 14.5049293,
-    "LONG": 79.9860833
+    "LONG": 79.9860833,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 282,
@@ -5637,7 +6199,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=9296207915481120524",
     "LAT": 14.4499493,
-    "LONG": 79.9851133
+    "LONG": 79.9851133,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 283,
@@ -5657,7 +6221,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12892765628411506099",
     "LAT": 14.6213587,
-    "LONG": 79.6233611
+    "LONG": 79.6233611,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 284,
@@ -5677,7 +6243,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11060708790252340446",
     "LAT": 14.457675,
-    "LONG": 79.9830064
+    "LONG": 79.9830064,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 285,
@@ -5697,7 +6265,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8805306302726801893",
     "LAT": 13.9023313,
-    "LONG": 79.9038995
+    "LONG": 79.9038995,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 286,
@@ -5717,7 +6287,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1604942815183513484",
     "LAT": 14.6255995,
-    "LONG": 79.6227553
+    "LONG": 79.6227553,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 287,
@@ -5737,7 +6309,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 25,
     "LOCATION": "https://maps.google.com/?cid=11798394137932771790",
     "LAT": 17.6847037,
-    "LONG": 83.0060052
+    "LONG": 83.0060052,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 288,
@@ -5757,7 +6331,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 40,
     "LOCATION": "https://maps.google.com/?cid=12628109186606787897",
     "LAT": 17.7272738,
-    "LONG": 83.3330929
+    "LONG": 83.3330929,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 289,
@@ -5777,7 +6353,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7443686257364709300",
     "LAT": 18.3248115,
-    "LONG": 82.8852103
+    "LONG": 82.8852103,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 290,
@@ -5797,7 +6375,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 100,
     "LOCATION": "https://maps.google.com/?cid=9205900357599247557",
     "LAT": 17.7593001,
-    "LONG": 83.3297549
+    "LONG": 83.3297549,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 291,
@@ -5817,7 +6397,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 25,
     "LOCATION": "https://maps.google.com/?cid=1525512982590646951",
     "LAT": 18.0806081,
-    "LONG": 82.6736042
+    "LONG": 82.6736042,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 292,
@@ -5837,7 +6419,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=16561323450781611921",
     "LAT": 17.6727848,
-    "LONG": 82.6107761
+    "LONG": 82.6107761,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 293,
@@ -5857,7 +6441,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 200,
     "LOCATION": "https://maps.google.com/?cid=14676750586227216895",
     "LAT": 17.7070926,
-    "LONG": 83.305556
+    "LONG": 83.305556,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 294,
@@ -5877,7 +6463,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 8,
     "LOCATION": "https://maps.google.com/?cid=3391922169533533509",
     "LAT": 17.7404065,
-    "LONG": 83.3081929
+    "LONG": 83.3081929,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 295,
@@ -5897,7 +6485,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=6099784320346720575",
     "LAT": 17.7109234,
-    "LONG": 83.3026694
+    "LONG": 83.3026694,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 296,
@@ -5917,7 +6507,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=7082085292577420721",
     "LAT": 17.7202776,
-    "LONG": 83.3126239
+    "LONG": 83.3126239,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 297,
@@ -5937,7 +6529,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 12,
     "LOCATION": "https://maps.google.com/?cid=14643432480351828685",
     "LAT": 17.8021421,
-    "LONG": 83.3647322
+    "LONG": 83.3647322,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 298,
@@ -5957,7 +6551,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=15077792372005207905",
     "LAT": 17.7319479,
-    "LONG": 83.2982658
+    "LONG": 83.2982658,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 299,
@@ -5977,7 +6573,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=1310197801577069800",
     "LAT": 17.7172617,
-    "LONG": 83.3093477
+    "LONG": 83.3093477,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 300,
@@ -5997,7 +6595,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=10331619944286205481",
     "LAT": 17.7097176,
-    "LONG": 83.3057755
+    "LONG": 83.3057755,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 301,
@@ -6017,7 +6617,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://www.google.com/maps/place/St.+Ann's+Jubilee+Memorial+Hospital/@17.6840304,83.2381012,17z/data=!4m5!3m4!1s0x3a3969d6cfffffff:0x9284e945f0caf9e!8m2!3d17.6842911!4d83.237672",
     "LAT": 17.6840304,
-    "LONG": 83.2381012
+    "LONG": 83.2381012,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 302,
@@ -6037,7 +6639,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6911159694836950781",
     "LAT": 17.7144161,
-    "LONG": 83.1957038
+    "LONG": 83.1957038,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 303,
@@ -6057,7 +6661,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://www.google.com/maps/place/St.Joseph's+Hospital/@17.7108696,83.3131996,17z/data=!4m5!3m4!1s0x3a394312f963cf3d:0xec70e35c7ce62da2!8m2!3d17.7111813!4d83.3122125",
     "LAT": 17.7108696,
-    "LONG": 83.3131996
+    "LONG": 83.3131996,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 304,
@@ -6077,7 +6683,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5049297148586470076",
     "LAT": 17.7281463,
-    "LONG": 83.3030371
+    "LONG": 83.3030371,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 305,
@@ -6097,7 +6705,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=17064235568746327044",
     "LAT": 17.8286437,
-    "LONG": 83.3702528
+    "LONG": 83.3702528,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 306,
@@ -6117,7 +6727,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 20,
     "LOCATION": "https://maps.google.com/?cid=3070754973403270322",
     "LAT": 17.7854788,
-    "LONG": 83.37517
+    "LONG": 83.37517,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 307,
@@ -6137,7 +6749,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8229123933747945178",
     "LAT": 17.7410992,
-    "LONG": 83.2432825
+    "LONG": 83.2432825,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 308,
@@ -6157,7 +6771,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=643612062470628334",
     "LAT": 10.5893756,
-    "LONG": 76.5165245
+    "LONG": 76.5165245,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 309,
@@ -6177,7 +6793,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=10649005843441138006",
     "LAT": 17.813031,
-    "LONG": 83.355619
+    "LONG": 83.355619,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 310,
@@ -6197,7 +6815,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14714607390457038928",
     "LAT": 17.7100172,
-    "LONG": 83.3044187
+    "LONG": 83.3044187,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 311,
@@ -6217,7 +6837,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 7,
     "LOCATION": "https://maps.google.com/?cid=17344706242249709391",
     "LAT": 17.7172512,
-    "LONG": 83.3091802
+    "LONG": 83.3091802,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 312,
@@ -6237,7 +6859,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=13827669610161010788",
     "LAT": 17.6876156,
-    "LONG": 83.001766
+    "LONG": 83.001766,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 313,
@@ -6257,7 +6881,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?q=S+R+hospital&ftid=0x3a3967d01fdb2739:0x13b47e8c66e7102e",
     "LAT": 17.7529951,
-    "LONG": 83.2172629
+    "LONG": 83.2172629,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 314,
@@ -6277,7 +6903,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=17855092995370686247",
     "LAT": 17.7632559,
-    "LONG": 83.3078714
+    "LONG": 83.3078714,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 315,
@@ -6297,7 +6925,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11200498882895028164",
     "LAT": 17.7402833,
-    "LONG": 83.2508
+    "LONG": 83.2508,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 316,
@@ -6317,7 +6947,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=4178562549863837271",
     "LAT": 17.7475491,
-    "LONG": 83.3314339
+    "LONG": 83.3314339,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 317,
@@ -6337,7 +6969,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2193694439623280191",
     "LAT": 17.7624315,
-    "LONG": 83.3083374
+    "LONG": 83.3083374,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 318,
@@ -6357,7 +6991,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=6320886881313038452",
     "LAT": 17.7440365,
-    "LONG": 83.3351936
+    "LONG": 83.3351936,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 319,
@@ -6377,7 +7013,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=9661049916297428384",
     "LAT": 17.7635016,
-    "LONG": 83.3106275
+    "LONG": 83.3106275,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 320,
@@ -6397,7 +7035,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11488538296905058972",
     "LAT": 17.7100634,
-    "LONG": 83.3045618
+    "LONG": 83.3045618,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 321,
@@ -6417,7 +7057,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=803250757562183100",
     "LAT": 17.7107981,
-    "LONG": 83.3123715
+    "LONG": 83.3123715,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 322,
@@ -6437,7 +7079,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6565590044452528540",
     "LAT": 17.7638223,
-    "LONG": 83.3107518
+    "LONG": 83.3107518,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 323,
@@ -6457,7 +7101,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=17777994648596923",
     "LAT": 17.7149935,
-    "LONG": 83.3139711
+    "LONG": 83.3139711,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 324,
@@ -6477,7 +7123,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11048370088473640278",
     "LAT": 17.7351023,
-    "LONG": 83.2775302
+    "LONG": 83.2775302,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 325,
@@ -6497,7 +7145,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=9128374223637270334",
     "LAT": 17.6868481,
-    "LONG": 83.2184972
+    "LONG": 83.2184972,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 326,
@@ -6517,7 +7167,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=3934366984762721501",
     "LAT": 17.7186638,
-    "LONG": 83.3115696
+    "LONG": 83.3115696,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 327,
@@ -6537,7 +7189,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=4959756191007620146",
     "LAT": 17.7635107,
-    "LONG": 83.3119078
+    "LONG": 83.3119078,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 328,
@@ -6557,7 +7211,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4343305531412157331",
     "LAT": 17.7391305,
-    "LONG": 83.3375078
+    "LONG": 83.3375078,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 329,
@@ -6577,7 +7233,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8954823514439684863",
     "LAT": 17.710926,
-    "LONG": 83.302371
+    "LONG": 83.302371,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 330,
@@ -6597,7 +7255,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=3846059424835852803",
     "LAT": 17.6882695,
-    "LONG": 83.1664885
+    "LONG": 83.1664885,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 331,
@@ -6617,7 +7277,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=17855092995370686247",
     "LAT": 17.7632559,
-    "LONG": 83.3078714
+    "LONG": 83.3078714,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 332,
@@ -6637,7 +7299,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.com/maps/place/Govt+ENT+Hospital/@17.7299753,83.3312887,17z/data=!4m5!3m4!1s0x3a39435bd5bd4b13:0xd7cc924ad8ca1102!8m2!3d17.7302257!4d83.3307415",
     "LAT": 17.7299753,
-    "LONG": 83.3312887
+    "LONG": 83.3312887,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 333,
@@ -6657,7 +7321,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4786122724763734896",
     "LAT": 17.7288886,
-    "LONG": 83.3368582
+    "LONG": 83.3368582,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 334,
@@ -6677,7 +7343,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4773796373150216543",
     "LAT": 17.7445358,
-    "LONG": 83.2264587
+    "LONG": 83.2264587,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 335,
@@ -6697,7 +7365,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5212660844970331278",
     "LAT": 17.5663924,
-    "LONG": 82.6826411
+    "LONG": 82.6826411,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 336,
@@ -6717,7 +7387,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14525674021848927405",
     "LAT": 17.9161987,
-    "LONG": 82.8159216
+    "LONG": 82.8159216,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 337,
@@ -6737,7 +7409,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 26,
     "LOCATION": "https://maps.google.com/?cid=9323051632486674427",
     "LAT": 18.1460111,
-    "LONG": 83.4425168
+    "LONG": 83.4425168,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 338,
@@ -6757,7 +7431,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11492932789879246215",
     "LAT": 18.1107128,
-    "LONG": 83.3866177
+    "LONG": 83.3866177,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 339,
@@ -6777,7 +7453,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=3299525549319069722",
     "LAT": 18.1176058,
-    "LONG": 83.401222
+    "LONG": 83.401222,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 340,
@@ -6797,7 +7475,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11087885552209973114",
     "LAT": 18.110687,
-    "LONG": 83.4186762
+    "LONG": 83.4186762,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 341,
@@ -6817,7 +7497,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=1318276470854418675",
     "LAT": 18.1077696,
-    "LONG": 83.4014164
+    "LONG": 83.4014164,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 342,
@@ -6837,7 +7519,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 17,
     "LOCATION": "https://maps.google.com/?cid=11492932789879246215",
     "LAT": 18.1107128,
-    "LONG": 83.3866177
+    "LONG": 83.3866177,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 343,
@@ -6857,7 +7541,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=2187242121111950492",
     "LAT": 18.1066181,
-    "LONG": 83.3977354
+    "LONG": 83.3977354,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 344,
@@ -6877,7 +7563,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 6,
     "LOCATION": "https://maps.google.com/?cid=2436109441848857522",
     "LAT": 18.107232,
-    "LONG": 83.4012301
+    "LONG": 83.4012301,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 345,
@@ -6897,7 +7585,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=17018939646511977369",
     "LAT": 18.1153975,
-    "LONG": 83.4028354
+    "LONG": 83.4028354,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 346,
@@ -6917,7 +7607,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8941267899112244317",
     "LAT": 18.5202371,
-    "LONG": 83.1983884
+    "LONG": 83.1983884,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 347,
@@ -6937,7 +7629,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=14684469545062843273",
     "LAT": 18.7765626,
-    "LONG": 83.4257688
+    "LONG": 83.4257688,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 348,
@@ -6957,7 +7651,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4002343366007019416",
     "LAT": 18.304883,
-    "LONG": 83.564095
+    "LONG": 83.564095,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 349,
@@ -6977,7 +7673,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13451632573227141650",
     "LAT": 18.1102317,
-    "LONG": 83.138789
+    "LONG": 83.138789,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 350,
@@ -6997,7 +7695,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=3826652275188332130",
     "LAT": 18.1114,
-    "LONG": 83.4136
+    "LONG": 83.4136,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 351,
@@ -7017,7 +7717,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2477337027191969954",
     "LAT": 18.1146035,
-    "LONG": 83.4133383
+    "LONG": 83.4133383,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 352,
@@ -7037,7 +7739,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13534994087654652271",
     "LAT": 16.7570458,
-    "LONG": 81.6828863
+    "LONG": 81.6828863,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 353,
@@ -7057,7 +7761,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 20,
     "LOCATION": "https://maps.google.com/?cid=17989293852012162440",
     "LAT": 16.8109037,
-    "LONG": 81.5085584
+    "LONG": 81.5085584,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 354,
@@ -7077,7 +7783,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 30,
     "LOCATION": "https://maps.google.com/?cid=105844983825703218",
     "LAT": 16.8217231,
-    "LONG": 81.5387356
+    "LONG": 81.5387356,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 355,
@@ -7097,7 +7805,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 15,
     "LOCATION": "https://maps.google.com/?cid=4368101991791438947",
     "LAT": 16.5198076,
-    "LONG": 81.7293146
+    "LONG": 81.7293146,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 356,
@@ -7117,7 +7827,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7134038066981298462",
     "LAT": 16.8138415,
-    "LONG": 81.5212411
+    "LONG": 81.5212411,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 357,
@@ -7137,7 +7849,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 25,
     "LOCATION": "https://maps.google.com/?cid=15612270947392910587",
     "LAT": 16.5415159,
-    "LONG": 81.5205674
+    "LONG": 81.5205674,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 358,
@@ -7157,7 +7871,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 130,
     "LOCATION": "https://maps.google.com/?cid=7370181910498895501",
     "LAT": 16.7139128,
-    "LONG": 81.0941782
+    "LONG": 81.0941782,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 359,
@@ -7177,7 +7893,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=917945961578237394",
     "LAT": 16.7445989,
-    "LONG": 81.6791787
+    "LONG": 81.6791787,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 360,
@@ -7197,7 +7915,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=17509562317654917761",
     "LAT": 16.7190066,
-    "LONG": 81.0912235
+    "LONG": 81.0912235,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 361,
@@ -7217,7 +7937,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 30,
     "LOCATION": "https://maps.google.com/?q=Tanuku,+Andhra+Pradesh,+India&ftid=0x3a37b7f1a2cc11d3:0xda43fc471176fce",
     "LAT": 16.7565815,
-    "LONG": 81.6769714
+    "LONG": 81.6769714,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 362,
@@ -7237,7 +7959,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=10505373508380143876",
     "LAT": 17.1304114,
-    "LONG": 81.2918264
+    "LONG": 81.2918264,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 363,
@@ -7257,7 +7981,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=9638583864698260597",
     "LAT": 16.9501919,
-    "LONG": 81.4145574
+    "LONG": 81.4145574,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 364,
@@ -7277,7 +8003,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=12314934197357295357",
     "LAT": 17.1172391,
-    "LONG": 81.2951481
+    "LONG": 81.2951481,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 365,
@@ -7297,7 +8025,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=9638583864698260597",
     "LAT": 16.9501919,
-    "LONG": 81.4145574
+    "LONG": 81.4145574,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 366,
@@ -7317,7 +8047,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=16960865483465597133",
     "LAT": 16.7123182,
-    "LONG": 81.1009435
+    "LONG": 81.1009435,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 367,
@@ -7337,7 +8069,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=13294350863091556154",
     "LAT": 16.9318387,
-    "LONG": 81.2506279
+    "LONG": 81.2506279,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 368,
@@ -7357,7 +8091,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7802917146488917480",
     "LAT": 16.714248,
-    "LONG": 81.1015677
+    "LONG": 81.1015677,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 369,
@@ -7377,7 +8113,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14964129589042933990",
     "LAT": 16.7390576,
-    "LONG": 81.0623501
+    "LONG": 81.0623501,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 370,
@@ -7397,7 +8135,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=4172578272482260022",
     "LAT": 16.5411268,
-    "LONG": 81.4960293
+    "LONG": 81.4960293,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 371,
@@ -7417,7 +8157,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=1203145632095715530",
     "LAT": 16.5461062,
-    "LONG": 81.5191507
+    "LONG": 81.5191507,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 372,
@@ -7437,7 +8179,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.com/maps/place/Imperial+Hospitals/@16.5427677,81.5129294,15z/data=!4m2!3m1!1s0x0:0x869819b4e3a2856?sa=X&ved=2ahUKEwjdmfydq6DwAhUPfisKHRDNCFYQ_BIwGnoECEkQBQ",
     "LAT": 16.5427677,
-    "LONG": 81.5129294
+    "LONG": 81.5129294,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 373,
@@ -7457,7 +8201,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14909728750250180321",
     "LAT": 16.549848,
-    "LONG": 81.513038
+    "LONG": 81.513038,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 374,
@@ -7477,7 +8223,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=9638583864698260597",
     "LAT": 16.9501919,
-    "LONG": 81.4145574
+    "LONG": 81.4145574,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 375,
@@ -7497,7 +8245,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2661467718710087881",
     "LAT": 16.7545959,
-    "LONG": 81.6745171
+    "LONG": 81.6745171,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 376,
@@ -7517,7 +8267,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5347170648988474655",
     "LAT": 16.5451393,
-    "LONG": 81.5305703
+    "LONG": 81.5305703,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 377,
@@ -7537,7 +8289,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7320330312465892932",
     "LAT": 17.1158079,
-    "LONG": 81.2962044
+    "LONG": 81.2962044,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 378,
@@ -7557,7 +8311,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14537947191181749012",
     "LAT": 16.9056193,
-    "LONG": 81.6710094
+    "LONG": 81.6710094,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 379,
@@ -7577,7 +8333,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5722839905297046322",
     "LAT": 16.7571779,
-    "LONG": 81.6773774
+    "LONG": 81.6773774,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 380,
@@ -7597,7 +8355,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=17562186206501566079",
     "LAT": 16.751443,
-    "LONG": 81.6840539
+    "LONG": 81.6840539,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 381,
@@ -7617,7 +8377,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7320929220395383394",
     "LAT": 16.7555224,
-    "LONG": 81.6816625
+    "LONG": 81.6816625,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 382,
@@ -7637,7 +8399,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8879182781471090310",
     "LAT": 16.757475,
-    "LONG": 81.6813272
+    "LONG": 81.6813272,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 383,
@@ -7657,7 +8421,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=11558619358158340184",
     "LAT": 16.7554268,
-    "LONG": 81.6744138
+    "LONG": 81.6744138,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 384,
@@ -7677,7 +8443,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7311211163692380375",
     "LAT": 16.7131745,
-    "LONG": 81.0999305
+    "LONG": 81.0999305,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 385,
@@ -7697,7 +8465,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=4443260791404522581",
     "LAT": 16.5209001,
-    "LONG": 81.7285626
+    "LONG": 81.7285626,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 386,
@@ -7717,7 +8487,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=6704680808972124340",
     "LAT": 16.7552235,
-    "LONG": 81.683352
+    "LONG": 81.683352,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 387,
@@ -7737,7 +8509,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=17104718737402169268",
     "LAT": 16.756011,
-    "LONG": 81.6764053
+    "LONG": 81.6764053,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 388,
@@ -7757,7 +8531,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=16593832531642038763",
     "LAT": 16.4329497,
-    "LONG": 81.695852
+    "LONG": 81.695852,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 389,
@@ -7777,7 +8553,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=8346897336599837542",
     "LAT": 16.7571233,
-    "LONG": 81.6882386
+    "LONG": 81.6882386,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 390,
@@ -7797,7 +8575,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 12,
     "LOCATION": "https://maps.google.com/?cid=6138652796583632761",
     "LAT": 14.4823721,
-    "LONG": 78.7897296
+    "LONG": 78.7897296,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 391,
@@ -7817,7 +8597,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 89,
     "LOCATION": "https://maps.google.com/?cid=17125799992386703252",
     "LAT": 14.4734987,
-    "LONG": 78.8113961
+    "LONG": 78.8113961,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 392,
@@ -7837,7 +8619,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 25,
     "LOCATION": "https://maps.google.com/?cid=15384609865497785312",
     "LAT": 14.7591667,
-    "LONG": 78.5572222
+    "LONG": 78.5572222,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 393,
@@ -7857,7 +8641,9 @@ andhra_pradesh_data=[
     "VENTILATOR": 75,
     "LOCATION": "https://maps.google.com/?q=Pulivendula,+Andhra+Pradesh,+India&ftid=0x3bb3ebb7c5835cd9:0x3a4854affffebccd",
     "LAT": 14.4222318,
-    "LONG": 78.2263388
+    "LONG": 78.2263388,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 394,
@@ -7877,6 +8663,8 @@ andhra_pradesh_data=[
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=9097710261131048874",
     "LAT": 14.4724573,
-    "LONG": 78.8231559
+    "LONG": 78.8231559,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   }
 ]

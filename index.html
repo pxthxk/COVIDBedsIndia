@@ -16,6 +16,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+		<link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 		<style type="text/css">
 			body {
 				color: #1f3349;
@@ -29,20 +30,39 @@
 				max-width: 1024px;
 				margin: 1em auto;
 			}
-			#dropdown {
-				text-align: center;
-				padding-bottom: 1em;
+			#pointers i {
+				display: inline-block;
 			}
-			#dropdown select {
+			#pointers p {
+				width: 95%;
+				display: inline-block;
+				vertical-align: top;
+				padding-left: 0.5em;
+				margin-bottom: 0.1em;
+			}
+			#selectors {
+				text-align: center;
+				padding: 1em 0;
 				font-size: 1.25em;
 			}
+			#selectors label {
+				padding-left: 1em;
+			}
+			#loc {
+				display: inline-block;
+			}
+			#bed {
+				display: inline-block;
+			}
+			.icon-exclamation {
+				color: crimson;
+			}
+			.icon-info {
+				color: cornflowerblue;
+			}			
 			#mapid {
 				width: 100%;
-				height: 70vh;
-			}
-			.leaflet-popup-content {
-				font-size: 1.25em;
-				width: 300px !important;
+				height: 65vh;
 			}
 			.marker-cluster-small {
 				background-color: rgba(150,150,150,0.5);
@@ -91,11 +111,15 @@
 				#pointers h4 {
 					font-size: 1.5em;
 				}
-				#dropdown {
-					font-size: 1.5em;
+				#selectors {
+					font-size: 1.75em;
 				}
 				#mapid {
 					height: 70vh;
+				}
+				.leaflet-popup-content {
+					font-size: 1.25em;
+					width: 300px !important;
 				}
 			}
 		</style>
@@ -103,18 +127,25 @@
 	<body>
 		<div class="container responsive" id="pointers">
 			<h4>NOTE</h4>
-			<ul class="list-group list-group-flush">
-				<li>The number in the circle represents the number of hospitals in the area and <b>NOT the number of beds</b>.</li>
-				<li>To get bed availability details, click on the <b>blue marker</b>.</li>
-				<li>We use government data to get the hospital status and numbers. The actual number of availability of beds may differ. <b>Please contact the hospital prior visiting.</b>
-				</li>
-				<li>The list of all data sources is available <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">here</a>. To report issues, please reach out us on <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">GitHub</a> or <a href="https://twitter.com/covidbedsindia" target="_blank">Twitter</a>.</li>
-			</ul>
+			<div><i class="icon-exclamation"></i><p>The number in the circle represents the number of hospitals in the area and <b>NOT the number of beds</b>.</p></div>
+			<div><i class="icon-exclamation"></i><p>To get bed availability details, click on the <b>blue marker</b>.</p></div>
+			<div><i class="icon-exclamation"></i><p>We use government data to get the hospital status and numbers. The actual number of availability of beds may differ. <b>Please contact the hospital prior visiting.</b></p></div>
+			<div><i class="icon-info"></i><p>The list of all data sources is available <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">here</a>. To report issues, please reach out us on <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">GitHub</a> or <a href="https://twitter.com/covidbedsindia" target="_blank">Twitter</a>.</p></div>
 		</div>
-		<div id="dropdown">
-			<select name="city" id="city" onchange="cityChanged(this.value)">
-				<option value="">SELECT YOUR CITY/DISTRICT</option>
-			</select>
+		<div id="selectors">
+			<div id="loc">
+				<select name="city" id="city" onchange="cityChanged(this.value)">
+					<option value="">SELECT YOUR CITY/DISTRICT</option>
+				</select>
+			</div>
+			<label>Hospitals with facilities of:</label>
+			<div id="bed">
+				<select name="bedtype" id="bedtype" onchange="bedChanged(this.value)">
+					<option value="">- ALL -</option>
+					<option value="icu">ICU Beds</option>
+					<option value="ventilator">Ventilators</option>
+				</select>
+			</div>
 		</div>
 		<div id="mapid"></div>
 		<script src="resources/Locations.js"></script>
@@ -141,21 +172,9 @@
 		<script src="src/Telangana.js"></script>
 		<script src="src/West_Bengal.js"></script>
 		<script type="text/javascript">
-			function loadCity(cityName) {
-				mymap.setView(latlong[cityName], zoomFactor[cityName]);
-			}
-			
-			function cityChanged(newvalue) {
-				loadCity(newvalue);
-			}
-			
-			var dropdown = document.getElementById("city");
-			for (var i=0; i<locations.length; i++) {
-			  dropdown.innerHTML = dropdown.innerHTML + "<option value='" + locations[i].key + "'>" + locations[i].value + "</option>";
-			}
-			
+			var bedtype = null;
 			var mymap = L.map("mapid");
-			
+
 			var mcg = L.markerClusterGroup({
 				maxClusterRadius: 30
 			});
@@ -168,43 +187,77 @@
 				zoomOffset: -1,
 				accessToken: 'pk.eyJ1IjoicHh0aHhrIiwiYSI6ImNrbnN0cHE2bTA3cGoycXBkajNuMnV5bTQifQ.si6acX_-tJGxBIiQWrHHCQ'
 			}).addTo(mymap);
+
+			var loc = document.getElementById("city");
+			for (var i=0; i<locations.length; i++) {
+				loc.innerHTML = loc.innerHTML + "<option value='" + locations[i].key + "'>" + locations[i].value + "</option>";
+			}
+
+			function loadCity(cityName) {
+				mymap.setView(latlong[cityName], zoomFactor[cityName]);
+			}
 			
-			var delhi = new Delhi();
-			delhi.populate(mcg);
-			
-			var ahmedabad = new Ahmedabad();
-			ahmedabad.populate(mcg);
-			
-			var bengaluru = new Bengaluru();
-			bengaluru.populate(mcg);
-			
-			var pune = new Pune();
-			pune.populate(mcg);
-			
-			var andhrapradesh = new Andhra_Pradesh();
-			andhrapradesh.populate(mcg);
-			
-			var chhattisgarh = new Chhattisgarh();
-			chhattisgarh.populate(mcg);
-			
-			var haryana = new Haryana();
-			haryana.populate(mcg);
-			
-			var madhyapradesh = new Madhya_Pradesh();
-			madhyapradesh.populate(mcg);
-			
-			var tamilnadu = new Tamil_Nadu();
-			tamilnadu.populate(mcg);
-			
-			var telangana = new Telangana();
-			telangana.populate(mcg);
-			
-			var westbengal = new West_Bengal();
-			westbengal.populate(mcg);
-			
-			mymap.addLayer(mcg);
-			
-			loadCity("Delhi");
+			function cityChanged(newcity) {
+				loadCity(newcity);
+			}
+
+			function bedChanged(newbedtype) {
+				initialize(mcg, newbedtype);
+			}
+
+			function venSelector(ventilator) {
+				ventilatorValue = ventilator.checked;
+				initialize(mcg, icuValue, ventilatorValue);
+			}
+
+			function initialize(mcg, bedtype) {
+				mcg.clearLayers();
+
+				var delhi = new Delhi();
+				delhi.populate(mcg, bedtype);
+				
+				var ahmedabad = new Ahmedabad();
+				ahmedabad.populate(mcg, bedtype);
+				
+				var bengaluru = new Bengaluru();
+				bengaluru.populate(mcg, bedtype);
+				
+				var pune = new Pune();
+				pune.populate(mcg, bedtype);
+				
+				var andhrapradesh = new Andhra_Pradesh();
+				andhrapradesh.populate(mcg, bedtype);
+				
+				var chhattisgarh = new Chhattisgarh();
+				chhattisgarh.populate(mcg, bedtype);
+				
+				var haryana = new Haryana();
+				haryana.populate(mcg, bedtype);
+				
+				var madhyapradesh = new Madhya_Pradesh();
+				madhyapradesh.populate(mcg, bedtype);
+				
+				var tamilnadu = new Tamil_Nadu();
+				tamilnadu.populate(mcg, bedtype);
+				
+				var telangana = new Telangana();
+				telangana.populate(mcg, bedtype);
+				
+				var westbengal = new West_Bengal();
+				westbengal.populate(mcg, bedtype);
+				
+				mymap.addLayer(mcg);
+
+				if(bedtype == "icu") {
+					alert("NOTE: This displays the *TOTAL* number of ICU beds in a hospital.\n\nWest Bengal has no information about the number of ICU beds.");
+				} else if(bedtype == "ventilator") {
+					alert("NOTE: This displays the *TOTAL* number of ICU beds with ventilators in a hospital.\n\nMadhya Pradesh, Telangana and West Bengal have no information about the number of ICU beds with ventilators.");
+				}
+			}
+
+			initialize(mcg, bedtype);
+
+			loadCity("Lander");
 		</script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-YHLL5RH0L7"></script>
 		<script>

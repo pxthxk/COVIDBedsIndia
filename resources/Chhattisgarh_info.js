@@ -24,7 +24,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:37",
     "LOCATION": "https://maps.google.com/?cid=14364603242103949272",
     "LAT": 20.7157719,
-    "LONG": 81.1914016
+    "LONG": 81.1914016,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 2,
@@ -51,7 +53,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:34",
     "LOCATION": "https://maps.google.com/?cid=4268582291940231775",
     "LAT": 20.7194397,
-    "LONG": 81.1926871
+    "LONG": 81.1926871,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 3,
@@ -63,7 +67,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 0,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 96,
-    "NONOXYGEN_BEDS_VACANT": 40,
+    "NONOXYGEN_BEDS_VACANT": 27,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -72,13 +76,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 40,
+    "BEDS_VACANT": 27,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:37",
+    "LAST_UPDATED_TIME": "17:21",
     "LOCATION": "https://www.google.com/maps/place/Lal+maidan+(corintin+center)/@20.5697324,81.0548054,15z/data=!4m5!3m4!1s0x0:0xee98f6c63b224337!8m2!3d20.5697324!4d81.0548054",
     "LAT": 20.57023464,
-    "LONG": 81.05476248
+    "LONG": 81.05476248,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 4,
@@ -90,7 +96,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 2,
     "OXYGEN_BEDS_VACANT": 2,
     "NONOXYGEN_BEDS_TOTAL": 98,
-    "NONOXYGEN_BEDS_VACANT": 4,
+    "NONOXYGEN_BEDS_VACANT": 8,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -99,13 +105,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 6,
+    "BEDS_VACANT": 10,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:14",
+    "LAST_UPDATED_TIME": "18:07",
     "LOCATION": "https://maps.google.com/?cid=4505369178467798827",
     "LAT": 20.7905672,
-    "LONG": 81.0552396
+    "LONG": 81.0552396,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 5,
@@ -132,7 +140,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:07",
     "LOCATION": "https://maps.google.com/?cid=4073330265987670324",
     "LAT": 20.9216866,
-    "LONG": 81.3144781
+    "LONG": 81.3144781,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 6,
@@ -159,7 +169,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:51",
     "LOCATION": "https://maps.google.com/?cid=14827074311102170905",
     "LAT": 20.6992358,
-    "LONG": 81.3684351
+    "LONG": 81.3684351,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 7,
@@ -186,7 +198,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:34",
     "LOCATION": "https://maps.google.com/?cid=9478540782642918147",
     "LAT": 20.7214178,
-    "LONG": 81.1971667
+    "LONG": 81.1971667,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 8,
@@ -213,7 +227,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 9,
@@ -240,7 +256,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:12",
     "LOCATION": "https://www.google.com/maps/place/SHAHID+HOSPITAL/@20.5859529,81.0711507,17.02z/data=!4m13!1m7!3m6!1s0x3a2eb95581c91879:0xcc31896ecf336c81!2sDalli+Rajhara,+Chhattisgarh+491228!3b1!8m2!3d20.5814845!4d81.0711219!3m4!1s0x3a2ebd00ee3c030b:0xa5c125ad56025e7e!8m2!3d20.5737258!4d81.0673619",
     "LAT": 20.5764131,
-    "LONG": 81.06697746
+    "LONG": 81.06697746,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 10,
@@ -267,7 +285,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "7:02",
     "LOCATION": "https://maps.google.com/?cid=15809759055034104855",
     "LAT": 20.7287186,
-    "LONG": 81.2043104
+    "LONG": 81.2043104,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 11,
@@ -279,22 +299,24 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 2,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 11,
-    "NONOXYGEN_BEDS_VACANT": 8,
+    "NONOXYGEN_BEDS_VACANT": 7,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 9,
-    "ICU_BEDS_VACANT": 2,
+    "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 10,
+    "BEDS_VACANT": 7,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:17",
+    "LAST_UPDATED_TIME": "21:30",
     "LOCATION": "https://maps.google.com/?cid=17656841258441095639",
     "LAT": 21.6417282,
-    "LONG": 82.9381591
+    "LONG": 82.9381591,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 12,
@@ -321,7 +343,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:07",
     "LOCATION": "https://maps.google.com/?cid=3781620585918376180",
     "LAT": 21.2143076,
-    "LONG": 81.6501759
+    "LONG": 81.6501759,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 13,
@@ -345,10 +369,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:17",
+    "LAST_UPDATED_TIME": "18:34",
     "LOCATION": "https://maps.google.com/?cid=16063666297189442348",
     "LAT": 21.658682,
-    "LONG": 82.143902
+    "LONG": 82.143902,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 14,
@@ -375,7 +401,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:16",
     "LOCATION": "https://maps.google.com/?cid=10344736937294923126",
     "LAT": 21.61765,
-    "LONG": 82.42573
+    "LONG": 82.42573,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 15,
@@ -402,7 +430,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:14",
     "LOCATION": "https://www.google.com/maps/place/A.+D.+Vaishnav+Smriti+Chikitsalay/@21.6605233,82.8029838,17z/data=!4m9!1m2!2m1!1sA.D.+Vaishnav+smriti+Chikitsalaya+Bhatgaon+!3m5!1s0x0:0x3340ded644cef052!8m2!3d21.660653!4d82.8023823!15sCipBLkQuIFZhaXNobmF2IHNtcml0aSBDaGlraXRzYWxheWEgQmhhdGdhb25aSwofYWQgdmFpc2huYXYgc21yaXRpIGNoaWtpdHNhbGF5YSIoYWQgdmFpc2huYXYgc21yaXRpIGNoaWtpdHNhbGF5YSBiaGF0Z2FvbpIBE2hvc3BpdGFsX2RlcGFydG1lbnQ",
     "LAT": 21.6605233,
-    "LONG": 82.8029838
+    "LONG": 82.8029838,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 16,
@@ -420,16 +450,18 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 0,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 7,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_VACANT": 3,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 1,
-    "BEDS_VACANT": 25,
+    "BEDS_VACANT": 23,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:48",
+    "LAST_UPDATED_TIME": "19:29",
     "LOCATION": "https://maps.google.com/?cid=1231410368320759406",
     "LAT": 21.6371897,
-    "LONG": 82.7205904
+    "LONG": 82.7205904,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 17,
@@ -456,7 +488,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:58",
     "LOCATION": "https://maps.google.com/?cid=17625548758814267286",
     "LAT": 21.6577226,
-    "LONG": 82.145634
+    "LONG": 82.145634,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 18,
@@ -483,7 +517,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:22",
     "LOCATION": "https://maps.google.com/?cid=806621151484098668",
     "LAT": 21.6408319,
-    "LONG": 82.7212853
+    "LONG": 82.7212853,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 19,
@@ -493,9 +529,9 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 30,
     "OXYGEN_BEDS_TOTAL": 15,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 15,
-    "NONOXYGEN_BEDS_VACANT": 3,
+    "NONOXYGEN_BEDS_VACANT": 5,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -504,13 +540,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 5,
+    "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:16",
+    "LAST_UPDATED_TIME": "21:22",
     "LOCATION": "https://www.google.com/maps/place/CHC+HOSPITAL+BHATAPARA/@21.7348925,81.9448522,15.6z/data=!4m13!1m7!3m6!1s0x3a28615c54b848dd:0x8d577f28004e851e!2sBhatapara,+Chhattisgarh+493118!3b1!8m2!3d21.7370549!4d81.947318!3m4!1s0x0:0x791530b82b80acdb!8m2!3d21.7347458!4d81.9421346",
     "LAT": 21.7355093,
-    "LONG": 81.94213936
+    "LONG": 81.94213936,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 20,
@@ -537,7 +575,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:51",
     "LOCATION": "https://maps.google.com/?cid=10963247572628495421",
     "LAT": 21.6562233,
-    "LONG": 82.1785977
+    "LONG": 82.1785977,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 21,
@@ -564,7 +604,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:15",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 22,
@@ -591,7 +633,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:35",
     "LOCATION": "https://maps.google.com/?cid=6194557639752111660",
     "LAT": 21.6592283,
-    "LONG": 82.1511601
+    "LONG": 82.1511601,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 23,
@@ -618,7 +662,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:12",
     "LOCATION": "https://maps.google.com/?q=Khamhariya,+Chhattisgarh,+India&ftid=0x3a2655b4e1c1006b:0x28d933133781fb29",
     "LAT": 21.6352866,
-    "LONG": 82.8667544
+    "LONG": 82.8667544,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 24,
@@ -645,7 +691,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:40",
     "LOCATION": "https://maps.google.com/?cid=11837118986881889661",
     "LAT": 21.6619352,
-    "LONG": 82.1433538
+    "LONG": 82.1433538,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 25,
@@ -672,7 +720,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:19",
     "LOCATION": "https://maps.google.com/?cid=2671505620431867519",
     "LAT": 21.6182432,
-    "LONG": 82.4289997
+    "LONG": 82.4289997,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 26,
@@ -682,9 +732,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 250,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_VACANT": 1,
     "NONOXYGEN_BEDS_TOTAL": 240,
-    "NONOXYGEN_BEDS_VACANT": 208,
+    "NONOXYGEN_BEDS_VACANT": 213,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -693,13 +743,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 211,
+    "BEDS_VACANT": 214,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:31",
+    "LAST_UPDATED_TIME": "17:27",
     "LOCATION": "https://maps.google.com/?cid=9888076719505892916",
     "LAT": 23.7778453,
-    "LONG": 83.6923434
+    "LONG": 83.6923434,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 27,
@@ -709,24 +761,26 @@ chhattisgarh_data=[
     "CATEGORY": "Dedicated Covid Hospital",
     "BEDS_TOTAL": 44,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 4,
+    "OXYGEN_BEDS_VACANT": 9,
     "NONOXYGEN_BEDS_TOTAL": 20,
-    "NONOXYGEN_BEDS_VACANT": 13,
+    "NONOXYGEN_BEDS_VACANT": 18,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 10,
-    "HDU_BEDS_VACANT": 9,
+    "HDU_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 4,
-    "ICU_BEDS_VACANT": 3,
+    "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 3,
     "VENTILATORS_VACANT": 3,
-    "BEDS_VACANT": 29,
+    "BEDS_VACANT": 28,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:25",
+    "LAST_UPDATED_TIME": "17:54",
     "LOCATION": "https://maps.google.com/?q=Wadraf+Nagar,+Chhattisgarh+497225,+India&ftid=0x3989399693ea461f:0xed641260bbdc1767",
     "LAT": 23.7604869,
-    "LONG": 83.201284
+    "LONG": 83.201284,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 28,
@@ -753,7 +807,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:51",
     "LOCATION": "https://maps.google.com/?cid=10797072059789870119",
     "LAT": 19.3985143,
-    "LONG": 82.0675432
+    "LONG": 82.0675432,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 29,
@@ -777,10 +833,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 41,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:31",
+    "LAST_UPDATED_TIME": "17:05",
     "LOCATION": "https://maps.google.com/?cid=16600156606754624621",
     "LAT": 19.1876707,
-    "LONG": 81.9537163
+    "LONG": 81.9537163,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 30,
@@ -790,9 +848,9 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 50,
     "OXYGEN_BEDS_TOTAL": 30,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 1,
     "NONOXYGEN_BEDS_TOTAL": 12,
-    "NONOXYGEN_BEDS_VACANT": 1,
+    "NONOXYGEN_BEDS_VACANT": 2,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -801,13 +859,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 1,
+    "BEDS_VACANT": 3,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:37",
+    "LAST_UPDATED_TIME": "18:21",
     "LOCATION": "https://maps.google.com/?cid=1604741533958883110",
     "LAT": 19.0882201,
-    "LONG": 81.9995486
+    "LONG": 81.9995486,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 31,
@@ -817,7 +877,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 40,
     "OXYGEN_BEDS_TOTAL": 40,
-    "OXYGEN_BEDS_VACANT": 22,
+    "OXYGEN_BEDS_VACANT": 18,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -828,13 +888,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 22,
+    "BEDS_VACANT": 18,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:36",
+    "LAST_UPDATED_TIME": "17:03",
     "LOCATION": "https://maps.google.com/?cid=591974256758252970",
     "LAT": 19.0740973,
-    "LONG": 82.008014
+    "LONG": 82.008014,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 32,
@@ -858,10 +920,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 31,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:29",
+    "LAST_UPDATED_TIME": "17:06",
     "LOCATION": "https://maps.google.com/?cid=17579171193775539782",
     "LAT": 19.0853926,
-    "LONG": 82.018317
+    "LONG": 82.018317,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 33,
@@ -871,7 +935,7 @@ chhattisgarh_data=[
     "CATEGORY": "Dedicated Covid Hospital",
     "BEDS_TOTAL": 200,
     "OXYGEN_BEDS_TOTAL": 150,
-    "OXYGEN_BEDS_VACANT": 93,
+    "OXYGEN_BEDS_VACANT": 95,
     "NONOXYGEN_BEDS_TOTAL": 25,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -879,16 +943,18 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 10,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 15,
-    "ICU_BEDS_VACANT": 4,
+    "ICU_BEDS_VACANT": 2,
     "VENTILATORS_TOTAL": 13,
     "VENTILATORS_VACANT": 13,
     "BEDS_VACANT": 97,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:54",
+    "LAST_UPDATED_TIME": "17:53",
     "LOCATION": "https://maps.google.com/?cid=7223899787260403845",
     "LAT": 19.0506869,
-    "LONG": 81.9481812
+    "LONG": 81.9481812,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 34,
@@ -898,9 +964,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 65,
     "OXYGEN_BEDS_TOTAL": 25,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_VACANT": 10,
     "NONOXYGEN_BEDS_TOTAL": 40,
-    "NONOXYGEN_BEDS_VACANT": 37,
+    "NONOXYGEN_BEDS_VACANT": 32,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -912,10 +978,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 42,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:22",
+    "LAST_UPDATED_TIME": "17:12",
     "LOCATION": "https://www.google.com/maps/place/CHC+Khandsara,+Dist.+Bemetara/@21.8216684,81.5265483,17z/data=!4m12!1m6!3m5!1s0x3a2852a5a54dbfad:0x8ab41a7764e53e24!2sCHC+Khandsara,+Dist.+Bemetara!8m2!3d21.8216634!4d81.528737!3m4!1s0x3a2852a5a54dbfad:0x8ab41a7764e53e24!8m2!3d21.8216634!4d81.528737",
     "LAT": 21.82181279,
-    "LONG": 81.52905886
+    "LONG": 81.52905886,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 35,
@@ -942,7 +1010,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:00",
     "LOCATION": "https://maps.google.com/?cid=1208697595767886254",
     "LAT": 21.9044122,
-    "LONG": 81.6074434
+    "LONG": 81.6074434,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 36,
@@ -969,7 +1039,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:39",
     "LOCATION": "https://maps.google.com/?q=Bendar+Ch,+Chhattisgarh+491331,+India&ftid=0x3a290b3ea24f3817:0x50b5748920365622",
     "LAT": 21.5816822,
-    "LONG": 81.2046654
+    "LONG": 81.2046654,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 37,
@@ -979,9 +1051,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 32,
     "OXYGEN_BEDS_TOTAL": 22,
-    "OXYGEN_BEDS_VACANT": 4,
+    "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 10,
-    "NONOXYGEN_BEDS_VACANT": 3,
+    "NONOXYGEN_BEDS_VACANT": 2,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -990,13 +1062,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 7,
+    "BEDS_VACANT": 5,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:49",
+    "LAST_UPDATED_TIME": "17:21",
     "LOCATION": "https://maps.google.com/?cid=17742262448355283978",
     "LAT": 21.7149221,
-    "LONG": 81.535863
+    "LONG": 81.535863,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 38,
@@ -1023,7 +1097,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:36",
     "LOCATION": "https://maps.google.com/?cid=5152563742809817316",
     "LAT": 21.720362,
-    "LONG": 81.533559
+    "LONG": 81.533559,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 39,
@@ -1050,7 +1126,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:48",
     "LOCATION": "https://maps.google.com/?cid=5077283935860750781",
     "LAT": 21.7221079,
-    "LONG": 81.5267488
+    "LONG": 81.5267488,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 40,
@@ -1077,7 +1155,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:59",
     "LOCATION": "https://maps.google.com/?cid=16699618201615050459",
     "LAT": 21.7015043,
-    "LONG": 81.5340264
+    "LONG": 81.5340264,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 41,
@@ -1089,7 +1169,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 10,
     "NONOXYGEN_BEDS_TOTAL": 97,
-    "NONOXYGEN_BEDS_VACANT": 80,
+    "NONOXYGEN_BEDS_VACANT": 84,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -1098,13 +1178,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 90,
+    "BEDS_VACANT": 94,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:53",
+    "LAST_UPDATED_TIME": "17:38",
     "LOCATION": "https://www.google.com/maps/place/ITI,+Bijapur/@18.7955575,80.7741055,13z/data=!4m9!1m2!2m1!1sITI+bijapur+Chhattisgarh!3m5!1s0x3a318847fe7871d5:0xf6c06fa9dbc06112!8m2!3d18.8076272!4d80.8324372!15sChhJVEkgYmlqYXB1ciBDaGhhdHRpc2dhcmiSAQZzY2hvb2w",
     "LAT": 18.80993141,
-    "LONG": 80.83162039
+    "LONG": 80.83162039,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 42,
@@ -1131,7 +1213,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:59",
     "LOCATION": "https://maps.google.com/?cid=7504723943184759868",
     "LAT": 18.8051711,
-    "LONG": 80.8063937
+    "LONG": 80.8063937,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 43,
@@ -1143,7 +1227,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 9,
     "NONOXYGEN_BEDS_TOTAL": 98,
-    "NONOXYGEN_BEDS_VACANT": 89,
+    "NONOXYGEN_BEDS_VACANT": 77,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -1152,13 +1236,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 98,
+    "BEDS_VACANT": 86,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "25/04/2021",
-    "LAST_UPDATED_TIME": "19:08",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "18:30",
     "LOCATION": "https://www.google.com/maps/place/Iti/@19.0027423,81.0728969,14z/data=!4m9!1m2!2m1!1siti+Bhairamgarh,+Bijapur,+Chhattisgarh!3m5!1s0x0:0x38708c1d07ddf274!8m2!3d19.006788!4d81.0720531!15sCiZpdGkgQmhhaXJhbWdhcmgsIEJpamFwdXIsIENoaGF0dGlzZ2FyaJIBBnNjaG9vbA?hl=en",
     "LAT": 19.0027423,
-    "LONG": 81.0728969
+    "LONG": 81.0728969,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 44,
@@ -1170,7 +1256,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 3,
     "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 247,
-    "NONOXYGEN_BEDS_VACANT": 241,
+    "NONOXYGEN_BEDS_VACANT": 237,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -1179,13 +1265,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 244,
+    "BEDS_VACANT": 240,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:20",
+    "LAST_UPDATED_TIME": "20:19",
     "LOCATION": "https://maps.google.com/?cid=2395275677321642509",
     "LAT": 22.0826819,
-    "LONG": 82.1407732
+    "LONG": 82.1407732,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 45,
@@ -1209,10 +1297,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 20,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:36",
+    "LAST_UPDATED_TIME": "17:17",
     "LOCATION": "https://maps.google.com/?cid=9160872809980337324",
     "LAT": 22.1780952,
-    "LONG": 82.123076
+    "LONG": 82.123076,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 46,
@@ -1236,10 +1326,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:15",
+    "LAST_UPDATED_TIME": "20:21",
     "LOCATION": "https://maps.google.com/?cid=6725539402164106440",
     "LAT": 22.0650298,
-    "LONG": 82.1672013
+    "LONG": 82.1672013,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 47,
@@ -1266,7 +1358,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:32",
     "LOCATION": "https://maps.google.com/?cid=4748429593112567011",
     "LAT": 22.0761054,
-    "LONG": 82.1337431
+    "LONG": 82.1337431,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 48,
@@ -1293,17 +1387,19 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "8:50",
     "LOCATION": "https://maps.google.com/?cid=16978970392629392288",
     "LAT": 22.1389266,
-    "LONG": 82.044119
+    "LONG": 82.044119,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 49,
     "DISTRICT": "BILASPUR",
     "HOSPITAL_NAME": "District Hospital Bilaspur",
-    "CONTACT": "",
+    "CONTACT": "Dr. Pramod Mahajan 9425230959",
     "CATEGORY": "Dedicated Covid Hospital",
     "BEDS_TOTAL": 100,
     "OXYGEN_BEDS_TOTAL": 28,
-    "OXYGEN_BEDS_VACANT": 1,
+    "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 40,
     "NONOXYGEN_BEDS_VACANT": 6,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -1312,15 +1408,17 @@ chhattisgarh_data=[
     "HDU_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 28,
     "ICU_BEDS_VACANT": 3,
-    "VENTILATORS_TOTAL": 7,
-    "VENTILATORS_VACANT": 2,
-    "BEDS_VACANT": 14,
+    "VENTILATORS_TOTAL": 0,
+    "VENTILATORS_VACANT": 0,
+    "BEDS_VACANT": 13,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:06",
+    "LAST_UPDATED_TIME": "20:54",
     "LOCATION": "https://maps.google.com/?cid=2974753108273888640",
     "LAT": 22.0742357,
-    "LONG": 82.1585261
+    "LONG": 82.1585261,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 50,
@@ -1344,10 +1442,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:40",
+    "LAST_UPDATED_TIME": "20:35",
     "LOCATION": "https://maps.google.com/?cid=15540646503334246355",
     "LAT": 22.0788127,
-    "LONG": 82.1336605
+    "LONG": 82.1336605,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 51,
@@ -1374,13 +1474,15 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:58",
     "LOCATION": "https://maps.google.com/?cid=6852568784093915226",
     "LAT": 22.0852417,
-    "LONG": 82.130087
+    "LONG": 82.130087,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 52,
     "DISTRICT": "BILASPUR",
     "HOSPITAL_NAME": "Sky Hospital",
-    "CONTACT": "",
+    "CONTACT": "RAVI AGARWAL 9109199315",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 45,
     "OXYGEN_BEDS_TOTAL": 0,
@@ -1401,7 +1503,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:29",
     "LOCATION": "https://maps.google.com/?cid=16891300735474294501",
     "LAT": 22.0881116,
-    "LONG": 82.1790146
+    "LONG": 82.1790146,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 53,
@@ -1428,7 +1532,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:00",
     "LOCATION": "https://maps.google.com/?cid=7383950280258722035",
     "LAT": 22.088938,
-    "LONG": 82.1492936
+    "LONG": 82.1492936,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 54,
@@ -1452,10 +1558,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:26",
+    "LAST_UPDATED_TIME": "18:38",
     "LOCATION": "https://maps.google.com/?cid=2821301143474348228",
     "LAT": 22.0774488,
-    "LONG": 82.1346422
+    "LONG": 82.1346422,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 55,
@@ -1482,7 +1590,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "21:15",
     "LOCATION": "https://maps.google.com/?cid=9467749609639965539",
     "LAT": 22.071313,
-    "LONG": 82.159292
+    "LONG": 82.159292,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 56,
@@ -1506,10 +1616,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:47",
+    "LAST_UPDATED_TIME": "17:05",
     "LOCATION": "https://maps.google.com/?cid=2960743359650559793",
     "LAT": 22.0669348,
-    "LONG": 82.149309
+    "LONG": 82.149309,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 57,
@@ -1519,7 +1631,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 14,
     "OXYGEN_BEDS_TOTAL": 11,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 1,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -1530,19 +1642,21 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 1,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:43",
+    "LAST_UPDATED_TIME": "19:53",
     "LOCATION": "https://maps.google.com/?cid=11843642910674031789",
     "LAT": 22.0651736,
-    "LONG": 82.1341273
+    "LONG": 82.1341273,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 58,
     "DISTRICT": "BILASPUR",
     "HOSPITAL_NAME": "KIMS Hospital",
-    "CONTACT": "",
+    "CONTACT": "Asif Hussain 7694006568",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 100,
     "OXYGEN_BEDS_TOTAL": 7,
@@ -1563,7 +1677,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:06",
     "LOCATION": "https://maps.google.com/?cid=8094106444408813872",
     "LAT": 22.0780541,
-    "LONG": 82.1498306
+    "LONG": 82.1498306,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 59,
@@ -1590,7 +1706,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "7:35",
     "LOCATION": "https://maps.google.com/?cid=4787349807495756931",
     "LAT": 22.0920496,
-    "LONG": 82.1278052
+    "LONG": 82.1278052,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 60,
@@ -1617,7 +1735,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "8:59",
     "LOCATION": "https://maps.google.com/?cid=15770148014343867691",
     "LAT": 22.077666,
-    "LONG": 82.139819
+    "LONG": 82.139819,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 61,
@@ -1626,25 +1746,27 @@ chhattisgarh_data=[
     "CONTACT": "",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 30,
-    "OXYGEN_BEDS_TOTAL": 15,
-    "OXYGEN_BEDS_VACANT": 4,
-    "NONOXYGEN_BEDS_TOTAL": 0,
-    "NONOXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_TOTAL": 10,
+    "OXYGEN_BEDS_VACANT": 0,
+    "NONOXYGEN_BEDS_TOTAL": 5,
+    "NONOXYGEN_BEDS_VACANT": 2,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
-    "HDU_BEDS_TOTAL": 0,
-    "HDU_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 15,
-    "ICU_BEDS_VACANT": 2,
+    "HDU_BEDS_TOTAL": 6,
+    "HDU_BEDS_VACANT": 3,
+    "ICU_BEDS_TOTAL": 9,
+    "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 6,
+    "BEDS_VACANT": 5,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:56",
+    "LAST_UPDATED_TIME": "18:01",
     "LOCATION": "https://www.google.com/maps/place/Sanjivani+hospital/@22.0842714,82.1381908,17z/data=!4m5!3m4!1s0x3a280b689a953b77:0x17322a011d2b7aa6!8m2!3d22.084684!4d82.1383517?hl=en",
     "LAT": 22.0842714,
-    "LONG": 82.1381908
+    "LONG": 82.1381908,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 62,
@@ -1671,7 +1793,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:46",
     "LOCATION": "https://maps.google.com/?cid=13084131138008333010",
     "LAT": 22.0779452,
-    "LONG": 82.1556943
+    "LONG": 82.1556943,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 63,
@@ -1695,10 +1819,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:14",
+    "LAST_UPDATED_TIME": "17:38",
     "LOCATION": "https://maps.google.com/?cid=15467033228660102993",
     "LAT": 22.0889333,
-    "LONG": 82.1448862
+    "LONG": 82.1448862,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 64,
@@ -1725,7 +1851,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:39",
     "LOCATION": "https://maps.google.com/?cid=7773830208109775109",
     "LAT": 22.0921383,
-    "LONG": 82.1276026
+    "LONG": 82.1276026,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 65,
@@ -1733,26 +1861,28 @@ chhattisgarh_data=[
     "HOSPITAL_NAME": "Shri Shishu Bhawan Children’s Hospital",
     "CONTACT": "MRS. JYOTI SHARMA 877098035 8770984035",
     "CATEGORY": "Private Hospital",
-    "BEDS_TOTAL": 35,
+    "BEDS_TOTAL": 45,
     "OXYGEN_BEDS_TOTAL": 0,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
-    "HDU_BEDS_TOTAL": 10,
-    "HDU_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 25,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATORS_TOTAL": 0,
+    "HDU_BEDS_TOTAL": 15,
+    "HDU_BEDS_VACANT": 3,
+    "ICU_BEDS_TOTAL": 30,
+    "ICU_BEDS_VACANT": 2,
+    "VENTILATORS_TOTAL": 5,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 5,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "13:11",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:27",
     "LOCATION": "https://www.google.com/maps/place/Shri+Shishu+Bhawan+Children%E2%80%99s+Hospital/@22.083873,82.1513947,15z/data=!4m2!3m1!1s0x0:0xe5d4b99a73d3ba58?sa=X&ved=2ahUKEwiWkKrOxZ7wAhWRxTgGHSZbB60Q_BIwMnoECGIQBQ",
     "LAT": 22.08437009,
-    "LONG": 82.15178094
+    "LONG": 82.15178094,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 66,
@@ -1779,7 +1909,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:03",
     "LOCATION": "https://www.google.com/maps/place/Shriram+Care+Hospital+Bilaspur/@22.085187,82.1301836,17z/data=!4m5!3m4!1s0x3a280b7cbce3b7ff:0x5f193700aed9285a!8m2!3d22.0852417!4d82.130087?hl=en",
     "LAT": 22.085187,
-    "LONG": 82.1301836
+    "LONG": 82.1301836,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 67,
@@ -1806,7 +1938,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:33",
     "LOCATION": "https://maps.google.com/?cid=16296434549087081666",
     "LAT": 22.1310784,
-    "LONG": 81.8709658
+    "LONG": 81.8709658,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 68,
@@ -1833,7 +1967,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:03",
     "LOCATION": "https://maps.google.com/?cid=4654111516280872068",
     "LAT": 22.0705096,
-    "LONG": 82.1373487
+    "LONG": 82.1373487,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 69,
@@ -1857,10 +1993,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 2,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:00",
+    "LAST_UPDATED_TIME": "17:31",
     "LOCATION": "https://maps.google.com/?cid=17940812168361911884",
     "LAT": 22.1944675,
-    "LONG": 82.0302318
+    "LONG": 82.0302318,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 70,
@@ -1887,7 +2025,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:50",
     "LOCATION": "https://www.google.com/maps/place/Chhattisgarh+Institute+of+Medical+Sciences/@22.0880731,82.1508317,16.64z/data=!4m5!3m4!1s0x3a280b0dad2928e7:0x92772861de2df1fe!8m2!3d22.088264!4d82.1519743",
     "LAT": 22.08867918,
-    "LONG": 82.15204339
+    "LONG": 82.15204339,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 71,
@@ -1911,10 +2051,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:37",
+    "LAST_UPDATED_TIME": "20:29",
     "LOCATION": "https://www.google.com/maps/place/Dr.+Avijit+Royjada+Sai+Baba+Hospital+Heart+And+Kidiney/@22.0758704,82.1322364,17z/data=!4m12!1m6!3m5!1s0x3a280b6720ed4b25:0x3d365f734de9c11f!2sDr.+Avijit+Royjada+Sai+Baba+Hospital+Heart+And+Kidiney!8m2!3d22.0758654!4d82.1344251!3m4!1s0x3a280b6720ed4b25:0x3d365f734de9c11f!8m2!3d22.0758654!4d82.1344251",
     "LAT": 22.07600458,
-    "LONG": 82.13441437
+    "LONG": 82.13441437,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 72,
@@ -1941,7 +2083,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:57",
     "LOCATION": "https://maps.google.com/?cid=16867226624656444497",
     "LAT": 22.087889,
-    "LONG": 82.137171
+    "LONG": 82.137171,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 73,
@@ -1968,7 +2112,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:08",
     "LOCATION": "https://www.google.com/maps/place/Life+Care+Hospital/@22.0815996,82.1617406,16z/data=!4m9!1m2!2m1!1sBILASPUR%09Life+care+Hospital!3m5!1s0x3a280b1a6598e97d:0xcca73e8e2ef03d72!8m2!3d22.082325!4d82.1612368!15sChtCSUxBU1BVUglMaWZlIGNhcmUgSG9zcGl0YWxaOgobYmlsYXNwdXIgbGlmZSBjYXJlIGhvc3BpdGFsIhtiaWxhc3B1ciBsaWZlIGNhcmUgaG9zcGl0YWySAQhob3NwaXRhbA?hl=en",
     "LAT": 22.0815996,
-    "LONG": 82.1617406
+    "LONG": 82.1617406,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 74,
@@ -1995,7 +2141,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "17:26",
     "LOCATION": "https://maps.google.com/?cid=4306315658682900143",
     "LAT": 22.0798138,
-    "LONG": 82.1407382
+    "LONG": 82.1407382,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 75,
@@ -2022,7 +2170,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:16",
     "LOCATION": "https://maps.google.com/?cid=3043507917862341820",
     "LAT": 22.0949747,
-    "LONG": 82.1747373
+    "LONG": 82.1747373,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 76,
@@ -2038,18 +2188,20 @@ chhattisgarh_data=[
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 3,
-    "HDU_BEDS_VACANT": 1,
+    "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 7,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 3,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 1,
+    "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:54",
+    "LAST_UPDATED_TIME": "17:53",
     "LOCATION": "https://maps.google.com/?cid=10618245607257862357",
     "LAT": 22.0883417,
-    "LONG": 82.1337806
+    "LONG": 82.1337806,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 77,
@@ -2076,7 +2228,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:58",
     "LOCATION": "https://maps.google.com/?cid=7533365355643156308",
     "LAT": 22.0605805,
-    "LONG": 82.1870038
+    "LONG": 82.1870038,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 78,
@@ -2100,10 +2254,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 16,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:14",
+    "LAST_UPDATED_TIME": "18:59",
     "LOCATION": "https://maps.google.com/?cid=4714052474739632503",
     "LAT": 22.087068,
-    "LONG": 82.145744
+    "LONG": 82.145744,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 79,
@@ -2130,7 +2286,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "8:30",
     "LOCATION": "https://maps.google.com/?cid=16452947480098153468",
     "LAT": 22.0796366,
-    "LONG": 82.1392068
+    "LONG": 82.1392068,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 80,
@@ -2157,7 +2315,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:09",
     "LOCATION": "https://maps.google.com/?cid=7190168522608397085",
     "LAT": 22.0769461,
-    "LONG": 82.1512637
+    "LONG": 82.1512637,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 81,
@@ -2184,7 +2344,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:00",
     "LOCATION": "https://maps.google.com/?cid=17727904465607705175",
     "LAT": 19.134662,
-    "LONG": 81.3894296
+    "LONG": 81.3894296,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 82,
@@ -2194,7 +2356,7 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 110,
     "OXYGEN_BEDS_TOTAL": 100,
-    "OXYGEN_BEDS_VACANT": 28,
+    "OXYGEN_BEDS_VACANT": 32,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -2205,13 +2367,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 6,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 2,
-    "BEDS_VACANT": 34,
+    "BEDS_VACANT": 38,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:18",
+    "LAST_UPDATED_TIME": "20:14",
     "LOCATION": "https://maps.google.com/?cid=4347066638555874010",
     "LAT": 18.703686,
-    "LONG": 81.2485193
+    "LONG": 81.2485193,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 83,
@@ -2238,7 +2402,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:00",
     "LOCATION": "https://maps.google.com/?cid=9948831249066579001",
     "LAT": 18.6342492,
-    "LONG": 81.252898
+    "LONG": 81.252898,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 84,
@@ -2265,7 +2431,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:00",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 85,
@@ -2292,7 +2460,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "18:52",
     "LOCATION": "https://www.google.com/maps/place/Chc+Geedam/@18.9667815,81.4045807,17z/data=!4m9!1m2!2m1!1shospital+Geedam+Dantewada!3m5!1s0x0:0x995b8ab5ad0d7c5d!8m2!3d18.9680731!4d81.4040415!15sChlob3NwaXRhbCBHZWVkYW0gRGFudGV3YWRhWiUKCGhvc3BpdGFsIhlob3NwaXRhbCBnZWVkYW0gZGFudGV3YWRhkgEIaG9zcGl0YWw",
     "LAT": 18.9,
-    "LONG": 81.3500001
+    "LONG": 81.3500001,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 86,
@@ -2319,7 +2489,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "21:25",
     "LOCATION": "https://www.google.com/maps/place/Dhamtari+Christian+Hospital/@20.7014144,81.498841,13z/data=!4m9!1m2!2m1!1s+Mission+Hospital+Dhamtari+!3m5!1s0x3a2f28677f328e51:0xed115337b03d0edc!8m2!3d20.718751!4d81.551536!15sChlNaXNzaW9uIEhvc3BpdGFsIERoYW10YXJpWi0KEG1pc3Npb24gaG9zcGl0YWwiGW1pc3Npb24gaG9zcGl0YWwgZGhhbXRhcmmSARBnZW5lcmFsX2hvc3BpdGFsmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJuWjNBMk1HSjNFQUU",
     "LAT": 20.72316572,
-    "LONG": 81.55206664
+    "LONG": 81.55206664,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 87,
@@ -2346,7 +2518,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:54",
     "LOCATION": "https://maps.google.com/?cid=16623946936551441372",
     "LAT": 20.8474491,
-    "LONG": 81.7015016
+    "LONG": 81.7015016,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 88,
@@ -2356,9 +2530,9 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 20,
     "OXYGEN_BEDS_TOTAL": 15,
-    "OXYGEN_BEDS_VACANT": 10,
+    "OXYGEN_BEDS_VACANT": 11,
     "NONOXYGEN_BEDS_TOTAL": 5,
-    "NONOXYGEN_BEDS_VACANT": 1,
+    "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -2370,22 +2544,24 @@ chhattisgarh_data=[
     "BEDS_VACANT": 11,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:54",
+    "LAST_UPDATED_TIME": "17:50",
     "LOCATION": "https://maps.google.com/?cid=336984018937677505",
     "LAT": 20.7271265,
-    "LONG": 81.555617
+    "LONG": 81.555617,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 89,
     "DISTRICT": "DHAMTARI",
     "HOSPITAL_NAME": "Ojaswi Nursing Home",
-    "CONTACT": "",
+    "CONTACT": "Maniram Soni 9993928325",
     "CATEGORY": "Private Hospital",
-    "BEDS_TOTAL": 24,
+    "BEDS_TOTAL": 35,
     "OXYGEN_BEDS_TOTAL": 6,
-    "OXYGEN_BEDS_VACANT": 3,
-    "NONOXYGEN_BEDS_TOTAL": 12,
-    "NONOXYGEN_BEDS_VACANT": 12,
+    "OXYGEN_BEDS_VACANT": 4,
+    "NONOXYGEN_BEDS_TOTAL": 23,
+    "NONOXYGEN_BEDS_VACANT": 22,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -2394,13 +2570,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 6,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 21,
+    "BEDS_VACANT": 32,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "16:39",
+    "LAST_UPDATED_TIME": "19:32",
     "LOCATION": "https://maps.google.com/?cid=11784753850896763387",
     "LAT": 20.6956304,
-    "LONG": 81.5437659
+    "LONG": 81.5437659,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 90,
@@ -2427,7 +2605,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:41",
     "LOCATION": "https://maps.google.com/?cid=11193625054709785963",
     "LAT": 20.7107435,
-    "LONG": 81.5390625
+    "LONG": 81.5390625,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 91,
@@ -2451,16 +2631,18 @@ chhattisgarh_data=[
     "BEDS_VACANT": 15,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:46",
+    "LAST_UPDATED_TIME": "17:43",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 92,
     "DISTRICT": "DHAMTARI",
     "HOSPITAL_NAME": "Dhamtari Hospital",
-    "CONTACT": "",
+    "CONTACT": "PUNESHWAR LAL 9329353570",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 12,
     "OXYGEN_BEDS_TOTAL": 0,
@@ -2472,22 +2654,24 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 0,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 12,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_VACANT": 1,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 1,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:52",
+    "LAST_UPDATED_TIME": "17:14",
     "LOCATION": "https://maps.google.com/?cid=11135007543321105170",
     "LAT": 20.7011552,
-    "LONG": 81.5375997
+    "LONG": 81.5375997,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 93,
     "DISTRICT": "DHAMTARI",
     "HOSPITAL_NAME": "Fracture & Trauma Hospital",
-    "CONTACT": "",
+    "CONTACT": "Sanjay Kumar Yadavaa 9329398928",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 2,
     "OXYGEN_BEDS_TOTAL": 2,
@@ -2505,16 +2689,18 @@ chhattisgarh_data=[
     "BEDS_VACANT": 2,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:43",
+    "LAST_UPDATED_TIME": "17:52",
     "LOCATION": "https://www.google.com/maps/place/Fracture+Trauma+Hospital/@20.718827,81.549167,17z/data=!4m5!3m4!1s0x3a2f2867ff958305:0xfceef48ed14b13df!8m2!3d20.7188822!4d81.54877",
     "LAT": 20.718827,
-    "LONG": 81.549167
+    "LONG": 81.549167,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 94,
     "DISTRICT": "DHAMTARI",
     "HOSPITAL_NAME": "Rameshwaram Hospital",
-    "CONTACT": "",
+    "CONTACT": "Sanjay Kumar Yadav 9329398928",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 4,
     "OXYGEN_BEDS_TOTAL": 1,
@@ -2532,10 +2718,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 4,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:44",
+    "LAST_UPDATED_TIME": "17:53",
     "LOCATION": "https://maps.google.com/?cid=8699568041838099473",
     "LAT": 20.712178,
-    "LONG": 81.5347992
+    "LONG": 81.5347992,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 95,
@@ -2559,16 +2747,18 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "2:42",
+    "LAST_UPDATED_TIME": "17:51",
     "LOCATION": "https://maps.google.com/?cid=8995987047970556337",
     "LAT": 20.7202017,
-    "LONG": 81.5480875
+    "LONG": 81.5480875,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 96,
     "DISTRICT": "DHAMTARI",
     "HOSPITAL_NAME": "Sarvani Devi Mittal Hospital",
-    "CONTACT": "",
+    "CONTACT": "RAJESH MITTAL 9424224041",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 5,
     "OXYGEN_BEDS_TOTAL": 2,
@@ -2586,10 +2776,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 5,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:45",
+    "LAST_UPDATED_TIME": "18:31",
     "LOCATION": "https://maps.google.com/?cid=6393788779710931633",
     "LAT": 20.7201412,
-    "LONG": 81.5512357
+    "LONG": 81.5512357,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 97,
@@ -2616,7 +2808,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:11",
     "LOCATION": "https://maps.google.com/?cid=17082526360238100188",
     "LAT": 20.718751,
-    "LONG": 81.551536
+    "LONG": 81.551536,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 98,
@@ -2643,7 +2837,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "21:22",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 99,
@@ -2670,7 +2866,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "21:24",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 100,
@@ -2680,7 +2878,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 10,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_VACANT": 5,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -2691,13 +2889,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 2,
+    "BEDS_VACANT": 5,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:18",
+    "LAST_UPDATED_TIME": "17:18",
     "LOCATION": "https://www.google.com/maps/place/Ekta+Medicos,Bastar+Road,P+D+Nala/@20.7099168,81.5444723,16.28z/data=!4m5!3m4!1s0x0:0xba5b566598455d39!8m2!3d20.708897!4d81.5471205",
     "LAT": 20.70934565,
-    "LONG": 81.54716222
+    "LONG": 81.54716222,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 101,
@@ -2724,7 +2924,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:21",
     "LOCATION": "https://maps.google.com/?cid=10433435488007546453",
     "LAT": 20.6971228,
-    "LONG": 81.5425011
+    "LONG": 81.5425011,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 102,
@@ -2751,7 +2953,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "21:52",
     "LOCATION": "https://www.google.com/maps/place/Dhamtari+Christian+Hospital/@20.718751,81.551536,15z/data=!4m2!3m1!1s0x0:0xed115337b03d0edc?sa=X&ved=2ahUKEwja48-Pxp7wAhW3xDgGHQchDDkQ_BIwanoECFkQBQ",
     "LAT": 20.71993513,
-    "LONG": 81.55114976
+    "LONG": 81.55114976,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 103,
@@ -2778,7 +2982,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:31",
     "LOCATION": "https://maps.google.com/?cid=7786399541972121429",
     "LAT": 21.2090838,
-    "LONG": 81.3586343
+    "LONG": 81.3586343,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 104,
@@ -2802,10 +3008,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:53",
+    "LAST_UPDATED_TIME": "17:46",
     "LOCATION": "https://maps.google.com/?cid=12059239296964367233",
     "LAT": 21.2121699,
-    "LONG": 81.3249527
+    "LONG": 81.3249527,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 105,
@@ -2832,7 +3040,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:09",
     "LOCATION": "https://maps.google.com/?cid=9472628537340623508",
     "LAT": 21.2121857,
-    "LONG": 81.4432684
+    "LONG": 81.4432684,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 106,
@@ -2859,7 +3069,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:27",
     "LOCATION": "https://maps.google.com/?cid=13239828812788964486",
     "LAT": 21.2464608,
-    "LONG": 81.3060399
+    "LONG": 81.3060399,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 107,
@@ -2886,7 +3098,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:19",
     "LOCATION": "https://www.google.com/maps/place/Jamul+Nursing+Home/@21.2625203,81.3919809,15z/data=!4m9!1m2!2m1!1sJamul+Hospital,+Dhamadhanaka+Durg+!3m5!1s0x3a29190e1dc1e6b9:0x94f7097ed015aa81!8m2!3d21.2625104!4d81.3887692!15sCiFKYW11bCBIb3NwaXRhbCwgRGhhbWFkaGFuYWthIER1cmeSAQhob3NwaXRhbA?hl=en",
     "LAT": 21.2625203,
-    "LONG": 81.3919809
+    "LONG": 81.3919809,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 108,
@@ -2913,7 +3127,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "21:16",
     "LOCATION": "https://maps.google.com/?cid=2588714476752743440",
     "LAT": 21.1997977,
-    "LONG": 81.3505644
+    "LONG": 81.3505644,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 109,
@@ -2937,10 +3153,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:01",
+    "LAST_UPDATED_TIME": "18:09",
     "LOCATION": "https://www.google.com/maps/place/Mahima+Hospital/@21.2130679,81.2955113,17z/data=!4m5!3m4!1s0x3a293da815d63479:0xa0bf26e3609b89f5!8m2!3d21.213283!4d81.294889?hl=en",
     "LAT": 21.2130679,
-    "LONG": 81.2955113
+    "LONG": 81.2955113,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 110,
@@ -2967,7 +3185,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:19",
     "LOCATION": "https://maps.google.com/?cid=14776225265227645960",
     "LAT": 21.2091322,
-    "LONG": 81.4353442
+    "LONG": 81.4353442,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 111,
@@ -2994,7 +3214,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:30",
     "LOCATION": "https://www.google.com/maps/place/Sai+Jyoti+Hospital/@21.2072437,81.4343897,17z/data=!4m5!3m4!1s0x3a292178c37b4e6f:0xe3b4ffee3b756b13!8m2!3d21.2077788!4d81.4344004",
     "LAT": 21.2072437,
-    "LONG": 81.4343897
+    "LONG": 81.4343897,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 112,
@@ -3021,7 +3243,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:38",
     "LOCATION": "https://maps.google.com/?cid=1888892152150795032",
     "LAT": 21.2228439,
-    "LONG": 81.2966552
+    "LONG": 81.2966552,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 113,
@@ -3048,7 +3272,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:19",
     "LOCATION": "https://maps.google.com/?cid=2686711293852046185",
     "LAT": 21.1814881,
-    "LONG": 81.2871085
+    "LONG": 81.2871085,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 114,
@@ -3075,7 +3301,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:17",
     "LOCATION": "https://maps.google.com/?cid=10734058677122476673",
     "LAT": 21.2625104,
-    "LONG": 81.3887692
+    "LONG": 81.3887692,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 115,
@@ -3102,18 +3330,20 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:35",
     "LOCATION": "https://maps.google.com/?cid=4515014572398183756",
     "LAT": 21.1931609,
-    "LONG": 81.2866915
+    "LONG": 81.2866915,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 116,
     "DISTRICT": "DURG",
     "HOSPITAL_NAME": "BMY hospital",
-    "CONTACT": "",
+    "CONTACT": "DR. KUNAL JAIN 9752877504",
     "CATEGORY": "Covid Care center",
-    "BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
+    "BEDS_TOTAL": 20,
+    "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 0,
-    "NONOXYGEN_BEDS_TOTAL": 0,
+    "NONOXYGEN_BEDS_TOTAL": 10,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
@@ -3125,11 +3355,13 @@ chhattisgarh_data=[
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "Not Updated",
-    "LAST_UPDATED_TIME": "",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "18:54",
     "LOCATION": "https://www.google.com/maps/place/bmy/@21.2543791,81.3804693,10.8z/data=!4m5!3m4!1s0x3a29212c8c6524e9:0x86801a8637915269!8m2!3d21.2272167!4d81.464524",
     "LAT": 21.24446636,
-    "LONG": 81.46082872
+    "LONG": 81.46082872,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 117,
@@ -3152,11 +3384,13 @@ chhattisgarh_data=[
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "13:40",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "19:38",
     "LOCATION": "https://www.google.com/maps/place/Shri+Sai+Hospital/@21.1837587,81.283396,17z/data=!4m5!3m4!1s0x3a293c5b4e26f875:0x63adb2444db538ec!8m2!3d21.1836487!4d81.2837608?hl=en",
     "LAT": 21.1837587,
-    "LONG": 81.283396
+    "LONG": 81.283396,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 118,
@@ -3166,24 +3400,26 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 30,
     "OXYGEN_BEDS_TOTAL": 11,
-    "OXYGEN_BEDS_VACANT": 11,
+    "OXYGEN_BEDS_VACANT": 9,
     "NONOXYGEN_BEDS_TOTAL": 11,
-    "NONOXYGEN_BEDS_VACANT": 11,
+    "NONOXYGEN_BEDS_VACANT": 10,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 8,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_VACANT": 2,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 23,
+    "BEDS_VACANT": 21,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "8:15",
+    "LAST_UPDATED_TIME": "7:36",
     "LOCATION": "https://www.google.com/maps/place/Gayatri+Hospital/@21.1813022,81.2873595,17z/data=!4m5!3m4!1s0x3a293c5d0300e5f3:0x2f605cc5a351f6a6!8m2!3d21.1814973!4d81.2871449?hl=en",
     "LAT": 21.1813022,
-    "LONG": 81.2873595
+    "LONG": 81.2873595,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 119,
@@ -3210,7 +3446,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:07",
     "LOCATION": "https://www.google.com/maps/place/Chandulal+Chandrakar+Memorial+Hospital/@21.1924551,81.2479013,13z/data=!4m13!1m7!3m6!1s0x3a29231ae815e213:0xbf7f1c7892db4907!2sDurg,+Chhattisgarh!3b1!8m2!3d21.1904494!4d81.2849169!3m4!1s0x3a293cdec5ee4d6b:0xd3e2f559e4c85f0f!8m2!3d21.2002468!4d81.3226646",
     "LAT": 21.20485864,
-    "LONG": 81.32446226
+    "LONG": 81.32446226,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 120,
@@ -3237,7 +3475,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:30",
     "LOCATION": "https://maps.google.com/?cid=11048064792169568873",
     "LAT": 21.2671624,
-    "LONG": 81.3862955
+    "LONG": 81.3862955,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 121,
@@ -3264,13 +3504,15 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "7:27",
     "LOCATION": "https://maps.google.com/?cid=5580844337215755954",
     "LAT": 21.194629,
-    "LONG": 81.2938171
+    "LONG": 81.2938171,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 122,
     "DISTRICT": "DURG",
     "HOSPITAL_NAME": "Sun Shine Multispecialty HospitaL, Bhilai-3",
-    "CONTACT": "",
+    "CONTACT": "Diwakar Choudhary 7000524885",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 40,
     "OXYGEN_BEDS_TOTAL": 16,
@@ -3291,7 +3533,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:00",
     "LOCATION": "https://maps.google.com/?cid=14786544694687032030",
     "LAT": 21.2129023,
-    "LONG": 81.4376774
+    "LONG": 81.4376774,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 123,
@@ -3315,10 +3559,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 1,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:16",
+    "LAST_UPDATED_TIME": "18:59",
     "LOCATION": "https://maps.google.com/?cid=12931519298905848769",
     "LAT": 21.2144989,
-    "LONG": 81.2964809
+    "LONG": 81.2964809,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 124,
@@ -3345,7 +3591,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:59",
     "LOCATION": "https://maps.google.com/?cid=11632778618495058629",
     "LAT": 21.2509914,
-    "LONG": 81.3840764
+    "LONG": 81.3840764,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 125,
@@ -3372,7 +3620,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "7:28",
     "LOCATION": "https://maps.google.com/?cid=4539501786464518832",
     "LAT": 21.182559,
-    "LONG": 81.2955502
+    "LONG": 81.2955502,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 126,
@@ -3399,7 +3649,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:50",
     "LOCATION": "https://maps.google.com/?q=Street+Number+38,+State+Bank+Colony,+Sector+6,+Bhilai,+Chhattisgarh+490006,+India&ftid=0x3a292333ac477b81:0x4caa5331848ce743",
     "LAT": 21.1902045,
-    "LONG": 81.3429495
+    "LONG": 81.3429495,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 127,
@@ -3409,7 +3661,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 64,
     "OXYGEN_BEDS_TOTAL": 44,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 13,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -3420,13 +3672,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 5,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 13,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:47",
+    "LAST_UPDATED_TIME": "20:41",
     "LOCATION": "https://www.google.com/maps/place/Shri+Shankaracharya+Institute+of+Medical+Science+Hospital/@21.2053791,81.2371399,12.75z/data=!4m12!1m6!3m5!1s0x3a293d0e23d52279:0x55d708aa64ca8dcb!2sShri+Shankaracharya+Institute+of+Medical+Science+Hospital!8m2!3d21.2209333!4d81.3065489!3m4!1s0x3a293d0e23d52279:0x55d708aa64ca8dcb!8m2!3d21.2209333!4d81.3065489",
     "LAT": 21.22434737,
-    "LONG": 81.30646364
+    "LONG": 81.30646364,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 128,
@@ -3450,10 +3704,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:42",
+    "LAST_UPDATED_TIME": "18:43",
     "LOCATION": "https://maps.google.com/?cid=3547337262677947726",
     "LAT": 21.223679,
-    "LONG": 81.2976496
+    "LONG": 81.2976496,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 129,
@@ -3463,7 +3719,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 40,
     "OXYGEN_BEDS_TOTAL": 22,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_VACANT": 6,
     "NONOXYGEN_BEDS_TOTAL": 15,
     "NONOXYGEN_BEDS_VACANT": 15,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -3474,19 +3730,21 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 20,
+    "BEDS_VACANT": 21,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:46",
+    "LAST_UPDATED_TIME": "18:35",
     "LOCATION": "https://maps.google.com/?cid=16666359404681195818",
     "LAT": 21.166452,
-    "LONG": 81.2675456
+    "LONG": 81.2675456,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 130,
     "DISTRICT": "DURG",
     "HOSPITAL_NAME": "Dr. K.Gurunath Cardiac Center Durg GE Road supela",
-    "CONTACT": "",
+    "CONTACT": "ARMAN ALI 7772863367",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 15,
     "OXYGEN_BEDS_TOTAL": 15,
@@ -3504,10 +3762,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:59",
+    "LAST_UPDATED_TIME": "20:31",
     "LOCATION": "https://www.google.com/maps/place/Dr.+K.Gurunath+Cardiac+Center/@21.2055149,81.3454343,17z/data=!4m5!3m4!1s0x3a2922d5f47de987:0x603e3858d492d579!8m2!3d21.20567!4d81.3442434",
     "LAT": 21.2055149,
-    "LONG": 81.3454343
+    "LONG": 81.3454343,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 131,
@@ -3534,7 +3794,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:49",
     "LOCATION": "https://maps.google.com/?q=Durg,+Chhattisgarh,+India&ftid=0x3a29231ae815e213:0xbf7f1c7892db4907",
     "LAT": 21.1904494,
-    "LONG": 81.2849169
+    "LONG": 81.2849169,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 132,
@@ -3561,7 +3823,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:13",
     "LOCATION": "https://maps.google.com/?cid=5284896512277835071",
     "LAT": 21.216643,
-    "LONG": 81.359439
+    "LONG": 81.359439,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 133,
@@ -3588,7 +3852,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:24",
     "LOCATION": "https://maps.google.com/?cid=18154029114832108222",
     "LAT": 21.2180936,
-    "LONG": 81.3348395
+    "LONG": 81.3348395,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 134,
@@ -3615,7 +3881,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:10",
     "LOCATION": "https://maps.google.com/?cid=12261797719322446674",
     "LAT": 21.2099397,
-    "LONG": 81.360197
+    "LONG": 81.360197,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 135,
@@ -3642,7 +3910,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:27",
     "LOCATION": "https://maps.google.com/?cid=6306670541484320797",
     "LAT": 21.2064735,
-    "LONG": 81.3992903
+    "LONG": 81.3992903,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 136,
@@ -3669,7 +3939,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "7:30",
     "LOCATION": "https://maps.google.com/?cid=5486970369534444357",
     "LAT": 21.1906778,
-    "LONG": 81.2862378
+    "LONG": 81.2862378,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 137,
@@ -3696,7 +3968,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "7:31",
     "LOCATION": "https://maps.google.com/?cid=7756777383010170751",
     "LAT": 21.1738048,
-    "LONG": 81.2957315
+    "LONG": 81.2957315,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 138,
@@ -3723,7 +3997,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:24",
     "LOCATION": "https://maps.google.com/?cid=2906884732605366392",
     "LAT": 21.211623,
-    "LONG": 81.355413
+    "LONG": 81.355413,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 139,
@@ -3733,24 +4009,26 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 64,
     "OXYGEN_BEDS_TOTAL": 31,
-    "OXYGEN_BEDS_VACANT": 10,
+    "OXYGEN_BEDS_VACANT": 15,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 13,
-    "HDU_BEDS_VACANT": 13,
+    "HDU_BEDS_VACANT": 8,
     "ICU_BEDS_TOTAL": 20,
-    "ICU_BEDS_VACANT": 6,
+    "ICU_BEDS_VACANT": 7,
     "VENTILATORS_TOTAL": 5,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 29,
+    "BEDS_VACANT": 30,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:44",
+    "LAST_UPDATED_TIME": "18:26",
     "LOCATION": "https://www.google.com/maps/place/S+R+Hospital+and+Research+Centre/@21.2353656,81.3026932,17z/data=!4m5!3m4!1s0x3a293d715ea05f0b:0xf46299954f192802!8m2!3d21.2357206!4d81.3031438",
     "LAT": 21.2353656,
-    "LONG": 81.3026932
+    "LONG": 81.3026932,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 140,
@@ -3777,7 +4055,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "19:12",
     "LOCATION": "https://maps.google.com/?cid=650724357121754893",
     "LAT": 21.1701263,
-    "LONG": 81.2955649
+    "LONG": 81.2955649,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 141,
@@ -3789,7 +4069,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 22,
     "OXYGEN_BEDS_VACANT": 4,
     "NONOXYGEN_BEDS_TOTAL": 18,
-    "NONOXYGEN_BEDS_VACANT": 3,
+    "NONOXYGEN_BEDS_VACANT": 10,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -3798,13 +4078,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 7,
+    "BEDS_VACANT": 14,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:24",
+    "LAST_UPDATED_TIME": "17:23",
     "LOCATION": "https://maps.google.com/?cid=11431531349215532480",
     "LAT": 21.1525587,
-    "LONG": 81.5546128
+    "LONG": 81.5546128,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 142,
@@ -3831,7 +4113,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "1:47",
     "LOCATION": "https://maps.google.com/?cid=15628523102107842733",
     "LAT": 21.2178204,
-    "LONG": 81.3156734
+    "LONG": 81.3156734,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 143,
@@ -3858,7 +4142,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:32",
     "LOCATION": "https://www.google.com/maps/place/Chandulal+Chandrakar+Memorial+Hospital/@21.2000517,81.3229221,17z/data=!4m5!3m4!1s0x3a293cdec5ee4d6b:0xd3e2f559e4c85f0f!8m2!3d21.2002468!4d81.3226646?hl=en",
     "LAT": 21.2000517,
-    "LONG": 81.3229221
+    "LONG": 81.3229221,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 144,
@@ -3885,7 +4171,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "19:28",
     "LOCATION": "https://maps.google.com/?cid=14866786787670001329",
     "LAT": 21.189478,
-    "LONG": 81.2917443
+    "LONG": 81.2917443,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 145,
@@ -3912,7 +4200,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:35",
     "LOCATION": "https://maps.google.com/?cid=1923695760960165188",
     "LAT": 20.6164008,
-    "LONG": 82.0781466
+    "LONG": 82.0781466,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 146,
@@ -3922,7 +4212,7 @@ chhattisgarh_data=[
     "CATEGORY": "Dedicated Covid Hospital",
     "BEDS_TOTAL": 50,
     "OXYGEN_BEDS_TOTAL": 41,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -3933,13 +4223,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 3,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": 0.1083333333,
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": 0.8548611111,
     "LOCATION": "https://maps.google.com/?cid=15277729218166681884",
     "LAT": 20.615443,
-    "LONG": 82.0728339
+    "LONG": 82.0728339,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 147,
@@ -3966,7 +4258,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "19:04",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 148,
@@ -3993,7 +4287,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:06",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 149,
@@ -4020,7 +4316,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "23:48",
     "LOCATION": "https://maps.google.com/?cid=9338181783659893564",
     "LAT": 23.4804639,
-    "LONG": 83.2006186
+    "LONG": 83.2006186,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 150,
@@ -4032,7 +4330,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 5,
-    "NONOXYGEN_BEDS_VACANT": 1,
+    "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4041,13 +4339,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 1,
+    "BEDS_VACANT": 3,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:52",
+    "LAST_UPDATED_TIME": "20:46",
     "LOCATION": "https://maps.google.com/?cid=6824855107142613230",
     "LAT": 22.0323273,
-    "LONG": 82.6472996
+    "LONG": 82.6472996,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 151,
@@ -4074,7 +4374,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:03",
     "LOCATION": "https://www.google.com/maps/place/Sparsh+Multispeciality+Hospital/@22.0220767,82.9482706,17z/data=!3m1!4b1!4m5!3m4!1s0x3a270b9c5aa9268f:0xca8b6ba1ed0f8a14!8m2!3d22.0220717!4d82.9504593?hl=en",
     "LAT": 22.0220767,
-    "LONG": 82.9482706
+    "LONG": 82.9482706,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 152,
@@ -4098,10 +4400,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:24",
+    "LAST_UPDATED_TIME": "20:43",
     "LOCATION": "https://maps.google.com/?cid=12286023550084599195",
     "LAT": 22.0182635,
-    "LONG": 82.6112227
+    "LONG": 82.6112227,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 153,
@@ -4128,7 +4432,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:10",
     "LOCATION": "https://www.google.com/maps/place/Bethesda+Leprosy+Home+%26+Hospital/@22.0231848,82.6490696,17z/data=!4m5!3m4!1s0x3a27bc2a841d9f21:0xa5d0e1766a740d79!8m2!3d22.0232495!4d82.6486512",
     "LAT": 22.0231848,
-    "LONG": 82.6490696
+    "LONG": 82.6490696,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 154,
@@ -4152,10 +4458,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:45",
+    "LAST_UPDATED_TIME": "19:43",
     "LOCATION": "https://maps.google.com/?cid=3294734897612732618",
     "LAT": 22.014323,
-    "LONG": 82.5932944
+    "LONG": 82.5932944,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 155,
@@ -4164,10 +4472,10 @@ chhattisgarh_data=[
     "CONTACT": "Manjula Umareddy 7024591451",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 36,
-    "OXYGEN_BEDS_TOTAL": 4,
+    "OXYGEN_BEDS_TOTAL": 7,
     "OXYGEN_BEDS_VACANT": 0,
-    "NONOXYGEN_BEDS_TOTAL": 24,
-    "NONOXYGEN_BEDS_VACANT": 3,
+    "NONOXYGEN_BEDS_TOTAL": 21,
+    "NONOXYGEN_BEDS_VACANT": 8,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 8,
@@ -4176,13 +4484,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 3,
+    "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:36",
+    "LAST_UPDATED_TIME": "17:22",
     "LOCATION": "https://maps.google.com/?cid=15195949393787076081",
     "LAT": 22.0333142,
-    "LONG": 82.6558157
+    "LONG": 82.6558157,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 156,
@@ -4192,7 +4502,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 30,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 6,
     "NONOXYGEN_BEDS_TOTAL": 5,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -4200,16 +4510,18 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 5,
     "HDU_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_VACANT": 4,
+    "ICU_BEDS_VACANT": 2,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 5,
+    "BEDS_VACANT": 9,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:53",
+    "LAST_UPDATED_TIME": "19:05",
     "LOCATION": "https://www.google.com/maps/place/NKH+Multispeciality+Hospital/@22.038053,82.6458144,17z/data=!3m1!4b1!4m5!3m4!1s0x3a27be7807315a3d:0x11cd4a0e2f8a0b50!8m2!3d22.038048!4d82.6480031?hl=en",
     "LAT": 22.038053,
-    "LONG": 82.6458144
+    "LONG": 82.6458144,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 157,
@@ -4236,7 +4548,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:43",
     "LOCATION": "https://maps.google.com/?cid=15102233808931045566",
     "LAT": 21.8608154,
-    "LONG": 82.9711378
+    "LONG": 82.9711378,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 158,
@@ -4260,10 +4574,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:47",
+    "LAST_UPDATED_TIME": "18:17",
     "LOCATION": "https://maps.google.com/?cid=3508391074776436962",
     "LAT": 22.0104301,
-    "LONG": 82.6009933
+    "LONG": 82.6009933,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 159,
@@ -4290,7 +4606,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:45",
     "LOCATION": "https://maps.google.com/?cid=1152067533029642593",
     "LAT": 22.0459783,
-    "LONG": 82.6488409
+    "LONG": 82.6488409,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 160,
@@ -4317,7 +4635,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:40",
     "LOCATION": "https://maps.google.com/?cid=5324664424722324502",
     "LAT": 22.0190411,
-    "LONG": 82.8698482
+    "LONG": 82.8698482,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 161,
@@ -4344,7 +4664,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:43",
     "LOCATION": "https://maps.google.com/?cid=16364162569478539471",
     "LAT": 21.918597,
-    "LONG": 82.4652705
+    "LONG": 82.4652705,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 162,
@@ -4356,7 +4678,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 27,
     "OXYGEN_BEDS_VACANT": 7,
     "NONOXYGEN_BEDS_TOTAL": 73,
-    "NONOXYGEN_BEDS_VACANT": 50,
+    "NONOXYGEN_BEDS_VACANT": 51,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4365,13 +4687,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 57,
+    "BEDS_VACANT": 58,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:16",
+    "LAST_UPDATED_TIME": "20:20",
     "LOCATION": "https://maps.google.com/?cid=13062422116936040628",
     "LAT": 22.0105159,
-    "LONG": 82.5859572
+    "LONG": 82.5859572,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 163,
@@ -4398,7 +4722,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:50",
     "LOCATION": "https://maps.google.com/?cid=11398366512434467818",
     "LAT": 22.169593,
-    "LONG": 82.4523349
+    "LONG": 82.4523349,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 164,
@@ -4425,7 +4751,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:48",
     "LOCATION": "https://www.google.com/maps/place/Govt+.+ITI+Akaltara/@22.0151191,82.4369082,15z/data=!4m5!3m4!1s0x0:0xedc39d567679af81!8m2!3d22.0151191!4d82.4369082",
     "LAT": 22.01565621,
-    "LONG": 82.43712278
+    "LONG": 82.43712278,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 165,
@@ -4435,9 +4763,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 100,
     "OXYGEN_BEDS_TOTAL": 13,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 87,
-    "NONOXYGEN_BEDS_VACANT": 18,
+    "NONOXYGEN_BEDS_VACANT": 14,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4446,13 +4774,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 21,
+    "BEDS_VACANT": 14,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:38",
+    "LAST_UPDATED_TIME": "19:14",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 166,
@@ -4479,7 +4809,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:09",
     "LOCATION": "https://www.google.com/maps/place/Govt+College+Duldula/@22.7123118,84.0789787,17z/data=!4m5!3m4!1s0x398a6f6589045135:0xd911b20b7d671ba6!8m2!3d22.712871!4d84.0785817",
     "LAT": 22.7123118,
-    "LONG": 84.0789787
+    "LONG": 84.0789787,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 167,
@@ -4506,7 +4838,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:08",
     "LOCATION": "https://www.google.com/maps/place/Govt.+Boys+H.+S.+School+Kunkuri/@22.7579297,83.9672426,17z/data=!4m5!3m4!1s0x398a6cf0f42a8b85:0x6376bc176ea5b9c1!8m2!3d22.7582414!4d83.9666632",
     "LAT": 22.7579297,
-    "LONG": 83.9672426
+    "LONG": 83.9672426,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 168,
@@ -4518,7 +4852,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 14,
     "OXYGEN_BEDS_VACANT": 14,
     "NONOXYGEN_BEDS_TOTAL": 34,
-    "NONOXYGEN_BEDS_VACANT": 7,
+    "NONOXYGEN_BEDS_VACANT": 6,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4527,13 +4861,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 21,
+    "BEDS_VACANT": 20,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:12",
+    "LAST_UPDATED_TIME": "18:02",
     "LOCATION": "https://www.google.com/maps/place/Kunkuri+Girls+Hostel/@22.765524,84.002488,15z/data=!4m2!3m1!1s0x0:0xa7f3ccd05d4703e2?sa=X&ved=2ahUKEwjan73QyZ7wAhURyzgGHTQsCZYQ_BIwGnoECD0QBQ",
     "LAT": 22.76597908,
-    "LONG": 84.00283132
+    "LONG": 84.00283132,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 169,
@@ -4545,7 +4881,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 6,
     "OXYGEN_BEDS_VACANT": 6,
     "NONOXYGEN_BEDS_TOTAL": 65,
-    "NONOXYGEN_BEDS_VACANT": 22,
+    "NONOXYGEN_BEDS_VACANT": 18,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4554,13 +4890,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 28,
+    "BEDS_VACANT": 24,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:47",
+    "LAST_UPDATED_TIME": "17:24",
     "LOCATION": "https://maps.google.com/?cid=3340518925839929854",
     "LAT": 22.6360993,
-    "LONG": 83.7413388
+    "LONG": 83.7413388,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 170,
@@ -4570,9 +4908,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 50,
     "OXYGEN_BEDS_TOTAL": 7,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 43,
-    "NONOXYGEN_BEDS_VACANT": -3,
+    "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4584,10 +4922,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:54",
+    "LAST_UPDATED_TIME": "17:26",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 171,
@@ -4614,7 +4954,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:57",
     "LOCATION": "https://www.google.com/maps/place/GOVT.+THAKUR+SHOBHA+SINGH+COLLEGE+PATHALGAON/@22.5590502,83.4936382,17z/data=!4m5!3m4!1s0x3989fc3d9b30b205:0x11903965519d568!8m2!3d22.5591939!4d83.4934665",
     "LAT": 22.5590502,
-    "LONG": 83.4936382
+    "LONG": 83.4936382,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 172,
@@ -4638,10 +4980,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 150,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:05",
+    "LAST_UPDATED_TIME": "17:29",
     "LOCATION": "https://www.google.com/maps/place/Dav+Mps+Bagicha/@22.9603839,83.6634153,17z/data=!4m9!1m2!2m1!1sJASHPUR+DAV+School+Bagicha+!3m5!1s0x0:0x3d659a51cd86e777!8m2!3d22.9611193!4d83.6635327!15sChpKQVNIUFVSIERBViBTY2hvb2wgQmFnaWNoYZIBBnNjaG9vbA",
     "LAT": 22.9603839,
-    "LONG": 83.6634153
+    "LONG": 83.6634153,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 173,
@@ -4668,7 +5012,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:37",
     "LOCATION": "https://www.google.com/maps/place/korwa+aashram+bagicha/@22.9886036,83.6570843,17z/data=!4m5!3m4!1s0x398a26bf4815cb9d:0x996932d4d75598ce!8m2!3d22.9882925!4d83.6573847",
     "LAT": 22.9886036,
-    "LONG": 83.6570843
+    "LONG": 83.6570843,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 174,
@@ -4680,7 +5026,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 2,
     "OXYGEN_BEDS_VACANT": 2,
     "NONOXYGEN_BEDS_TOTAL": 48,
-    "NONOXYGEN_BEDS_VACANT": 36,
+    "NONOXYGEN_BEDS_VACANT": 11,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4689,13 +5035,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 38,
+    "BEDS_VACANT": 13,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:58",
+    "LAST_UPDATED_TIME": "18:34",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 175,
@@ -4705,9 +5053,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 200,
     "OXYGEN_BEDS_TOTAL": 12,
-    "OXYGEN_BEDS_VACANT": 12,
+    "OXYGEN_BEDS_VACANT": 6,
     "NONOXYGEN_BEDS_TOTAL": 188,
-    "NONOXYGEN_BEDS_VACANT": 85,
+    "NONOXYGEN_BEDS_VACANT": 29,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4716,13 +5064,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 97,
+    "BEDS_VACANT": 35,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:38",
+    "LAST_UPDATED_TIME": "19:25",
     "LOCATION": "https://maps.google.com/?cid=5159845682810377458",
     "LAT": 22.8774135,
-    "LONG": 84.1384997
+    "LONG": 84.1384997,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 176,
@@ -4749,7 +5099,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "17:00",
     "LOCATION": "https://maps.google.com/?cid=16637197817882256328",
     "LAT": 22.8820585,
-    "LONG": 84.1358367
+    "LONG": 84.1358367,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 177,
@@ -4759,9 +5111,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 100,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 8,
+    "OXYGEN_BEDS_VACANT": 10,
     "NONOXYGEN_BEDS_TOTAL": 90,
-    "NONOXYGEN_BEDS_VACANT": 17,
+    "NONOXYGEN_BEDS_VACANT": 23,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4770,13 +5122,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 25,
+    "BEDS_VACANT": 33,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:46",
+    "LAST_UPDATED_TIME": "17:50",
     "LOCATION": "https://maps.google.com/?cid=13007764683675756218",
     "LAT": 22.5109358,
-    "LONG": 83.9639122
+    "LONG": 83.9639122,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 178,
@@ -4784,11 +5138,11 @@ chhattisgarh_data=[
     "HOSPITAL_NAME": "DPRC covid care centre Jashpur",
     "CONTACT": "DR ANURANJAN TOPPO 9407629500",
     "CATEGORY": "Covid Care center",
-    "BEDS_TOTAL": 60,
+    "BEDS_TOTAL": 70,
     "OXYGEN_BEDS_TOTAL": 2,
     "OXYGEN_BEDS_VACANT": 2,
-    "NONOXYGEN_BEDS_TOTAL": 58,
-    "NONOXYGEN_BEDS_VACANT": 58,
+    "NONOXYGEN_BEDS_TOTAL": 68,
+    "NONOXYGEN_BEDS_VACANT": 68,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4797,13 +5151,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 60,
+    "BEDS_VACANT": 70,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
     "LAST_UPDATED_TIME": "10:40",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 179,
@@ -4827,10 +5183,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 24,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": 0.6479166667,
+    "LAST_UPDATED_TIME": 0.7527777778,
     "LOCATION": "https://maps.google.com/?cid=4925899474955086107",
     "LAT": 22.8822999,
-    "LONG": 84.1372357
+    "LONG": 84.1372357,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 180,
@@ -4854,10 +5212,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 5,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:00",
+    "LAST_UPDATED_TIME": "17:30",
     "LOCATION": "https://www.google.com/maps/place/Holy+Cross+Hospital+Kunkuri/@22.7424185,83.9551082,17z/data=!4m5!3m4!1s0x398a6d1fc049b883:0x4562ad98289dbd2b!8m2!3d22.7427401!4d83.9546683",
     "LAT": 22.7424185,
-    "LONG": 83.9551082
+    "LONG": 83.9551082,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 181,
@@ -4869,7 +5229,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 3,
     "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 47,
-    "NONOXYGEN_BEDS_VACANT": 4,
+    "NONOXYGEN_BEDS_VACANT": 16,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4878,13 +5238,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 7,
+    "BEDS_VACANT": 19,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:44",
+    "LAST_UPDATED_TIME": "5:45",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 182,
@@ -4911,7 +5273,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 183,
@@ -4921,9 +5285,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care center",
     "BEDS_TOTAL": 50,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 40,
-    "NONOXYGEN_BEDS_VACANT": 15,
+    "NONOXYGEN_BEDS_VACANT": 22,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4932,13 +5296,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 17,
+    "BEDS_VACANT": 25,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:35",
+    "LAST_UPDATED_TIME": "17:45",
     "LOCATION": "https://www.google.com/maps/place/Lodge+Gandhi+palace/@20.0404948,80.6235314,15z/data=!4m5!3m4!1s0x0:0x2aa9620c99177501!8m2!3d20.0404948!4d80.6235314",
     "LAT": 20.04148256,
-    "LONG": 80.62361723
+    "LONG": 80.62361723,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 184,
@@ -4965,19 +5331,21 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "17:00",
     "LOCATION": "https://maps.google.com/?cid=472480555822134719",
     "LAT": 20.267943,
-    "LONG": 81.4990297
+    "LONG": 81.4990297,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 185,
     "DISTRICT": "KANKER",
     "HOSPITAL_NAME": "COVID CARE CENTER ANTAGARH",
-    "CONTACT": "",
+    "CONTACT": "DR. A.K. SAMBHAKR 6265380951",
     "CATEGORY": "Covid Care center",
-    "BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "NONOXYGEN_BEDS_TOTAL": 0,
-    "NONOXYGEN_BEDS_VACANT": 0,
+    "BEDS_TOTAL": 50,
+    "OXYGEN_BEDS_TOTAL": 5,
+    "OXYGEN_BEDS_VACANT": 5,
+    "NONOXYGEN_BEDS_TOTAL": 45,
+    "NONOXYGEN_BEDS_VACANT": 45,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -4986,13 +5354,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 50,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "Not Updated",
     "LAST_UPDATED_TIME": "",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 186,
@@ -5000,11 +5370,11 @@ chhattisgarh_data=[
     "HOSPITAL_NAME": "Dedicated Covid Hospital Kanker",
     "CONTACT": "",
     "CATEGORY": "Dedicated Covid Hospital",
-    "BEDS_TOTAL": 200,
-    "OXYGEN_BEDS_TOTAL": 52,
-    "OXYGEN_BEDS_VACANT": 30,
-    "NONOXYGEN_BEDS_TOTAL": 126,
-    "NONOXYGEN_BEDS_VACANT": 84,
+    "BEDS_TOTAL": 189,
+    "OXYGEN_BEDS_TOTAL": 58,
+    "OXYGEN_BEDS_VACANT": 5,
+    "NONOXYGEN_BEDS_TOTAL": 109,
+    "NONOXYGEN_BEDS_VACANT": 76,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 12,
@@ -5012,14 +5382,16 @@ chhattisgarh_data=[
     "ICU_BEDS_TOTAL": 10,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 8,
-    "VENTILATORS_VACANT": 5,
-    "BEDS_VACANT": 114,
+    "VENTILATORS_VACANT": 4,
+    "BEDS_VACANT": 81,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "25/04/2021",
-    "LAST_UPDATED_TIME": "14:37",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "18:00",
     "LOCATION": "https://www.google.com/maps/place/Bhanupratap+Dev+Government+P+G+College/@20.2857356,81.4803078,15z/data=!4m9!1m2!2m1!1scollege+building+near+Kanker,+Chhattisgarh!3m5!1s0x3a2efd1144632a87:0x8cee0dd1d53c7a08!8m2!3d20.2857356!4d81.4890625!15sCipjb2xsZWdlIGJ1aWxkaW5nIG5lYXIgS2Fua2VyLCBDaGhhdHRpc2dhcmhaPQoQY29sbGVnZSBidWlsZGluZyIpY29sbGVnZSBidWlsZGluZyBuZWFyIGthbmtlciBjaGhhdHRpc2dhcmiSAQdjb2xsZWdl",
     "LAT": 20.28676187,
-    "LONG": 81.48876219
+    "LONG": 81.48876219,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 187,
@@ -5031,7 +5403,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 6,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 44,
-    "NONOXYGEN_BEDS_VACANT": 11,
+    "NONOXYGEN_BEDS_VACANT": 1,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -5040,13 +5412,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 11,
+    "BEDS_VACANT": 1,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:52",
+    "LAST_UPDATED_TIME": "17:43",
     "LOCATION": "https://maps.google.com/?cid=11610049505469236413",
     "LAT": 20.4579386,
-    "LONG": 81.6309862
+    "LONG": 81.6309862,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 188,
@@ -5056,9 +5430,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 300,
     "OXYGEN_BEDS_TOTAL": 50,
-    "OXYGEN_BEDS_VACANT": 42,
+    "OXYGEN_BEDS_VACANT": 41,
     "NONOXYGEN_BEDS_TOTAL": 250,
-    "NONOXYGEN_BEDS_VACANT": 218,
+    "NONOXYGEN_BEDS_VACANT": 219,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -5070,22 +5444,24 @@ chhattisgarh_data=[
     "BEDS_VACANT": 260,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:00",
+    "LAST_UPDATED_TIME": "17:10",
     "LOCATION": "https://maps.google.com/?cid=2668688926975125069",
     "LAT": 21.9537546,
-    "LONG": 81.1899154
+    "LONG": 81.1899154,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 189,
     "DISTRICT": "KAWARDHA",
     "HOSPITAL_NAME": "RoopJeewan Hospital",
-    "CONTACT": "",
+    "CONTACT": "Dr. Atul Jain 9752842959",
     "CATEGORY": "Private Hospital",
-    "BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "NONOXYGEN_BEDS_TOTAL": 0,
-    "NONOXYGEN_BEDS_VACANT": 0,
+    "BEDS_TOTAL": 20,
+    "OXYGEN_BEDS_TOTAL": 10,
+    "OXYGEN_BEDS_VACANT": 5,
+    "NONOXYGEN_BEDS_TOTAL": 10,
+    "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -5094,13 +5470,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "No",
-    "LAST_UPDATED_DATE": "Not Updated",
-    "LAST_UPDATED_TIME": "",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "8:42",
     "LOCATION": "https://www.google.com/maps/place/RoopJeewan+Hospital/@22.0059385,81.2317796,17z/data=!3m1!4b1!4m5!3m4!1s0x3a29c0a0e786cab9:0xc381cdb819df768e!8m2!3d22.0059335!4d81.2339683",
     "LAT": 22.00613243,
-    "LONG": 81.23408631
+    "LONG": 81.23408631,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 190,
@@ -5124,10 +5502,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 16,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:00",
+    "LAST_UPDATED_TIME": "17:07",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 191,
@@ -5139,7 +5519,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 30,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 20,
-    "NONOXYGEN_BEDS_VACANT": 13,
+    "NONOXYGEN_BEDS_VACANT": 15,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -5148,13 +5528,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 13,
+    "BEDS_VACANT": 15,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:26",
+    "LAST_UPDATED_TIME": "17:35",
     "LOCATION": "https://maps.google.com/?cid=644659905058515420",
     "LAT": 22.0003501,
-    "LONG": 81.2396992
+    "LONG": 81.2396992,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 192,
@@ -5181,7 +5563,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:27",
     "LOCATION": "https://www.google.com/maps/place/Sai+Sanjivani+Multi+Speciality+Hospital/@22.0092572,81.2294975,17z/data=!4m5!3m4!1s0x3a29c098ad58c5df:0xe787a311c8b4fb88!8m2!3d22.009292!4d81.22924?hl=en",
     "LAT": 22.0092572,
-    "LONG": 81.2294975
+    "LONG": 81.2294975,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 193,
@@ -5208,7 +5592,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:36",
     "LOCATION": "https://maps.google.com/?cid=14964460948233855321",
     "LAT": 22.0045089,
-    "LONG": 81.2315568
+    "LONG": 81.2315568,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 194,
@@ -5235,7 +5621,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:28",
     "LOCATION": "https://maps.google.com/?cid=16275828087530797992",
     "LAT": 22.0017798,
-    "LONG": 81.2432467
+    "LONG": 81.2432467,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 195,
@@ -5259,10 +5647,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:02",
+    "LAST_UPDATED_TIME": "21:53",
     "LOCATION": "https://maps.google.com/?cid=4335482297055391378",
     "LAT": 22.0011401,
-    "LONG": 81.2387509
+    "LONG": 81.2387509,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 196,
@@ -5289,7 +5679,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:32",
     "LOCATION": "https://www.google.com/maps/place/Kasturba+Gandhi+Aadiwasi+Chhatrawas/@19.7108374,81.2261192,12z/data=!4m9!1m2!2m1!1sKasturba+Hostel+!3m5!1s0x0:0xc4b11084b3309540!8m2!3d19.73442!4d81.2370253!15sCg9LYXN0dXJiYSBIb3N0ZWySAQxnaXJsc19ob3N0ZWw?hl=en",
     "LAT": 19.7108374,
-    "LONG": 81.2261192
+    "LONG": 81.2261192,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 197,
@@ -5316,7 +5708,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:34",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 198,
@@ -5343,7 +5737,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "17:00",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 199,
@@ -5370,7 +5766,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:43",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 200,
@@ -5382,7 +5780,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 10,
     "NONOXYGEN_BEDS_TOTAL": 40,
-    "NONOXYGEN_BEDS_VACANT": 40,
+    "NONOXYGEN_BEDS_VACANT": 38,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -5391,13 +5789,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 50,
+    "BEDS_VACANT": 48,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:25",
+    "LAST_UPDATED_TIME": "5:04",
     "LOCATION": "https://www.google.com/maps/place/Govt+iti+Boys+Hostel+Vishrampuri/@20.0764065,81.7639564,18z/data=!4m9!1m2!2m1!1sboys+hostel+near+Vishrampuri,+Chhattisgarh!3m5!1s0x0:0x723b16b23d8c4191!8m2!3d20.0766558!4d81.7638068!15sCipib3lzIGhvc3RlbCBuZWFyIFZpc2hyYW1wdXJpLCBDaGhhdHRpc2dhcmhaOAoLYm95cyBob3N0ZWwiKWJveXMgaG9zdGVsIG5lYXIgdmlzaHJhbXB1cmkgY2hoYXR0aXNnYXJokgEGc2Nob29s?hl=en",
     "LAT": 20.0764065,
-    "LONG": 81.7639564
+    "LONG": 81.7639564,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 201,
@@ -5409,22 +5809,24 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 30,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 48,
-    "NONOXYGEN_BEDS_VACANT": 14,
+    "NONOXYGEN_BEDS_VACANT": 20,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 11,
-    "HDU_BEDS_VACANT": 10,
+    "HDU_BEDS_VACANT": 5,
     "ICU_BEDS_TOTAL": 11,
     "ICU_BEDS_VACANT": 11,
     "VENTILATORS_TOTAL": 6,
     "VENTILATORS_VACANT": 6,
-    "BEDS_VACANT": 35,
+    "BEDS_VACANT": 36,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:06",
+    "LAST_UPDATED_TIME": "18:15",
     "LOCATION": "https://maps.google.com/?cid=14944373346801687070",
     "LAT": 19.5655074,
-    "LONG": 81.6744617
+    "LONG": 81.6744617,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 202,
@@ -5451,7 +5853,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "8:58",
     "LOCATION": "https://maps.google.com/?cid=9839369698576407068",
     "LAT": 22.3740119,
-    "LONG": 82.7467362
+    "LONG": 82.7467362,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 203,
@@ -5461,9 +5865,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 850,
     "OXYGEN_BEDS_TOTAL": 30,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_VACANT": 11,
     "NONOXYGEN_BEDS_TOTAL": 820,
-    "NONOXYGEN_BEDS_VACANT": 648,
+    "NONOXYGEN_BEDS_VACANT": 638,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -5472,13 +5876,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 653,
+    "BEDS_VACANT": 649,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:49",
+    "LAST_UPDATED_TIME": "20:35",
     "LOCATION": "https://maps.google.com/?cid=1281930073653978981",
     "LAT": 22.434583,
-    "LONG": 82.6671685
+    "LONG": 82.6671685,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 204,
@@ -5488,7 +5894,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 100,
     "OXYGEN_BEDS_TOTAL": 50,
-    "OXYGEN_BEDS_VACANT": 9,
+    "OXYGEN_BEDS_VACANT": 8,
     "NONOXYGEN_BEDS_TOTAL": 31,
     "NONOXYGEN_BEDS_VACANT": 20,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -5499,13 +5905,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 4,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 29,
+    "BEDS_VACANT": 28,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:35",
+    "LAST_UPDATED_TIME": "18:23",
     "LOCATION": "https://www.google.com/maps/place/NKH+Super+Specialty+Hospital/@22.36237,82.735314,19z/data=!4m9!1m2!2m1!1sNew+Korba+Hospital!3m5!1s0x0:0x701f29237e5a5b52!8m2!3d22.3625098!4d82.7352918!15sChJOZXcgS29yYmEgSG9zcGl0YWxaKAoSbmV3IGtvcmJhIGhvc3BpdGFsIhJuZXcga29yYmEgaG9zcGl0YWySAQhob3NwaXRhbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOTk1FdzJZVXhCRUFF?hl=en",
     "LAT": 22.36237,
-    "LONG": 82.735314
+    "LONG": 82.735314,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 205,
@@ -5529,10 +5937,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 11,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:41",
+    "LAST_UPDATED_TIME": "18:14",
     "LOCATION": "https://www.google.com/maps/place/Vinayak+Hospital+Pali/@https://www.google.com/maps/place/Vinayak+Hospital+Pali/@22.3664944,82.3197149,15z/data=!4m9!1m2!2m1!1sVinayak+Hospital+!3m5!1s0x0:0xa347e5fd08f20c0!8m2!3d22.3692269!4d82.3200205!15sChBWaW5heWFrIEhvc3BpdGFsWiQKEHZpbmF5YWsgaG9zcGl0YWwiEHZpbmF5YWsgaG9zcGl0YWySAQhob3NwaXRhbA?hl=en,15z/data=!4m9!1m2!2m1!1sVinayak+Hospital+!3m5!1s0x0:0xa347e5fd08f20c0!8m2!3d22.3692269!4d82.3200205!15sChBWaW5heWFrIEhvc3BpdGFsWiQKEHZpbmF5YWsgaG9zcGl0YWwiEHZpbmF5YWsgaG9zcGl0YWySAQhob3NwaXRhbA?hl=en",
     "LAT": 22.3664944,
-    "LONG": 82.3197149
+    "LONG": 82.3197149,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 206,
@@ -5559,7 +5969,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:16",
     "LOCATION": "https://maps.google.com/?cid=6246019671261720718",
     "LAT": 22.3664481,
-    "LONG": 82.7515031
+    "LONG": 82.7515031,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 207,
@@ -5582,11 +5994,13 @@ chhattisgarh_data=[
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "22:00",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "18:12",
     "LOCATION": "https://maps.google.com/?cid=9872420637990070797",
     "LAT": 22.4152078,
-    "LONG": 82.6677387
+    "LONG": 82.6677387,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 208,
@@ -5613,7 +6027,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:04",
     "LOCATION": "https://maps.google.com/?q=Balco+Township,+Sector-5,+Korba,+Chhattisgarh+495684,+India&ftid=0x3a278634e5d3029b:0x839950fdb4d5d625",
     "LAT": 22.4079269,
-    "LONG": 82.7532559
+    "LONG": 82.7532559,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 209,
@@ -5623,9 +6039,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 48,
     "OXYGEN_BEDS_TOTAL": 25,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_VACANT": 4,
     "NONOXYGEN_BEDS_TOTAL": 23,
-    "NONOXYGEN_BEDS_VACANT": 7,
+    "NONOXYGEN_BEDS_VACANT": 10,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -5634,13 +6050,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 12,
+    "BEDS_VACANT": 14,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "8:12",
+    "LAST_UPDATED_TIME": "19:13",
     "LOCATION": "https://maps.google.com/?cid=9814913018629298921",
     "LAT": 22.3598387,
-    "LONG": 82.5676826
+    "LONG": 82.5676826,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 210,
@@ -5650,7 +6068,7 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care center",
     "BEDS_TOTAL": 31,
     "OXYGEN_BEDS_TOTAL": 15,
-    "OXYGEN_BEDS_VACANT": 1,
+    "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 14,
     "NONOXYGEN_BEDS_VACANT": 14,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -5660,14 +6078,16 @@ chhattisgarh_data=[
     "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
-    "VENTILATORS_VACANT": 2,
-    "BEDS_VACANT": 15,
+    "VENTILATORS_VACANT": 0,
+    "BEDS_VACANT": 14,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "8:45",
+    "LAST_UPDATED_TIME": "19:33",
     "LOCATION": "https://maps.google.com/?cid=17714314429942450537",
     "LAT": 22.4165269,
-    "LONG": 82.6581666
+    "LONG": 82.6581666,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 211,
@@ -5694,7 +6114,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:28",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 212,
@@ -5721,7 +6143,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:38",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 213,
@@ -5748,7 +6172,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:36",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 214,
@@ -5775,7 +6201,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:47",
     "LOCATION": "https://maps.google.com/?cid=14644663220509345744",
     "LAT": 23.2167598,
-    "LONG": 82.344873
+    "LONG": 82.344873,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 215,
@@ -5802,7 +6230,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:04",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 216,
@@ -5829,7 +6259,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:31",
     "LOCATION": "https://maps.google.com/?cid=7274041768570666841",
     "LAT": 21.1090117,
-    "LONG": 82.0834393
+    "LONG": 82.0834393,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 217,
@@ -5856,7 +6288,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:14",
     "LOCATION": "https://www.google.com/maps/place/RLC+Multispeciality+Hospital/@21.1156765,82.0843536,17z/data=!3m1!4b1!4m5!3m4!1s0x3a28a59dc9f1f47d:0x9746d3c85e7fa00!8m2!3d21.1156715!4d82.0865423",
     "LAT": 21.11593169,
-    "LONG": 82.0864672
+    "LONG": 82.0864672,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 218,
@@ -5883,7 +6317,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "23:14",
     "LOCATION": "https://maps.google.com/?q=Tum+Gaon,+Chhattisgarh+493445,+India&ftid=0x3a28a153874f9bad:0xb9a06f6b280b6f42",
     "LAT": 21.209803,
-    "LONG": 82.1489436
+    "LONG": 82.1489436,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 219,
@@ -5910,7 +6346,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:35",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 220,
@@ -5937,7 +6375,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "1:18",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 221,
@@ -5961,10 +6401,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:14",
+    "LAST_UPDATED_TIME": "18:10",
     "LOCATION": "https://maps.google.com/?cid=12328010885972033200",
     "LAT": 21.1035694,
-    "LONG": 82.0945254
+    "LONG": 82.0945254,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 222,
@@ -5991,7 +6433,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:58",
     "LOCATION": "https://maps.google.com/?cid=3249867338458309340",
     "LAT": 21.313353,
-    "LONG": 83.0023524
+    "LONG": 83.0023524,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 223,
@@ -6018,7 +6462,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:39",
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@21.274837,82.8223335,15z/data=!4m9!1m2!2m1!1sgovernment+hospital+Basna,+Chhattisgarh!3m5!1s0x3a2660d4542722f9:0x8a1f3fe95d9b208b!8m2!3d21.2781277!4d82.8238946!15sCidnb3Zlcm5tZW50IGhvc3BpdGFsIEJhc25hLCBDaGhhdHRpc2dhcmhaPQoTZ292ZXJubWVudCBob3NwaXRhbCImZ292ZXJubWVudCBob3NwaXRhbCBiYXNuYSBjaGhhdHRpc2dhcmiSARNnb3Zlcm5tZW50X2hvc3BpdGFs?hl=en",
     "LAT": 21.274837,
-    "LONG": 82.8223335
+    "LONG": 82.8223335,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 224,
@@ -6045,7 +6491,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:29",
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital,+Saraipali/@21.3215056,82.9767125,19z/data=!4m9!1m2!2m1!1sgovernment+hospital+saraipali,+Chhattisgarh!3m5!1s0x0:0x2efc2b98ee797575!8m2!3d21.3216634!4d82.9765744!15sCitnb3Zlcm5tZW50IGhvc3BpdGFsIHNhcmFpcGFsaSwgQ2hoYXR0aXNnYXJoWkEKE2dvdmVybm1lbnQgaG9zcGl0YWwiKmdvdmVybm1lbnQgaG9zcGl0YWwgc2FyYWlwYWxpIGNoaGF0dGlzZ2FyaJIBCGhvc3BpdGFs?hl=en",
     "LAT": 21.3215056,
-    "LONG": 82.9767125
+    "LONG": 82.9767125,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 225,
@@ -6055,7 +6503,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 30,
     "OXYGEN_BEDS_TOTAL": 22,
-    "OXYGEN_BEDS_VACANT": 8,
+    "OXYGEN_BEDS_VACANT": 6,
     "NONOXYGEN_BEDS_TOTAL": 8,
     "NONOXYGEN_BEDS_VACANT": 8,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -6066,25 +6514,27 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 16,
+    "BEDS_VACANT": 14,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:14",
+    "LAST_UPDATED_TIME": "19:40",
     "LOCATION": "https://maps.google.com/?cid=6609505774056822015",
     "LAT": 21.3137568,
-    "LONG": 83.0128382
+    "LONG": 83.0128382,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 226,
     "DISTRICT": "MAHASAMUND",
     "HOSPITAL_NAME": "Sewa bhawan hospital",
-    "CONTACT": "",
+    "CONTACT": "Dr Gurram Divya Ralph 7548852844",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 10,
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 5,
-    "NONOXYGEN_BEDS_VACANT": 3,
+    "NONOXYGEN_BEDS_VACANT": 1,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6093,13 +6543,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 3,
+    "BEDS_VACANT": 1,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:26",
+    "LAST_UPDATED_TIME": "21:53",
     "LOCATION": "https://maps.google.com/?cid=15131112041582682498",
     "LAT": 21.3356386,
-    "LONG": 82.7694981
+    "LONG": 82.7694981,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 227,
@@ -6126,7 +6578,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:53",
     "LOCATION": "https://maps.google.com/?cid=1330339672576322432",
     "LAT": 21.112346,
-    "LONG": 82.104048
+    "LONG": 82.104048,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 228,
@@ -6153,7 +6607,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:41",
     "LOCATION": "https://maps.google.com/?cid=14251552886936395448",
     "LAT": 21.0548128,
-    "LONG": 82.3751765
+    "LONG": 82.3751765,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 229,
@@ -6180,7 +6636,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:05",
     "LOCATION": "https://www.google.com/maps/place/Agrawal+Nursing+Home/@21.2776705,82.8246116,16z/data=!4m9!1m2!2m1!1sAgarwal+Nursing+Home+MAHASAMUND!3m5!1s0x3a2660d50134f879:0xddf1a8bc876261d5!8m2!3d21.2777426!4d82.8230712!15sCh9BZ2Fyd2FsIE51cnNpbmcgSG9tZSBNQUhBU0FNVU5EWjcKFGFnYXJ3YWwgbnVyc2luZyBob21lIh9hZ2Fyd2FsIG51cnNpbmcgaG9tZSBtYWhhc2FtdW5kkgEIaG9zcGl0YWw?hl=en",
     "LAT": 21.2776705,
-    "LONG": 82.8246116
+    "LONG": 82.8246116,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 230,
@@ -6192,22 +6650,24 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 4,
     "NONOXYGEN_BEDS_TOTAL": 6,
-    "NONOXYGEN_BEDS_VACANT": 2,
+    "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 10,
-    "HDU_BEDS_VACANT": 3,
+    "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 9,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 4,
     "VENTILATORS_VACANT": 1,
-    "BEDS_VACANT": 9,
+    "BEDS_VACANT": 7,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:34",
+    "LAST_UPDATED_TIME": "18:59",
     "LOCATION": "https://maps.google.com/?cid=681289550351825408",
     "LAT": 21.1156715,
-    "LONG": 82.0865423
+    "LONG": 82.0865423,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 231,
@@ -6234,7 +6694,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:22",
     "LOCATION": "https://maps.google.com/?cid=3932105045411450156",
     "LAT": 21.091076,
-    "LONG": 82.112154
+    "LONG": 82.112154,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 232,
@@ -6246,7 +6708,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 19,
     "OXYGEN_BEDS_VACANT": 2,
     "NONOXYGEN_BEDS_TOTAL": 28,
-    "NONOXYGEN_BEDS_VACANT": 18,
+    "NONOXYGEN_BEDS_VACANT": 17,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6255,13 +6717,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 1,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 21,
+    "BEDS_VACANT": 20,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:57",
+    "LAST_UPDATED_TIME": "17:26",
     "LOCATION": "https://www.google.com/maps/place/Aditya+Hospital+%26+Maternity+Home/@21.1116778,82.0977292,17z/data=!4m5!3m4!1s0x3a28a58fe42bd4cb:0x1abfd5b189f859e3!8m2!3d21.111933!4d82.097697",
     "LAT": 21.1116778,
-    "LONG": 82.0977292
+    "LONG": 82.0977292,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 233,
@@ -6273,7 +6737,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 10,
-    "NONOXYGEN_BEDS_VACANT": 7,
+    "NONOXYGEN_BEDS_VACANT": 8,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6282,13 +6746,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 7,
+    "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:35",
+    "LAST_UPDATED_TIME": "17:04",
     "LOCATION": "https://maps.google.com/?cid=12297995566264510318",
     "LAT": 21.1943083,
-    "LONG": 82.1235839
+    "LONG": 82.1235839,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 234,
@@ -6315,7 +6781,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:42",
     "LOCATION": "https://www.google.com/maps/place/Jai+Pataimata+Hospital/@21.223492,82.2683596,15z/data=!4m5!3m4!1s0x3a261e9332dad943:0x5af5577f90568f7!8m2!3d21.2266976!4d82.2727193",
     "LAT": 21.2268776,
-    "LONG": 82.2727193
+    "LONG": 82.2727193,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 235,
@@ -6342,7 +6810,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:50",
     "LOCATION": "https://maps.google.com/?cid=7860641784205050714",
     "LAT": 22.0761197,
-    "LONG": 81.7060786
+    "LONG": 81.7060786,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 236,
@@ -6369,7 +6839,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:56",
     "LOCATION": "https://www.google.com/maps/place/Mahima+Hospital/@21.2130679,81.2955113,17z/data=!4m5!3m4!1s0x3a293da815d63479:0xa0bf26e3609b89f5!8m2!3d21.213283!4d81.294889?hl=en",
     "LAT": 21.2130679,
-    "LONG": 81.2955113
+    "LONG": 81.2955113,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 237,
@@ -6396,7 +6868,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:40",
     "LOCATION": "https://www.google.com/maps/place/Agrawal+Nursing+Home/@21.2776705,82.8246116,16z/data=!4m9!1m2!2m1!1sAgarwal+Nursing+Home+MAHASAMUND!3m5!1s0x3a2660d50134f879:0xddf1a8bc876261d5!8m2!3d21.2777426!4d82.8230712!15sCh9BZ2Fyd2FsIE51cnNpbmcgSG9tZSBNQUhBU0FNVU5EWjcKFGFnYXJ3YWwgbnVyc2luZyBob21lIh9hZ2Fyd2FsIG51cnNpbmcgaG9tZSBtYWhhc2FtdW5kkgEIaG9zcGl0YWw?hl=en",
     "LAT": 21.2776705,
-    "LONG": 82.8246116
+    "LONG": 82.8246116,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 238,
@@ -6423,7 +6897,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:53",
     "LOCATION": "https://maps.google.com/?cid=5908269816928353156",
     "LAT": 22.070985,
-    "LONG": 81.687635
+    "LONG": 81.687635,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 239,
@@ -6450,7 +6926,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "22:05",
     "LOCATION": "https://maps.google.com/?cid=4373487738096089515",
     "LAT": 22.0685419,
-    "LONG": 81.6856808
+    "LONG": 81.6856808,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 240,
@@ -6462,7 +6940,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 20,
     "OXYGEN_BEDS_VACANT": 20,
     "NONOXYGEN_BEDS_TOTAL": 80,
-    "NONOXYGEN_BEDS_VACANT": 44,
+    "NONOXYGEN_BEDS_VACANT": 43,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6471,13 +6949,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 2,
-    "BEDS_VACANT": 64,
+    "BEDS_VACANT": 63,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:08",
+    "LAST_UPDATED_TIME": "19:49",
     "LOCATION": "https://maps.google.com/?cid=17919236226648542057",
     "LAT": 19.723535,
-    "LONG": 81.2424108
+    "LONG": 81.2424108,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 241,
@@ -6489,7 +6969,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 40,
     "OXYGEN_BEDS_VACANT": 40,
     "NONOXYGEN_BEDS_TOTAL": 610,
-    "NONOXYGEN_BEDS_VACANT": 495,
+    "NONOXYGEN_BEDS_VACANT": 481,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6498,25 +6978,27 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 535,
+    "BEDS_VACANT": 521,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:04",
+    "LAST_UPDATED_TIME": "19:42",
     "LOCATION": "https://maps.google.com/?cid=4279390633473499100",
     "LAT": 19.7177777,
-    "LONG": 81.229827
+    "LONG": 81.229827,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 242,
     "DISTRICT": "RAIGARH",
     "HOSPITAL_NAME": "Jindal Hospital Raigarh",
-    "CONTACT": "",
+    "CONTACT": "Subhas 9981376200",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 115,
     "OXYGEN_BEDS_TOTAL": 57,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 54,
-    "NONOXYGEN_BEDS_VACANT": 41,
+    "NONOXYGEN_BEDS_VACANT": 46,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6525,13 +7007,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 41,
+    "BEDS_VACANT": 46,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "8:47",
+    "LAST_UPDATED_TIME": "21:11",
     "LOCATION": "https://maps.google.com/?cid=4181700551426939566",
     "LAT": 21.8974003,
-    "LONG": 83.3949632
+    "LONG": 83.3949632,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 243,
@@ -6555,10 +7039,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 10,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:05",
+    "LAST_UPDATED_TIME": "17:35",
     "LOCATION": "https://www.google.com/maps/place/Metro+Hospital+And+Dibetic+Research+Centre/@21.8899023,83.4149221,18z/data=!4m9!1m2!2m1!1sRaigarh%09Metro+Hospital+%26+Dibetic+Research+Center!3m5!1s0x3a27256722528819:0x31f2f6a1cbb6c629!8m2!3d21.8898208!4d83.4151444!15sCjBSYWlnYXJoCU1ldHJvIEhvc3BpdGFsICYgRGliZXRpYyBSZXNlYXJjaCBDZW50ZXJaXAoobWV0cm8gaG9zcGl0YWwgJiBkaWJldGljIHJlc2VhcmNoIGNlbnRlciIwcmFpZ2FyaCBtZXRybyBob3NwaXRhbCAmIGRpYmV0aWMgcmVzZWFyY2ggY2VudGVykgEIaG9zcGl0YWw",
     "LAT": 21.8899023,
-    "LONG": 83.4149221
+    "LONG": 83.4149221,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 244,
@@ -6582,10 +7068,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 9,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:06",
+    "LAST_UPDATED_TIME": "17:28",
     "LOCATION": "https://maps.google.com/?cid=3948676414595259653",
     "LAT": 21.8926572,
-    "LONG": 83.4150852
+    "LONG": 83.4150852,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 245,
@@ -6609,10 +7097,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:04",
+    "LAST_UPDATED_TIME": "17:22",
     "LOCATION": "https://maps.google.com/?cid=16218553234357971779",
     "LAT": 21.8766386,
-    "LONG": 83.3833535
+    "LONG": 83.3833535,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 246,
@@ -6622,7 +7112,7 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 140,
     "OXYGEN_BEDS_TOTAL": 100,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -6630,16 +7120,18 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 20,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 20,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 6,
     "VENTILATORS_VACANT": 3,
-    "BEDS_VACANT": 4,
+    "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:58",
+    "LAST_UPDATED_TIME": "19:24",
     "LOCATION": "https://www.google.com/maps/place/Regional+Leprosy+Training+and+Research+Institute,+Lalpur,+Raipur+(Chhattisgarh)+under+Govt.+of+India,+Ministry+of+Health+and+Family+Welfare/@21.2145819,81.6584813,17z/data=!3m1!4b1!4m5!3m4!1s0x3a28dce48f51e61b:0x7305473ea5d78e2a!8m2!3d21.2145769!4d81.66067",
     "LAT": 21.21480691,
-    "LONG": 81.66065927
+    "LONG": 81.66065927,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 247,
@@ -6649,9 +7141,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 437,
     "OXYGEN_BEDS_TOTAL": 157,
-    "OXYGEN_BEDS_VACANT": 4,
+    "OXYGEN_BEDS_VACANT": 24,
     "NONOXYGEN_BEDS_TOTAL": 280,
-    "NONOXYGEN_BEDS_VACANT": 81,
+    "NONOXYGEN_BEDS_VACANT": 87,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6660,13 +7152,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 85,
+    "BEDS_VACANT": 111,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:37",
+    "LAST_UPDATED_TIME": "15:00",
     "LOCATION": "https://www.google.com/maps/place/Kirodimal+Institute+of+Technology/@21.8572448,83.410924,17z/data=!4m5!3m4!1s0x3a27259ab23aca7b:0x3bb5ba327209f96d!8m2!3d21.85727!4d83.4105805",
     "LAT": 21.8572448,
-    "LONG": 83.410924
+    "LONG": 83.410924,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 248,
@@ -6693,7 +7187,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": 0.6958333333,
     "LOCATION": "https://www.google.com/maps/place/Ganga+Smart+Hospital/@21.9519268,83.406234,11.31z/data=!4m5!3m4!1s0x3a27253209ea4117:0x6da7c0c1eed26d2f!8m2!3d21.9100975!4d83.3896738",
     "LAT": 21.91816712,
-    "LONG": 83.40512275
+    "LONG": 83.40512275,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 249,
@@ -6717,10 +7213,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": 0.6472222222,
+    "LAST_UPDATED_TIME": 0.8611111111,
     "LOCATION": "https://maps.google.com/?cid=6759694945250818057",
     "LAT": 21.8797001,
-    "LONG": 83.3911403
+    "LONG": 83.3911403,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 250,
@@ -6744,16 +7242,18 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": 0.4652777778,
+    "LAST_UPDATED_TIME": 0.7208333333,
     "LOCATION": "https://maps.google.com/?cid=8649147957528983516",
     "LAT": 21.9019511,
-    "LONG": 83.3738977
+    "LONG": 83.3738977,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 251,
     "DISTRICT": "RAIGARH",
     "HOSPITAL_NAME": "Sanjivani Nursing Home Raigarh",
-    "CONTACT": "Dr. A.K.Tirkey 9589895365",
+    "CONTACT": "Dr. A.K.Tirkey 9425275365",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 20,
     "OXYGEN_BEDS_TOTAL": 14,
@@ -6771,10 +7271,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": 0.4368055556,
+    "LAST_UPDATED_TIME": 0.7256944444,
     "LOCATION": "https://maps.google.com/?cid=11114354502298538259",
     "LAT": 21.890817,
-    "LONG": 83.3967885
+    "LONG": 83.3967885,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 252,
@@ -6801,7 +7303,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:36",
     "LOCATION": "https://www.google.com/maps/place/Shukla+Marriage+Palace/@21.5850344,83.1030932,17z/data=!4m5!3m4!1s0x3a26e50b08f8faf5:0xda380f963ca98dab!8m2!3d21.5854784!4d83.1028035?hl=en",
     "LAT": 21.5850344,
-    "LONG": 83.1030932
+    "LONG": 83.1030932,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 253,
@@ -6811,9 +7315,9 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 20,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 7,
+    "OXYGEN_BEDS_VACANT": 6,
     "NONOXYGEN_BEDS_TOTAL": 3,
-    "NONOXYGEN_BEDS_VACANT": 3,
+    "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6822,23 +7326,25 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 7,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 1,
-    "BEDS_VACANT": 17,
+    "BEDS_VACANT": 13,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:33",
+    "LAST_UPDATED_TIME": "19:24",
     "LOCATION": "https://www.google.com/maps/place/Dr.+R.L.+Hospital+%26+IVF+Centre/@21.9005863,83.3859528,15.58z/data=!4m5!3m4!1s0x3a27253afffc1685:0x7f6f2cca04af29e8!8m2!3d21.9000714!4d83.3913544",
     "LAT": 21.90044019,
-    "LONG": 83.39159378
+    "LONG": 83.39159378,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 254,
     "DISTRICT": "RAIGARH",
     "HOSPITAL_NAME": "CHC Loing, Raigarh",
-    "CONTACT": "",
+    "CONTACT": "Kalpana Krketta 9691867740",
     "CATEGORY": "Covid Care center",
-    "BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_VACANT": 0,
+    "BEDS_TOTAL": 30,
+    "OXYGEN_BEDS_TOTAL": 30,
+    "OXYGEN_BEDS_VACANT": 15,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -6849,13 +7355,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 15,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "Not Updated",
-    "LAST_UPDATED_TIME": "",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "18:34",
     "LOCATION": "https://www.google.com/maps/place/CHC+LOING/@21.8564939,83.4939992,18z/data=!4m9!1m2!2m1!1sCHC+Loing,+Raigarh!3m5!1s0x3a272fc197fdbf93:0xe543c56db27932df!8m2!3d21.8567534!4d83.493842!15sChJDSEMgTG9pbmcsIFJhaWdhcmhaHgoJY2hjIGxvaW5nIhFjaGMgbG9pbmcgcmFpZ2FyaJIBE2hvc3BpdGFsX2RlcGFydG1lbnQ?hl=en",
     "LAT": 21.8564939,
-    "LONG": 83.4939992
+    "LONG": 83.4939992,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 255,
@@ -6867,7 +7375,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 5,
     "NONOXYGEN_BEDS_TOTAL": 95,
-    "NONOXYGEN_BEDS_VACANT": 7,
+    "NONOXYGEN_BEDS_VACANT": 9,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -6876,13 +7384,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 12,
+    "BEDS_VACANT": 14,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:17",
+    "LAST_UPDATED_TIME": "18:32",
     "LOCATION": "https://www.google.com/maps/place/Govt+Hospital+Sarangarh/@21.587738,83.0835477,15z/data=!4m9!1m2!2m1!1shospital+Sarangarh+!3m5!1s0x3a26e4cc489306b3:0x772ca1765f9a0303!8m2!3d21.5857705!4d83.0828901!15sChJob3NwaXRhbCBTYXJhbmdhcmhaHgoIaG9zcGl0YWwiEmhvc3BpdGFsIHNhcmFuZ2FyaJIBCGhvc3BpdGFs",
     "LAT": 21.587738,
-    "LONG": 83.0835477
+    "LONG": 83.0835477,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 256,
@@ -6906,10 +7416,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:08",
+    "LAST_UPDATED_TIME": "18:58",
     "LOCATION": "https://www.google.com/maps/place/Shiv+hospital+%26+diagnostic+centrt/@21.8846317,83.3980976,16z/data=!4m9!1m2!2m1!1sShiv+Hospital+%26+Diagnostic+Center+Raigarh!3m5!1s0x3a27256d36e1ef6b:0x73abe8c4fe819d14!8m2!3d21.8858463!4d83.3976255!15sCilTaGl2IEhvc3BpdGFsICYgRGlhZ25vc3RpYyBDZW50ZXIgUmFpZ2FyaJIBCGhvc3BpdGFs",
     "LAT": 21.8846317,
-    "LONG": 83.3980976
+    "LONG": 83.3980976,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 257,
@@ -6936,7 +7448,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": 0.2868055556,
     "LOCATION": "https://maps.google.com/?cid=5127641346074099595",
     "LAT": 21.887022,
-    "LONG": 83.418251
+    "LONG": 83.418251,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 258,
@@ -6963,7 +7477,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:25",
     "LOCATION": "https://maps.google.com/?cid=10700969784639117545",
     "LAT": 21.757495,
-    "LONG": 83.3819225
+    "LONG": 83.3819225,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 259,
@@ -6987,10 +7503,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 19,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:15",
+    "LAST_UPDATED_TIME": "18:04",
     "LOCATION": "https://maps.google.com/?cid=14974126084975055873",
     "LAT": 21.8763938,
-    "LONG": 83.424983
+    "LONG": 83.424983,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 260,
@@ -7017,7 +7535,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:00",
     "LOCATION": "https://www.google.com/maps/place/AIIMS+RAIPUR/@21.2573621,81.578042,17z/data=!4m5!3m4!1s0x3a28de23ea073ba1:0x9de4d779d976c7c9!8m2!3d21.2573871!4d81.5775056?hl=en",
     "LAT": 21.2573621,
-    "LONG": 81.578042
+    "LONG": 81.578042,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 261,
@@ -7027,24 +7547,26 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 84,
     "OXYGEN_BEDS_TOTAL": 34,
-    "OXYGEN_BEDS_VACANT": 29,
+    "OXYGEN_BEDS_VACANT": 30,
     "NONOXYGEN_BEDS_TOTAL": 10,
-    "NONOXYGEN_BEDS_VACANT": 4,
+    "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 10,
     "HDU_BEDS_VACANT": 10,
     "ICU_BEDS_TOTAL": 30,
-    "ICU_BEDS_VACANT": 19,
+    "ICU_BEDS_VACANT": 15,
     "VENTILATORS_TOTAL": 4,
-    "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 62,
+    "VENTILATORS_VACANT": 1,
+    "BEDS_VACANT": 58,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:53",
+    "LAST_UPDATED_TIME": "18:39",
     "LOCATION": "https://www.google.com/maps/place/Soni+Multi+Hospital+Abhanpur/@21.0616649,81.7473756,17z/data=!3m1!4b1!4m5!3m4!1s0x3a28cf11eb749b4d:0xdca18ceb7a502d17!8m2!3d21.0616599!4d81.7495643",
     "LAT": 21.06504085,
-    "LONG": 81.74926273
+    "LONG": 81.74926273,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 262,
@@ -7071,7 +7593,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:06",
     "LOCATION": "https://www.google.com/maps/place/Pt.+Jawahar+Lal+Nehru+Memorial+Medical+College,+Raipur/@21.2521267,81.6372397,17z/data=!4m12!1m6!3m5!1s0x3a28dd9b96b7800d:0xae991ae2bc5066c5!2sPt.+Jawahar+Lal+Nehru+Memorial+Medical+College,+Raipur!8m2!3d21.2521217!4d81.6394284!3m4!1s0x3a28dd9b96b7800d:0xae991ae2bc5066c5!8m2!3d21.2521217!4d81.6394284",
     "LAT": 21.25240166,
-    "LONG": 81.63983609
+    "LONG": 81.63983609,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 263,
@@ -7098,7 +7622,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:54",
     "LOCATION": "https://www.google.com/maps/place/Dr.+M.R.+Bhagwat+Memorial+Hospital/@21.2438333,81.6154049,17z/data=!4m5!3m4!1s0x3a28dde875f285c5:0x485b5b36d3857b9!8m2!3d21.2439483!4d81.6145037?hl=en",
     "LAT": 21.2438333,
-    "LONG": 81.6154049
+    "LONG": 81.6154049,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 264,
@@ -7125,7 +7651,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "0:32",
     "LOCATION": "https://maps.google.com/?q=Shree+Sai+Nagar,+Abhanpur,+Chhattisgarh+493661,+India&ftid=0x3a28cf0f3b41742b:0x89a561bb4068f26f",
     "LAT": 21.05293,
-    "LONG": 81.7441374
+    "LONG": 81.7441374,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 265,
@@ -7152,7 +7680,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:44",
     "LOCATION": "https://maps.google.com/?cid=12984453249181206748",
     "LAT": 21.0095973,
-    "LONG": 82.0638478
+    "LONG": 82.0638478,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 266,
@@ -7179,7 +7709,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:17",
     "LOCATION": "https://www.google.com/maps/place/Kanwar+Nursing+Home/@21.2532343,81.6649203,17z/data=!4m5!3m4!1s0x3a28dd693cd426fd:0xc62dae8d318f14e3!8m2!3d21.2532596!4d81.6651371?hl=en",
     "LAT": 21.2532343,
-    "LONG": 81.6649203
+    "LONG": 81.6649203,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 267,
@@ -7206,7 +7738,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:38",
     "LOCATION": "https://maps.google.com/?cid=8038839988587162185",
     "LAT": 21.2261796,
-    "LONG": 81.6397014
+    "LONG": 81.6397014,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 268,
@@ -7216,7 +7750,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 20,
     "OXYGEN_BEDS_TOTAL": 9,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 1,
     "NONOXYGEN_BEDS_TOTAL": 5,
     "NONOXYGEN_BEDS_VACANT": 2,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 3,
@@ -7224,16 +7758,18 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 0,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 3,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_VACANT": 1,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 5,
+    "BEDS_VACANT": 7,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:08",
+    "LAST_UPDATED_TIME": "20:10",
     "LOCATION": "https://maps.google.com/?cid=7070055866408384337",
     "LAT": 21.3058338,
-    "LONG": 81.6355021
+    "LONG": 81.6355021,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 269,
@@ -7260,7 +7796,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:20",
     "LOCATION": "https://maps.google.com/?cid=438952994759276948",
     "LAT": 21.2470017,
-    "LONG": 81.6017008
+    "LONG": 81.6017008,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 270,
@@ -7284,10 +7822,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:35",
+    "LAST_UPDATED_TIME": "17:35",
     "LOCATION": "https://maps.google.com/?cid=8329991549397102792",
     "LAT": 21.2546949,
-    "LONG": 81.662363
+    "LONG": 81.662363,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 271,
@@ -7314,7 +7854,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:13",
     "LOCATION": "https://maps.google.com/?cid=4682705154863487710",
     "LAT": 21.2520151,
-    "LONG": 81.663169
+    "LONG": 81.663169,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 272,
@@ -7324,9 +7866,9 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 23,
     "OXYGEN_BEDS_TOTAL": 17,
-    "OXYGEN_BEDS_VACANT": 12,
+    "OXYGEN_BEDS_VACANT": 11,
     "NONOXYGEN_BEDS_TOTAL": 6,
-    "NONOXYGEN_BEDS_VACANT": 4,
+    "NONOXYGEN_BEDS_VACANT": 6,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -7335,13 +7877,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 16,
+    "BEDS_VACANT": 17,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:42",
+    "LAST_UPDATED_TIME": "18:18",
     "LOCATION": "https://www.google.com/maps/place/CARE+AND+CURE+HOSPITAL/@21.257913,81.5915544,17z/data=!4m5!3m4!1s0x3a28df65ff6dc8d1:0xbb2b23b0ef242bf2!8m2!3d21.258048!4d81.590975",
     "LAT": 21.257913,
-    "LONG": 81.5915544
+    "LONG": 81.5915544,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 273,
@@ -7365,10 +7909,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 9,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:14",
+    "LAST_UPDATED_TIME": "17:54",
     "LOCATION": "https://maps.google.com/?cid=3331344119766930976",
     "LAT": 21.1948521,
-    "LONG": 81.9698456
+    "LONG": 81.9698456,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 274,
@@ -7392,10 +7938,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 26,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "16:22",
+    "LAST_UPDATED_TIME": "18:21",
     "LOCATION": "https://maps.google.com/?cid=3572735298980165830",
     "LAT": 21.272434,
-    "LONG": 81.6711572
+    "LONG": 81.6711572,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 275,
@@ -7422,7 +7970,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:33",
     "LOCATION": "https://maps.google.com/?cid=12197234379613190308",
     "LAT": 21.5451488,
-    "LONG": 81.7970039
+    "LONG": 81.7970039,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 276,
@@ -7449,7 +7999,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:50",
     "LOCATION": "https://maps.google.com/?cid=1853761153061347438",
     "LAT": 21.2566664,
-    "LONG": 81.6410161
+    "LONG": 81.6410161,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 277,
@@ -7476,7 +8028,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:04",
     "LOCATION": "https://maps.google.com/?cid=16197322425220239795",
     "LAT": 21.3641899,
-    "LONG": 81.6647609
+    "LONG": 81.6647609,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 278,
@@ -7488,22 +8042,24 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 5,
     "NONOXYGEN_BEDS_TOTAL": 11,
-    "NONOXYGEN_BEDS_VACANT": 6,
+    "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 6,
-    "HDU_BEDS_VACANT": 5,
+    "HDU_BEDS_VACANT": 6,
     "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_VACANT": 2,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 18,
+    "BEDS_VACANT": 16,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:44",
+    "LAST_UPDATED_TIME": "19:52",
     "LOCATION": "https://maps.google.com/?cid=9182454292454423639",
     "LAT": 21.2350499,
-    "LONG": 81.6414499
+    "LONG": 81.6414499,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 279,
@@ -7530,7 +8086,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": 0.6861111111,
     "LOCATION": "https://maps.google.com/?cid=12052685176764364214",
     "LAT": 21.553982,
-    "LONG": 81.790531
+    "LONG": 81.790531,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 280,
@@ -7540,7 +8098,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 21,
     "OXYGEN_BEDS_TOTAL": 16,
-    "OXYGEN_BEDS_VACANT": 8,
+    "OXYGEN_BEDS_VACANT": 9,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -7551,13 +8109,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 8,
+    "BEDS_VACANT": 9,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:05",
+    "LAST_UPDATED_TIME": "19:30",
     "LOCATION": "https://maps.google.com/?cid=9218038009362651678",
     "LAT": 21.216656,
-    "LONG": 81.642175
+    "LONG": 81.642175,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 281,
@@ -7584,7 +8144,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:14",
     "LOCATION": "https://maps.google.com/?cid=5474581930175498251",
     "LAT": 21.2451366,
-    "LONG": 81.6301734
+    "LONG": 81.6301734,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 282,
@@ -7611,7 +8173,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:33",
     "LOCATION": "https://maps.google.com/?cid=8146705830581181386",
     "LAT": 21.371126,
-    "LONG": 81.8012178
+    "LONG": 81.8012178,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 283,
@@ -7635,10 +8199,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:57",
+    "LAST_UPDATED_TIME": "20:50",
     "LOCATION": "https://maps.google.com/?cid=11938946445663988977",
     "LAT": 21.2177662,
-    "LONG": 81.6434143
+    "LONG": 81.6434143,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 284,
@@ -7648,9 +8214,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care center",
     "BEDS_TOTAL": 200,
     "OXYGEN_BEDS_TOTAL": 50,
-    "OXYGEN_BEDS_VACANT": 13,
+    "OXYGEN_BEDS_VACANT": 9,
     "NONOXYGEN_BEDS_TOTAL": 150,
-    "NONOXYGEN_BEDS_VACANT": 108,
+    "NONOXYGEN_BEDS_VACANT": 102,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -7659,13 +8225,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 121,
+    "BEDS_VACANT": 111,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:35",
+    "LAST_UPDATED_TIME": "17:12",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 285,
@@ -7689,10 +8257,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 18,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "6:28",
+    "LAST_UPDATED_TIME": "19:54",
     "LOCATION": "https://maps.google.com/?cid=5201221926577237282",
     "LAT": 21.258024,
-    "LONG": 81.667603
+    "LONG": 81.667603,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 286,
@@ -7719,7 +8289,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:46",
     "LOCATION": "https://maps.google.com/?cid=678083118695524309",
     "LAT": 21.255861,
-    "LONG": 81.6035713
+    "LONG": 81.6035713,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 287,
@@ -7743,10 +8315,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "8:31",
+    "LAST_UPDATED_TIME": "20:43",
     "LOCATION": "https://maps.google.com/?cid=5882176570153469495",
     "LAT": 21.2449977,
-    "LONG": 81.6242139
+    "LONG": 81.6242139,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 288,
@@ -7773,7 +8347,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:13",
     "LOCATION": "https://maps.google.com/?q=Tilda+Newra,+Chhattisgarh+493114,+India&ftid=0x3a28f38c837c25a3:0xe45db4eb8dabd529",
     "LAT": 21.5513879,
-    "LONG": 81.800389
+    "LONG": 81.800389,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 289,
@@ -7800,7 +8376,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "19:15",
     "LOCATION": "https://maps.google.com/?cid=296712939849872119",
     "LAT": 21.2722693,
-    "LONG": 81.638839
+    "LONG": 81.638839,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 290,
@@ -7827,7 +8405,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:10",
     "LOCATION": "https://www.google.com/maps/place/Govt.+Pt.+Shyamacharan+Shukla+College+Raipur/@21.4081615,81.6729142,17z/data=!4m5!3m4!1s0x3a28e59e55555551:0x9d820800cf9a22c6!8m2!3d21.4081865!4d81.6719915",
     "LAT": 21.4081615,
-    "LONG": 81.6729142
+    "LONG": 81.6729142,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 291,
@@ -7854,18 +8434,49 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:00",
     "LOCATION": "https://maps.google.com/?cid=16331180399130018705",
     "LAT": 21.1592941,
-    "LONG": 81.6641282
+    "LONG": 81.6641282,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 292,
     "DISTRICT": "RAIPUR",
     "HOSPITAL_NAME": "Sagar Multi Speciality Hospital",
-    "CONTACT": "",
+    "CONTACT": "Amit Sahu 9589632123",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 15,
     "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 2,
     "NONOXYGEN_BEDS_TOTAL": 5,
+    "NONOXYGEN_BEDS_VACANT": 5,
+    "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
+    "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
+    "HDU_BEDS_TOTAL": 0,
+    "HDU_BEDS_VACANT": 0,
+    "ICU_BEDS_TOTAL": 0,
+    "ICU_BEDS_VACANT": 0,
+    "VENTILATORS_TOTAL": 0,
+    "VENTILATORS_VACANT": 0,
+    "BEDS_VACANT": 7,
+    "EMPANELLED_IN_AYUSHMAN": "No",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "20:37",
+    "LOCATION": "https://maps.google.com/?cid=409606946925112504",
+    "LAT": 21.2497319,
+    "LONG": 81.6679049,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
+  },
+  {
+    "SNO": 293,
+    "DISTRICT": "RAIPUR",
+    "HOSPITAL_NAME": "Petals Newborn And Children Hospital Bhimsen bhawan marg, Samta Colony Raipur",
+    "CONTACT": "NIRMALYA LODH, TARKESHWAR BANCHHOR, RADHIKA NIMBARTE, SEEMA DHANGAR, RAMNARAYAN SAHU 9111007079",
+    "CATEGORY": "Private Hospital",
+    "BEDS_TOTAL": 20,
+    "OXYGEN_BEDS_TOTAL": 10,
+    "OXYGEN_BEDS_VACANT": 2,
+    "NONOXYGEN_BEDS_TOTAL": 10,
     "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
@@ -7876,39 +8487,14 @@ chhattisgarh_data=[
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 5,
-    "EMPANELLED_IN_AYUSHMAN": "No",
-    "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:49",
-    "LOCATION": "https://maps.google.com/?cid=409606946925112504",
-    "LAT": 21.2497319,
-    "LONG": 81.6679049
-  },
-  {
-    "SNO": 293,
-    "DISTRICT": "RAIPUR",
-    "HOSPITAL_NAME": "Petals Newborn And Children Hospital Bhimsen bhawan marg, Samta Colony Raipur",
-    "CONTACT": "NIRMALYA LODH 9009339222",
-    "CATEGORY": "Private Hospital",
-    "BEDS_TOTAL": 20,
-    "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 2,
-    "NONOXYGEN_BEDS_TOTAL": 10,
-    "NONOXYGEN_BEDS_VACANT": 2,
-    "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
-    "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
-    "HDU_BEDS_TOTAL": 0,
-    "HDU_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATORS_TOTAL": 0,
-    "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 4,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:04",
+    "LAST_UPDATED_TIME": "18:02",
     "LOCATION": "https://www.google.com/maps/place/Petals+Newborn+And+Children+Hospital/@21.2450655,81.6222365,17z/data=!3m1!4b1!4m5!3m4!1s0x3a28ddeac40c1013:0x7fd305f0eeeab79a!8m2!3d21.2450605!4d81.6244252",
     "LAT": 21.24518048,
-    "LONG": 81.62471488
+    "LONG": 81.62471488,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 294,
@@ -7935,7 +8521,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:07",
     "LOCATION": "https://maps.google.com/?cid=9145649103605814791",
     "LAT": 21.222927,
-    "LONG": 81.670613
+    "LONG": 81.670613,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 295,
@@ -7943,26 +8531,28 @@ chhattisgarh_data=[
     "HOSPITAL_NAME": "Ashadeep hospital raipur",
     "CONTACT": "Dr. Ankush Verma 9340240899",
     "CATEGORY": "Private Hospital",
-    "BEDS_TOTAL": 19,
-    "OXYGEN_BEDS_TOTAL": 19,
+    "BEDS_TOTAL": 20,
+    "OXYGEN_BEDS_TOTAL": 16,
     "OXYGEN_BEDS_VACANT": 15,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
-    "HDU_BEDS_TOTAL": 0,
-    "HDU_BEDS_VACANT": 0,
+    "HDU_BEDS_TOTAL": 4,
+    "HDU_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 15,
+    "BEDS_VACANT": 16,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:41",
+    "LAST_UPDATED_TIME": "18:06",
     "LOCATION": "https://www.google.com/maps/place/Ashadeep+Orthopaedic+Hospital+-+Dr.+Anil+Verma+Orthopedic+Surgeon+Raipur/@21.2259306,81.6603328,17z/data=!4m5!3m4!1s0x3a28dd1c94032421:0x8903c23b5af4b796!8m2!3d21.2259456!4d81.6600324?hl=en",
     "LAT": 21.2259306,
-    "LONG": 81.6603328
+    "LONG": 81.6603328,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 296,
@@ -7974,7 +8564,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 5,
     "NONOXYGEN_BEDS_TOTAL": 5,
-    "NONOXYGEN_BEDS_VACANT": 2,
+    "NONOXYGEN_BEDS_VACANT": 4,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -7983,13 +8573,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 7,
+    "BEDS_VACANT": 9,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "16:16",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "21:53",
     "LOCATION": "https://www.google.com/maps/place/Dr.Jaulkar+ENT+Hospital/@21.247301,81.6126369,17z/data=!4m5!3m4!1s0x3a28ddbec102c897:0xd26cde7896b54f2!8m2!3d21.247326!4d81.6123794?hl=en",
     "LAT": 21.247301,
-    "LONG": 81.6126369
+    "LONG": 81.6126369,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 297,
@@ -8016,7 +8608,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:11",
     "LOCATION": "https://maps.google.com/?cid=12934335850149772405",
     "LAT": 21.214985,
-    "LONG": 81.652654
+    "LONG": 81.652654,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 298,
@@ -8028,7 +8622,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 20,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 22,
-    "NONOXYGEN_BEDS_VACANT": 7,
+    "NONOXYGEN_BEDS_VACANT": 10,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 3,
@@ -8037,13 +8631,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 6,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 7,
+    "BEDS_VACANT": 10,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:06",
+    "LAST_UPDATED_TIME": "20:12",
     "LOCATION": "https://maps.google.com/?cid=7099430031196610832",
     "LAT": 21.2361188,
-    "LONG": 81.6696271
+    "LONG": 81.6696271,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 299,
@@ -8070,7 +8666,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "3:56",
     "LOCATION": "https://maps.google.com/?cid=665446674509515553",
     "LAT": 21.1987078,
-    "LONG": 81.967189
+    "LONG": 81.967189,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 300,
@@ -8097,7 +8695,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:33",
     "LOCATION": "https://maps.google.com/?cid=14218057646202924264",
     "LAT": 21.223632,
-    "LONG": 81.6602195
+    "LONG": 81.6602195,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 301,
@@ -8124,7 +8724,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:11",
     "LOCATION": "https://www.google.com/maps/place/Bihaan.+Hospital/@21.2745697,81.6897672,17z/data=!4m5!3m4!1s0x3a28e7fff5390841:0x33ee3937df676785!8m2!3d21.2748147!4d81.6896599",
     "LAT": 21.2745697,
-    "LONG": 81.6897672
+    "LONG": 81.6897672,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 302,
@@ -8151,7 +8753,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:14",
     "LOCATION": "https://maps.google.com/?cid=7287806220348888295",
     "LAT": 21.2070166,
-    "LONG": 81.6703357
+    "LONG": 81.6703357,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 303,
@@ -8178,7 +8782,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:01",
     "LOCATION": "https://maps.google.com/?cid=6577279695142524355",
     "LAT": 21.2743344,
-    "LONG": 81.6892595
+    "LONG": 81.6892595,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 304,
@@ -8205,7 +8811,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:26",
     "LOCATION": "https://www.google.com/maps/place/Life+Care+Hospital/@22.0815996,82.1617406,16z/data=!4m9!1m2!2m1!1sBILASPUR%09Life+care+Hospital!3m5!1s0x3a280b1a6598e97d:0xcca73e8e2ef03d72!8m2!3d22.082325!4d82.1612368!15sChtCSUxBU1BVUglMaWZlIGNhcmUgSG9zcGl0YWxaOgobYmlsYXNwdXIgbGlmZSBjYXJlIGhvc3BpdGFsIhtiaWxhc3B1ciBsaWZlIGNhcmUgaG9zcGl0YWySAQhob3NwaXRhbA?hl=en",
     "LAT": 22.0815996,
-    "LONG": 82.1617406
+    "LONG": 82.1617406,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 305,
@@ -8232,13 +8840,15 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:47",
     "LOCATION": "https://www.google.com/maps/place/Sanjeevani+CBCC+Cancer+Hospital/@21.2142926,81.6504763,17z/data=!4m5!3m4!1s0x3a28dcfbc489a623:0x347b03e312f828f4!8m2!3d21.2143076!4d81.6501759?hl=en",
     "LAT": 21.2142926,
-    "LONG": 81.6504763
+    "LONG": 81.6504763,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 306,
     "DISTRICT": "RAIPUR",
     "HOSPITAL_NAME": "swastik nursing home and multi super speciality hospital",
-    "CONTACT": "SALIM PRADHAN 9926116937",
+    "CONTACT": "RAMARAO 7987872163",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 25,
     "OXYGEN_BEDS_TOTAL": 20,
@@ -8252,14 +8862,16 @@ chhattisgarh_data=[
     "ICU_BEDS_TOTAL": 4,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 1,
-    "VENTILATORS_VACANT": 0,
+    "VENTILATORS_VACANT": 1,
     "BEDS_VACANT": 7,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:00",
+    "LAST_UPDATED_TIME": "19:54",
     "LOCATION": "https://maps.google.com/?cid=17381188273935119034",
     "LAT": 21.2356421,
-    "LONG": 81.6558392
+    "LONG": 81.6558392,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 307,
@@ -8286,7 +8898,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:22",
     "LOCATION": "https://maps.google.com/?cid=759802797040808412",
     "LAT": 21.2939444,
-    "LONG": 81.8089383
+    "LONG": 81.8089383,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 308,
@@ -8313,7 +8927,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:02",
     "LOCATION": "https://maps.google.com/?cid=8349836275430049805",
     "LAT": 21.1736563,
-    "LONG": 81.6612891
+    "LONG": 81.6612891,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 309,
@@ -8340,7 +8956,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:05",
     "LOCATION": "https://maps.google.com/?cid=15499035369106748029",
     "LAT": 21.2332257,
-    "LONG": 81.6064004
+    "LONG": 81.6064004,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 310,
@@ -8364,10 +8982,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 6,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:52",
+    "LAST_UPDATED_TIME": "18:24",
     "LOCATION": "https://maps.google.com/?cid=18412573257077963349",
     "LAT": 21.272391,
-    "LONG": 81.6333399
+    "LONG": 81.6333399,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 311,
@@ -8377,7 +8997,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 15,
     "OXYGEN_BEDS_TOTAL": 6,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 4,
     "NONOXYGEN_BEDS_VACANT": 4,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -8388,13 +9008,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 6,
+    "BEDS_VACANT": 4,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:53",
+    "LAST_UPDATED_TIME": "17:47",
     "LOCATION": "https://maps.google.com/?cid=5040270953050993028",
     "LAT": 21.239863,
-    "LONG": 81.6698409
+    "LONG": 81.6698409,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 312,
@@ -8421,7 +9043,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:13",
     "LOCATION": "https://maps.google.com/?cid=9682490483922757748",
     "LAT": 21.3942921,
-    "LONG": 81.9298861
+    "LONG": 81.9298861,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 313,
@@ -8445,10 +9069,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 1,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:12",
+    "LAST_UPDATED_TIME": "18:05",
     "LOCATION": "https://maps.google.com/?cid=1837386759710199059",
     "LAT": 21.3054627,
-    "LONG": 81.6336971
+    "LONG": 81.6336971,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 314,
@@ -8475,7 +9101,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:24",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 315,
@@ -8499,16 +9127,18 @@ chhattisgarh_data=[
     "BEDS_VACANT": 30,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "16:06",
+    "LAST_UPDATED_TIME": "20:16",
     "LOCATION": "https://www.google.com/maps/place/Diwan+multispecility+hospital/@21.2180507,81.6213219,17z/data=!3m1!4b1!4m5!3m4!1s0x3a28dd24ced7e61b:0xc636ca3cbcfaeeac!8m2!3d21.2180457!4d81.6235106",
     "LAT": 21.2181257,
-    "LONG": 81.62403631
+    "LONG": 81.62403631,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 316,
     "DISTRICT": "RAIPUR",
     "HOSPITAL_NAME": "Gaytri hospital",
-    "CONTACT": "DR ARUN MADHARIA 9827136003",
+    "CONTACT": "PILESHWAR NAVRANGE 9685048003",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 75,
     "OXYGEN_BEDS_TOTAL": 40,
@@ -8521,15 +9151,17 @@ chhattisgarh_data=[
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 6,
     "ICU_BEDS_VACANT": 0,
-    "VENTILATORS_TOTAL": 1,
+    "VENTILATORS_TOTAL": 3,
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 5,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:53",
+    "LAST_UPDATED_TIME": "19:03",
     "LOCATION": "https://maps.google.com/?cid=5738745104918720442",
     "LAT": 21.2391377,
-    "LONG": 81.6039615
+    "LONG": 81.6039615,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 317,
@@ -8556,7 +9188,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:06",
     "LOCATION": "https://maps.google.com/?cid=5951052419880954493",
     "LAT": 21.2598134,
-    "LONG": 81.6581904
+    "LONG": 81.6581904,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 318,
@@ -8583,7 +9217,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:10",
     "LOCATION": "https://maps.google.com/?cid=1461528764597969640",
     "LAT": 21.2946399,
-    "LONG": 81.635198
+    "LONG": 81.635198,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 319,
@@ -8607,10 +9243,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 6,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:05",
+    "LAST_UPDATED_TIME": "18:42",
     "LOCATION": "https://maps.google.com/?cid=14462337634054235309",
     "LAT": 21.2328329,
-    "LONG": 81.605479
+    "LONG": 81.605479,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 320,
@@ -8620,7 +9258,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 25,
     "OXYGEN_BEDS_TOTAL": 20,
-    "OXYGEN_BEDS_VACANT": 9,
+    "OXYGEN_BEDS_VACANT": 7,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -8631,13 +9269,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 9,
+    "BEDS_VACANT": 7,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:16",
+    "LAST_UPDATED_TIME": "18:45",
     "LOCATION": "https://maps.google.com/?cid=7317274584321938552",
     "LAT": 21.2361877,
-    "LONG": 81.6116773
+    "LONG": 81.6116773,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 321,
@@ -8664,7 +9304,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:46",
     "LOCATION": "https://maps.google.com/?cid=6945220434108423500",
     "LAT": 21.2376627,
-    "LONG": 81.6558412
+    "LONG": 81.6558412,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 322,
@@ -8682,16 +9324,18 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 8,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 13,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 1,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 8,
+    "BEDS_VACANT": 7,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "16:16",
+    "LAST_UPDATED_TIME": "18:40",
     "LOCATION": "https://maps.google.com/?cid=12414365068738277313",
     "LAT": 21.2209061,
-    "LONG": 81.5927003
+    "LONG": 81.5927003,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 323,
@@ -8715,10 +9359,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "15:21",
+    "LAST_UPDATED_TIME": "19:45",
     "LOCATION": "https://maps.google.com/?cid=1341435665529881195",
     "LAT": 21.2642215,
-    "LONG": 81.6624609
+    "LONG": 81.6624609,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 324,
@@ -8745,7 +9391,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:24",
     "LOCATION": "https://maps.google.com/?cid=7388690093229802564",
     "LAT": 21.2499979,
-    "LONG": 81.66847
+    "LONG": 81.66847,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 325,
@@ -8755,7 +9403,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 20,
     "OXYGEN_BEDS_TOTAL": 15,
-    "OXYGEN_BEDS_VACANT": 1,
+    "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -8766,13 +9414,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 3,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 1,
+    "BEDS_VACANT": 3,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:35",
+    "LAST_UPDATED_TIME": "19:10",
     "LOCATION": "https://maps.google.com/?cid=16870599568312985408",
     "LAT": 21.269676,
-    "LONG": 81.670389
+    "LONG": 81.670389,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 326,
@@ -8799,7 +9449,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:00",
     "LOCATION": "https://maps.google.com/?q=Urmila+Hospital+Rd,+Mowa,+Raipur,+Chhattisgarh+492014,+India&ftid=0x3a28dd60ed942d03:0x83ed86320ce15239",
     "LAT": 21.2651602,
-    "LONG": 81.6681336
+    "LONG": 81.6681336,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 327,
@@ -8826,7 +9478,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:56",
     "LOCATION": "https://maps.google.com/?cid=11857684256125808295",
     "LAT": 21.2128189,
-    "LONG": 81.6442933
+    "LONG": 81.6442933,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 328,
@@ -8850,10 +9504,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:04",
+    "LAST_UPDATED_TIME": "21:00",
     "LOCATION": "https://maps.google.com/?cid=3667958943590157838",
     "LAT": 21.2325197,
-    "LONG": 81.6111663
+    "LONG": 81.6111663,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 329,
@@ -8880,7 +9536,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:00",
     "LOCATION": "https://maps.google.com/?cid=10525586179645166492",
     "LAT": 21.2706407,
-    "LONG": 81.5886804
+    "LONG": 81.5886804,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 330,
@@ -8890,7 +9548,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 25,
     "OXYGEN_BEDS_TOTAL": 15,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_VACANT": 8,
     "NONOXYGEN_BEDS_TOTAL": 5,
     "NONOXYGEN_BEDS_VACANT": 5,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -8900,14 +9558,16 @@ chhattisgarh_data=[
     "ICU_BEDS_TOTAL": 5,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 3,
-    "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 10,
+    "VENTILATORS_VACANT": 1,
+    "BEDS_VACANT": 13,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:19",
+    "LAST_UPDATED_TIME": "20:21",
     "LOCATION": "https://maps.google.com/?cid=6871233579674296400",
     "LAT": 21.2587351,
-    "LONG": 81.6698759
+    "LONG": 81.6698759,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 331,
@@ -8934,7 +9594,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:35",
     "LOCATION": "https://www.google.com/maps/place/Mittal+Hospital/@21.2600411,81.6583808,17z/data=!4m5!3m4!1s0x3a28dd635cadc951:0xa3a89546d0a90b20!8m2!3d21.2601461!4d81.658177",
     "LAT": 21.2600411,
-    "LONG": 81.6583808
+    "LONG": 81.6583808,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 332,
@@ -8946,7 +9608,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 4,
     "OXYGEN_BEDS_VACANT": 4,
     "NONOXYGEN_BEDS_TOTAL": 4,
-    "NONOXYGEN_BEDS_VACANT": 4,
+    "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -8955,13 +9617,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 8,
+    "BEDS_VACANT": 7,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "12:48",
+    "LAST_UPDATED_TIME": "19:15",
     "LOCATION": "https://www.google.com/maps/place/Swapnil+Nursing+Home+%26+Research+Center/@21.2353181,81.6527288,17z/data=!4m5!3m4!1s0x3a28dd092f63c831:0x105015086e7d8191!8m2!3d21.2353544!4d81.6521384?hl=en",
     "LAT": 21.2353181,
-    "LONG": 81.6527288
+    "LONG": 81.6527288,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 333,
@@ -8988,7 +9652,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:20",
     "LOCATION": "https://maps.google.com/?cid=11395582267331092507",
     "LAT": 21.2425319,
-    "LONG": 81.6755862
+    "LONG": 81.6755862,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 334,
@@ -8998,7 +9664,7 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 337,
     "OXYGEN_BEDS_TOTAL": 302,
-    "OXYGEN_BEDS_VACANT": 126,
+    "OXYGEN_BEDS_VACANT": 133,
     "NONOXYGEN_BEDS_TOTAL": 35,
     "NONOXYGEN_BEDS_VACANT": 35,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -9009,13 +9675,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 161,
+    "BEDS_VACANT": 168,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:03",
+    "LAST_UPDATED_TIME": "19:21",
     "LOCATION": "https://maps.google.com/?cid=17705163877251535081",
     "LAT": 21.2354745,
-    "LONG": 81.630033
+    "LONG": 81.630033,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 335,
@@ -9042,7 +9710,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:18",
     "LOCATION": "https://www.google.com/maps/place/Regional+Leprosy+Training+and+Research+Institute,+Lalpur,+Raipur+(Chhattisgarh)+under+Govt.+of+India,+Ministry+of+Health+and+Family+Welfare/@21.2145769,81.66067,15z/data=!4m2!3m1!1s0x0:0x7305473ea5d78e2a?sa=X&ved=2ahUKEwi33ceB1J7wAhUozDgGHdfaDkEQ_BIwa3oECFcQBQ",
     "LAT": 21.2157171,
-    "LONG": 81.66041251
+    "LONG": 81.66041251,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 336,
@@ -9069,7 +9739,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:09",
     "LOCATION": "https://maps.google.com/?cid=4483882260542221547",
     "LAT": 21.2468599,
-    "LONG": 81.5974452
+    "LONG": 81.5974452,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 337,
@@ -9096,7 +9768,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:53",
     "LOCATION": "https://maps.google.com/?cid=11151634034128511100",
     "LAT": 21.1973536,
-    "LONG": 81.717299
+    "LONG": 81.717299,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 338,
@@ -9106,7 +9780,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 150,
     "OXYGEN_BEDS_TOTAL": 30,
-    "OXYGEN_BEDS_VACANT": 12,
+    "OXYGEN_BEDS_VACANT": 13,
     "NONOXYGEN_BEDS_TOTAL": 120,
     "NONOXYGEN_BEDS_VACANT": 120,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -9117,13 +9791,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 132,
+    "BEDS_VACANT": 133,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "14:05",
+    "LAST_UPDATED_TIME": "17:26",
     "LOCATION": "https://maps.google.com/?cid=14339207177163391325",
     "LAT": 21.3239867,
-    "LONG": 81.6360356
+    "LONG": 81.6360356,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 339,
@@ -9133,9 +9809,9 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 250,
     "OXYGEN_BEDS_TOTAL": 150,
-    "OXYGEN_BEDS_VACANT": 18,
+    "OXYGEN_BEDS_VACANT": 40,
     "NONOXYGEN_BEDS_TOTAL": 40,
-    "NONOXYGEN_BEDS_VACANT": 20,
+    "NONOXYGEN_BEDS_VACANT": 28,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 25,
@@ -9144,13 +9820,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 20,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 38,
+    "BEDS_VACANT": 68,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:16",
+    "LAST_UPDATED_TIME": "18:26",
     "LOCATION": "https://maps.google.com/?cid=6716541301256742783",
     "LAT": 21.1922571,
-    "LONG": 81.6741982
+    "LONG": 81.6741982,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 340,
@@ -9177,13 +9855,15 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "13:26",
     "LOCATION": "https://maps.google.com/?cid=6447292137299919792",
     "LAT": 21.2130464,
-    "LONG": 81.6536938
+    "LONG": 81.6536938,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 341,
     "DISTRICT": "RAIPUR",
     "HOSPITAL_NAME": "MMI Hospital",
-    "CONTACT": "",
+    "CONTACT": "Dr.Eshwar Chandra Deshmukh 7999791883",
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 130,
     "OXYGEN_BEDS_TOTAL": 75,
@@ -9201,10 +9881,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "16:09",
+    "LAST_UPDATED_TIME": "17:56",
     "LOCATION": "https://www.google.com/maps/place/MMI+Narayana+Multispeciality+Hospital,+Raipur/@21.2129002,81.6584727,17z/data=!4m5!3m4!1s0x3a28dcfb3719a975:0x710ee9ca31651bca!8m2!3d21.2131653!4d81.6579148?hl=en",
     "LAT": 21.2129002,
-    "LONG": 81.6584727
+    "LONG": 81.6584727,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 342,
@@ -9231,7 +9913,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:04",
     "LOCATION": "https://maps.google.com/?cid=13633185901074356730",
     "LAT": 21.123136,
-    "LONG": 81.7745683
+    "LONG": 81.7745683,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 343,
@@ -9258,7 +9942,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "8:55",
     "LOCATION": "https://maps.google.com/?cid=6527350786315406320",
     "LAT": 21.2720967,
-    "LONG": 81.67208
+    "LONG": 81.67208,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 344,
@@ -9285,7 +9971,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:11",
     "LOCATION": "https://maps.google.com/?cid=12317074422389918424",
     "LAT": 21.2459526,
-    "LONG": 81.6473397
+    "LONG": 81.6473397,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 345,
@@ -9312,7 +10000,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:12",
     "LOCATION": "https://maps.google.com/?cid=9587993781356257541",
     "LAT": 21.2472989,
-    "LONG": 81.5724869
+    "LONG": 81.5724869,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 346,
@@ -9324,7 +10014,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 28,
-    "NONOXYGEN_BEDS_VACANT": 12,
+    "NONOXYGEN_BEDS_VACANT": 8,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 9,
@@ -9333,13 +10023,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 4,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 12,
+    "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "16:31",
+    "LAST_UPDATED_TIME": "22:00",
     "LOCATION": "https://maps.google.com/?cid=16241657436209791103",
     "LAT": 21.2458322,
-    "LONG": 81.6175795
+    "LONG": 81.6175795,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 347,
@@ -9363,10 +10055,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:04",
+    "LAST_UPDATED_TIME": "18:41",
     "LOCATION": "https://maps.google.com/?cid=9062216014174341921",
     "LAT": 21.2352142,
-    "LONG": 81.6689552
+    "LONG": 81.6689552,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 348,
@@ -9390,10 +10084,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:11",
+    "LAST_UPDATED_TIME": "18:36",
     "LOCATION": "https://maps.google.com/?cid=16335924508124455592",
     "LAT": 21.2634866,
-    "LONG": 81.6497995
+    "LONG": 81.6497995,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 349,
@@ -9420,7 +10116,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:27",
     "LOCATION": "https://maps.google.com/?cid=5908495324253998279",
     "LAT": 21.2165617,
-    "LONG": 81.6572832
+    "LONG": 81.6572832,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 350,
@@ -9447,7 +10145,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:37",
     "LOCATION": "https://maps.google.com/?cid=15881314536598531909",
     "LAT": 21.2407517,
-    "LONG": 81.669629
+    "LONG": 81.669629,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 351,
@@ -9474,7 +10174,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "8:15",
     "LOCATION": "https://maps.google.com/?cid=12488310648591618962",
     "LAT": 21.2298933,
-    "LONG": 81.6000335
+    "LONG": 81.6000335,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 352,
@@ -9501,7 +10203,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:25",
     "LOCATION": "https://maps.google.com/?cid=13625607477097748840",
     "LAT": 21.2249976,
-    "LONG": 81.6531912
+    "LONG": 81.6531912,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 353,
@@ -9517,18 +10221,20 @@ chhattisgarh_data=[
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 8,
-    "HDU_BEDS_VACANT": 5,
+    "HDU_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 20,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_VACANT": 7,
     "VENTILATORS_TOTAL": 3,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 22,
+    "BEDS_VACANT": 23,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:08",
+    "LAST_UPDATED_TIME": "20:45",
     "LOCATION": "https://maps.google.com/?cid=16756973577780446312",
     "LAT": 21.2231821,
-    "LONG": 81.6166436
+    "LONG": 81.6166436,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 354,
@@ -9540,7 +10246,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 12,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 15,
-    "NONOXYGEN_BEDS_VACANT": 0,
+    "NONOXYGEN_BEDS_VACANT": 8,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 7,
@@ -9549,13 +10255,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:35",
+    "LAST_UPDATED_TIME": "17:23",
     "LOCATION": "https://maps.google.com/?cid=13787323832040098006",
     "LAT": 21.2468636,
-    "LONG": 81.6315535
+    "LONG": 81.6315535,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 355,
@@ -9582,7 +10290,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "9:17",
     "LOCATION": "https://maps.google.com/?cid=9672773763770046975",
     "LAT": 21.2625618,
-    "LONG": 81.5874508
+    "LONG": 81.5874508,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 356,
@@ -9606,10 +10316,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:46",
+    "LAST_UPDATED_TIME": "18:52",
     "LOCATION": "https://maps.google.com/?cid=7461674880769782882",
     "LAT": 21.2597409,
-    "LONG": 81.6501003
+    "LONG": 81.6501003,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 357,
@@ -9636,7 +10348,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:34",
     "LOCATION": "https://maps.google.com/?cid=16721498874478555757",
     "LAT": 21.314581,
-    "LONG": 81.7404511
+    "LONG": 81.7404511,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 358,
@@ -9646,7 +10360,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 40,
     "OXYGEN_BEDS_TOTAL": 13,
-    "OXYGEN_BEDS_VACANT": 7,
+    "OXYGEN_BEDS_VACANT": 6,
     "NONOXYGEN_BEDS_TOTAL": 15,
     "NONOXYGEN_BEDS_VACANT": 11,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -9657,13 +10371,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 1,
     "VENTILATORS_TOTAL": 2,
     "VENTILATORS_VACANT": 1,
-    "BEDS_VACANT": 20,
+    "BEDS_VACANT": 19,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:53",
+    "LAST_UPDATED_TIME": "19:07",
     "LOCATION": "https://maps.google.com/?cid=10312830153969370892",
     "LAT": 21.2515189,
-    "LONG": 81.621712
+    "LONG": 81.621712,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 359,
@@ -9690,7 +10406,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "14:49",
     "LOCATION": "https://maps.google.com/?cid=9770945298388303474",
     "LAT": 21.2174538,
-    "LONG": 81.6245707
+    "LONG": 81.6245707,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 360,
@@ -9714,10 +10432,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "8:55",
+    "LAST_UPDATED_TIME": "17:06",
     "LOCATION": "https://maps.google.com/?cid=5761667832696252118",
     "LAT": 21.260413,
-    "LONG": 81.6429129
+    "LONG": 81.6429129,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 361,
@@ -9744,7 +10464,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:54",
     "LOCATION": "https://maps.google.com/?cid=5162260579893059197",
     "LAT": 21.2408659,
-    "LONG": 81.6355007
+    "LONG": 81.6355007,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 362,
@@ -9771,7 +10493,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:54",
     "LOCATION": "https://www.google.com/maps/place/Ekta+Institute+of+Child+Health/@21.2471197,81.6543776,17z/data=!3m1!4b1!4m5!3m4!1s0x3a28dd72f1f58047:0x4e54f41618088b80!8m2!3d21.2471147!4d81.6565663",
     "LAT": 21.24724468,
-    "LONG": 81.65694181
+    "LONG": 81.65694181,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 363,
@@ -9798,7 +10522,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "16:36",
     "LOCATION": "https://maps.google.com/?cid=3456623771886121861",
     "LAT": 21.2420046,
-    "LONG": 81.8368166
+    "LONG": 81.8368166,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 364,
@@ -9825,7 +10551,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "8:00",
     "LOCATION": "https://maps.google.com/?cid=13618808835053792256",
     "LAT": 21.2200815,
-    "LONG": 81.6655855
+    "LONG": 81.6655855,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 365,
@@ -9852,7 +10580,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:28",
     "LOCATION": "https://maps.google.com/?cid=16596125849045069998",
     "LAT": 21.2584089,
-    "LONG": 81.6059521
+    "LONG": 81.6059521,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 366,
@@ -9879,7 +10609,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:26",
     "LOCATION": "https://maps.google.com/?cid=15037672083115119304",
     "LAT": 21.2292606,
-    "LONG": 81.5985686
+    "LONG": 81.5985686,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 367,
@@ -9906,7 +10638,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:52",
     "LOCATION": "https://maps.google.com/?cid=15532780165389546073",
     "LAT": 21.1109467,
-    "LONG": 81.0991765
+    "LONG": 81.0991765,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 368,
@@ -9933,7 +10667,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:11",
     "LOCATION": "https://maps.google.com/?cid=16995408369497905434",
     "LAT": 21.0972123,
-    "LONG": 81.0337501
+    "LONG": 81.0337501,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 369,
@@ -9943,7 +10679,7 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 120,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_VACANT": 5,
     "NONOXYGEN_BEDS_TOTAL": 110,
     "NONOXYGEN_BEDS_VACANT": 110,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -9954,13 +10690,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 113,
+    "BEDS_VACANT": 115,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:36",
+    "LAST_UPDATED_TIME": "17:29",
     "LOCATION": "https://www.google.com/maps/place/Aziz+public+school/@21.107756,80.9462308,17z/data=!3m1!4b1!4m5!3m4!1s0x3a295bb080bd7791:0x4e915cc76214fb44!8m2!3d21.107751!4d80.9484195",
     "LAT": 21.10793115,
-    "LONG": 80.94865553
+    "LONG": 80.94865553,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 370,
@@ -9987,7 +10725,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:59",
     "LOCATION": "https://maps.google.com/?cid=8456761000001792501",
     "LAT": 21.0851925,
-    "LONG": 81.0299134
+    "LONG": 81.0299134,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 371,
@@ -10014,7 +10754,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:03",
     "LOCATION": "https://maps.google.com/?cid=15698977454905743101",
     "LAT": 21.089261,
-    "LONG": 81.0198197
+    "LONG": 81.0198197,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 372,
@@ -10038,10 +10780,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 25,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:30",
+    "LAST_UPDATED_TIME": "17:24",
     "LOCATION": "https://maps.google.com/?cid=7929792736253408087",
     "LAT": 20.3737023,
-    "LONG": 80.7277103
+    "LONG": 80.7277103,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 373,
@@ -10053,7 +10797,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 15,
     "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 75,
-    "NONOXYGEN_BEDS_VACANT": 66,
+    "NONOXYGEN_BEDS_VACANT": 64,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10062,13 +10806,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 69,
+    "BEDS_VACANT": 67,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:45",
+    "LAST_UPDATED_TIME": "17:25",
     "LOCATION": "https://maps.google.com/?cid=18138175034195210458",
     "LAT": 21.5326798,
-    "LONG": 81.0035836
+    "LONG": 81.0035836,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 374,
@@ -10080,7 +10826,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 10,
     "OXYGEN_BEDS_VACANT": 1,
     "NONOXYGEN_BEDS_TOTAL": 90,
-    "NONOXYGEN_BEDS_VACANT": 68,
+    "NONOXYGEN_BEDS_VACANT": 65,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10089,13 +10835,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 69,
+    "BEDS_VACANT": 66,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:46",
+    "LAST_UPDATED_TIME": "17:04",
     "LOCATION": "https://maps.google.com/?cid=16453488446854956261",
     "LAT": 21.1007532,
-    "LONG": 81.0340827
+    "LONG": 81.0340827,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 375,
@@ -10107,7 +10855,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 3,
     "NONOXYGEN_BEDS_TOTAL": 75,
-    "NONOXYGEN_BEDS_VACANT": 68,
+    "NONOXYGEN_BEDS_VACANT": 69,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10116,13 +10864,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 71,
+    "BEDS_VACANT": 72,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:58",
+    "LAST_UPDATED_TIME": "17:17",
     "LOCATION": "https://maps.google.com/?cid=15088440922385494291",
     "LAT": 20.7972753,
-    "LONG": 80.7501354
+    "LONG": 80.7501354,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 376,
@@ -10134,7 +10884,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 12,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 77,
-    "NONOXYGEN_BEDS_VACANT": 44,
+    "NONOXYGEN_BEDS_VACANT": 52,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10143,13 +10893,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 44,
+    "BEDS_VACANT": 52,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:46",
+    "LAST_UPDATED_TIME": "18:05",
     "LOCATION": "https://maps.google.com/?cid=9360569785303301209",
     "LAT": 21.4214186,
-    "LONG": 80.9745383
+    "LONG": 80.9745383,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 377,
@@ -10159,9 +10911,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 60,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 7,
+    "OXYGEN_BEDS_VACANT": 8,
     "NONOXYGEN_BEDS_TOTAL": 50,
-    "NONOXYGEN_BEDS_VACANT": 38,
+    "NONOXYGEN_BEDS_VACANT": 35,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10170,13 +10922,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 45,
+    "BEDS_VACANT": 43,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:32",
+    "LAST_UPDATED_TIME": "18:00",
     "LOCATION": "https://maps.google.com/?cid=14233827228072670346",
     "LAT": 20.617628,
-    "LONG": 80.9397273
+    "LONG": 80.9397273,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 378,
@@ -10203,7 +10957,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:25",
     "LOCATION": "https://maps.google.com/?cid=480135832841675971",
     "LAT": 21.0930816,
-    "LONG": 81.0332727
+    "LONG": 81.0332727,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 379,
@@ -10215,7 +10971,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 0,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 50,
-    "NONOXYGEN_BEDS_VACANT": 14,
+    "NONOXYGEN_BEDS_VACANT": 11,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10224,13 +10980,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 14,
+    "BEDS_VACANT": 11,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:32",
+    "LAST_UPDATED_TIME": "17:26",
     "LOCATION": "https://www.google.com/maps/place/GOVT+ITI+MANPUR/@20.353993,80.7044406,17z/data=!4m5!3m4!1s0x3a2c24122eb37615:0xc4665a9267e39e44!8m2!3d20.3542093!4d80.7044513",
     "LAT": 20.353993,
-    "LONG": 80.7044406
+    "LONG": 80.7044406,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 380,
@@ -10240,7 +10998,7 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care center",
     "BEDS_TOTAL": 50,
     "OXYGEN_BEDS_TOTAL": 26,
-    "OXYGEN_BEDS_VACANT": 25,
+    "OXYGEN_BEDS_VACANT": 26,
     "NONOXYGEN_BEDS_TOTAL": 24,
     "NONOXYGEN_BEDS_VACANT": 21,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -10251,13 +11009,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 46,
+    "BEDS_VACANT": 47,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "23:45",
+    "LAST_UPDATED_TIME": "17:39",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 381,
@@ -10284,7 +11044,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:12",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 382,
@@ -10308,10 +11070,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 14,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:34",
+    "LAST_UPDATED_TIME": "17:29",
     "LOCATION": "https://maps.google.com/?cid=2736074815296474465",
     "LAT": 21.0989078,
-    "LONG": 81.0189576
+    "LONG": 81.0189576,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 383,
@@ -10321,7 +11085,7 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 50,
     "OXYGEN_BEDS_TOTAL": 30,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 5,
     "NONOXYGEN_BEDS_TOTAL": 20,
     "NONOXYGEN_BEDS_VACANT": 5,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -10332,13 +11096,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 5,
+    "BEDS_VACANT": 10,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:49",
+    "LAST_UPDATED_TIME": "17:36",
     "LOCATION": "https://maps.google.com/?cid=5922948610540650122",
     "LAT": 21.186727,
-    "LONG": 80.7542136
+    "LONG": 80.7542136,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 384,
@@ -10365,7 +11131,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:09",
     "LOCATION": "https://maps.google.com/?cid=4939028668504743460",
     "LAT": 21.0898475,
-    "LONG": 81.0198516
+    "LONG": 81.0198516,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 385,
@@ -10392,7 +11160,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:08",
     "LOCATION": "https://maps.google.com/?cid=15220938615126426171",
     "LAT": 21.0838094,
-    "LONG": 81.0175882
+    "LONG": 81.0175882,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 386,
@@ -10419,7 +11189,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "12:02",
     "LOCATION": "https://www.google.com/maps/place/Sanjivani+hospital/@22.0842714,82.1381908,17z/data=!4m5!3m4!1s0x3a280b689a953b77:0x17322a011d2b7aa6!8m2!3d22.084684!4d82.1383517?hl=en",
     "LAT": 22.0842714,
-    "LONG": 82.1381908
+    "LONG": 82.1381908,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 387,
@@ -10437,16 +11209,18 @@ chhattisgarh_data=[
     "HDU_BEDS_TOTAL": 0,
     "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 20,
-    "ICU_BEDS_VACANT": 10,
+    "ICU_BEDS_VACANT": 6,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 10,
+    "BEDS_VACANT": 6,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "13:47",
+    "LAST_UPDATED_TIME": "19:59",
     "LOCATION": "https://maps.google.com/?cid=9185960294658494623",
     "LAT": 21.0833389,
-    "LONG": 81.0214651
+    "LONG": 81.0214651,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 388,
@@ -10456,9 +11230,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 38,
     "OXYGEN_BEDS_TOTAL": 3,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 1,
     "NONOXYGEN_BEDS_TOTAL": 35,
-    "NONOXYGEN_BEDS_VACANT": 0,
+    "NONOXYGEN_BEDS_VACANT": 3,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10467,13 +11241,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 4,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:49",
+    "LAST_UPDATED_TIME": "18:26",
     "LOCATION": "https://maps.google.com/?cid=7737814678193524156",
     "LAT": 21.082925,
-    "LONG": 81.021958
+    "LONG": 81.021958,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 389,
@@ -10500,7 +11276,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:46",
     "LOCATION": "https://maps.google.com/?cid=1415890719879837477",
     "LAT": 21.1023159,
-    "LONG": 80.9981079
+    "LONG": 80.9981079,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 390,
@@ -10512,7 +11290,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 20,
     "OXYGEN_BEDS_VACANT": 20,
     "NONOXYGEN_BEDS_TOTAL": 228,
-    "NONOXYGEN_BEDS_VACANT": 153,
+    "NONOXYGEN_BEDS_VACANT": 152,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10521,13 +11299,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 173,
+    "BEDS_VACANT": 172,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:46",
+    "LAST_UPDATED_TIME": "18:54",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 391,
@@ -10537,9 +11317,9 @@ chhattisgarh_data=[
     "CATEGORY": "Dedicated Covid Hospital",
     "BEDS_TOTAL": 140,
     "OXYGEN_BEDS_TOTAL": 50,
-    "OXYGEN_BEDS_VACANT": 48,
+    "OXYGEN_BEDS_VACANT": 46,
     "NONOXYGEN_BEDS_TOTAL": 78,
-    "NONOXYGEN_BEDS_VACANT": 1,
+    "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 8,
@@ -10548,13 +11328,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 4,
     "VENTILATORS_VACANT": 4,
-    "BEDS_VACANT": 57,
+    "BEDS_VACANT": 54,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:42",
+    "LAST_UPDATED_TIME": "18:52",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 392,
@@ -10564,7 +11346,7 @@ chhattisgarh_data=[
     "CATEGORY": "Dedicated Covid Hospital",
     "BEDS_TOTAL": 100,
     "OXYGEN_BEDS_TOTAL": 80,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 10,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -10575,13 +11357,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 9,
     "VENTILATORS_TOTAL": 6,
     "VENTILATORS_VACANT": 5,
-    "BEDS_VACANT": 9,
+    "BEDS_VACANT": 19,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:30",
+    "LAST_UPDATED_TIME": "20:24",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 393,
@@ -10608,7 +11392,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:23",
     "LOCATION": "https://www.google.com/maps/place/Livelyhood+College+Surajpur/@23.2148194,82.8672577,17z/data=!4m12!1m6!3m5!1s0x3988557955555555:0xce88ef85fd8bd3b6!2sLivelyhood+College+Surajpur!8m2!3d23.2148145!4d82.8694464!3m4!1s0x3988557955555555:0xce88ef85fd8bd3b6!8m2!3d23.2148145!4d82.8694464",
     "LAT": 23.21501169,
-    "LONG": 82.86951077
+    "LONG": 82.86951077,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 394,
@@ -10635,7 +11421,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "10:56",
     "LOCATION": "https://www.google.com/maps/place/Pt.+Rewati+Raman+Mishra+Govt.+College/@23.216559,82.8765789,17z/data=!3m1!4b1!4m5!3m4!1s0x398855677db8a051:0xf9653a2d536cd2f4!8m2!3d23.2165541!4d82.8787676",
     "LAT": 23.21675129,
-    "LONG": 82.87934695
+    "LONG": 82.87934695,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 395,
@@ -10662,7 +11450,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:22",
     "LOCATION": "https://www.google.com/maps/place/Central+Hospital,+SECL,+Bishrampur,+Chhattisgarh+497226/@23.1939629,82.9633655,17z/data=!3m1!4b1!4m5!3m4!1s0x3989aa443d58db27:0x44b68884116c34f3!8m2!3d23.1938733!4d82.9655299",
     "LAT": 23.19403683,
-    "LONG": 82.96592966
+    "LONG": 82.96592966,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 396,
@@ -10689,7 +11479,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "11:08",
     "LOCATION": "https://www.google.com/maps/place/Ekta+hospital/@23.117241,83.1489076,13z/data=!4m5!3m4!1s0x3989a3045ff4ddf3:0x9dd4660ca96ec8e8!8m2!3d23.1284704!4d83.1942198",
     "LAT": 23.13247527,
-    "LONG": 83.19268122
+    "LONG": 83.19268122,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 397,
@@ -10713,10 +11505,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "11:31",
+    "LAST_UPDATED_TIME": "17:00",
     "LOCATION": "https://www.google.com/maps/place/Holy+cross+hospital/@23.1346575,83.1759614,14z/data=!4m9!1m2!2m1!1sHoly+Cross+Hospital+Ambikapur!3m5!1s0x0:0xbf4d8490f7885d37!8m2!3d23.1346566!4d83.1934698!15sCh1Ib2x5IENyb3NzIEhvc3BpdGFsIEFtYmlrYXB1clo0ChNob2x5IGNyb3NzIGhvc3BpdGFsIh1ob2x5IGNyb3NzIGhvc3BpdGFsIGFtYmlrYXB1cpIBCGhvc3BpdGFssAEA",
     "LAT": 23.13572303,
-    "LONG": 83.19338503
+    "LONG": 83.19338503,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 398,
@@ -10740,10 +11534,12 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:32",
+    "LAST_UPDATED_TIME": "17:21",
     "LOCATION": "https://www.google.com/maps/place/KD+Hospital+%26+Research+Centre/@23.1143384,83.1907138,17z/data=!3m1!4b1!4m5!3m4!1s0x3989a34501c3f951:0xd4fe62144fa75240!8m2!3d23.1143335!4d83.1929025",
     "LAT": 23.11462951,
-    "LONG": 83.1930527
+    "LONG": 83.1930527,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 399,
@@ -10770,7 +11566,9 @@ chhattisgarh_data=[
     "LAST_UPDATED_TIME": "15:15",
     "LOCATION": "https://www.google.com/maps/search/Life+Line+Hospital+Ambikapur/@23.1253911,83.1758511,17z/data=!3m1!4b1",
     "LAT": 23.12314636,
-    "LONG": 83.17201019
+    "LONG": 83.17201019,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 400,
@@ -10782,7 +11580,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 5,
     "OXYGEN_BEDS_VACANT": 5,
     "NONOXYGEN_BEDS_TOTAL": 25,
-    "NONOXYGEN_BEDS_VACANT": 21,
+    "NONOXYGEN_BEDS_VACANT": 20,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10791,13 +11589,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 26,
+    "BEDS_VACANT": 25,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
+    "LAST_UPDATED_DATE": "28/04/2021",
     "LAST_UPDATED_TIME": "17:36",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 401,
@@ -10805,7 +11605,7 @@ chhattisgarh_data=[
     "HOSPITAL_NAME": "Jeevan Jyoti Hospital SURGUJA",
     "CONTACT": "Mr. Raja sharma 8982978600",
     "CATEGORY": "Private Hospital",
-    "BEDS_TOTAL": 62,
+    "BEDS_TOTAL": 70,
     "OXYGEN_BEDS_TOTAL": 20,
     "OXYGEN_BEDS_VACANT": 0,
     "NONOXYGEN_BEDS_TOTAL": 0,
@@ -10814,17 +11614,19 @@ chhattisgarh_data=[
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 12,
     "HDU_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 30,
+    "ICU_BEDS_TOTAL": 38,
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 7,
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:37",
+    "LAST_UPDATED_TIME": "17:52",
     "LOCATION": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital+ambikapur/@23.1086925,83.1864126,17z/data=!3m1!4b1!4m5!3m4!1s0x3989a3bdb72aba23:0x44e65dc69d2f29cd!8m2!3d23.1086876!4d83.1886013",
     "LAT": 23.10878626,
-    "LONG": 83.18883733
+    "LONG": 83.18883733,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 402,
@@ -10847,11 +11649,13 @@ chhattisgarh_data=[
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 20,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "17:38",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:15",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 403,
@@ -10863,7 +11667,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 15,
     "OXYGEN_BEDS_VACANT": 15,
     "NONOXYGEN_BEDS_TOTAL": 20,
-    "NONOXYGEN_BEDS_VACANT": 17,
+    "NONOXYGEN_BEDS_VACANT": 18,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10872,13 +11676,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 32,
+    "BEDS_VACANT": 33,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "17:37",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:40",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 404,
@@ -10890,7 +11696,7 @@ chhattisgarh_data=[
     "OXYGEN_BEDS_TOTAL": 14,
     "OXYGEN_BEDS_VACANT": 14,
     "NONOXYGEN_BEDS_TOTAL": 50,
-    "NONOXYGEN_BEDS_VACANT": 50,
+    "NONOXYGEN_BEDS_VACANT": 45,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10899,13 +11705,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 64,
+    "BEDS_VACANT": 59,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "17:27",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:49",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 405,
@@ -10928,11 +11736,13 @@ chhattisgarh_data=[
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 20,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "17:34",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:13",
     "LOCATION": "https://www.google.com/maps/place/CHC+-+DHOURPUR/@23.1979757,83.4408869,12.63z/data=!4m9!1m2!2m1!1sCHC+udaipur+surguja!3m5!1s0x39898301108a8bb7:0x5bc7a8177693a00d!8m2!3d23.1933431!4d83.4335349!15sChNDSEMgdWRhaXB1ciBzdXJndWphWhoKA2NoYyITY2hjIHVkYWlwdXIgc3VyZ3VqYZIBCGhvc3BpdGFs",
     "LAT": 23.19766983,
-    "LONG": 83.43822479
+    "LONG": 83.43822479,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 406,
@@ -10955,11 +11765,13 @@ chhattisgarh_data=[
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 8,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "17:40",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:50",
     "LOCATION": "https://www.google.com/maps/place/Community+health+center/@22.7804934,83.4930503,15.98z/data=!4m9!1m2!2m1!1sCHC+sitapur+surguja!3m5!1s0x0:0xdd97bf8bdfcff434!8m2!3d22.7813833!4d83.4951966!15sChNDSEMgc2l0YXB1ciBzdXJndWphWhoKA2NoYyITY2hjIHNpdGFwdXIgc3VyZ3VqYZIBCGhvc3BpdGFs",
     "LAT": 22.78180882,
-    "LONG": 83.49562065
+    "LONG": 83.49562065,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 407,
@@ -10969,9 +11781,9 @@ chhattisgarh_data=[
     "CATEGORY": "Covid Care Center",
     "BEDS_TOTAL": 500,
     "OXYGEN_BEDS_TOTAL": 20,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_VACANT": 7,
     "NONOXYGEN_BEDS_TOTAL": 480,
-    "NONOXYGEN_BEDS_VACANT": 461,
+    "NONOXYGEN_BEDS_VACANT": 457,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 0,
@@ -10980,13 +11792,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 466,
+    "BEDS_VACANT": 464,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "17:32",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:26",
     "LOCATION": "https://www.google.com/maps/search/GOVT+POLYTECHNIQUE+BOYS+HOSTEL+AMBIKAPUR/@23.1288218,83.1808395,17z/data=!3m1!4b1",
     "LAT": 23.13008961,
-    "LONG": 83.1828243
+    "LONG": 83.1828243,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 408,
@@ -11009,11 +11823,13 @@ chhattisgarh_data=[
     "VENTILATORS_VACANT": 0,
     "BEDS_VACANT": 50,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "17:41",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "17:22",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 409,
@@ -11023,24 +11839,26 @@ chhattisgarh_data=[
     "CATEGORY": "Dedicated Covid Hospital",
     "BEDS_TOTAL": 170,
     "OXYGEN_BEDS_TOTAL": 85,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_VACANT": 4,
     "NONOXYGEN_BEDS_TOTAL": 40,
-    "NONOXYGEN_BEDS_VACANT": 8,
+    "NONOXYGEN_BEDS_VACANT": 12,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_VACANT": 0,
     "HDU_BEDS_TOTAL": 15,
-    "HDU_BEDS_VACANT": 2,
+    "HDU_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 30,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_VACANT": 2,
     "VENTILATORS_TOTAL": 14,
-    "VENTILATORS_VACANT": 11,
-    "BEDS_VACANT": 14,
+    "VENTILATORS_VACANT": 9,
+    "BEDS_VACANT": 18,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
-    "LAST_UPDATED_DATE": "27/04/2021",
-    "LAST_UPDATED_TIME": "20:07",
+    "LAST_UPDATED_DATE": "28/04/2021",
+    "LAST_UPDATED_TIME": "18:00",
     "LOCATION": "https://www.google.com/maps/place/GOVERNMENT+MEDICAL+COLLEGE+%26+HOSPITAL+AMBIKAPUR+(GMC),+SURGUJA+C.G./@23.1121906,83.1644735,17z/data=!3m1!4b1!4m5!3m4!1s0x3989a38a5915447b:0x8b01d9cf1ead32e4!8m2!3d23.1121857!4d83.1666622",
     "LAT": 23.11420975,
-    "LONG": 83.16984232
+    "LONG": 83.16984232,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 410,
@@ -11050,7 +11868,7 @@ chhattisgarh_data=[
     "CATEGORY": "Private Hospital",
     "BEDS_TOTAL": 10,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_VACANT": 2,
     "NONOXYGEN_BEDS_TOTAL": 0,
     "NONOXYGEN_BEDS_VACANT": 0,
     "ISOLATION_BEDS_OUTSIDE_HOSPITAL_TOTAL": 0,
@@ -11061,13 +11879,15 @@ chhattisgarh_data=[
     "ICU_BEDS_VACANT": 0,
     "VENTILATORS_TOTAL": 0,
     "VENTILATORS_VACANT": 0,
-    "BEDS_VACANT": 0,
+    "BEDS_VACANT": 2,
     "EMPANELLED_IN_AYUSHMAN": "Yes",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "9:32",
+    "LAST_UPDATED_TIME": "21:36",
     "LOCATION": "https://www.google.com/maps/place/Maa+Mahamaya+Hospital/@23.1288171,83.1866413,16z/data=!4m9!1m2!2m1!1sMaa+mahamaya+hospital+Ambikapur!3m5!1s0x0:0xd4be5f4d7c491131!8m2!3d23.13216!4d83.1902099!15sCh9NYWEgbWFoYW1heWEgaG9zcGl0YWwgQW1iaWthcHVyWjgKFW1hYSBtYWhhbWF5YSBob3NwaXRhbCIfbWFhIG1haGFtYXlhIGhvc3BpdGFsIGFtYmlrYXB1cpIBCGhvc3BpdGFs",
     "LAT": 23.13243806,
-    "LONG": 83.19095427
+    "LONG": 83.19095427,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 411,
@@ -11091,9 +11911,11 @@ chhattisgarh_data=[
     "BEDS_VACANT": 0,
     "EMPANELLED_IN_AYUSHMAN": "No",
     "LAST_UPDATED_DATE": "28/04/2021",
-    "LAST_UPDATED_TIME": "10:37",
+    "LAST_UPDATED_TIME": "17:58",
     "LOCATION": "https://www.google.com/maps/place/Laxmi+Narayan+Healthcare+-+Dr+Pratik+Khare/@23.1260718,83.1945046,17z/data=!3m1!4b1!4m5!3m4!1s0x3989a3f4a838fd25:0x4c8332d222ad5d59!8m2!3d23.1260669!4d83.1966933",
     "LAT": 23.12620502,
-    "LONG": 83.19727265
+    "LONG": 83.19727265,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   }
 ]

@@ -23,7 +23,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/AS+HOSPIITAL/@11.1410101,79.0699612,17z/data=!3m1!4b1!4m5!3m4!1s0x3baadf7dbcef97bf:0xfe59e34ea39bca9!8m2!3d11.1410048!4d79.0721499",
     "LAT": 11.14123637,
-    "LONG": 79.07217136
+    "LONG": 79.07217136,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 2,
@@ -44,12 +46,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 5,
-    "DATETIME": "2021-04-28 9:40:22",
+    "DATETIME": "2021-04-28 09:40:22",
     "CONTACT": 0,
-    "REMARKS": "Report on 28.04.2021\\r\\n",
+    "REMARKS": "Report on 28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/ARIYALUR+GOLDEN+HOSPITAL+PVT+LTD/@11.1407944,79.0731981,17z/data=!3m1!4b1!4m5!3m4!1s0x3baadf7d31f36497:0xfcaf41e23a59065b!8m2!3d11.1407891!4d79.0753868",
     "LAT": 11.14108383,
-    "LONG": 79.0754619
+    "LONG": 79.0754619,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 3,
@@ -75,7 +79,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=9119729444948056950",
     "LAT": 12.9206657,
-    "LONG": 80.0880099
+    "LONG": 80.0880099,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 4,
@@ -96,12 +102,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:44:25",
+    "DATETIME": "2021-04-28 08:44:25",
     "CONTACT": 7358244662,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=11449625697784223465",
     "LAT": 12.973496,
-    "LONG": 80.1308136
+    "LONG": 80.1308136,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 5,
@@ -127,7 +135,9 @@ tamil_nadu_data=[
     "REMARKS": "27-4-21",
     "LOCATION": "https://maps.google.com/?cid=13032493025688944275",
     "LAT": 12.953614,
-    "LONG": 80.1385857
+    "LONG": 80.1385857,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 6,
@@ -148,12 +158,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 10:30:58",
+    "DATETIME": "2021-04-28 19:56:30",
     "CONTACT": 9790883397,
-    "REMARKS": "27.04.21",
+    "REMARKS": "28.04.21",
     "LOCATION": "https://maps.google.com/?cid=11465680939952375734",
     "LAT": 12.9422327,
-    "LONG": 80.1408142
+    "LONG": 80.1408142,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 7,
@@ -174,12 +186,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:56:59",
+    "DATETIME": "2021-04-28 06:56:59",
     "CONTACT": 8585858550,
-    "REMARKS": "28. 04.2021",
+    "REMARKS": "28.  04.2021",
     "LOCATION": "https://maps.google.com/?cid=2955290582603762837",
     "LAT": 12.9618743,
-    "LONG": 80.1466478
+    "LONG": 80.1466478,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 8,
@@ -200,12 +214,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:46:25",
+    "DATETIME": "2021-04-28 17:18:23",
     "CONTACT": 8300017171,
-    "REMARKS": "28/04/2021",
+    "REMARKS": "28/04/2021 5pm",
     "LOCATION": "https://maps.google.com/?cid=5072160426463451497",
     "LAT": 12.9293907,
-    "LONG": 80.1175508
+    "LONG": 80.1175508,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 9,
@@ -226,12 +242,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 45,
     "VENTILATOR_OCCUPIED": 45,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:30:18",
+    "DATETIME": "2021-04-28 08:30:18",
     "CONTACT": 7397242423,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=3318338258758298927",
     "LAT": 13.0633501,
-    "LONG": 80.2515165
+    "LONG": 80.2515165,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 10,
@@ -252,12 +270,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 10,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:36:51",
+    "DATETIME": "2021-04-28 08:36:51",
     "CONTACT": 7824821042,
     "REMARKS": "28.04.2021- no beds available",
     "LOCATION": "https://maps.google.com/?cid=11994076367305438064",
     "LAT": 13.0707104,
-    "LONG": 80.1506203
+    "LONG": 80.1506203,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 11,
@@ -283,7 +303,9 @@ tamil_nadu_data=[
     "REMARKS": "April 28th",
     "LOCATION": "https://maps.google.com/?cid=11720788068516840",
     "LAT": 13.0735908,
-    "LONG": 80.2064008
+    "LONG": 80.2064008,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 12,
@@ -304,12 +326,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:18:47",
+    "DATETIME": "2021-04-28 09:18:47",
     "CONTACT": 9444128250,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=12404950926227245182",
     "LAT": 13.0388533,
-    "LONG": 80.1927312
+    "LONG": 80.1927312,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 13,
@@ -335,7 +359,9 @@ tamil_nadu_data=[
     "REMARKS": "23.04.2021",
     "LOCATION": "https://maps.google.com/?cid=1069387233128632819",
     "LAT": 12.989726,
-    "LONG": 80.217916
+    "LONG": 80.217916,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 14,
@@ -356,12 +382,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:50:04",
+    "DATETIME": "2021-04-28 09:50:04",
     "CONTACT": 9381060941,
-    "REMARKS": "\\n",
+    "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Aysha+Hospital/@13.0846349,80.2477351,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5265dee12795cd:0x772784083b37a7d3!8m2!3d13.0846297!4d80.2499238",
     "LAT": 13.08485959,
-    "LONG": 80.24983797
+    "LONG": 80.24983797,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 15,
@@ -382,12 +410,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:59:56",
+    "DATETIME": "2021-04-28 07:59:56",
     "CONTACT": 8939194972,
     "REMARKS": "Updated status on 28.04.2021 @ 8.00am",
     "LOCATION": "https://www.google.com/maps/place/Be+Well+Hospitals/@13.0793931,80.19825,15z/data=!4m5!3m4!1s0x0:0xf2bbfee2b66743b3!8m2!3d13.0793931!4d80.19825",
     "LAT": 13.0793931,
-    "LONG": 80.19825
+    "LONG": 80.19825,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 16,
@@ -413,7 +443,9 @@ tamil_nadu_data=[
     "REMARKS": "28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=12909103883436851173",
     "LAT": 12.9080174,
-    "LONG": 80.1397487
+    "LONG": 80.1397487,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 17,
@@ -434,12 +466,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:43:40",
+    "DATETIME": "2021-04-28 07:43:40",
     "CONTACT": 9444170203,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=589135396394921805",
     "LAT": 13.0482662,
-    "LONG": 80.2458484
+    "LONG": 80.2458484,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 18,
@@ -465,7 +499,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=2546432462379210964",
     "LAT": 13.075818,
-    "LONG": 80.2273437
+    "LONG": 80.2273437,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 19,
@@ -488,10 +524,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 0,
     "DATETIME": "2021-04-28 10:22:15",
     "CONTACT": 9551841153,
-    "REMARKS": "today 28/04/2021  report",
+    "REMARKS": "today 28/04/2021   report",
     "LOCATION": "https://maps.google.com/?cid=9858081575149994437",
     "LAT": 12.9817727,
-    "LONG": 80.2325066
+    "LONG": 80.2325066,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 20,
@@ -514,10 +552,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 0,
     "DATETIME": "2021-04-28 10:14:13",
     "CONTACT": 9941415544,
-    "REMARKS": "28.04.2021 Updated",
+    "REMARKS": "28.04.2021  Updated",
     "LOCATION": "https://maps.google.com/?cid=3585821418119925452",
     "LAT": 13.1180814,
-    "LONG": 80.290574
+    "LONG": 80.290574,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 21,
@@ -538,38 +578,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:51:48",
+    "DATETIME": "2021-04-28 07:51:48",
     "CONTACT": 9790082003,
-    "REMARKS": "updated 01\\r\\n28/04/2021",
+    "REMARKS": "updated 01\n28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=10940331580243903043",
     "LAT": 13.0471502,
-    "LONG": 80.1815332
+    "LONG": 80.1815332,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 22,
     "DISTRICT": "Chennai",
     "HOSPITAL_NAME": "Chettinad Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 400,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 207,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 193,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 231,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 169,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 140,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 92,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 48,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 106,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 34,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 240,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 95,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 145,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 105,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 135,
     "ICU_BEDS_TOTAL": 20,
     "ICU_BEDS_OCCUPIED": 20,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 7,
-    "DATETIME": "2021-04-28 13:29:30",
+    "DATETIME": "2021-04-28 17:21:22",
     "CONTACT": 9940898763,
     "REMARKS": "202 positive",
     "LOCATION": "https://www.google.com/maps/place/Chettinad+Hospital/@12.8534066,80.1518009,12z/data=!4m9!1m2!2m1!1schettinad+hospital+chennai!3m5!1s0x3a525c633c189d8b:0xeb0dbb1e9defdaeb!8m2!3d12.9109223!4d80.2283263!15sChpjaGV0dGluYWQgaG9zcGl0YWwgY2hlbm5haVowChJjaGV0dGluYWQgaG9zcGl0YWwiGmNoZXR0aW5hZCBob3NwaXRhbCBjaGVubmFpkgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmpNRnBFTkhKUlJSQUI",
     "LAT": 12.91883941,
-    "LONG": 80.22667129
+    "LONG": 80.22667129,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 23,
@@ -595,7 +639,9 @@ tamil_nadu_data=[
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=9621535344424875279",
     "LAT": 13.043507,
-    "LONG": 80.2726562
+    "LONG": 80.2726562,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 24,
@@ -616,12 +662,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 5,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:43:18",
+    "DATETIME": "2021-04-28 08:43:18",
     "CONTACT": 8754594545,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=11661591069557502091",
     "LAT": 12.9490397,
-    "LONG": 80.2090416
+    "LONG": 80.2090416,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 25,
@@ -644,10 +692,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 0,
     "DATETIME": "2021-04-25 17:22:41",
     "CONTACT": 8939831204,
-    "REMARKS": "25-04-2021\\r\\n",
+    "REMARKS": "25-04-2021",
     "LOCATION": "https://www.google.com/maps/place/Fortis+Malar+Hospital,+Adyar,+Chennai/@13.0100702,80.2587788,15z/data=!4m5!3m4!1s0x0:0x65f09e8a6db91462!8m2!3d13.0100702!4d80.2587788",
     "LAT": 13.01092738,
-    "LONG": 80.25925087
+    "LONG": 80.25925087,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 26,
@@ -668,12 +718,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 10:31:16",
-    "CONTACT": 9941325831,
-    "REMARKS": "C PAP - NIL CASES, BPAP - NIL CASES, Updated.",
+    "DATETIME": "2021-04-28 14:33:27",
+    "CONTACT": 9941055291,
+    "REMARKS": "C PAP - NIL CASES, BPAP - NIL CASES, Updated",
     "LOCATION": "https://maps.google.com/?cid=12421821922912222514",
     "LAT": 13.0877494,
-    "LONG": 80.1857251
+    "LONG": 80.1857251,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 27,
@@ -699,7 +751,9 @@ tamil_nadu_data=[
     "REMARKS": "27-04-2021",
     "LOCATION": "https://maps.google.com/?cid=16706544303538573616",
     "LAT": 13.0350999,
-    "LONG": 80.2518992
+    "LONG": 80.2518992,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 28,
@@ -720,12 +774,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:44:19",
+    "DATETIME": "2021-04-28 08:44:19",
     "CONTACT": 8220894051,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=7213848411314337540",
     "LAT": 13.090039,
-    "LONG": 80.258533
+    "LONG": 80.258533,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 29,
@@ -751,7 +807,9 @@ tamil_nadu_data=[
     "REMARKS": "09.03.2021",
     "LOCATION": "https://maps.google.com/?cid=1342599247923129334",
     "LAT": 13.0814716,
-    "LONG": 80.2141279
+    "LONG": 80.2141279,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 30,
@@ -772,12 +830,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 5,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:18:56",
+    "DATETIME": "2021-04-28 07:18:56",
     "CONTACT": 8056266444,
     "REMARKS": "28.04.21",
     "LOCATION": "https://maps.google.com/?cid=14674972972141580611",
     "LAT": 12.8985968,
-    "LONG": 80.2066307
+    "LONG": 80.2066307,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 31,
@@ -798,12 +858,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:09:08",
+    "DATETIME": "2021-04-28 16:55:49",
     "CONTACT": 8939414061,
-    "REMARKS": "28.04.2021 - Afternoon Report",
+    "REMARKS": "28.04.2021 - Evening Report",
     "LOCATION": "https://maps.google.com/?cid=14975151101622818080",
     "LAT": 13.0376041,
-    "LONG": 80.2389194
+    "LONG": 80.2389194,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 32,
@@ -824,12 +886,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 8:31:41",
+    "DATETIME": "2021-04-28 08:31:41",
     "CONTACT": 7358485718,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=8618668167094788335",
     "LAT": 13.070558,
-    "LONG": 80.2155418
+    "LONG": 80.2155418,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 33,
@@ -850,12 +914,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:40:14",
+    "DATETIME": "2021-04-28 09:40:14",
     "CONTACT": 9789987577,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=6831259352988898903",
     "LAT": 12.9911734,
-    "LONG": 80.1986296
+    "LONG": 80.1986296,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 34,
@@ -881,7 +947,9 @@ tamil_nadu_data=[
     "REMARKS": "28/4/2021",
     "LOCATION": "https://maps.google.com/?cid=17273950268785919778",
     "LAT": 13.0573353,
-    "LONG": 80.245786
+    "LONG": 80.245786,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 35,
@@ -907,7 +975,9 @@ tamil_nadu_data=[
     "REMARKS": "25.4.21",
     "LOCATION": "https://maps.google.com/?cid=6301550279988079329",
     "LAT": 12.5931792,
-    "LONG": 79.9113261
+    "LONG": 79.9113261,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 36,
@@ -928,12 +998,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 6,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:24:38",
+    "DATETIME": "2021-04-28 08:24:38",
     "CONTACT": 7825809004,
     "REMARKS": "27/4/21",
     "LOCATION": "https://maps.google.com/?cid=9217523275751190822",
     "LAT": 13.0384866,
-    "LONG": 80.2572725
+    "LONG": 80.2572725,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 37,
@@ -954,12 +1026,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 6,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:36:24",
+    "DATETIME": "2021-04-28 08:36:24",
     "CONTACT": 9791144090,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=16730388181553308397",
     "LAT": 13.0788712,
-    "LONG": 80.2490722
+    "LONG": 80.2490722,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 38,
@@ -980,12 +1054,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:44:32",
+    "DATETIME": "2021-04-28 09:44:32",
     "CONTACT": 7358330026,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=7453286797397131497",
     "LAT": 13.1267051,
-    "LONG": 80.2490062
+    "LONG": 80.2490062,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 39,
@@ -1011,7 +1087,9 @@ tamil_nadu_data=[
     "REMARKS": "26.4.2021",
     "LOCATION": "https://maps.google.com/?cid=1747612472530226832",
     "LAT": 13.0485518,
-    "LONG": 80.2622927
+    "LONG": 80.2622927,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 40,
@@ -1032,12 +1110,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:47:27",
+    "DATETIME": "2021-04-28 09:47:27",
     "CONTACT": 9003260244,
     "REMARKS": "28.4.2021",
     "LOCATION": "https://www.google.com/maps/place/Life+Care+Hospital/@13.0021962,80.1693979,12z/data=!4m9!1m2!2m1!1slife+care+hospital+chennai!3m5!1s0x0:0x4381a2ea1257f265!8m2!3d13.072184!4d80.263839!15sChpsaWZlIGNhcmUgaG9zcGl0YWwgY2hlbm5haVowChJsaWZlIGNhcmUgaG9zcGl0YWwiGmxpZmUgY2FyZSBob3NwaXRhbCBjaGVubmFpkgEIaG9zcGl0YWw",
     "LAT": 13.07862569,
-    "LONG": 80.26900605
+    "LONG": 80.26900605,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 41,
@@ -1063,7 +1143,9 @@ tamil_nadu_data=[
     "REMARKS": "24.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Lifeline+Hospitals/@13.0829959,80.1921729,14z/data=!4m9!1m2!2m1!1slifeline+hospitals+chennai!3m5!1s0x3a52667fb51df4c1:0xda54eb8cae181334!8m2!3d13.07816!4d80.23364!15sChpsaWZlbGluZSBob3NwaXRhbHMgY2hlbm5haVowChJsaWZlbGluZSBob3NwaXRhbHMiGmxpZmVsaW5lIGhvc3BpdGFscyBjaGVubmFpkgEQcHJpdmF0ZV9ob3NwaXRhbA",
     "LAT": 13.08077696,
-    "LONG": 80.23388873
+    "LONG": 80.23388873,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 42,
@@ -1089,7 +1171,9 @@ tamil_nadu_data=[
     "REMARKS": "28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=10666141597593509124",
     "LAT": 13.071555,
-    "LONG": 80.2222574
+    "LONG": 80.2222574,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 43,
@@ -1115,7 +1199,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/M.R.+Hospital/@13.0725523,80.2173422,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52669b3d820e13:0x7b13cbea4dc91eed!8m2!3d13.0725471!4d80.2195309",
     "LAT": 13.07257843,
-    "LONG": 80.21956309
+    "LONG": 80.21956309,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 44,
@@ -1136,12 +1222,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:17:54",
+    "DATETIME": "2021-04-28 08:17:54",
     "CONTACT": 9841383989,
-    "REMARKS": "UPDATED\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n",
+    "REMARKS": "UPDATED",
     "LOCATION": "https://www.google.com/maps/place/Maya+Nursing+Home/@13.0312682,80.2074773,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52671fc8bc8833:0xaeee32f4bd42eed7!8m2!3d13.031263!4d80.209666",
     "LAT": 13.03147203,
-    "LONG": 80.20979475
+    "LONG": 80.20979475,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 45,
@@ -1162,12 +1250,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:42:18",
+    "DATETIME": "2021-04-28 09:42:18",
     "CONTACT": 7299057877,
     "REMARKS": "28.04.21",
     "LOCATION": "https://www.google.com/maps/place/Medway+Hospitals/@13.0535894,80.2254322,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5266f36d59ee75:0x398bf9f1558236c4!8m2!3d13.0535842!4d80.2276209",
     "LAT": 13.05365734,
-    "LONG": 80.22771746
+    "LONG": 80.22771746,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 46,
@@ -1188,12 +1278,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 7,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 7,
-    "DATETIME": "2021-04-28 8:43:45",
+    "DATETIME": "2021-04-28 08:43:45",
     "CONTACT": 9150567899,
     "REMARKS": "Update 28.4.21",
     "LOCATION": "https://www.google.com/maps/place/MAHER+-+Meenakshi+Academy+of+Higher+Education+and+Research/@13.0427148,80.188465,15z/data=!4m2!3m1!1s0x0:0xcb1e5e2b13837b28?sa=X&ved=2ahUKEwjsvsv76pnwAhUL3jgGHVpRB6cQ_BIweXoECFAQBQ",
     "LAT": 13.04311198,
-    "LONG": 80.18919456
+    "LONG": 80.18919456,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 47,
@@ -1214,12 +1306,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 16,
     "VENTILATOR_OCCUPIED": 16,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:18:33",
+    "DATETIME": "2021-04-28 16:32:53",
     "CONTACT": 9787740890,
-    "REMARKS": "28.04.2021\\r\\n8 AM",
+    "REMARKS": "28.04.2021\n4 PM",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 48,
@@ -1240,12 +1334,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:57:43",
+    "DATETIME": "2021-04-28 08:57:43",
     "CONTACT": 7338777444,
     "REMARKS": "28.4.2021 7.00am Updated",
     "LOCATION": "https://www.google.com/maps/place/Mint+Hospitals/@13.0012712,80.2550487,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5267f21bb117d3:0xa8012d24e1ef546!8m2!3d13.001266!4d80.2572374",
     "LAT": 13.00141234,
-    "LONG": 80.25722667
+    "LONG": 80.25722667,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 49,
@@ -1266,12 +1362,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 10,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:28:52",
+    "DATETIME": "2021-04-28 09:28:52",
     "CONTACT": 7824060120,
     "REMARKS": "COVID EMERGENCY CALL 105710 DIRECT FROM MOBILE",
     "LOCATION": "https://maps.google.com/?cid=16403677451341764498",
     "LAT": 13.0225921,
-    "LONG": 80.1863704
+    "LONG": 80.1863704,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 50,
@@ -1297,7 +1395,9 @@ tamil_nadu_data=[
     "REMARKS": "24/04/2021",
     "LOCATION": "https://maps.google.com/?cid=13447454035548907594",
     "LAT": 13.0791515,
-    "LONG": 80.1707193
+    "LONG": 80.1707193,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 51,
@@ -1318,12 +1418,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:46:38",
+    "DATETIME": "2021-04-28 09:46:38",
     "CONTACT": 9962377477,
     "REMARKS": "28/4/2021",
     "LOCATION": "https://www.google.com/maps/place/Muthu+Hospital/@13.0996825,80.2582222,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5265ec08b25e21:0x1146fd524b99abd3!8m2!3d13.0996773!4d80.2604109",
     "LAT": 13.09986538,
-    "LONG": 80.2604109
+    "LONG": 80.2604109,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 52,
@@ -1344,12 +1446,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:23:42",
+    "DATETIME": "2021-04-28 15:53:32",
     "CONTACT": 9381166707,
     "REMARKS": "28-04-2021",
     "LOCATION": "https://www.google.com/maps/place/CHENNAI+NATIONAL+HOSPITAL/@13.0964512,80.2893184,17z/data=!3m1!4b1!4m5!3m4!1s0x3a526f45b07102d1:0x45721eef9832613d!8m2!3d13.096446!4d80.2915071",
     "LAT": 13.09668633,
-    "LONG": 80.2915071
+    "LONG": 80.2915071,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 53,
@@ -1370,12 +1474,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:40:40",
+    "DATETIME": "2021-04-28 06:40:40",
     "CONTACT": 9092967547,
     "REMARKS": "Extra beds 2 Occupied",
     "LOCATION": "https://maps.google.com/?cid=352888266986258713",
     "LAT": 13.0777063,
-    "LONG": 80.2415533
+    "LONG": 80.2415533,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 54,
@@ -1396,12 +1502,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:41:51",
+    "DATETIME": "2021-04-28 09:41:51",
     "CONTACT": 9888888888,
     "REMARKS": "28-04-21",
     "LOCATION": "https://www.google.com/maps/place/Medway+Hospitals/@13.0809903,80.1701408,15z/data=!4m5!3m4!1s0x0:0xdd03f8171e1e8e91!8m2!3d13.0808961!4d80.1702",
     "LAT": 13.0809903,
-    "LONG": 80.1701408
+    "LONG": 80.1701408,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 55,
@@ -1422,12 +1530,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-27 9:20:40",
+    "DATETIME": "2021-04-27 09:20:40",
     "CONTACT": 9840021112,
     "REMARKS": "24/4/2021",
     "LOCATION": "https://maps.google.com/?cid=9216704022321626366",
     "LAT": 13.05338,
-    "LONG": 80.25744
+    "LONG": 80.25744,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 56,
@@ -1448,12 +1558,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:11:30",
+    "DATETIME": "2021-04-28 16:18:15",
     "CONTACT": 9940087994,
-    "REMARKS": "\\n",
+    "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Noble+Hospital/@13.0821558,80.2510509,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5265dff238aa47:0xcd5ea2a1d1ec7b4f!8m2!3d13.0821506!4d80.2532396",
     "LAT": 13.08238049,
-    "LONG": 80.25318596
+    "LONG": 80.25318596,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 57,
@@ -1474,12 +1586,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:42:58",
+    "DATETIME": "2021-04-28 08:42:58",
     "CONTACT": 9940099992,
     "REMARKS": "Mythily",
     "LOCATION": "https://maps.google.com/?cid=11342575791039554750",
     "LAT": 13.0454307,
-    "LONG": 80.2668626
+    "LONG": 80.2668626,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 58,
@@ -1500,12 +1614,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:26:21",
+    "DATETIME": "2021-04-28 08:26:21",
     "CONTACT": 9791023518,
     "REMARKS": "Update",
     "LOCATION": "https://maps.google.com/?cid=12521927614223852794",
     "LAT": 13.0727871,
-    "LONG": 80.2344295
+    "LONG": 80.2344295,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 59,
@@ -1526,12 +1642,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:44:40",
+    "DATETIME": "2021-04-28 08:44:40",
     "CONTACT": 8610850481,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=15309769233882612831",
     "LAT": 13.0578335,
-    "LONG": 80.0788499
+    "LONG": 80.0788499,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 60,
@@ -1552,12 +1670,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 10,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:23:05",
+    "DATETIME": "2021-04-28 16:58:00",
     "CONTACT": 9840338752,
-    "REMARKS": "28/04/2021 @1pm",
+    "REMARKS": "28/04/2021 @ 4 pm",
     "LOCATION": "https://www.google.com/maps/place/Prashanth+Fertility+Research+Centre+-+Best+Fertility+Hospital+in+Chennai+-+Fertility+Centre+in+Chennai/@13.0695168,80.2339747,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52672cedb01775:0xf9065a3f79eeb939!8m2!3d13.0695116!4d80.2361634",
     "LAT": 13.0696997,
-    "LONG": 80.23622777
+    "LONG": 80.23622777,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 61,
@@ -1578,12 +1698,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:39:20",
+    "DATETIME": "2021-04-28 06:39:20",
     "CONTACT": 9092967547,
     "REMARKS": "Extra beds 4 Occupied",
     "LOCATION": "https://maps.google.com/?cid=436367621162295108",
     "LAT": 13.0781238,
-    "LONG": 80.2458295
+    "LONG": 80.2458295,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 62,
@@ -1604,12 +1726,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:52:40",
+    "DATETIME": "2021-04-28 07:52:40",
     "CONTACT": 9003956999,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=11116483157885459789",
     "LAT": 13.1308789,
-    "LONG": 80.213939
+    "LONG": 80.213939,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 63,
@@ -1630,12 +1754,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:16:43",
+    "DATETIME": "2021-04-28 09:16:43",
     "CONTACT": 7358764200,
     "REMARKS": "28/04/21",
     "LOCATION": "https://maps.google.com/?cid=4765222783304841697",
     "LAT": 13.1208297,
-    "LONG": 80.1978374
+    "LONG": 80.1978374,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 64,
@@ -1656,12 +1782,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:19:09",
+    "DATETIME": "2021-04-28 08:19:09",
     "CONTACT": 8610850006,
     "REMARKS": "Updated as on 28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=11909562291248014824",
     "LAT": 13.0768395,
-    "LONG": 80.2066074
+    "LONG": 80.2066074,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 65,
@@ -1687,7 +1815,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=7928477027821802257",
     "LAT": 13.057131,
-    "LONG": 80.275569
+    "LONG": 80.275569,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 66,
@@ -1713,7 +1843,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=4622529807391552223",
     "LAT": 13.024575,
-    "LONG": 80.017451
+    "LONG": 80.017451,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 67,
@@ -1739,7 +1871,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=3457608922147802066",
     "LAT": 13.0516589,
-    "LONG": 80.2112937
+    "LONG": 80.2112937,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 68,
@@ -1765,7 +1899,9 @@ tamil_nadu_data=[
     "REMARKS": "27.04.2021",
     "LOCATION": "https://maps.google.com/?cid=15185697984696711597",
     "LAT": 12.9791322,
-    "LONG": 80.1946086
+    "LONG": 80.1946086,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 69,
@@ -1791,7 +1927,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.21 status",
     "LOCATION": "https://maps.google.com/?cid=3779380857060573265",
     "LAT": 13.048184,
-    "LONG": 80.2034821
+    "LONG": 80.2034821,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 70,
@@ -1812,12 +1950,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:57:26",
+    "DATETIME": "2021-04-28 08:57:26",
     "CONTACT": 4442911000,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=9474689767539462183",
     "LAT": 12.9545333,
-    "LONG": 80.1377943
+    "LONG": 80.1377943,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 71,
@@ -1843,7 +1983,9 @@ tamil_nadu_data=[
     "REMARKS": "27/04/2021",
     "LOCATION": "https://maps.google.com/?cid=2678268352742568405",
     "LAT": 13.0372027,
-    "LONG": 80.2320372
+    "LONG": 80.2320372,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 72,
@@ -1864,38 +2006,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 6,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:40:29",
+    "DATETIME": "2021-04-28 08:40:29",
     "CONTACT": 8939433555,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=10765923638654904241",
     "LAT": 13.0375525,
-    "LONG": 80.1446072
+    "LONG": 80.1446072,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 73,
     "DISTRICT": "Chennai",
     "HOSPITAL_NAME": "Sri Sathya Sai Medical College & Research Institue",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 244,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 47,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 197,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 52,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 192,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 24,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 24,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 200,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 197,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 8,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 192,
     "ICU_BEDS_TOTAL": 20,
     "ICU_BEDS_OCCUPIED": 20,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 10,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:07:08",
+    "DATETIME": "2021-04-28 16:36:57",
     "CONTACT": 9841714877,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Shri+Sathya+Sai+Medical+College+and+Research+Institute/@12.7455548,80.1298158,17z/data=!4m12!1m6!3m5!1s0x3a52564553b69b3f:0x9108660f3963cced!2sShri+Sathya+Sai+Medical+College+and+Research+Institute!8m2!3d12.7455496!4d80.1320045!3m4!1s0x3a52564553b69b3f:0x9108660f3963cced!8m2!3d12.7455496!4d80.1320045",
     "LAT": 12.7457798,
-    "LONG": 80.13184357
+    "LONG": 80.13184357,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 74,
@@ -1921,7 +2067,9 @@ tamil_nadu_data=[
     "REMARKS": "24.04.2021",
     "LOCATION": "https://maps.google.com/?cid=2804720785247485116",
     "LAT": 13.1097476,
-    "LONG": 80.2463659
+    "LONG": 80.2463659,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 75,
@@ -1942,12 +2090,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:06:51",
+    "DATETIME": "2021-04-28 08:06:51",
     "CONTACT": 9444896010,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=17879457659126960852",
     "LAT": 12.9733604,
-    "LONG": 80.1875487
+    "LONG": 80.1875487,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 76,
@@ -1968,12 +2118,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 7,
     "VENTILATOR_OCCUPIED": 7,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:07:35",
+    "DATETIME": "2021-04-28 09:07:35",
     "CONTACT": 8056072277,
     "REMARKS": "SRM MCH & RC",
     "LOCATION": "https://www.google.com/maps/place/SRM+Medical+College+Hospital+And+Research+Centre/@12.8208709,80.0459845,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52f65af1461c85:0xc25e844fa5fcadb8!8m2!3d12.8208657!4d80.0481732",
     "LAT": 12.82106445,
-    "LONG": 80.04815174
+    "LONG": 80.04815174,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 77,
@@ -1994,38 +2146,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:56:42",
+    "DATETIME": "2021-04-28 08:56:42",
     "CONTACT": 8126948524,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/St+Thomas+Hospital/@13.0120287,80.1962344,15z/data=!4m2!3m1!1s0x0:0x401e102f7e15fb77?sa=X&ved=2ahUKEwiS_rDW7JnwAhWIzTgGHfLUACcQ_BIwbXoECGYQBQ",
     "LAT": 13.01238411,
-    "LONG": 80.19627732
+    "LONG": 80.19627732,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 78,
     "DISTRICT": "Chennai",
     "HOSPITAL_NAME": "Sundaram Medical Foundation",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 20,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 18,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 2,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 16,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 4,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 14,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 12,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 11,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 3,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 6,
-    "ICU_BEDS_OCCUPIED": 6,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_OCCUPIED": 5,
+    "ICU_BEDS_VACANT": 1,
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 5,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:12:40",
+    "DATETIME": "2021-04-28 17:06:18",
     "CONTACT": 9884245646,
-    "REMARKS": "",
+    "REMARKS": "-",
     "LOCATION": "https://maps.google.com/?cid=1552665324980455356",
     "LAT": 13.0824952,
-    "LONG": 80.2074109
+    "LONG": 80.2074109,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 79,
@@ -2051,7 +2207,9 @@ tamil_nadu_data=[
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=14745837172293956666",
     "LAT": 12.86122,
-    "LONG": 80.1363527
+    "LONG": 80.1363527,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 80,
@@ -2077,7 +2235,9 @@ tamil_nadu_data=[
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=10184925761174489087",
     "LAT": 13.0771654,
-    "LONG": 80.2387205
+    "LONG": 80.2387205,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 81,
@@ -2098,12 +2258,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-27 9:32:08",
+    "DATETIME": "2021-04-27 09:32:08",
     "CONTACT": 9894467903,
     "REMARKS": "26-04-2021",
     "LOCATION": "https://www.google.com/maps/place/Tosh+Hospital+-+Orthopedic+Center+in+Chennai/@13.0824821,80.24093,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5265d7f2d2c3d9:0xdcaa20f8430a56e0!8m2!3d13.0824769!4d80.2431187",
     "LAT": 13.08257094,
-    "LONG": 80.2431187
+    "LONG": 80.2431187,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 82,
@@ -2129,7 +2291,9 @@ tamil_nadu_data=[
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=6138206537790548040",
     "LAT": 13.0383725,
-    "LONG": 80.2582435
+    "LONG": 80.2582435,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 83,
@@ -2150,12 +2314,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 9:59:57",
+    "DATETIME": "2021-04-28 09:59:57",
     "CONTACT": 9884875111,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=7651153200844971284",
     "LAT": 13.0733039,
-    "LONG": 80.252586
+    "LONG": 80.252586,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 84,
@@ -2176,12 +2342,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 10,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:28:27",
+    "DATETIME": "2021-04-28 08:28:27",
     "CONTACT": 9841275552,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Venkataeswara+Hospitals/@13.0263332,80.247097,15z/data=!4m9!1m2!2m1!1sChennai%09Venkateswara+Hospital!3m5!1s0x3a5267b1f0f26955:0xdaf15505e8cf3a8e!8m2!3d13.0294521!4d80.2440883!15sCh1DaGVubmFpCVZlbmthdGVzd2FyYSBIb3NwaXRhbFo2ChV2ZW5rYXRlc3dhcmEgaG9zcGl0YWwiHWNoZW5uYWkgdmVua2F0ZXN3YXJhIGhvc3BpdGFskgEOaGVhcnRfaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlZOM0ZsYVUxM0VBRQ",
     "LAT": 13.0263332,
-    "LONG": 80.247097
+    "LONG": 80.247097,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 85,
@@ -2202,12 +2370,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 11,
     "VENTILATOR_OCCUPIED": 11,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:33:17",
+    "DATETIME": "2021-04-28 06:33:17",
     "CONTACT": 4422542971,
     "REMARKS": "28/04/2021 at 6.30am",
     "LOCATION": "https://maps.google.com/?cid=8263694759454178218",
     "LAT": 13.0025312,
-    "LONG": 80.2468391
+    "LONG": 80.2468391,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 86,
@@ -2228,12 +2398,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:34:41",
+    "DATETIME": "2021-04-28 08:34:41",
     "CONTACT": 9841432348,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=7920578389001562036",
     "LAT": 13.087167,
-    "LONG": 80.218266
+    "LONG": 80.218266,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 87,
@@ -2254,12 +2426,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 8:14:22",
+    "DATETIME": "2021-04-28 08:14:22",
     "CONTACT": 9500126786,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=9149515155582243120",
     "LAT": 13.0496276,
-    "LONG": 80.2085132
+    "LONG": 80.2085132,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 88,
@@ -2285,7 +2459,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=1595604470948427957",
     "LAT": 13.0562741,
-    "LONG": 80.2477408
+    "LONG": 80.2477408,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 89,
@@ -2311,7 +2487,9 @@ tamil_nadu_data=[
     "REMARKS": "28 April 2021",
     "LOCATION": "https://maps.google.com/?cid=9510554457419929467",
     "LAT": 12.9257738,
-    "LONG": 80.135364
+    "LONG": 80.135364,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 90,
@@ -2337,7 +2515,9 @@ tamil_nadu_data=[
     "REMARKS": "28/4/2021 - 0",
     "LOCATION": "https://maps.google.com/?cid=4112693647688275235",
     "LAT": 13.111235,
-    "LONG": 80.2938835
+    "LONG": 80.2938835,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 91,
@@ -2358,12 +2538,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:55:11",
+    "DATETIME": "2021-04-28 08:55:11",
     "CONTACT": 7550000219,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=4358612657038401315",
     "LAT": 13.071801,
-    "LONG": 80.240477
+    "LONG": 80.240477,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 92,
@@ -2389,7 +2571,9 @@ tamil_nadu_data=[
     "REMARKS": "GKNM Cbe",
     "LOCATION": "https://maps.google.com/?cid=3362203305330429220",
     "LAT": 11.0121802,
-    "LONG": 76.9808814
+    "LONG": 76.9808814,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 93,
@@ -2415,7 +2599,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=8363779563122024742",
     "LAT": 11.019653,
-    "LONG": 76.9950548
+    "LONG": 76.9950548,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 94,
@@ -2441,7 +2627,9 @@ tamil_nadu_data=[
     "REMARKS": "49 POSITIVE + 9 SUSPECTS",
     "LOCATION": "https://maps.google.com/?cid=14553616789044441941",
     "LAT": 10.8743614,
-    "LONG": 77.0017465
+    "LONG": 77.0017465,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 95,
@@ -2467,7 +2655,9 @@ tamil_nadu_data=[
     "REMARKS": "KG HOSPITAL RACE COURSE Coimbatore",
     "LOCATION": "https://www.google.com/maps/place/KG+Hospital/@11.0002438,76.9693794,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba859a5b5400001:0x90b60ab4fbdd5cb4!8m2!3d11.0002385!4d76.9715681",
     "LAT": 11.00036486,
-    "LONG": 76.97160029
+    "LONG": 76.97160029,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 96,
@@ -2493,7 +2683,9 @@ tamil_nadu_data=[
     "REMARKS": "Kongunad Hospitals Pvt ltd",
     "LOCATION": "https://maps.google.com/?cid=10480289673575289798",
     "LAT": 11.0177156,
-    "LONG": 76.9605021
+    "LONG": 76.9605021,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 97,
@@ -2519,7 +2711,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=6331642149900480530",
     "LAT": 10.9954383,
-    "LONG": 76.9701545
+    "LONG": 76.9701545,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 98,
@@ -2540,38 +2734,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:37:20",
+    "DATETIME": "2021-04-28 09:37:20",
     "CONTACT": 9894955990,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=9263783293531029382",
     "LAT": 11.0266827,
-    "LONG": 76.9487696
+    "LONG": 76.9487696,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 99,
     "DISTRICT": "Coimbatore",
     "HOSPITAL_NAME": "PSG Institute Of Medical Sciences and Research, Coimbatore",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 400,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 396,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 4,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 400,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 170,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 170,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 200,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 196,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 4,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 200,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 30,
     "ICU_BEDS_OCCUPIED": 30,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 15,
     "VENTILATOR_OCCUPIED": 14,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 12:44:10",
+    "DATETIME": "2021-04-28 16:07:16",
     "CONTACT": 9894798896,
     "REMARKS": "28th APRIL",
     "LOCATION": "https://maps.google.com/?cid=9332748671184601",
     "LAT": 11.0184084,
-    "LONG": 77.0083609
+    "LONG": 77.0083609,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 100,
@@ -2592,12 +2790,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:01:00",
+    "DATETIME": "2021-04-28 07:01:00",
     "CONTACT": 7397769343,
-    "REMARKS": "Neelambur unit 28.04.2021",
+    "REMARKS": "Neelambur unit  28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=11761488721135224038",
     "LAT": 11.0592387,
-    "LONG": 77.089316
+    "LONG": 77.089316,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 101,
@@ -2618,12 +2818,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:01:44",
+    "DATETIME": "2021-04-28 07:01:44",
     "CONTACT": 7397769343,
     "REMARKS": "Gandhipuram unit - 28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/City+Unit+:+Royal+Care+Super+Specialty+Hospital/@11.0069185,76.9662458,15z/data=!4m9!1m2!2m1!1sRoyal+Care+Super+Speciality+Hospital+!3m5!1s0x3ba859a98efec5ff:0xb476ad43026c65e5!8m2!3d11.0078478!4d76.9666099!15sCiRSb3lhbCBDYXJlIFN1cGVyIFNwZWNpYWxpdHkgSG9zcGl0YWxaTAokcm95YWwgY2FyZSBzdXBlciBzcGVjaWFsaXR5IGhvc3BpdGFsIiRyb3lhbCBjYXJlIHN1cGVyIHNwZWNpYWxpdHkgaG9zcGl0YWySAQhob3NwaXRhbA?hl=en",
     "LAT": 11.0069185,
-    "LONG": 76.9662458
+    "LONG": 76.9662458,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 102,
@@ -2644,12 +2846,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:59:27",
+    "DATETIME": "2021-04-28 09:59:27",
     "CONTACT": 9384086458,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Sri+Ramakrishna+Hospital+(Multi-Speciality)/@11.0228089,76.9778688,15z/data=!4m2!3m1!1s0x0:0x2b94348a8824200f?sa=X&ved=2ahUKEwjhrZed75nwAhUOxjgGHdV1CtYQ_BIwd3oFCIQBEAU",
     "LAT": 11.02333545,
-    "LONG": 76.97804046
+    "LONG": 76.97804046,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 103,
@@ -2675,7 +2879,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=9329809269800070708",
     "LAT": 11.1335501,
-    "LONG": 77.0340652
+    "LONG": 77.0340652,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 104,
@@ -2696,12 +2902,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:32:54",
+    "DATETIME": "2021-04-28 09:32:54",
     "CONTACT": 9486456293,
-    "REMARKS": "As on 28-04-2021 Ventilator beds are in ICU for Emergency sick patients,)",
+    "REMARKS": "As on 28-04-2021 Ventilator beds are in ICU for  Emergency sick patients,)",
     "LOCATION": "https://maps.google.com/?cid=7751245618074964465",
     "LAT": 11.6202221,
-    "LONG": 79.4825371
+    "LONG": 79.4825371,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 105,
@@ -2722,12 +2930,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:18:17",
+    "DATETIME": "2021-04-28 07:18:17",
     "CONTACT": 7598001644,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Christian+Fellowship+Community+Health+Centre+Society/@10.5470468,77.7232561,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba9e543289805d9:0x58ae49e17f07f549!8m2!3d10.5470415!4d77.7254448",
     "LAT": 10.54734736,
-    "LONG": 77.72610999
+    "LONG": 77.72610999,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 106,
@@ -2748,12 +2958,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:53:46",
+    "DATETIME": "2021-04-28 08:53:46",
     "CONTACT": 8903002554,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=8012614490789274976",
     "LAT": 10.4881617,
-    "LONG": 77.7519041
+    "LONG": 77.7519041,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 107,
@@ -2774,12 +2986,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:22:49",
+    "DATETIME": "2021-04-28 08:22:49",
     "CONTACT": 8754680378,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=6805402954464542598",
     "LAT": 10.165712,
-    "LONG": 77.760817
+    "LONG": 77.760817,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 108,
@@ -2800,12 +3014,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 6:58:07",
+    "DATETIME": "2021-04-28 06:58:07",
     "CONTACT": 9842044447,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/St.+Joseph+Hospital/@10.369834,77.9795626,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00ab3253a49feb:0x599fb884d2f53f8b!8m2!3d10.3698287!4d77.9817513",
     "LAT": 10.36995533,
-    "LONG": 77.98184786
+    "LONG": 77.98184786,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 109,
@@ -2826,12 +3042,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 2:44:52",
+    "DATETIME": "2021-04-28 02:44:52",
     "CONTACT": 9942466002,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Vel+Hospital/@10.459284,77.513384,14z/data=!4m8!1m2!2m1!1sItteri+Rd,+Sathya+Nagar+Palani,+Tamil+Nadu+624601%E2%80%8E+04545+245+451!3m4!1s0x3ba9de81af3b90a1:0xa029d1e0a9ff0c7a!8m2!3d10.4597447!4d77.5126166?hl=en",
     "LAT": 10.46101429,
-    "LONG": 77.51243986
+    "LONG": 77.51243986,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 110,
@@ -2852,12 +3070,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 7:31:27",
+    "DATETIME": "2021-04-28 07:31:27",
     "CONTACT": 7373097188,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=5389501112868137042",
     "LAT": 11.3348704,
-    "LONG": 77.704512
+    "LONG": 77.704512,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 111,
@@ -2883,7 +3103,9 @@ tamil_nadu_data=[
     "REMARKS": "nil",
     "LOCATION": "https://maps.google.com/?cid=6035710734620856771",
     "LAT": 11.3385555,
-    "LONG": 77.7130605
+    "LONG": 77.7130605,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 112,
@@ -2904,12 +3126,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 12,
     "VENTILATOR_OCCUPIED": 12,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:09:20",
+    "DATETIME": "2021-04-28 09:09:20",
     "CONTACT": 9095662211,
     "REMARKS": "Nil",
     "LOCATION": "https://www.google.com/maps/place/Sudha+Hospitals+Erode/@11.3370655,77.7087879,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba96f232da2c4cd:0x4e5bf2004f0b2157!8m2!3d11.3370602!4d77.7109766",
     "LAT": 11.3372285,
-    "LONG": 77.71098733
+    "LONG": 77.71098733,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 113,
@@ -2930,12 +3154,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 8:52:15",
+    "DATETIME": "2021-04-28 08:52:15",
     "CONTACT": 6385867899,
     "REMARKS": 18,
     "LOCATION": "https://www.google.com/maps/place/Annai+Medical+Centre/@11.7382246,78.9761091,17z/data=!4m5!3m4!1s0x3bab6771ab7cff79:0xadbef12283488422!8m2!3d11.7382719!4d78.9755941",
     "LAT": 11.7382246,
-    "LONG": 78.9761091
+    "LONG": 78.9761091,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 114,
@@ -2956,12 +3182,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 6,
-    "DATETIME": "2021-04-28 9:32:49",
+    "DATETIME": "2021-04-28 09:32:49",
     "CONTACT": 9443147949,
     "REMARKS": "NILL",
     "LOCATION": "https://maps.google.com/?cid=1261613339612969478",
     "LAT": 11.9364783,
-    "LONG": 79.4850012
+    "LONG": 79.4850012,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 115,
@@ -2984,10 +3212,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 1,
     "DATETIME": "2021-04-28 10:22:14",
     "CONTACT": 9751344576,
-    "REMARKS": "0028\\r\\n\\r\\n\\r\\n23",
+    "REMARKS": "0028\n\n\n23",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 116,
@@ -3013,7 +3243,9 @@ tamil_nadu_data=[
     "REMARKS": "Lotus hospital. 28.04.2021...",
     "LOCATION": "https://www.google.com/maps/place/Lotus+Paediatric+Emergency+Centre,+Villupuram+Tn./@11.7208274,78.9532126,17z/data=!3m1!4b1!4m5!3m4!1s0x3bab66f593cc1e67:0x6dc6400403bbf672!8m2!3d11.7208222!4d78.9554013",
     "LAT": 11.72101128,
-    "LONG": 78.95533693
+    "LONG": 78.95533693,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 117,
@@ -3034,12 +3266,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:41:19",
+    "DATETIME": "2021-04-28 08:41:19",
     "CONTACT": 9443234056,
     "REMARKS": "28.04.21",
     "LOCATION": "https://maps.google.com/?cid=16420105496916041392",
     "LAT": 11.9411788,
-    "LONG": 79.4956689
+    "LONG": 79.4956689,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 118,
@@ -3060,12 +3294,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:37:31",
+    "DATETIME": "2021-04-28 08:37:31",
     "CONTACT": 9600523290,
     "REMARKS": "NA",
     "LOCATION": "https://www.google.com/maps/place/SA-Hospital/@11.8247832,78.9444144,17z/data=!3m1!4b1!4m5!3m4!1s0x3bab6196a14fefed:0xfa94980b0690b2cd!8m2!3d11.824778!4d78.9466031",
     "LAT": 11.8249145,
-    "LONG": 78.94646363
+    "LONG": 78.94646363,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 119,
@@ -3086,12 +3322,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 9,
     "VENTILATOR_OCCUPIED": 5,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 9:05:27",
+    "DATETIME": "2021-04-28 09:05:27",
     "CONTACT": 9750999352,
     "REMARKS": "Updated..",
     "LOCATION": "https://maps.google.com/?cid=10166899527404940711",
     "LAT": 11.7384274,
-    "LONG": 78.9649114
+    "LONG": 78.9649114,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 120,
@@ -3112,12 +3350,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:02:52",
+    "DATETIME": "2021-04-28 09:02:52",
     "CONTACT": 9943271810,
     "REMARKS": "Updated 28/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Bon+Secours+Hospital/@12.932235,79.8720253,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52ecffd949d5ff:0x429d1fc178c187bd!8m2!3d12.9322298!4d79.874214",
     "LAT": 12.93239709,
-    "LONG": 79.87452514
+    "LONG": 79.87452514,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 121,
@@ -3143,7 +3383,9 @@ tamil_nadu_data=[
     "REMARKS": "25.04.2021",
     "LOCATION": "https://maps.google.com/?cid=8448506975361496750",
     "LAT": 13.0429052,
-    "LONG": 80.2620165
+    "LONG": 80.2620165,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 122,
@@ -3169,7 +3411,9 @@ tamil_nadu_data=[
     "REMARKS": "27.4.2021",
     "LOCATION": "https://maps.google.com/?cid=949322837741245626",
     "LAT": 13.0032367,
-    "LONG": 80.1133189
+    "LONG": 80.1133189,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 123,
@@ -3190,12 +3434,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 6,
-    "DATETIME": "2021-04-28 9:07:27",
+    "DATETIME": "2021-04-28 09:07:27",
     "CONTACT": 9600002646,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=12088033798365296585",
     "LAT": 13.0178022,
-    "LONG": 80.110057
+    "LONG": 80.110057,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 124,
@@ -3216,12 +3462,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:50:16",
+    "DATETIME": "2021-04-28 09:50:16",
     "CONTACT": 9962061211,
     "REMARKS": "Updated 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=6400296929293721278",
     "LAT": 12.915053,
-    "LONG": 80.229813
+    "LONG": 80.229813,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 125,
@@ -3247,7 +3495,9 @@ tamil_nadu_data=[
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=14070437996735890891",
     "LAT": 8.189676,
-    "LONG": 77.412208
+    "LONG": 77.412208,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 126,
@@ -3273,7 +3523,9 @@ tamil_nadu_data=[
     "REMARKS": ".",
     "LOCATION": "https://www.google.com/maps/place/C.S.I.+Mission+Hospital/@8.1851729,77.4240653,16z/data=!4m9!1m2!2m1!1sKanyakumari%09C.S.I.MISSION+HOSPITAL!3m5!1s0x3b04f0d81a75474d:0xff49c6500cd5ed50!8m2!3d8.1864211!4d77.423315!15sCiJLYW55YWt1bWFyaQlDLlMuSS5NSVNTSU9OIEhPU1BJVEFMWjgKFGNzaSBtaXNzaW9uIGhvc3BpdGFsIiBrYW55YWt1bWFyaSBjc2kgbWlzc2lvbiBob3NwaXRhbJIBCGhvc3BpdGFs",
     "LAT": 8.1851729,
-    "LONG": 77.4240653
+    "LONG": 77.4240653,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 127,
@@ -3299,7 +3551,9 @@ tamil_nadu_data=[
     "REMARKS": "UPDATED ON 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=1076686762155931491",
     "LAT": 8.1847241,
-    "LONG": 77.4100906
+    "LONG": 77.4100906,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 128,
@@ -3325,7 +3579,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=6605044323731078990",
     "LAT": 8.3607182,
-    "LONG": 77.2930357
+    "LONG": 77.2930357,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 129,
@@ -3351,7 +3607,9 @@ tamil_nadu_data=[
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=2763529467106500520",
     "LAT": 8.1865439,
-    "LONG": 77.4292327
+    "LONG": 77.4292327,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 130,
@@ -3372,12 +3630,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:25:36",
+    "DATETIME": "2021-04-28 08:25:36",
     "CONTACT": 9585111073,
-    "REMARKS": "28.4.2021 vijayakumar \\r\\n",
+    "REMARKS": "28.4.2021 vijayakumar",
     "LOCATION": "https://www.google.com/maps/place/Amaravathi+Hospital/@10.9602403,78.0662975,17z/data=!3m1!4b1!4m5!3m4!1s0x3baa2fa88424fc81:0x4f612b540d0b380f!8m2!3d10.960235!4d78.0684862",
     "LAT": 10.96041405,
-    "LONG": 78.06857203
+    "LONG": 78.06857203,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 131,
@@ -3398,12 +3658,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:57:25",
+    "DATETIME": "2021-04-28 09:57:25",
     "CONTACT": 9524699211,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=4138506746420988270",
     "LAT": 10.9604394,
-    "LONG": 78.0644706
+    "LONG": 78.0644706,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 132,
@@ -3429,7 +3691,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=6155195123478188845",
     "LAT": 12.7425313,
-    "LONG": 77.8333407
+    "LONG": 77.8333407,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 133,
@@ -3450,12 +3714,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:55:56",
+    "DATETIME": "2021-04-28 09:55:56",
     "CONTACT": 7402733320,
     "REMARKS": "NILL",
     "LOCATION": "https://maps.google.com/?cid=4844789054161264736",
     "LAT": 12.7284909,
-    "LONG": 77.8244931
+    "LONG": 77.8244931,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 134,
@@ -3476,12 +3742,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-27 9:34:53",
+    "DATETIME": "2021-04-28 21:04:08",
     "CONTACT": 4524341187,
-    "REMARKS": "updated.",
+    "REMARKS": "updated...",
     "LOCATION": "https://www.google.com/maps/place/Appollo+Hospital/@9.9342754,78.143865,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00c93f5d503d95:0x243b460bb6f86918!8m2!3d9.9342701!4d78.1460537",
     "LAT": 9.934481446,
-    "LONG": 78.14601079
+    "LONG": 78.14601079,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 135,
@@ -3502,12 +3770,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:53:46",
+    "DATETIME": "2021-04-28 08:53:46",
     "CONTACT": 8015638874,
-    "REMARKS": "28.04.2021 Updated....\\r\\n",
+    "REMARKS": "28.04.2021 Updated....",
     "LOCATION": "https://www.google.com/maps/place/Bharathi+Hospital/@9.9463458,78.1421601,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00c5c54e42ec07:0x5d76cda8e35824ae!8m2!3d9.9463405!4d78.1443488",
     "LAT": 9.946594109,
-    "LONG": 78.1442737
+    "LONG": 78.1442737,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 136,
@@ -3528,12 +3798,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:31:04",
+    "DATETIME": "2021-04-28 18:04:58",
     "CONTACT": 8072738401,
-    "REMARKS": "Update",
+    "REMARKS": "Updated",
     "LOCATION": "https://maps.google.com/?cid=3936554045979060020",
     "LAT": 9.9577189,
-    "LONG": 78.1541208
+    "LONG": 78.1541208,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 137,
@@ -3559,7 +3831,9 @@ tamil_nadu_data=[
     "REMARKS": "Update..",
     "LOCATION": "https://www.google.com/maps/place/Guru+Hospital/@9.9435553,78.1625674,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00c4311e5f7d6d:0x7bd9cedb67c0ed6e!8m2!3d9.94355!4d78.1647561",
     "LAT": 9.943814178,
-    "LONG": 78.16480975
+    "LONG": 78.16480975,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 138,
@@ -3585,7 +3859,9 @@ tamil_nadu_data=[
     "REMARKS": "Updated 28.4.2021",
     "LOCATION": "https://maps.google.com/?cid=10301716083270254853",
     "LAT": 9.9282877,
-    "LONG": 78.1570502
+    "LONG": 78.1570502,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 139,
@@ -3611,7 +3887,9 @@ tamil_nadu_data=[
     "REMARKS": "UPDATED 28.04.2021.",
     "LOCATION": "https://maps.google.com/?cid=7598072585096837795",
     "LAT": 9.8723613,
-    "LONG": 78.1084632
+    "LONG": 78.1084632,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 140,
@@ -3632,38 +3910,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 1:11:23",
+    "DATETIME": "2021-04-28 20:47:54",
     "CONTACT": 7373072104,
-    "REMARKS": "Updated on 27.4.2021",
+    "REMARKS": "Updated on 27.4.2021..",
     "LOCATION": "https://maps.google.com/?cid=15248542930512463508",
     "LAT": 9.898329,
-    "LONG": 78.090372
+    "LONG": 78.090372,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 141,
     "DISTRICT": "Madurai",
     "HOSPITAL_NAME": "Meenakshi Mission Hospital and Research Centre",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 154,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 132,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 22,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 139,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 15,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 78,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 78,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 66,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 44,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 22,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 51,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 15,
     "ICU_BEDS_TOTAL": 10,
     "ICU_BEDS_OCCUPIED": 10,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 6,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:24:28",
+    "DATETIME": "2021-04-28 16:35:17",
     "CONTACT": 9524128222,
-    "REMARKS": "nIL\\r\\n",
+    "REMARKS": "NIL>>>>",
     "LOCATION": "https://maps.google.com/?cid=11743741240621101508",
     "LAT": 9.9479215,
-    "LONG": 78.1625445
+    "LONG": 78.1625445,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 142,
@@ -3684,12 +3966,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-27 10:32:34",
+    "DATETIME": "2021-04-28 20:40:08",
     "CONTACT": 8220044611,
-    "REMARKS": "27.04.2021",
+    "REMARKS": "27.04.2021..",
     "LOCATION": "https://www.google.com/maps/place/Rahavendhar+Hospital,Madurai+Tn./@9.9162108,78.1374762,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00c5a72bda5231:0x5e79e76a3cfe2495!8m2!3d9.9162055!4d78.1396649",
     "LAT": 9.916437995,
-    "LONG": 78.13961126
+    "LONG": 78.13961126,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 143,
@@ -3710,12 +3994,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 5:31:53",
+    "DATETIME": "2021-04-28 05:31:53",
     "CONTACT": 9894196876,
     "REMARKS": "28.04.2021 updated",
     "LOCATION": "https://www.google.com/maps/place/SARAVANA+MULTISPECIALITY+HOSPITAL+Pvt+Ltd.,+Madurai/@9.9410793,78.125578,17z/data=!4m5!3m4!1s0x3b00c5ee88123fe3:0x40b429e38807b835!8m2!3d9.9412959!4d78.1251703",
     "LAT": 9.9410793,
-    "LONG": 78.125578
+    "LONG": 78.125578,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 144,
@@ -3736,12 +4022,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 8:40:18",
+    "DATETIME": "2021-04-28 08:40:18",
     "CONTACT": 9750951115,
     "REMARKS": "UPDATE ON 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=2484666940889234555",
     "LAT": 9.9237908,
-    "LONG": 78.1435871
+    "LONG": 78.1435871,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 145,
@@ -3762,12 +4050,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-27 10:17:42",
+    "DATETIME": "2021-04-28 20:42:08",
     "CONTACT": 7358800889,
-    "REMARKS": "updated on 27/04/2021",
+    "REMARKS": "updated on 27/04/2021..",
     "LOCATION": "https://maps.google.com/?cid=2007347561081152074",
     "LAT": 9.9238564,
-    "LONG": 78.1467128
+    "LONG": 78.1467128,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 146,
@@ -3788,12 +4078,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:53:48",
+    "DATETIME": "2021-04-28 09:53:48",
     "CONTACT": 9047116145,
     "REMARKS": "28.04.2021....",
     "LOCATION": "https://maps.google.com/?cid=8380942348515344307",
     "LAT": 9.9282462,
-    "LONG": 78.099893
+    "LONG": 78.099893,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 147,
@@ -3814,12 +4106,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 9:57:12",
+    "DATETIME": "2021-04-28 20:51:49",
     "CONTACT": 4522545400,
-    "REMARKS": "Updated 27-04-2021.",
+    "REMARKS": "Updated 27-04-2021..",
     "LOCATION": "https://maps.google.com/?cid=4141699008189391279",
     "LAT": 9.9428427,
-    "LONG": 78.1303743
+    "LONG": 78.1303743,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 148,
@@ -3840,12 +4134,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 15,
     "VENTILATOR_OCCUPIED": 6,
     "VENTILATOR_VACANT": 9,
-    "DATETIME": "2021-04-28 8:30:50",
+    "DATETIME": "2021-04-28 08:30:50",
     "CONTACT": 8489900800,
     "REMARKS": "Updated....",
     "LOCATION": "https://maps.google.com/?cid=13509361223337235252",
     "LAT": 9.8870522,
-    "LONG": 78.1500486
+    "LONG": 78.1500486,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 149,
@@ -3866,12 +4162,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 11:56:44",
+    "DATETIME": "2021-04-28 16:16:30",
     "CONTACT": 9488755241,
-    "REMARKS": "Nil",
+    "REMARKS": "",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 150,
@@ -3892,12 +4190,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-21 8:42:15",
+    "DATETIME": "2021-04-21 08:42:15",
     "CONTACT": "NULL",
     "REMARKS": "Nil",
     "LOCATION": "https://www.google.com/maps/place/Ram+Bone+%26+Joint+Hospital/@11.1000186,79.6518462,17z/data=!3m1!4b1!4m5!3m4!1s0x3a552134442e5cfb:0xa954a7a5e20e46fe!8m2!3d11.1000133!4d79.6540349",
     "LAT": 11.10018173,
-    "LONG": 79.65438895
+    "LONG": 79.65438895,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 151,
@@ -3918,12 +4218,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-21 8:35:16",
+    "DATETIME": "2021-04-21 08:35:16",
     "CONTACT": "NULL",
     "REMARKS": "Nil",
     "LOCATION": "https://www.google.com/maps/place/SHANTHI+NURSING+HOME/@11.1015514,79.6504206,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5521347ecc6963:0x349728ee14c24af8!8m2!3d11.1015461!4d79.6526093",
     "LAT": 11.10166189,
-    "LONG": 79.65263076
+    "LONG": 79.65263076,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 152,
@@ -3944,12 +4246,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 6:57:51",
+    "DATETIME": "2021-04-28 06:57:51",
     "CONTACT": 9443221491,
     "REMARKS": "Reports submitted for 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=15043589919384208678",
     "LAT": 11.2233029,
-    "LONG": 78.1672934
+    "LONG": 78.1672934,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 153,
@@ -3970,12 +4274,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 6:55:42",
+    "DATETIME": "2021-04-28 06:55:42",
     "CONTACT": 9585554551,
     "REMARKS": "M M HOSPITAL REPORT UPDATE FOR 28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/M.M.+Hospital/@11.2102162,78.1754861,17z/data=!3m1!4b1!4m5!3m4!1s0x3babce97bfb01e3b:0x40f52451c38555b6!8m2!3d11.2102109!4d78.1776748",
     "LAT": 11.21035822,
-    "LONG": 78.1775997
+    "LONG": 78.1775997,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 154,
@@ -3996,12 +4302,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 6:56:26",
+    "DATETIME": "2021-04-28 06:56:26",
     "CONTACT": 8778642130,
-    "REMARKS": "Report submitted on : 28.04.2021",
+    "REMARKS": "Report submitted on  :  28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=10828033212877675393",
     "LAT": 11.2107644,
-    "LONG": 78.1670376
+    "LONG": 78.1670376,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 155,
@@ -4022,12 +4330,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:18:22",
+    "DATETIME": "2021-04-28 07:18:22",
     "CONTACT": 9843230685,
-    "REMARKS": "Submitted on 28.04.2021 on 07.15AM \\r\\n  \\r\\n",
+    "REMARKS": "Submitted on 28.04.2021 on 07.15AM",
     "LOCATION": "https://www.google.com/maps/place/Thangam+Hospital/@11.2146228,78.1722253,17z/data=!4m5!3m4!1s0x3babce93dcc5d201:0xeabcc6da9d057b31!8m2!3d11.2147438!4d78.171764",
     "LAT": 11.2146228,
-    "LONG": 78.1722253
+    "LONG": 78.1722253,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 156,
@@ -4048,12 +4358,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 5,
-    "DATETIME": "2021-04-28 8:20:01",
+    "DATETIME": "2021-04-28 08:20:01",
     "CONTACT": 9566908225,
     "REMARKS": "Dat28.04.2021 time. 08.18am",
     "LOCATION": "https://maps.google.com/?cid=9081574840387176202",
     "LAT": 11.3651775,
-    "LONG": 77.947823
+    "LONG": 77.947823,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 157,
@@ -4076,10 +4388,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 0,
     "DATETIME": "2021-04-28 13:28:48",
     "CONTACT": 9487257321,
-    "REMARKS": "28.04.2021\\r\\n",
+    "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=975899052319811632",
     "LAT": 11.5021466,
-    "LONG": 76.4989668
+    "LONG": 76.4989668,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 158,
@@ -4105,7 +4419,9 @@ tamil_nadu_data=[
     "REMARKS": "28/04/21",
     "LOCATION": "https://maps.google.com/?cid=12464416455750688853",
     "LAT": 11.3448471,
-    "LONG": 76.7982969
+    "LONG": 76.7982969,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 159,
@@ -4131,7 +4447,9 @@ tamil_nadu_data=[
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=2679362020606918896",
     "LAT": 11.3385063,
-    "LONG": 76.7940318
+    "LONG": 76.7940318,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 160,
@@ -4152,12 +4470,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-26 9:29:50",
+    "DATETIME": "2021-04-26 09:29:50",
     "CONTACT": 7708504141,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17792164454762837660",
     "LAT": 11.2416756,
-    "LONG": 78.8936434
+    "LONG": 78.8936434,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 161,
@@ -4178,12 +4498,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:32:05",
+    "DATETIME": "2021-04-28 06:32:05",
     "CONTACT": 9840694249,
     "REMARKS": "Today Report on 28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Arputhaa+Medical+Care+Hospital/@11.2357911,78.8732332,15z/data=!4m9!1m2!2m1!1sAruptha+Multispeciality+Hospital+perambalur!3m5!1s0x3bab1b7a21643d8b:0x5a2fd2cf7d1ad5f3!8m2!3d11.2341858!4d78.8775685!15sCitBcnVwdGhhIE11bHRpc3BlY2lhbGl0eSBIb3NwaXRhbCBwZXJhbWJhbHVyWk8KIGFydXB0aGEgbXVsdGlzcGVjaWFsaXR5IGhvc3BpdGFsIithcnVwdGhhIG11bHRpc3BlY2lhbGl0eSBob3NwaXRhbCBwZXJhbWJhbHVykgEIaG9zcGl0YWywAQA",
     "LAT": 11.23505446,
-    "LONG": 78.87739595
+    "LONG": 78.87739595,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 162,
@@ -4209,7 +4531,9 @@ tamil_nadu_data=[
     "REMARKS": "Report on 16.04.2021",
     "LOCATION": "https://maps.google.com/?cid=1371951394136183023",
     "LAT": 11.243117,
-    "LONG": 78.8937724
+    "LONG": 78.8937724,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 163,
@@ -4235,7 +4559,9 @@ tamil_nadu_data=[
     "REMARKS": "Nill.",
     "LOCATION": "https://www.google.com/maps/place/Dhanalakshimi+Srinivasan+Medical+College/@11.1972593,78.8685851,17z/data=!3m1!4b1!4m5!3m4!1s0x3bab1cedc2bab5b3:0x8fb4814c03324490!8m2!3d11.197254!4d78.8707738",
     "LAT": 11.19872797,
-    "LONG": 78.87066624
+    "LONG": 78.87066624,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 164,
@@ -4261,7 +4587,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Venkatesan+Hospital/@11.2351491,78.8752137,17z/data=!4m5!3m4!1s0x3bab1b7a7c7d84fb:0xb884b903bc7e9410!8m2!3d11.2353648!4d78.8753961",
     "LAT": 11.2351491,
-    "LONG": 78.8752137
+    "LONG": 78.8752137,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 165,
@@ -4282,12 +4610,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:20:59",
+    "DATETIME": "2021-04-28 09:20:59",
     "CONTACT": 7402191296,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Lakshmi+Hospital/@11.2362237,78.8698055,17z/data=!3m1!4b1!4m5!3m4!1s0x3bab1b6f41bd3edf:0x757026def379559e!8m2!3d11.2362184!4d78.8719942",
     "LAT": 11.23649199,
-    "LONG": 78.8719942
+    "LONG": 78.8719942,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 166,
@@ -4313,7 +4643,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Madhu+Hospital/@11.2364684,78.8831733,17z/data=!3m1!4b1!4m5!3m4!1s0x3bab1b9d144c67d7:0x2df8796476fff723!8m2!3d11.2364631!4d78.885362",
     "LAT": 11.23669459,
-    "LONG": 78.88537273
+    "LONG": 78.88537273,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 167,
@@ -4334,12 +4666,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:08:11",
+    "DATETIME": "2021-04-28 09:08:11",
     "CONTACT": 8778415178,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=13271839677281967471",
     "LAT": 11.2404576,
-    "LONG": 78.8643533
+    "LONG": 78.8643533,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 168,
@@ -4365,7 +4699,9 @@ tamil_nadu_data=[
     "REMARKS": "Report on 16.04.2021",
     "LOCATION": "https://maps.google.com/?cid=5312575217056607048",
     "LAT": 11.2380814,
-    "LONG": 78.8649081
+    "LONG": 78.8649081,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 169,
@@ -4391,7 +4727,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=12099682141558884180",
     "LAT": 11.424833,
-    "LONG": 77.553593
+    "LONG": 77.553593,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 170,
@@ -4412,12 +4750,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-23 8:35:26",
+    "DATETIME": "2021-04-23 08:35:26",
     "CONTACT": 0,
-    "REMARKS": "Today report 0\\r\\n23/04/2021",
+    "REMARKS": "Today report 0\n23/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Siva+Hospital/@11.2347048,78.8689207,17z/data=!3m1!4b1!4m5!3m4!1s0x3bab1b654470f079:0xa948279d3fabf068!8m2!3d11.2346995!4d78.8711094",
     "LAT": 11.23490995,
-    "LONG": 78.87117377
+    "LONG": 78.87117377,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 171,
@@ -4438,12 +4778,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-26 9:17:54",
+    "DATETIME": "2021-04-26 09:17:54",
     "CONTACT": 9566858686,
     "REMARKS": "Report on 26.04.2021",
     "LOCATION": "https://maps.google.com/?cid=5063523703253203369",
     "LAT": 11.014266,
-    "LONG": 76.9614268
+    "LONG": 76.9614268,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 172,
@@ -4469,7 +4811,9 @@ tamil_nadu_data=[
     "REMARKS": "NIL",
     "LOCATION": "https://maps.google.com/?cid=11004853840158845495",
     "LAT": 10.3794048,
-    "LONG": 78.8218912
+    "LONG": 78.8218912,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 173,
@@ -4490,12 +4834,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:09:25",
+    "DATETIME": "2021-04-28 09:09:25",
     "CONTACT": 7708287735,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=9125731036478034634",
     "LAT": 9.3612754,
-    "LONG": 78.8535946
+    "LONG": 78.8535946,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 174,
@@ -4516,12 +4862,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-26 9:09:55",
+    "DATETIME": "2021-04-26 09:09:55",
     "CONTACT": 9965281061,
     "REMARKS": "No Change",
     "LOCATION": "https://maps.google.com/?cid=14405119952022786831",
     "LAT": 9.3645302,
-    "LONG": 78.8327448
+    "LONG": 78.8327448,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 175,
@@ -4542,38 +4890,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:08:02",
+    "DATETIME": "2021-04-28 09:08:02",
     "CONTACT": 9487804442,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17453305118810256560",
     "LAT": 9.3702283,
-    "LONG": 78.8392126
+    "LONG": 78.8392126,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 176,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Annapoorna Medical College and Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 120,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 5,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 115,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 7,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 113,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 25,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 1,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 24,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 90,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 86,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 6,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 84,
     "ICU_BEDS_TOTAL": 5,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 5,
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 10:51:32",
+    "DATETIME": "2021-04-28 17:34:21",
     "CONTACT": 9585938970,
     "REMARKS": "B",
     "LOCATION": "https://maps.google.com/?cid=2381471050462730663",
     "LAT": 11.5773263,
-    "LONG": 78.0373748
+    "LONG": 78.0373748,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 177,
@@ -4599,7 +4951,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=16812090775908549839",
     "LAT": 11.6252594,
-    "LONG": 78.1451622
+    "LONG": 78.1451622,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 178,
@@ -4625,7 +4979,9 @@ tamil_nadu_data=[
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=1208227582312813607",
     "LAT": 11.6290236,
-    "LONG": 78.1488717
+    "LONG": 78.1488717,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 179,
@@ -4646,12 +5002,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 9,
     "VENTILATOR_OCCUPIED": 9,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:35:21",
+    "DATETIME": "2021-04-28 06:35:21",
     "CONTACT": 9443244774,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=6255419645910896257",
     "LAT": 11.6771803,
-    "LONG": 78.1353457
+    "LONG": 78.1353457,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 180,
@@ -4677,7 +5035,9 @@ tamil_nadu_data=[
     "REMARKS": "updated",
     "LOCATION": "https://www.google.com/maps/place/Manipal+Hospitals+Salem/@11.7030237,78.1005758,17z/data=!3m1!4b1!4m5!3m4!1s0x3babfa73ce407e39:0x4959b4b0652d724f!8m2!3d11.7030185!4d78.1027645",
     "LAT": 11.70318657,
-    "LONG": 78.10306491
+    "LONG": 78.10306491,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 181,
@@ -4703,7 +5063,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=8520371532343433545",
     "LAT": 11.6344582,
-    "LONG": 78.1241009
+    "LONG": 78.1241009,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 182,
@@ -4724,25 +5086,27 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 11:02:33",
+    "DATETIME": "2021-04-28 20:44:14",
     "CONTACT": 8754033833,
-    "REMARKS": "update by 28/04/2021 at 10.55AM",
+    "REMARKS": "update by 28/04/2021 at 8.35 PM",
     "LOCATION": "https://maps.google.com/?cid=13131770399452880633",
     "LAT": 11.6768894,
-    "LONG": 78.1530679
+    "LONG": 78.1530679,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 183,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "SKS Hospital",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 90,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 90,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 100,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 100,
     "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 30,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 30,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 60,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 60,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 70,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 70,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_OCCUPIED": 0,
@@ -4750,12 +5114,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:37:24",
+    "DATETIME": "2021-04-28 16:47:32",
     "CONTACT": 4274033333,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?q=SKS+Hospital+Rd,+Salem,+Tamil+Nadu+636016,+India&ftid=0x3babf046713b5c41:0xb4c1b43ce63aac73",
     "LAT": 11.670354,
-    "LONG": 78.1431415
+    "LONG": 78.1431415,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 184,
@@ -4781,7 +5147,9 @@ tamil_nadu_data=[
     "REMARKS": "28-04-21",
     "LOCATION": "https://maps.google.com/?cid=5537656376079635727",
     "LAT": 11.672718,
-    "LONG": 78.1339232
+    "LONG": 78.1339232,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 185,
@@ -4802,12 +5170,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:28:03",
+    "DATETIME": "2021-04-28 09:28:03",
     "CONTACT": 9500182225,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Vinayaka+Missions+Hospital/@11.6579779,78.0964788,12z/data=!4m9!1m2!2m1!1sVinayaka+Mission+Super+Specialty+Hospitals+Pvt+Ltd+salem!3m5!1s0x3babf1cf72e02f9f:0xca82cd1967925fe!8m2!3d11.6579779!4d78.1665166!15sCjhWaW5heWFrYSBNaXNzaW9uIFN1cGVyIFNwZWNpYWx0eSBIb3NwaXRhbHMgUHZ0IEx0ZCBzYWxlbVpuCjJ2aW5heWFrYSBtaXNzaW9uIHN1cGVyIHNwZWNpYWx0eSBob3NwaXRhbHMgcHZ0IGx0ZCI4dmluYXlha2EgbWlzc2lvbiBzdXBlciBzcGVjaWFsdHkgaG9zcGl0YWxzIHB2dCBsdGQgc2FsZW2SAQhob3NwaXRhbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VONU1rOUxWVk5SRUFF",
     "LAT": 11.66385372,
-    "LONG": 78.16720783
+    "LONG": 78.16720783,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 186,
@@ -4828,12 +5198,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 5,
-    "DATETIME": "2021-04-28 9:44:50",
+    "DATETIME": "2021-04-28 09:44:50",
     "CONTACT": 9751380971,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17401884496188262345",
     "LAT": 11.5969668,
-    "LONG": 78.0840816
+    "LONG": 78.0840816,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 187,
@@ -4854,12 +5226,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 9:30:36",
+    "DATETIME": "2021-04-28 09:30:36",
     "CONTACT": 6381456995,
-    "REMARKS": "28/04/2021\\r\\nPositive - 28\\r\\nSuspected-20\\r\\nTotal=48\\r\\n",
+    "REMARKS": "28/04/2021\nPositive - 28\nSuspected-20\nTotal=48",
     "LOCATION": "https://maps.google.com/?cid=16701810935663482478",
     "LAT": 10.0692618,
-    "LONG": 78.7796843
+    "LONG": 78.7796843,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 188,
@@ -4880,12 +5254,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 12,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 12,
-    "DATETIME": "2021-04-28 8:38:29",
+    "DATETIME": "2021-04-28 08:38:29",
     "CONTACT": 9842349875,
-    "REMARKS": "TOTAL BED:75\\r\\noccupied :57\\r\\nvacant beds :18\\r\\n",
+    "REMARKS": "TOTAL BED:75\noccupied :57\nvacant beds :18",
     "LOCATION": "https://www.google.com/maps/place/KG+Hospital+Thanjavur/@10.7767247,79.1345473,17z/data=!3m1!4b1!4m5!3m4!1s0x3baab890ccabc53d:0xecf8ed2f3fca8f67!8m2!3d10.7767194!4d79.136736",
     "LAT": 10.77698288,
-    "LONG": 79.13672527
+    "LONG": 79.13672527,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 189,
@@ -4906,12 +5282,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:23:25",
+    "DATETIME": "2021-04-28 08:23:25",
     "CONTACT": 7373799855,
     "REMARKS": "Positive-84 SARI-34",
     "LOCATION": "https://www.google.com/maps/place/Meenakshi+Multi+Speciality+Hospital/@10.7454389,79.109714,17z/data=!3m1!4b1!4m5!3m4!1s0x3baab8d51ab962c7:0x3892b442647b2dc8!8m2!3d10.7454336!4d79.1119027",
     "LAT": 10.74573927,
-    "LONG": 79.11195635
+    "LONG": 79.11195635,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 190,
@@ -4932,38 +5310,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 7:34:51",
+    "DATETIME": "2021-04-28 07:34:51",
     "CONTACT": 9087182644,
     "REMARKS": "27-04-2021",
     "LOCATION": "https://www.google.com/maps/place/Aakash+Hospital/@13.169486,80.3022104,17z/data=!3m1!4b1!4m5!3m4!1s0x3a526fdeab7b62c9:0x828e57126bd21b32!8m2!3d13.1694808!4d80.3043991",
     "LAT": 13.16970016,
-    "LONG": 80.30428108
+    "LONG": 80.30428108,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 191,
     "DISTRICT": "Tiruvallur",
     "HOSPITAL_NAME": "ACS Medical College And Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 50,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 37,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 13,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 35,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 15,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 5,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 2,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 3,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 40,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 30,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 10,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 27,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 13,
     "ICU_BEDS_TOTAL": 5,
     "ICU_BEDS_OCCUPIED": 5,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:18:17",
+    "DATETIME": "2021-04-28 21:30:00",
     "CONTACT": 9003060052,
-    "REMARKS": "CT positive -2 cases",
+    "REMARKS": "CT positive -1 cases",
     "LOCATION": "https://maps.google.com/?cid=17659380747691873909",
     "LAT": 13.0579493,
-    "LONG": 80.1273321
+    "LONG": 80.1273321,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 192,
@@ -4984,20 +5366,22 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:51:09",
+    "DATETIME": "2021-04-28 08:51:09",
     "CONTACT": 9629196441,
     "REMARKS": "update 24/04/2021",
     "LOCATION": "https://maps.google.com/?cid=17510864882502648470",
     "LAT": 13.1672877,
-    "LONG": 79.6156502
+    "LONG": 79.6156502,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 193,
     "DISTRICT": "Tiruvallur",
     "HOSPITAL_NAME": "Raj Nursing Home Mogappair East",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 34,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 32,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 2,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 31,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 3,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 19,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 18,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
@@ -5005,17 +5389,19 @@ tamil_nadu_data=[
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 2,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 13,
-    "ICU_BEDS_OCCUPIED": 12,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_OCCUPIED": 11,
+    "ICU_BEDS_VACANT": 2,
     "VENTILATOR_TOTAL": 8,
     "VENTILATOR_OCCUPIED": 7,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:03:26",
+    "DATETIME": "2021-04-28 20:11:09",
     "CONTACT": 8921334594,
-    "REMARKS": "27 / 04 / 2021  7 AM",
+    "REMARKS": "28 / 04 / 2021   7 PM",
     "LOCATION": "https://maps.google.com/?cid=8893145476329861493",
     "LAT": 13.0845853,
-    "LONG": 80.1876221
+    "LONG": 80.1876221,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 194,
@@ -5036,12 +5422,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:11:37",
+    "DATETIME": "2021-04-28 08:11:37",
     "CONTACT": 9840036349,
     "REMARKS": "Updated",
     "LOCATION": "https://www.google.com/maps/place/Ravina+Health+Care+Pvt+Ltd,+Tiruvallur+Tn./@12.9785522,80.124366,17z/data=!3m1!4b1!4m5!3m4!1s0x3a525fdbf33fd1a1:0xcb86f8fea680e398!8m2!3d12.978547!4d80.1265547",
     "LAT": 12.97873517,
-    "LONG": 80.12656543
+    "LONG": 80.12656543,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 195,
@@ -5062,12 +5450,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:23:54",
+    "DATETIME": "2021-04-28 16:06:58",
     "CONTACT": 9489136071,
-    "REMARKS": "28.04.2021-09.00 am",
+    "REMARKS": "28.04.2021-04.00 p.m.",
     "LOCATION": "https://maps.google.com/?cid=792728202297510510",
     "LAT": 13.1255449,
-    "LONG": 80.1440334
+    "LONG": 80.1440334,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 196,
@@ -5088,12 +5478,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:55:12",
+    "DATETIME": "2021-04-28 06:55:12",
     "CONTACT": 9551979777,
     "REMARKS": "updated 28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Sugam+Hospital/@13.1650058,80.3012123,17z/data=!3m1!4b1!4m5!3m4!1s0x3a525c7cb4b167e9:0x6ee9ae5b31fb6af1!8m2!3d13.1650006!4d80.303401",
     "LAT": 13.16532444,
-    "LONG": 80.30329371
+    "LONG": 80.30329371,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 197,
@@ -5114,12 +5506,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:44:47",
+    "DATETIME": "2021-04-28 08:44:47",
     "CONTACT": 9486047737,
-    "REMARKS": "All 58 covid positive patients admitted in non oxygen supported patients.",
+    "REMARKS": "All  58 covid positive patients admitted in non oxygen supported patients.",
     "LOCATION": "https://maps.google.com/?cid=12261137524631082611",
     "LAT": 12.225876,
-    "LONG": 79.026192
+    "LONG": 79.026192,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 198,
@@ -5140,12 +5534,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:23:46",
+    "DATETIME": "2021-04-28 16:48:29",
     "CONTACT": 9443260714,
-    "REMARKS": "28.04.2021",
+    "REMARKS": "28.04.2021 4PM",
     "LOCATION": "https://www.google.com/maps/place/Sacred+Heart+Hospital/@8.8140531,78.1447082,17z/data=!3m1!4b1!4m5!3m4!1s0x3b03ef8522f15f7f:0xab3e5abe753e4a0f!8m2!3d8.8140478!4d78.1468969",
     "LAT": 8.814291637,
-    "LONG": 78.14683253
+    "LONG": 78.14683253,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 199,
@@ -5166,12 +5562,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 7:36:19",
+    "DATETIME": "2021-04-28 16:49:17",
     "CONTACT": 9442667069,
-    "REMARKS": "SRI HOSPITALS.",
+    "REMARKS": "28-04-21 -04.00 PM.",
     "LOCATION": "https://www.google.com/maps/place/Sri+Hospital/@9.1701844,77.8768788,15z/data=!4m9!1m2!2m1!1sSri+Hospital!3m5!1s0x3b06b265349c33fb:0xc869a91b0eb338ad!8m2!3d9.1731605!4d77.8743367!15sCgxTcmkgSG9zcGl0YWxaHAoMc3JpIGhvc3BpdGFsIgxzcmkgaG9zcGl0YWySAQhob3NwaXRhbA",
     "LAT": 9.1701844,
-    "LONG": 77.8768788
+    "LONG": 77.8768788,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 200,
@@ -5192,12 +5590,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:27:54",
+    "DATETIME": "2021-04-28 18:17:39",
     "CONTACT": 7540094100,
-    "REMARKS": "Positive - 35, Suspected - 4\\r\\n28-4-2021",
+    "REMARKS": "Positive - 35, Suspected - 4\n28-4-2021 : 18.16 pm updated",
     "LOCATION": "https://maps.google.com/?cid=10331993977659770193",
     "LAT": 8.727142,
-    "LONG": 77.730275
+    "LONG": 77.730275,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 201,
@@ -5218,12 +5618,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-27 7:42:55",
+    "DATETIME": "2021-04-27 07:42:55",
     "CONTACT": 8300508737,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17937054830618838546",
     "LAT": 8.7004491,
-    "LONG": 77.7281671
+    "LONG": 77.7281671,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 202,
@@ -5244,12 +5646,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:15:35",
+    "DATETIME": "2021-04-28 09:15:35",
     "CONTACT": 7598264064,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17267588853119211856",
     "LAT": 8.7015139,
-    "LONG": 77.7236628
+    "LONG": 77.7236628,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 203,
@@ -5275,33 +5679,37 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Shifa+Multi+Speciality+Hospital/@10.3893512,77.9618732,17z/data=!4m9!1m2!2m1!1sShifa+Hospital+dindigul!3m5!1s0x3b00aa837e3965b7:0x8e54331fd9a46e53!8m2!3d10.3897725!4d77.9618761!15sChdTaGlmYSBIb3NwaXRhbCBkaW5kaWd1bFopCg5zaGlmYSBob3NwaXRhbCIXc2hpZmEgaG9zcGl0YWwgZGluZGlndWySAQhob3NwaXRhbA",
     "LAT": 10.3893512,
-    "LONG": 77.9618732
+    "LONG": 77.9618732,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 204,
     "DISTRICT": "Tiruppur",
     "HOSPITAL_NAME": "Revathi Medical Centre",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 60,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 57,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 3,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 50,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 10,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 38,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 38,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 30,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 8,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 12,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 9,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 3,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 10,
     "ICU_BEDS_OCCUPIED": 10,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 10:03:50",
+    "DATETIME": "2021-04-28 16:25:51",
     "CONTACT": 8072570015,
     "REMARKS": "NILL",
     "LOCATION": "https://maps.google.com/?cid=6794749795586782951",
     "LAT": 11.1202821,
-    "LONG": 77.3292348
+    "LONG": 77.3292348,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 205,
@@ -5322,12 +5730,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 6:36:17",
+    "DATETIME": "2021-04-28 06:36:17",
     "CONTACT": 7339603757,
     "REMARKS": "Updated on 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=7485540391546557692",
     "LAT": 10.7795174,
-    "LONG": 79.6099246
+    "LONG": 79.6099246,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 206,
@@ -5348,12 +5758,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:16:59",
+    "DATETIME": "2021-04-28 08:16:59",
     "CONTACT": 9788188177,
     "REMARKS": "Updated 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=1581922241206680300",
     "LAT": 10.774885,
-    "LONG": 79.6280909
+    "LONG": 79.6280909,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 207,
@@ -5376,10 +5788,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 6,
     "DATETIME": "2021-04-28 12:53:30",
     "CONTACT": 9095579303,
-    "REMARKS": "0 VENTILATOR \\r\\n1 HIF. \\r\\n9 O2 SUPPORT\\r\\n20 NON-02 SUPPORT..",
+    "REMARKS": "0 VENTILATOR \n1  HIF. \n9 O2 SUPPORT\n20 NON-02 SUPPORT..",
     "LOCATION": "https://maps.google.com/?cid=12534785688038697309",
     "LAT": 10.8347294,
-    "LONG": 78.6907837
+    "LONG": 78.6907837,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 208,
@@ -5400,12 +5814,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 13:31:42",
+    "DATETIME": "2021-04-28 16:28:13",
     "CONTACT": 9842164211,
-    "REMARKS": "Updated",
+    "REMARKS": "Updated done",
     "LOCATION": "https://www.google.com/maps/place/Apollo+SPECIALITY+HOSPITAL/@10.8102415,78.7186834,17z/data=!3m1!4b1!4m5!3m4!1s0x3baaf512c6f664dd:0xf0bd5cfe36c52b5b!8m2!3d10.8102362!4d78.7208721",
     "LAT": 10.81051018,
-    "LONG": 78.72086137
+    "LONG": 78.72086137,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 209,
@@ -5426,12 +5842,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:28:22",
+    "DATETIME": "2021-04-28 16:03:12",
     "CONTACT": 9095505550,
-    "REMARKS": "NIL",
+    "REMARKS": "nil",
     "LOCATION": "https://maps.google.com/?cid=1156455577837033349",
     "LAT": 10.8243154,
-    "LONG": 78.6952013
+    "LONG": 78.6952013,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 210,
@@ -5452,12 +5870,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 8,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 8,
-    "DATETIME": "2021-04-28 9:44:07",
+    "DATETIME": "2021-04-28 09:44:07",
     "CONTACT": 9626767945,
     "REMARKS": "Nil.",
     "LOCATION": "https://maps.google.com/?cid=7364053361831075109",
     "LAT": 10.8168449,
-    "LONG": 78.680995
+    "LONG": 78.680995,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 211,
@@ -5478,12 +5898,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:26:22",
+    "DATETIME": "2021-04-28 16:29:06",
     "CONTACT": 9944920163,
-    "REMARKS": "",
+    "REMARKS": "Update done",
     "LOCATION": "https://www.google.com/maps/place/Maruti+Hospital/@10.8102274,78.6785165,17z/data=!3m1!4b1!4m5!3m4!1s0x3baaf50cbbbc1b41:0xdaf03744c69653e2!8m2!3d10.8102221!4d78.6807052",
     "LAT": 10.81053824,
-    "LONG": 78.68074812
+    "LONG": 78.68074812,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 212,
@@ -5504,38 +5926,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 7,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 7,
-    "DATETIME": "2021-04-28 8:27:01",
+    "DATETIME": "2021-04-28 16:30:20",
     "CONTACT": 9442009956,
-    "REMARKS": "",
+    "REMARKS": "Update",
     "LOCATION": "https://maps.google.com/?cid=14502444282234780178",
     "LAT": 10.604036,
-    "LONG": 78.4168991
+    "LONG": 78.4168991,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 213,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "SRM Medical College Hospital And Research Centre, Trichy",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 200,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 121,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 79,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 90,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 31,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 59,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 90,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 90,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 122,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 78,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 40,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 30,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 10,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 140,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 92,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 48,
     "ICU_BEDS_TOTAL": 20,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 20,
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 10,
-    "DATETIME": "2021-04-28 13:26:35",
+    "DATETIME": "2021-04-28 16:32:11",
     "CONTACT": 8939999269,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=586738573575720",
     "LAT": 10.9545471,
-    "LONG": 78.7551019
+    "LONG": 78.7551019,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 214,
@@ -5556,12 +5982,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 8:36:07",
+    "DATETIME": "2021-04-28 08:36:07",
     "CONTACT": 9344270185,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=1693061562024558561",
     "LAT": 10.8461527,
-    "LONG": 78.6987017
+    "LONG": 78.6987017,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 215,
@@ -5582,12 +6010,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:45:43",
+    "DATETIME": "2021-04-28 16:08:35",
     "CONTACT": 9095505550,
-    "REMARKS": "Nil",
+    "REMARKS": "NIL",
     "LOCATION": "https://maps.google.com/?cid=1110240910263418918",
     "LAT": 10.8564299,
-    "LONG": 78.6922238
+    "LONG": 78.6922238,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 216,
@@ -5608,38 +6038,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:50:08",
+    "DATETIME": "2021-04-28 16:37:15",
     "CONTACT": 8903679900,
-    "REMARKS": "",
+    "REMARKS": "NILL",
     "LOCATION": "https://www.google.com/maps/place/Sundaram+hospitals/@10.8143205,78.6778328,15z/data=!4m5!3m4!1s0x0:0x96216d6caf8900a5!8m2!3d10.8143205!4d78.6778328",
     "LAT": 10.8143205,
-    "LONG": 78.6778328
+    "LONG": 78.6778328,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 217,
     "DISTRICT": "Thoothukudi",
     "HOSPITAL_NAME": "Kamala Speciality Hospitals Pvt Ltd, Kovilpatti",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 21,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 20,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 1,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 21,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 14,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 14,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 4,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 3,
     "ICU_BEDS_OCCUPIED": 3,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 10:08:20",
+    "DATETIME": "2021-04-28 17:45:06",
     "CONTACT": 9487576077,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=15845692192761546052",
     "LAT": 9.1726696,
-    "LONG": 77.8714879
+    "LONG": 77.8714879,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 218,
@@ -5665,33 +6099,37 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=4264606142990714159",
     "LAT": 12.922348,
-    "LONG": 79.275023
+    "LONG": 79.275023,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 219,
     "DISTRICT": "Vellore",
     "HOSPITAL_NAME": "Christian Medical College",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 404,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 314,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 90,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 356,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 266,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 90,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 439,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 351,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 88,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 387,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 300,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 87,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 48,
-    "ICU_BEDS_OCCUPIED": 48,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 21,
-    "VENTILATOR_OCCUPIED": 21,
+    "ICU_BEDS_TOTAL": 52,
+    "ICU_BEDS_OCCUPIED": 51,
+    "ICU_BEDS_VACANT": 1,
+    "VENTILATOR_TOTAL": 23,
+    "VENTILATOR_OCCUPIED": 23,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 15:34:06",
+    "DATETIME": "2021-04-28 14:59:10",
     "CONTACT": 9385285970,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Christian+Medical+College/@12.9308336,79.1364079,15z/data=!4m9!1m2!2m1!1sChristian+Medical+College+Kannigipuram+campus!3m5!1s0x0:0x79e4396cb3d9c72d!8m2!3d12.9246021!4d79.1348129!15sCi1DaHJpc3RpYW4gTWVkaWNhbCBDb2xsZWdlIEthbm5pZ2lwdXJhbSBjYW1wdXNaRAoTa2FubmlnaXB1cmFtIGNhbXB1cyItY2hyaXN0aWFuIG1lZGljYWwgY29sbGVnZSBrYW5uaWdpcHVyYW0gY2FtcHVzkgEObWVkaWNhbF9zY2hvb2yaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkpNRW8yTWxkQkVBRbABAA",
     "LAT": 12.9308336,
-    "LONG": 79.1364079
+    "LONG": 79.1364079,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 220,
@@ -5712,12 +6150,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2020-11-03 7:34:58",
+    "DATETIME": "2020-11-03 07:34:58",
     "CONTACT": "NULL",
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/CMC+COLLEGE+OF+NURSING/@12.9260653,79.1437035,15z/data=!4m9!1m2!2m1!1sChristian+Medical+College+Kannigipuram+campus!3m5!1s0x0:0x33e31e70d7349a4!8m2!3d12.9284382!4d79.1414362!15sCi1DaHJpc3RpYW4gTWVkaWNhbCBDb2xsZWdlIEthbm5pZ2lwdXJhbSBjYW1wdXNaRAoTa2FubmlnaXB1cmFtIGNhbXB1cyItY2hyaXN0aWFuIG1lZGljYWwgY29sbGVnZSBrYW5uaWdpcHVyYW0gY2FtcHVzkgEHY29sbGVnZQ",
     "LAT": 12.9260653,
-    "LONG": 79.1437035
+    "LONG": 79.1437035,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 221,
@@ -5743,7 +6183,9 @@ tamil_nadu_data=[
     "REMARKS": "Nil 27.04.2021",
     "LOCATION": "https://maps.google.com/?cid=1661761849678381883",
     "LAT": 12.8704797,
-    "LONG": 79.089967
+    "LONG": 79.089967,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 222,
@@ -5764,12 +6206,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:09:58",
+    "DATETIME": "2021-04-28 07:09:58",
     "CONTACT": 9025461813,
     "REMARKS": "18 - patient Admitted only",
     "LOCATION": "https://maps.google.com/?cid=8898269101593157835",
     "LAT": 9.4415552,
-    "LONG": 77.5611474
+    "LONG": 77.5611474,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 223,
@@ -5790,12 +6234,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 7:44:40",
+    "DATETIME": "2021-04-28 07:44:40",
     "CONTACT": 9159098003,
     "REMARKS": "Nil",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 224,
@@ -5816,12 +6262,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:51:18",
+    "DATETIME": "2021-04-28 08:51:18",
     "CONTACT": 9941550979,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=3205138690345806902",
     "LAT": 12.6900298,
-    "LONG": 79.9801221
+    "LONG": 79.9801221,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 225,
@@ -5842,12 +6290,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 7:57:12",
+    "DATETIME": "2021-04-28 07:57:12",
     "CONTACT": 9150127822,
     "REMARKS": "28/04/2021.",
     "LOCATION": "https://www.google.com/maps/@10.3726002,77.9855007,17z",
     "LAT": 10.37284817,
-    "LONG": 77.98770013
+    "LONG": 77.98770013,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 226,
@@ -5868,12 +6318,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 5:44:30",
+    "DATETIME": "2021-04-28 05:44:30",
     "CONTACT": 8870504662,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Rajarajeswari+Hospitals+Pvt+Ltd/@10.3600704,77.9788255,17z/data=!4m5!3m4!1s0x3b00ab2610087f9b:0xe283c83d3415e0bc!8m2!3d10.3600546!4d77.9785895",
     "LAT": 10.3600704,
-    "LONG": 77.9788255
+    "LONG": 77.9788255,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 227,
@@ -5899,7 +6351,9 @@ tamil_nadu_data=[
     "REMARKS": "Updated 28-04-2021..",
     "LOCATION": "https://maps.google.com/?cid=12235207042340990542",
     "LAT": 9.9326143,
-    "LONG": 78.1094557
+    "LONG": 78.1094557,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 228,
@@ -5920,12 +6374,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:08:49",
+    "DATETIME": "2021-04-28 09:08:49",
     "CONTACT": 7810084283,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=15027317559923786830",
     "LAT": 9.3715403,
-    "LONG": 78.8388706
+    "LONG": 78.8388706,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 229,
@@ -5946,12 +6402,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:36:17",
+    "DATETIME": "2021-04-28 06:36:17",
     "CONTACT": 9787116116,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=11312714460120269958",
     "LAT": 11.6623778,
-    "LONG": 78.1713854
+    "LONG": 78.1713854,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 230,
@@ -5972,12 +6430,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:34:19",
+    "DATETIME": "2021-04-28 16:45:18",
     "CONTACT": 7604919191,
-    "REMARKS": "",
+    "REMARKS": "Update done",
     "LOCATION": "https://maps.google.com/?cid=10867771059988167866",
     "LAT": 10.854571,
-    "LONG": 78.70056
+    "LONG": 78.70056,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 231,
@@ -5998,12 +6458,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:37:13",
+    "DATETIME": "2021-04-28 09:37:13",
     "CONTACT": 8940222211,
     "REMARKS": "Updated...",
     "LOCATION": "https://maps.google.com/?cid=8459270706642276320",
     "LAT": 9.9194188,
-    "LONG": 78.093201
+    "LONG": 78.093201,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 232,
@@ -6024,12 +6486,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:23:17",
+    "DATETIME": "2021-04-28 09:23:17",
     "CONTACT": 9500440696,
     "REMARKS": "Nil - 28.04.2021.",
     "LOCATION": "https://maps.google.com/?cid=14505837451681830254",
     "LAT": 9.922966,
-    "LONG": 78.138133
+    "LONG": 78.138133,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 233,
@@ -6055,7 +6519,9 @@ tamil_nadu_data=[
     "REMARKS": "TWENTY FIVE",
     "LOCATION": "https://maps.google.com/?cid=9908008424038551622",
     "LAT": 9.9648018,
-    "LONG": 77.7955151
+    "LONG": 77.7955151,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 234,
@@ -6076,12 +6542,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:35:41",
+    "DATETIME": "2021-04-28 08:35:41",
     "CONTACT": 9629373744,
-    "REMARKS": "updated 28.04.2021...\\r\\n",
+    "REMARKS": "updated 28.04.2021...",
     "LOCATION": "https://maps.google.com/?cid=16527576348464667448",
     "LAT": 9.9498835,
-    "LONG": 78.1476104
+    "LONG": 78.1476104,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 235,
@@ -6102,12 +6570,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 6:07:10",
+    "DATETIME": "2021-04-28 06:07:10",
     "CONTACT": 9443744085,
-    "REMARKS": "Covid - 19 patients today updated  28.04.2021. \\r\\nThanking You !",
+    "REMARKS": "Covid -  19 patients today updated   28.04.2021. \nThanking You !",
     "LOCATION": "https://maps.google.com/?cid=6578747104548545917",
     "LAT": 9.901384,
-    "LONG": 78.094331
+    "LONG": 78.094331,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 236,
@@ -6128,12 +6598,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 7:02:16",
+    "DATETIME": "2021-04-28 20:55:00",
     "CONTACT": 9894208601,
-    "REMARKS": "NTC HOSPITALS MADURAI 26-04-2021  7 am",
+    "REMARKS": "NTC HOSPITALS MADURAI 26-04-2021   7 am.",
     "LOCATION": "https://maps.google.com/?cid=3101688346789392523",
     "LAT": 9.94118,
-    "LONG": 78.101961
+    "LONG": 78.101961,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 237,
@@ -6159,7 +6631,9 @@ tamil_nadu_data=[
     "REMARKS": "as on 28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Raks+Hospitals+Pvt+Ltd/@9.9239543,78.1411172,17z/data=!4m5!3m4!1s0x3b00c5a4a4b47e23:0x13e3e2a4d46542f5!8m2!3d9.9240653!4d78.1407202",
     "LAT": 9.9239543,
-    "LONG": 78.1411172
+    "LONG": 78.1411172,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 238,
@@ -6180,12 +6654,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:53:22",
+    "DATETIME": "2021-04-28 08:53:22",
     "CONTACT": 9884850982,
     "REMARKS": "Date 28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=16567850743219269175",
     "LAT": 12.992533,
-    "LONG": 80.2061241
+    "LONG": 80.2061241,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 239,
@@ -6208,10 +6684,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 1,
     "DATETIME": "2021-04-23 11:42:47",
     "CONTACT": 0,
-    "REMARKS": "Updated 25\\r\\n23/04/2021",
+    "REMARKS": "Updated 25\n23/04/2021",
     "LOCATION": "https://maps.google.com/?cid=16910796917645345163",
     "LAT": 13.0769394,
-    "LONG": 80.23391
+    "LONG": 80.23391,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 240,
@@ -6232,12 +6710,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:56:06",
+    "DATETIME": "2021-04-28 08:56:06",
     "CONTACT": 9842115123,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=16053162848327115605",
     "LAT": 13.006605,
-    "LONG": 80.250684
+    "LONG": 80.250684,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 241,
@@ -6258,38 +6738,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:55:42",
+    "DATETIME": "2021-04-28 08:55:42",
     "CONTACT": 8883381666,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=17820713315626822614",
     "LAT": 13.121858,
-    "LONG": 80.148291
+    "LONG": 80.148291,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 242,
     "DISTRICT": "Chengalpattu",
     "HOSPITAL_NAME": "Parvathy Hospital Chrompet,",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 45,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 35,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 10,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 10,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 38,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 7,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 12,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 12,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 17,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 7,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 10,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 15,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 8,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 7,
     "ICU_BEDS_TOTAL": 18,
     "ICU_BEDS_OCCUPIED": 18,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 10:13:25",
+    "DATETIME": "2021-04-28 17:32:38",
     "CONTACT": 7825830723,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=17524352423390732131",
     "LAT": 12.946083,
-    "LONG": 80.136562
+    "LONG": 80.136562,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 243,
@@ -6310,12 +6794,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:21:45",
+    "DATETIME": "2021-04-28 08:21:45",
     "CONTACT": 9380570712,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=7289137197569536301",
     "LAT": 13.0947492,
-    "LONG": 80.2796868
+    "LONG": 80.2796868,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 244,
@@ -6336,12 +6822,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:15:11",
+    "DATETIME": "2021-04-28 07:15:11",
     "CONTACT": 7010229157,
-    "REMARKS": "28.04.2021\\r\\n",
+    "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=2906748856631356130",
     "LAT": 13.10637,
-    "LONG": 80.294926
+    "LONG": 80.294926,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 245,
@@ -6367,7 +6855,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021 vvv",
     "LOCATION": "https://maps.google.com/?cid=8454608076042184931",
     "LAT": 11.0108874,
-    "LONG": 77.0126131
+    "LONG": 77.0126131,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 246,
@@ -6388,38 +6878,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 7:50:33",
+    "DATETIME": "2021-04-28 07:50:33",
     "CONTACT": 9150758413,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=7341510081893188006",
     "LAT": 10.366464,
-    "LONG": 77.977433
+    "LONG": 77.977433,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 247,
     "DISTRICT": "Dindigul",
     "HOSPITAL_NAME": "Shree SathyaSubha Hospital, New Agaraharam",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 50,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 25,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 25,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 32,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 18,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 47,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 22,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 25,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 32,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 15,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 3,
-    "ICU_BEDS_OCCUPIED": 3,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_OCCUPIED": 0,
+    "ICU_BEDS_VACANT": 3,
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 7:59:18",
+    "DATETIME": "2021-04-28 15:36:01",
     "CONTACT": 6381781885,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Shree+Sathya+Subha+Hospital+(Multi+Speciality+Hospital)/@10.3657653,77.9726555,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00aa5f6b73f033:0xf83c0dd1b2865129!8m2!3d10.36576!4d77.9748442",
     "LAT": 10.36602383,
-    "LONG": 77.97486566
+    "LONG": 77.97486566,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 248,
@@ -6440,12 +6934,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:05:30",
+    "DATETIME": "2021-04-28 08:05:30",
     "CONTACT": 6374042759,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=3219808090547216521",
     "LAT": 10.2321406,
-    "LONG": 77.4938129
+    "LONG": 77.4938129,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 249,
@@ -6471,7 +6967,9 @@ tamil_nadu_data=[
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=192849121143038227",
     "LAT": 8.2875306,
-    "LONG": 77.2709872
+    "LONG": 77.2709872,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 250,
@@ -6492,12 +6990,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:30:11",
+    "DATETIME": "2021-04-28 08:30:11",
     "CONTACT": 9791938235,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Vijay+Sai+Health+Care+Hosur+Pvt+Ltd/@12.7315175,77.8261273,15z/data=!4m9!1m2!2m1!1sVijay+Sai+Health+Care+Pvt+Ltd+Krishnagiri!3m5!1s0x0:0xe3478ca8d37f0230!8m2!3d12.7322429!4d77.8252831!15sCilWaWpheSBTYWkgSGVhbHRoIENhcmUgUHZ0IEx0ZCBLcmlzaG5hZ2lyaZIBCGhvc3BpdGFs",
     "LAT": 12.7315175,
-    "LONG": 77.8261273
+    "LONG": 77.8261273,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 251,
@@ -6518,12 +7018,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-27 10:28:44",
+    "DATETIME": "2021-04-28 20:41:18",
     "CONTACT": 7639845222,
-    "REMARKS": "updated 27/04/2021",
+    "REMARKS": "updated 27/04/2021..",
     "LOCATION": "https://maps.google.com/?cid=9110144523205154027",
     "LAT": 9.9256102,
-    "LONG": 78.1700491
+    "LONG": 78.1700491,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 252,
@@ -6549,7 +7051,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=2729570290563673106",
     "LAT": 11.6336372,
-    "LONG": 78.1267636
+    "LONG": 78.1267636,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 253,
@@ -6570,12 +7074,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:07:54",
+    "DATETIME": "2021-04-28 09:07:54",
     "CONTACT": 9597195283,
     "REMARKS": "28-04-2021",
     "LOCATION": "https://www.google.com/maps/place/Devaki+Speciality+Hospital/@10.0677485,78.78126,13z/data=!4m9!1m2!2m1!1sDevaki+Multi+Speciality+Hospital!3m5!1s0x0:0x5e74b05697eb755a!8m2!3d10.0741718!4d78.7729892!15sCiBEZXZha2kgTXVsdGkgU3BlY2lhbGl0eSBIb3NwaXRhbFpECiBkZXZha2kgbXVsdGkgc3BlY2lhbGl0eSBob3NwaXRhbCIgZGV2YWtpIG11bHRpIHNwZWNpYWxpdHkgaG9zcGl0YWySAQhob3NwaXRhbA",
     "LAT": 10.0677485,
-    "LONG": 78.78126
+    "LONG": 78.78126,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 254,
@@ -6601,7 +7107,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Karthik+multispeciality+Hospital/@9.8483611,78.4825153,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00fad02492f201:0x60090d64ae7654c4!8m2!3d9.8483558!4d78.484704",
     "LAT": 9.848620054,
-    "LONG": 78.48475765
+    "LONG": 78.48475765,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 255,
@@ -6622,12 +7130,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:30:20",
+    "DATETIME": "2021-04-28 16:33:36",
     "CONTACT": 7339565444,
-    "REMARKS": "Nil",
+    "REMARKS": "Nill",
     "LOCATION": "https://maps.google.com/?cid=6824117956029817050",
     "LAT": 10.7822338,
-    "LONG": 78.701587
+    "LONG": 78.701587,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 256,
@@ -6648,12 +7158,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 13:33:38",
+    "DATETIME": "2021-04-28 16:11:51",
     "CONTACT": 8610967053,
-    "REMARKS": "Nil..",
+    "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=889690003962734082",
     "LAT": 9.1755149,
-    "LONG": 77.8795728
+    "LONG": 77.8795728,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 257,
@@ -6674,12 +7186,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:41:27",
+    "DATETIME": "2021-04-28 09:41:27",
     "CONTACT": 7299057877,
     "REMARKS": "28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=14742602533240321832",
     "LAT": 13.0558222,
-    "LONG": 80.224047
+    "LONG": 80.224047,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 258,
@@ -6705,7 +7219,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=13365802981476174224",
     "LAT": 10.3714726,
-    "LONG": 77.9534364
+    "LONG": 77.9534364,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 259,
@@ -6731,7 +7247,9 @@ tamil_nadu_data=[
     "REMARKS": "No changes 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=8425735664720905616",
     "LAT": 9.9214229,
-    "LONG": 78.142977
+    "LONG": 78.142977,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 260,
@@ -6752,12 +7270,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:05:05",
+    "DATETIME": "2021-04-28 15:14:13",
     "CONTACT": 7708773633,
-    "REMARKS": "Updated on 28.04.2021 09.00 am",
+    "REMARKS": "Updated on 28.04.2021  3.13 am",
     "LOCATION": "https://maps.google.com/?cid=8772032377392875156",
     "LAT": 9.901397,
-    "LONG": 78.121138
+    "LONG": 78.121138,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 261,
@@ -6780,10 +7300,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 1,
     "DATETIME": "2021-04-28 10:11:57",
     "CONTACT": 7904443644,
-    "REMARKS": "Covid positive-3\\r\\nCovid Suspect-6\\r\\nTotal-9",
+    "REMARKS": "Covid positive-3\nCovid Suspect-6\nTotal-9",
     "LOCATION": "https://maps.google.com/?cid=17067964296740934906",
     "LAT": 9.6880916,
-    "LONG": 78.4495742
+    "LONG": 78.4495742,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 262,
@@ -6804,12 +7326,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 10:36:54",
+    "DATETIME": "2021-04-28 20:59:07",
     "CONTACT": 9659462722,
-    "REMARKS": "Nil....",
+    "REMARKS": "Nil......",
     "LOCATION": "https://www.google.com/maps/place/Ahana+Hospitals+-+Gandhi+Nagar+COVID-19+Branch/@9.9245967,78.1353259,17z/data=!4m9!1m2!2m1!1sAhana+Hospital+madurai!3m5!1s0x3b00c5bccd6aa769:0x179671dd6b798ff3!8m2!3d9.9245967!4d78.1375146!15sChZBaGFuYSBIb3NwaXRhbCBtYWR1cmFpWjAKFmFoYW5hIGhvc3BpdGFsIG1hZHVyYWkiFmFoYW5hIGhvc3BpdGFsIG1hZHVyYWmSARRwc3ljaGlhdHJpY19ob3NwaXRhbJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSRE5ISk1ZME4zRUFF",
     "LAT": 9.924718228,
-    "LONG": 78.13750387
+    "LONG": 78.13750387,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 263,
@@ -6830,12 +7354,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:01:49",
+    "DATETIME": "2021-04-28 09:01:49",
     "CONTACT": 7299021425,
     "REMARKS": "Updated 28/4/2020",
     "LOCATION": "https://maps.google.com/?cid=7569953155924184089",
     "LAT": 12.9632191,
-    "LONG": 80.2457308
+    "LONG": 80.2457308,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 264,
@@ -6856,12 +7382,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-23 9:31:03",
+    "DATETIME": "2021-04-23 09:31:03",
     "CONTACT": 0,
     "REMARKS": "Updated 23/04/2021",
     "LOCATION": "https://maps.google.com/?cid=13773627158194801660",
     "LAT": 13.1009743,
-    "LONG": 80.1795547
+    "LONG": 80.1795547,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 265,
@@ -6887,7 +7415,9 @@ tamil_nadu_data=[
     "REMARKS": "updated 28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=10779760012728571444",
     "LAT": 12.9996252,
-    "LONG": 80.2536985
+    "LONG": 80.2536985,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 266,
@@ -6913,15 +7443,17 @@ tamil_nadu_data=[
     "REMARKS": "26/04/2021",
     "LOCATION": "https://maps.google.com/?cid=11174037003341258822",
     "LAT": 13.1192751,
-    "LONG": 80.2890951
+    "LONG": 80.2890951,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 267,
     "DISTRICT": "Chennai",
     "HOSPITAL_NAME": "Saraswathy Multi Speciality Hospitals, Madipakkam",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 85,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 82,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 3,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 77,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 8,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 30,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 30,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -6929,17 +7461,19 @@ tamil_nadu_data=[
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 17,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 35,
-    "ICU_BEDS_OCCUPIED": 35,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_OCCUPIED": 30,
+    "ICU_BEDS_VACANT": 5,
     "VENTILATOR_TOTAL": 6,
-    "VENTILATOR_OCCUPIED": 5,
-    "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 7:24:03",
+    "VENTILATOR_OCCUPIED": 3,
+    "VENTILATOR_VACANT": 3,
+    "DATETIME": "2021-04-28 14:20:26",
     "CONTACT": 9790905916,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=1910733996195021538",
     "LAT": 12.9654504,
-    "LONG": 80.2067272
+    "LONG": 80.2067272,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 268,
@@ -6965,7 +7499,9 @@ tamil_nadu_data=[
     "REMARKS": "26-04-2021",
     "LOCATION": "https://maps.google.com/?cid=6963577523679098789",
     "LAT": 13.1503146,
-    "LONG": 80.29834
+    "LONG": 80.29834,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 269,
@@ -6986,17 +7522,19 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 7:52:01",
+    "DATETIME": "2021-04-28 07:52:01",
     "CONTACT": 9940593999,
     "REMARKS": "28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=12847575484825747208",
     "LAT": 13.0861477,
-    "LONG": 80.1873735
+    "LONG": 80.1873735,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 270,
     "DISTRICT": "Coimbatore",
-    "HOSPITAL_NAME": "Abinand Hospital",
+    "HOSPITAL_NAME": "Abinand  Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 55,
     "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 48,
     "BEDS_FOR_SUSPECTED_CASES_VACANT": 7,
@@ -7015,9 +7553,11 @@ tamil_nadu_data=[
     "DATETIME": "2021-04-28 13:35:24",
     "CONTACT": 8838689898,
     "REMARKS": "on 28.04.2021",
-    "LOCATION": "https://www.google.com/maps/place/Abinand+Hospital/@10.9544734,76.971255,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba85a2efde14eb7:0xf0edef69c40506b1!8m2!3d10.9544681!4d76.9734437",
-    "LAT": 10.95459448,
-    "LONG": 76.9734437
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 271,
@@ -7040,10 +7580,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 0,
     "DATETIME": "2021-04-28 10:53:12",
     "CONTACT": 9952200057,
-    "REMARKS": "Grand total 60. 28/4.2021",
+    "REMARKS": "Grand total 60.  28/4.2021",
     "LOCATION": "https://maps.google.com/?cid=14810894684835771301",
     "LAT": 10.9525334,
-    "LONG": 76.9732166
+    "LONG": 76.9732166,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 272,
@@ -7069,7 +7611,9 @@ tamil_nadu_data=[
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=6530818100980443821",
     "LAT": 11.3381527,
-    "LONG": 77.7140189
+    "LONG": 77.7140189,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 273,
@@ -7090,12 +7634,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 8:16:07",
+    "DATETIME": "2021-04-27 08:16:07",
     "CONTACT": 7904569873,
-    "REMARKS": "UPDATED TILL 27/04/2021 08:00AM",
+    "REMARKS": "UPDATED TILL 27/04/2021  08:00AM",
     "LOCATION": "https://maps.google.com/?cid=9847014584751754635",
     "LAT": 12.8260148,
-    "LONG": 80.2193449
+    "LONG": 80.2193449,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 274,
@@ -7121,33 +7667,37 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=10292827520395075518",
     "LAT": 8.18827,
-    "LONG": 77.42716
+    "LONG": 77.42716,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 275,
     "DISTRICT": "Kanyakumari",
     "HOSPITAL_NAME": "Siva Hospital, Nagercoil",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 50,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 28,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 22,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 30,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 20,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 20,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 6,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 14,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 25,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 20,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 5,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 22,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 5,
     "ICU_BEDS_OCCUPIED": 2,
     "ICU_BEDS_VACANT": 3,
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 11:26:20",
+    "DATETIME": "2021-04-28 16:51:53",
     "CONTACT": 9443152469,
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=14182828147457126854",
     "LAT": 8.1682504,
-    "LONG": 77.4358943
+    "LONG": 77.4358943,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 276,
@@ -7168,12 +7718,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 8:39:09",
+    "DATETIME": "2021-04-28 08:39:09",
     "CONTACT": 8300393424,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=6666559428848259673",
     "LAT": 10.9431458,
-    "LONG": 78.0891654
+    "LONG": 78.0891654,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 277,
@@ -7199,7 +7751,9 @@ tamil_nadu_data=[
     "REMARKS": "Beds Occupied 80",
     "LOCATION": "https://www.google.com/maps/place/SRI+CHANDRA+SEKARA+HOSPITAL/@12.7425313,77.8333407,15z/data=!4m5!3m4!1s0x0:0x556ba55a6a22532d!8m2!3d12.7425313!4d77.8333407",
     "LAT": 12.7425313,
-    "LONG": 77.8333407
+    "LONG": 77.8333407,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 278,
@@ -7220,12 +7774,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-27 8:13:01",
+    "DATETIME": "2021-04-28 20:56:23",
     "CONTACT": 9047075271,
-    "REMARKS": "27.04.2021 ( covid - 19 four patients admission in our hospital )",
+    "REMARKS": "27.04.2021 ( covid - 19 four patients admission in our hospital ) ..",
     "LOCATION": "https://maps.google.com/?cid=14425238681136412410",
     "LAT": 9.96616,
-    "LONG": 78.135917
+    "LONG": 78.135917,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 279,
@@ -7246,12 +7802,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:47:36",
+    "DATETIME": "2021-04-28 09:47:36",
     "CONTACT": 8122486160,
     "REMARKS": "28.04.2021 UPDATED...",
     "LOCATION": "https://maps.google.com/?cid=4688556652509717797",
     "LAT": 9.9060399,
-    "LONG": 78.1074236
+    "LONG": 78.1074236,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 280,
@@ -7277,7 +7835,9 @@ tamil_nadu_data=[
     "REMARKS": "Update . 28.04. 2021........",
     "LOCATION": "https://maps.google.com/?cid=4215677420285888925",
     "LAT": 9.905232,
-    "LONG": 78.105941
+    "LONG": 78.105941,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 281,
@@ -7298,20 +7858,22 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:00:22",
+    "DATETIME": "2021-04-28 09:00:22",
     "CONTACT": 9943450401,
-    "REMARKS": "DISCHARGE - 1\\r\\nADMISSION - 1",
+    "REMARKS": "DISCHARGE - 1\nADMISSION - 1",
     "LOCATION": "https://maps.google.com/?cid=12121397851622128341",
     "LAT": 9.917351,
-    "LONG": 78.108189
+    "LONG": 78.108189,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 282,
     "DISTRICT": "Madurai",
     "HOSPITAL_NAME": "Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 33,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 10,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 23,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 11,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 22,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 5,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
@@ -7319,17 +7881,19 @@ tamil_nadu_data=[
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 5,
     "ICU_BEDS_TOTAL": 23,
-    "ICU_BEDS_OCCUPIED": 7,
-    "ICU_BEDS_VACANT": 16,
+    "ICU_BEDS_OCCUPIED": 8,
+    "ICU_BEDS_VACANT": 15,
     "VENTILATOR_TOTAL": 8,
-    "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 8,
-    "DATETIME": "2021-04-28 8:30:59",
+    "VENTILATOR_OCCUPIED": 2,
+    "VENTILATOR_VACANT": 6,
+    "DATETIME": "2021-04-28 13:49:23",
     "CONTACT": 9003900349,
     "REMARKS": "28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=874869178290079512",
     "LAT": 9.8275398,
-    "LONG": 77.9897369
+    "LONG": 77.9897369,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 283,
@@ -7350,12 +7914,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-21 7:45:49",
+    "DATETIME": "2021-04-21 07:45:49",
     "CONTACT": "NULL",
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=1342527035328911039",
     "LAT": 11.0966549,
-    "LONG": 79.6532627
+    "LONG": 79.6532627,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 284,
@@ -7376,12 +7942,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:09:49",
+    "DATETIME": "2021-04-28 09:09:49",
     "CONTACT": 9443190986,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/MEERA+CLINIC/@9.2986257,78.9203162,17z/data=!3m1!4b1!4m5!3m4!1s0x3b0197cca7b190cf:0x9924adf39c42508!8m2!3d9.2986204!4d78.9225049",
     "LAT": 9.298832144,
-    "LONG": 78.92248344
+    "LONG": 78.92248344,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 285,
@@ -7407,7 +7975,9 @@ tamil_nadu_data=[
     "REMARKS": "grand total - 35",
     "LOCATION": "https://maps.google.com/?cid=8099421957494260158",
     "LAT": 11.5955013,
-    "LONG": 78.5957809
+    "LONG": 78.5957809,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 286,
@@ -7428,38 +7998,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:36:48",
+    "DATETIME": "2021-04-28 09:36:48",
     "CONTACT": 9600380076,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=6781975769696286378",
     "LAT": 11.582197,
-    "LONG": 77.8575539
+    "LONG": 77.8575539,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 287,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Shivasurya Polyclinic, Salem",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 18,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 9,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 9,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 10,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 6,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 8,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 5,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 3,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 24,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 19,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 5,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 15,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 15,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 9,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 5,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 12:52:43",
+    "DATETIME": "2021-04-28 16:16:26",
     "CONTACT": 9443173270,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=12360332498050447489",
     "LAT": 11.6663374,
-    "LONG": 78.1446952
+    "LONG": 78.1446952,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 288,
@@ -7480,12 +8054,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 13:31:52",
+    "DATETIME": "2021-04-28 16:30:05",
     "CONTACT": 9514399992,
     "REMARKS": "Update",
     "LOCATION": "https://maps.google.com/?cid=6177554748935997556",
     "LAT": 11.6420417,
-    "LONG": 78.1462661
+    "LONG": 78.1462661,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 289,
@@ -7511,7 +8087,9 @@ tamil_nadu_data=[
     "REMARKS": "Centralized Oxygen",
     "LOCATION": "https://maps.google.com/?cid=3706013620920686808",
     "LAT": 8.9542016,
-    "LONG": 77.3023931
+    "LONG": 77.3023931,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 290,
@@ -7532,38 +8110,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 11:48:58",
+    "DATETIME": "2021-04-28 16:07:14",
     "CONTACT": 7305009427,
-    "REMARKS": "Centralized oxygen",
+    "REMARKS": "Centralized oxygen.",
     "LOCATION": "https://maps.google.com/?cid=15045174563617180314",
     "LAT": 8.9487026,
-    "LONG": 77.320313
+    "LONG": 77.320313,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 291,
     "DISTRICT": "Thanjavur",
     "HOSPITAL_NAME": "Our Lady Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 59,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 40,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 19,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 42,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 17,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 20,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 20,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 30,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 20,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 10,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 22,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 8,
     "ICU_BEDS_TOTAL": 9,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 9,
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:41:18",
+    "DATETIME": "2021-04-28 15:54:25",
     "CONTACT": 8489906295,
-    "REMARKS": "Total positive case - 22\\r\\nTotal sari case - 18",
+    "REMARKS": "Total positive case - 22\nTotal sari case - 20",
     "LOCATION": "https://www.google.com/maps/place/Our+Lady+Hospital/@10.7710487,79.1343747,17z/data=!3m1!4b1!4m5!3m4!1s0x3baab894170da8fd:0xffe5c5f06c873df9!8m2!3d10.7710434!4d79.1365634",
     "LAT": 10.77120148,
-    "LONG": 79.13652049
+    "LONG": 79.13652049,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 292,
@@ -7584,12 +8166,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 7:32:21",
+    "DATETIME": "2021-04-28 07:32:21",
     "CONTACT": 9942104455,
     "REMARKS": "2. POSITIVE / 22 SARI CASES",
     "LOCATION": "https://maps.google.com/?cid=16011286183815121167",
     "LAT": 10.4219335,
-    "LONG": 79.3228045
+    "LONG": 79.3228045,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 293,
@@ -7610,12 +8194,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:57:07",
+    "DATETIME": "2021-04-28 07:57:07",
     "CONTACT": 8870011952,
-    "REMARKS": "Updated on 28 BEDS FULL\\r\\n",
+    "REMARKS": "Updated on 28 BEDS FULL",
     "LOCATION": "https://maps.google.com/?cid=881029537610080070",
     "LAT": 10.9597717,
-    "LONG": 79.3813857
+    "LONG": 79.3813857,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 294,
@@ -7636,12 +8222,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:22:58",
+    "DATETIME": "2021-04-28 08:22:58",
     "CONTACT": 9443328375,
     "REMARKS": "28.06.2021",
     "LOCATION": "https://www.google.com/maps/place/Arun+Hospital+./@10.0072897,77.4815038,17z/data=!3m1!4b1!4m5!3m4!1s0x3b0714bb02fe2335:0xecc3f09f55a7d316!8m2!3d10.0072844!4d77.4836925",
     "LAT": 10.00756966,
-    "LONG": 77.48362813
+    "LONG": 77.48362813,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 295,
@@ -7662,12 +8250,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:14:10",
+    "DATETIME": "2021-04-28 17:15:24",
     "CONTACT": 9994778290,
     "REMARKS": "Covid",
     "LOCATION": "https://maps.google.com/?cid=11085871812786773477",
     "LAT": 10.024714,
-    "LONG": 77.478196
+    "LONG": 77.478196,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 296,
@@ -7688,12 +8278,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:09:00",
+    "DATETIME": "2021-04-28 09:09:00",
     "CONTACT": 9003398211,
-    "REMARKS": "Ramapandyan Hospital\\r\\nCovid care centre Theni",
+    "REMARKS": "Ramapandyan Hospital\nCovid care centre  Theni",
     "LOCATION": "https://www.google.com/maps/place/RAMAPANDYAN+HOSPITAL/@10.0048338,77.4866072,17z/data=!3m1!4b1!4m5!3m4!1s0x3b07158d50250ad9:0x59d2713d93511011!8m2!3d10.0048285!4d77.4887959",
     "LAT": 10.00516659,
-    "LONG": 77.48886028
+    "LONG": 77.48886028,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 297,
@@ -7714,12 +8306,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:25:03",
+    "DATETIME": "2021-04-28 08:25:03",
     "CONTACT": 9361917118,
-    "REMARKS": "28.04.2021\\r\\n",
+    "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=6148429320907468844",
     "LAT": 10.0102991,
-    "LONG": 77.4771503
+    "LONG": 77.4771503,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 298,
@@ -7740,12 +8334,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:16:45",
+    "DATETIME": "2021-04-28 09:16:45",
     "CONTACT": 9487057857,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=2775487551995561245",
     "LAT": 8.695844,
-    "LONG": 77.7393737
+    "LONG": 77.7393737,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 299,
@@ -7766,38 +8362,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 7:01:10",
+    "DATETIME": "2021-04-28 07:01:10",
     "CONTACT": 9003070234,
     "REMARKS": "37 positive and 6 suspected cases",
     "LOCATION": "https://maps.google.com/?cid=1113960711057392574",
     "LAT": 8.72985,
-    "LONG": 77.7195637
+    "LONG": 77.7195637,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 300,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "Athma Hospitals, Thillai Nagar",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 7,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 8,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 6,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 9,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 6,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 1,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 5,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 6,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 8,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 6,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 5,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 1,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_OCCUPIED": 1,
+    "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 10:53:18",
+    "DATETIME": "2021-04-28 18:25:21",
     "CONTACT": 9865779707,
-    "REMARKS": "Nil",
+    "REMARKS": "Nill",
     "LOCATION": "https://maps.google.com/?cid=4999216888950153345",
     "LAT": 10.8210614,
-    "LONG": 78.6849214
+    "LONG": 78.6849214,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 301,
@@ -7818,12 +8418,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:36:40",
+    "DATETIME": "2021-04-28 16:42:06",
     "CONTACT": 9843005288,
-    "REMARKS": "",
+    "REMARKS": "Nill",
     "LOCATION": "https://www.google.com/maps/place/Kavi+Hospital+%26+Neuro+Foundation/@10.7977766,78.7055963,17z/data=!3m1!4b1!4m5!3m4!1s0x3baaf5b1b58aec8b:0xe49a39af2a242c23!8m2!3d10.7977713!4d78.707785",
     "LAT": 10.79782398,
-    "LONG": 78.70780646
+    "LONG": 78.70780646,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 302,
@@ -7849,7 +8451,9 @@ tamil_nadu_data=[
     "REMARKS": "Nil",
     "LOCATION": "https://www.google.com/maps/place/Mangalam+Hospital,+Thillainagar+Trichy+Tn./@10.8254083,78.6791143,17z/data=!3m1!4b1!4m5!3m4!1s0x3baaf5a2f3cfafcb:0x2e475665d8f3750f!8m2!3d10.825403!4d78.681303",
     "LAT": 10.82572966,
-    "LONG": 78.68124936
+    "LONG": 78.68124936,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 303,
@@ -7870,12 +8474,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:36:08",
+    "DATETIME": "2021-04-28 16:34:47",
     "CONTACT": 9600340430,
-    "REMARKS": "",
+    "REMARKS": "Update done",
     "LOCATION": "https://www.google.com/maps/place/Mmm+Multi+Speciality+Hospital+Trichy+Tn./@10.837087,78.6147066,17z/data=!3m1!4b1!4m5!3m4!1s0x3baa5f21f9e6c4c9:0x9bbe8cf0d00b6a78!8m2!3d10.8370817!4d78.6168953",
     "LAT": 10.83735566,
-    "LONG": 78.61694895
+    "LONG": 78.61694895,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 304,
@@ -7896,12 +8502,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:14:24",
+    "DATETIME": "2021-04-28 16:38:00",
     "CONTACT": 9245148941,
-    "REMARKS": "",
+    "REMARKS": "Update done",
     "LOCATION": "https://maps.google.com/?cid=2971636803170437942",
     "LAT": 10.8099692,
-    "LONG": 78.6802739
+    "LONG": 78.6802739,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 305,
@@ -7922,12 +8530,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 6,
-    "DATETIME": "2021-04-28 10:28:06",
+    "DATETIME": "2021-04-28 16:35:40",
     "CONTACT": 9789488894,
-    "REMARKS": "NIL",
+    "REMARKS": "NILL",
     "LOCATION": "https://maps.google.com/?cid=14866248517688328966",
     "LAT": 10.8233429,
-    "LONG": 78.6819864
+    "LONG": 78.6819864,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 306,
@@ -7948,12 +8558,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:50:06",
+    "DATETIME": "2021-04-28 16:36:35",
     "CONTACT": 9842011199,
-    "REMARKS": "",
+    "REMARKS": "Nill",
     "LOCATION": "https://maps.google.com/?cid=14336788424162132457",
     "LAT": 10.8181352,
-    "LONG": 78.6817318
+    "LONG": 78.6817318,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 307,
@@ -7974,12 +8586,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:55:58",
+    "DATETIME": "2021-04-28 17:03:44",
     "CONTACT": 9443141811,
-    "REMARKS": "RT-PCR positive Cases: 22.\\r\\nSuspected SARI Cases: 0",
+    "REMARKS": "RT-PCR positive Cases: 22.\nSuspected SARI Cases: 0.",
     "LOCATION": "https://maps.google.com/?cid=15933853011777795120",
     "LAT": 9.1746514,
-    "LONG": 77.866397
+    "LONG": 77.866397,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 308,
@@ -8000,12 +8614,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-21 9:02:18",
+    "DATETIME": "2021-04-21 09:02:18",
     "CONTACT": "NULL",
-    "REMARKS": "Temporarily stopped as per JDHS Instruction.",
+    "REMARKS": "Temporarily stopped  as per JDHS Instruction.",
     "LOCATION": "https://maps.google.com/?cid=8745697720998266715",
     "LAT": 8.796015,
-    "LONG": 78.125088
+    "LONG": 78.125088,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 309,
@@ -8026,12 +8642,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 0:37:16",
+    "DATETIME": "2021-04-28 17:04:58",
     "CONTACT": 9489659868,
-    "REMARKS": "28.04.2021.",
+    "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=11587948022189246242",
     "LAT": 8.5570265,
-    "LONG": 78.121699
+    "LONG": 78.121699,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 310,
@@ -8052,38 +8670,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:49:59",
+    "DATETIME": "2021-04-28 17:05:47",
     "CONTACT": 9442130965,
-    "REMARKS": "",
+    "REMARKS": ".",
     "LOCATION": "https://www.google.com/maps/place/Chendhur+Cardiac+Center+%26+Multi+Speciality+Hospital/@8.7231452,77.7196548,17z/data=!3m1!4b1!4m5!3m4!1s0x3b04122005b4e40d:0xa048f3d4e2927f79!8m2!3d8.7231399!4d77.7218435",
     "LAT": 8.723362587,
-    "LONG": 77.72190787
+    "LONG": 77.72190787,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 311,
     "DISTRICT": "Thoothukudi",
     "HOSPITAL_NAME": "Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals)",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 12,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 3,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 12,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_TOTAL": 3,
+    "ICU_BEDS_OCCUPIED": 2,
+    "ICU_BEDS_VACANT": 1,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-21 9:01:35",
-    "CONTACT": "NULL",
-    "REMARKS": "Hospital closed",
+    "DATETIME": "2021-04-28 19:22:52",
+    "CONTACT": 8220705749,
+    "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=15600327098739819496",
     "LAT": 8.8081132,
-    "LONG": 78.1400076
+    "LONG": 78.1400076,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 312,
@@ -8104,12 +8726,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:13:21",
+    "DATETIME": "2021-04-28 09:13:21",
     "CONTACT": 9940757475,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=11936798855996096122",
     "LAT": 9.6088906,
-    "LONG": 77.8855374
+    "LONG": 77.8855374,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 313,
@@ -8130,12 +8754,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 4,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:49:35",
+    "DATETIME": "2021-04-28 06:49:35",
     "CONTACT": 9840080449,
     "REMARKS": "Updated on 28/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Dr.+Mehta's+Hospitals/@13.071801,80.240477,15z/data=!4m2!3m1!1s0x0:0x3c7ce71e604b9f23?sa=X&ved=2ahUKEwjKweS27ZnwAhXsyDgGHQm4DnwQ_BIwcnoECGkQBQ",
     "LAT": 13.07286698,
-    "LONG": 80.24086324
+    "LONG": 80.24086324,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 314,
@@ -8156,12 +8782,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 5,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:28:59",
+    "DATETIME": "2021-04-28 08:28:59",
     "CONTACT": 9500974070,
     "REMARKS": "50 positive cases & 15 Suspected Cases 28/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Shifa+Multi+Speciality+Hospital/@10.3893512,77.9618732,17z/data=!4m9!1m2!2m1!1sShifa+Hospital+dindigul!3m5!1s0x3b00aa837e3965b7:0x8e54331fd9a46e53!8m2!3d10.3897725!4d77.9618761!15sChdTaGlmYSBIb3NwaXRhbCBkaW5kaWd1bFopCg5zaGlmYSBob3NwaXRhbCIXc2hpZmEgaG9zcGl0YWwgZGluZGlndWySAQhob3NwaXRhbA",
     "LAT": 10.3893512,
-    "LONG": 77.9618732
+    "LONG": 77.9618732,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 315,
@@ -8182,12 +8810,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 9:04:04",
+    "DATETIME": "2021-04-28 09:04:04",
     "CONTACT": 7092820884,
-    "REMARKS": "28/04/2021\\r\\n\\r\\nCovid care helpline - 8778501016/9894686088",
-    "LOCATION": "https://maps.google.com/?cid=10248544965748043721",
-    "LAT": 13.0538655,
-    "LONG": 80.1926882
+    "REMARKS": "28/04/2021\n\nCovid care helpline - 8778501016/9894686088",
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 316,
@@ -8208,12 +8838,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 5,
-    "DATETIME": "2021-04-28 8:38:39",
+    "DATETIME": "2021-04-28 16:47:43",
     "CONTACT": 8300244928,
-    "REMARKS": "Nill\\r\\n\\r\\n\\r\\n\\r\\nNil",
+    "REMARKS": "Nil\n\n\n\nNil",
     "LOCATION": "https://maps.google.com/?cid=8579060953023183950",
     "LAT": 10.8253259,
-    "LONG": 78.6835677
+    "LONG": 78.6835677,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 317,
@@ -8234,12 +8866,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:51:23",
+    "DATETIME": "2021-04-28 16:17:12",
     "CONTACT": 9489858034,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Vishnu+Multi+Speciality+Hospital/@11.327153,79.7129467,17z/data=!3m1!4b1!4m5!3m4!1s0x3a54dd3f28d395b9:0x2c7c33696df61af8!8m2!3d11.3271477!4d79.7151354",
     "LAT": 11.32733704,
-    "LONG": 79.7152105
+    "LONG": 79.7152105,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 318,
@@ -8260,12 +8894,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:26:39",
+    "DATETIME": "2021-04-28 09:26:39",
     "CONTACT": 7397591935,
     "REMARKS": "Updated 28.4.21",
     "LOCATION": "https://www.google.com/maps/place/Apollo+Diagnostics,+Sivaganga/@9.8483716,78.4825153,17z/data=!4m9!1m2!2m1!1sApollo+sivagangai!3m5!1s0x3b00fb49fa00bb79:0x22753f276bc24cec!8m2!3d9.8508317!4d78.4864034!15sChFBcG9sbG8gc2l2YWdhbmdhaZIBEWRpYWdub3N0aWNfY2VudGVy",
     "LAT": 9.851093594,
-    "LONG": 78.48642067
+    "LONG": 78.48642067,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 319,
@@ -8286,12 +8922,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 9:11:41",
+    "DATETIME": "2021-04-28 17:45:59",
     "CONTACT": 8012519266,
-    "REMARKS": "Covid Positive : 25\\r\\n( O2 supported bed:22, ICU -3)\\r\\nSuspected :15\\r\\n(O2 supported bed :12, ICU:3)",
+    "REMARKS": "Covid Positive : 25\n( O2 supported bed:22, ICU -3)\nSuspected :15\n(O2 supported bed :12, ICU:3)",
     "LOCATION": "https://www.google.com/maps/place/SENTHIL+MULTI+SPECIALITY+HOSPITAL/@9.9483179,78.8200056,17z/data=!3m1!4b1!4m5!3m4!1s0x3b005b3b529d4ddf:0x483876e9047ac1ce!8m2!3d9.9483126!4d78.8221943",
     "LAT": 9.948407691,
-    "LONG": 78.82256981
+    "LONG": 78.82256981,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 320,
@@ -8312,20 +8950,22 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 1:12:49",
+    "DATETIME": "2021-04-28 01:12:49",
     "CONTACT": 9791197514,
     "REMARKS": "Nil",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 321,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Kamala Hospital,Agraharam",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 51,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 44,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 7,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 45,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 6,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 17,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 17,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -8333,17 +8973,19 @@ tamil_nadu_data=[
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 24,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 3,
-    "ICU_BEDS_VACANT": 7,
+    "ICU_BEDS_OCCUPIED": 4,
+    "ICU_BEDS_VACANT": 6,
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:00:01",
+    "DATETIME": "2021-04-28 13:53:57",
     "CONTACT": 9842719451,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17585354087667631050",
     "LAT": 11.656623,
-    "LONG": 78.1643098
+    "LONG": 78.1643098,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 322,
@@ -8364,12 +9006,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:13:44",
+    "DATETIME": "2021-04-28 07:13:44",
     "CONTACT": 9539004198,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=10014801026786646501",
     "LAT": 11.0247555,
-    "LONG": 76.9063588
+    "LONG": 76.9063588,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 323,
@@ -8395,7 +9039,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17284940504162975993",
     "LAT": 8.2034529,
-    "LONG": 77.455022
+    "LONG": 77.455022,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 324,
@@ -8416,12 +9062,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 4,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 9:47:40",
+    "DATETIME": "2021-04-28 09:47:40",
     "CONTACT": 9566301338,
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=3619547259710495243",
     "LAT": 8.1796147,
-    "LONG": 77.4331738
+    "LONG": 77.4331738,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 325,
@@ -8447,7 +9095,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=12895394324169729202",
     "LAT": 8.3075307,
-    "LONG": 77.2218365
+    "LONG": 77.2218365,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 326,
@@ -8468,12 +9118,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 5:47:44",
+    "DATETIME": "2021-04-28 05:47:44",
     "CONTACT": 9566201833,
     "REMARKS": "patients all are stable",
     "LOCATION": "https://maps.google.com/?cid=7875391219601541463",
     "LAT": 10.7865031,
-    "LONG": 79.1336203
+    "LONG": 79.1336203,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 327,
@@ -8494,12 +9146,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:42:55",
+    "DATETIME": "2021-04-28 08:42:55",
     "CONTACT": 4362234885,
     "REMARKS": "Updated 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=14936895921390452433",
     "LAT": 10.7741974,
-    "LONG": 79.1362665
+    "LONG": 79.1362665,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 328,
@@ -8520,12 +9174,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2020-12-10 9:08:46",
+    "DATETIME": "2020-12-10 09:08:46",
     "CONTACT": "NULL",
     "REMARKS": "Report Submitted 10.12.2020",
     "LOCATION": "https://maps.google.com/?cid=2263203901643684217",
     "LAT": 11.021586,
-    "LONG": 76.9708639
+    "LONG": 76.9708639,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 329,
@@ -8551,7 +9207,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.02021",
     "LOCATION": "https://maps.google.com/?cid=14857044798878897422",
     "LAT": 11.0209905,
-    "LONG": 76.9660856
+    "LONG": 76.9660856,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 330,
@@ -8572,12 +9230,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 17,
     "VENTILATOR_OCCUPIED": 17,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:02:23",
+    "DATETIME": "2021-04-28 09:02:23",
     "CONTACT": 8012312000,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=14959771357395824522",
     "LAT": 11.0735553,
-    "LONG": 77.0022401
+    "LONG": 77.0022401,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 331,
@@ -8598,12 +9258,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:22:36",
+    "DATETIME": "2021-04-28 08:22:36",
     "CONTACT": 9500954449,
     "REMARKS": "44 with O2 4 in ICU",
     "LOCATION": "https://maps.google.com/?cid=16942001769531591317",
     "LAT": 10.957449,
-    "LONG": 76.9722549
+    "LONG": 76.9722549,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 332,
@@ -8629,7 +9291,9 @@ tamil_nadu_data=[
     "REMARKS": "KG Hospital Saravanampatti",
     "LOCATION": "https://maps.google.com/?cid=4699012636320120759",
     "LAT": 11.0719968,
-    "LONG": 77.0025205
+    "LONG": 77.0025205,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 333,
@@ -8650,12 +9314,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:02:13",
+    "DATETIME": "2021-04-28 08:02:13",
     "CONTACT": 8508655534,
     "REMARKS": "28. 04. 2021 Updated",
     "LOCATION": "https://maps.google.com/?cid=12886513168953104056",
     "LAT": 11.0470023,
-    "LONG": 76.9473179
+    "LONG": 76.9473179,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 334,
@@ -8676,12 +9342,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:03:24",
+    "DATETIME": "2021-04-28 08:03:24",
     "CONTACT": 9344022222,
-    "REMARKS": "28.4.2021.  8am",
+    "REMARKS": "28.4.2021.   8am",
     "LOCATION": "https://maps.google.com/?cid=18365229904705590543",
     "LAT": 11.1072929,
-    "LONG": 77.0242282
+    "LONG": 77.0242282,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 335,
@@ -8707,7 +9375,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=1854409415612637494",
     "LAT": 11.0003455,
-    "LONG": 77.0292456
+    "LONG": 77.0292456,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 336,
@@ -8733,7 +9403,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=8313273394594126402",
     "LAT": 11.0238726,
-    "LONG": 76.9582488
+    "LONG": 76.9582488,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 337,
@@ -8754,38 +9426,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:42:17",
+    "DATETIME": "2021-04-28 09:42:17",
     "CONTACT": 9790441772,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=8702027650350670841",
     "LAT": 11.6716381,
-    "LONG": 78.1268593
+    "LONG": 78.1268593,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 338,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Deepam Speciality Hospital, Vazhapady",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 100,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 43,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 57,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 37,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 63,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 30,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 26,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 57,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 39,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 18,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 33,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 24,
     "ICU_BEDS_TOTAL": 13,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 13,
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 11:22:09",
+    "DATETIME": "2021-04-28 17:44:40",
     "CONTACT": 9787702400,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=7741786735262940048",
     "LAT": 11.6576429,
-    "LONG": 78.4065834
+    "LONG": 78.4065834,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 339,
@@ -8811,15 +9487,17 @@ tamil_nadu_data=[
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=526674268487369914",
     "LAT": 11.6742561,
-    "LONG": 78.1379892
+    "LONG": 78.1379892,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 340,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Mohanraj Children's Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 70,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 3,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 67,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 70,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 60,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 60,
@@ -8827,17 +9505,19 @@ tamil_nadu_data=[
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 3,
-    "ICU_BEDS_VACANT": 7,
+    "ICU_BEDS_OCCUPIED": 0,
+    "ICU_BEDS_VACANT": 10,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:04:24",
+    "DATETIME": "2021-04-28 16:09:00",
     "CONTACT": 9843026086,
-    "REMARKS": "Nil cases",
+    "REMARKS": "Nil case",
     "LOCATION": "https://www.google.com/maps/place/Mohanraj+Children's+Hospital/@11.6574176,78.1659235,17z/data=!4m5!3m4!1s0x3babf1cf73747c43:0x987f9d06fb70426a!8m2!3d11.6574544!4d78.1658484",
     "LAT": 11.6574176,
-    "LONG": 78.1659235
+    "LONG": 78.1659235,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 341,
@@ -8863,7 +9543,9 @@ tamil_nadu_data=[
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=3239404868892461030",
     "LAT": 11.6744508,
-    "LONG": 78.1418684
+    "LONG": 78.1418684,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 342,
@@ -8884,23 +9566,25 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 6,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 6,
-    "DATETIME": "2021-04-28 9:49:47",
+    "DATETIME": "2021-04-28 09:49:47",
     "CONTACT": 9894264333,
     "REMARKS": "Sent on 28.04.2021 at 09:30AM",
     "LOCATION": "https://maps.google.com/?cid=8954755266989889444",
     "LAT": 11.6596603,
-    "LONG": 78.1549422
+    "LONG": 78.1549422,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 343,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Thiru Neuro And MultiSpecility Salem",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 45,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 39,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 6,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 41,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 4,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 35,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 33,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 35,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -8908,14 +9592,16 @@ tamil_nadu_data=[
     "ICU_BEDS_OCCUPIED": 6,
     "ICU_BEDS_VACANT": 4,
     "VENTILATOR_TOTAL": 2,
-    "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 12:11:02",
+    "VENTILATOR_OCCUPIED": 2,
+    "VENTILATOR_VACANT": 0,
+    "DATETIME": "2021-04-28 17:24:40",
     "CONTACT": 7708959395,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=1138103291794424610",
     "LAT": 11.6625525,
-    "LONG": 78.2035775
+    "LONG": 78.2035775,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 344,
@@ -8941,7 +9627,9 @@ tamil_nadu_data=[
     "REMARKS": "NO",
     "LOCATION": "https://maps.google.com/?cid=5029195559969668474",
     "LAT": 11.3308964,
-    "LONG": 77.6993516
+    "LONG": 77.6993516,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 345,
@@ -8962,12 +9650,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:36:15",
+    "DATETIME": "2021-04-28 09:36:15",
     "CONTACT": 9500967789,
     "REMARKS": "updated 28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/Vetri+Siddha+Hospital/@10.0461749,78.001875,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00b53bb2e17dcd:0xe333af28f65f871f!8m2!3d10.0461696!4d78.0040637",
     "LAT": 10.04649708,
-    "LONG": 78.00405297
+    "LONG": 78.00405297,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 346,
@@ -8988,12 +9678,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:23:15",
+    "DATETIME": "2021-04-28 09:23:15",
     "CONTACT": 9790555151,
     "REMARKS": "28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=17145078113335306124",
     "LAT": 10.937871,
-    "LONG": 78.422049
+    "LONG": 78.422049,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 347,
@@ -9014,12 +9706,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 6:45:47",
+    "DATETIME": "2021-04-28 06:45:47",
     "CONTACT": 9629492325,
     "REMARKS": "Report submitted on 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=18054470140303169732",
     "LAT": 11.2356208,
-    "LONG": 78.1652689
+    "LONG": 78.1652689,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 348,
@@ -9042,10 +9736,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 0,
     "DATETIME": "2021-04-25 10:13:02",
     "CONTACT": 9942251163,
-    "REMARKS": "REPORT SUBMITTED ON 24.04.2021",
+    "REMARKS": "REPORT SUBMITTED ON  24.04.2021",
     "LOCATION": "https://maps.google.com/?cid=987408341074092642",
     "LAT": 11.382481,
-    "LONG": 77.9010817
+    "LONG": 77.9010817,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 349,
@@ -9066,12 +9762,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:34:55",
+    "DATETIME": "2021-04-28 09:34:55",
     "CONTACT": 9659974311,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=10342613316287125629",
     "LAT": 10.9623662,
-    "LONG": 78.077559
+    "LONG": 78.077559,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 350,
@@ -9080,35 +9778,37 @@ tamil_nadu_data=[
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 30,
     "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 30,
     "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 30,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 25,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 5,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 20,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 20,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 20,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 10,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 8,
-    "ICU_BEDS_OCCUPIED": 5,
-    "ICU_BEDS_VACANT": 3,
+    "ICU_BEDS_TOTAL": 0,
+    "ICU_BEDS_OCCUPIED": 0,
+    "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-22 1:28:09",
-    "CONTACT": 0,
-    "REMARKS": "22-04-21",
+    "DATETIME": "2021-04-28 13:49:30",
+    "CONTACT": 7200648296,
+    "REMARKS": "28-04-21",
     "LOCATION": "https://maps.google.com/?cid=15365136424898274970",
     "LAT": 13.0435864,
-    "LONG": 80.26354
+    "LONG": 80.26354,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 351,
     "DISTRICT": "Chengalpattu",
     "HOSPITAL_NAME": "DAISY HOSPITAL,CHROMPET",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 14,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 13,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 1,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 14,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 12,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 11,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 12,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -9118,12 +9818,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 10:47:00",
+    "DATETIME": "2021-04-28 19:00:03",
     "CONTACT": 9940632392,
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=3691952055493312376",
     "LAT": 12.9576147,
-    "LONG": 80.1428619
+    "LONG": 80.1428619,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 352,
@@ -9149,7 +9851,9 @@ tamil_nadu_data=[
     "REMARKS": "23.03-2021",
     "LOCATION": "https://www.google.com/maps/place/AAYUSHMAAN+NATURE+CURE+HEALTH+CENTRE+,+hospital+%26+clinic/@13.0062653,80.054457,11.66z/data=!4m9!1m2!2m1!1sAAYUSHMAAN+HOLISTIC+HEALTH+CENTRE+chengalpattu!3m5!1s0x0:0xf20de0fa0d76528f!8m2!3d13.0707114!4d80.2033098!15sCi5BQVlVU0hNQUFOIEhPTElTVElDIEhFQUxUSCBDRU5UUkUgY2hlbmdhbHBhdHR1WlMKIWFheXVzaG1hYW4gaG9saXN0aWMgaGVhbHRoIGNlbnRyZSIuYWF5dXNobWFhbiBob2xpc3RpYyBoZWFsdGggY2VudHJlIGNoZW5nYWxwYXR0dZIBG2FsdGVybmF0aXZlX21lZGljaW5lX2NsaW5pY5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSVGR6WXpTM2hCUlJBQg",
     "LAT": 13.07511863,
-    "LONG": 80.20636614
+    "LONG": 80.20636614,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 353,
@@ -9170,12 +9874,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:48:23",
+    "DATETIME": "2021-04-28 09:48:23",
     "CONTACT": 9442282220,
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=10668008214216743081",
     "LAT": 8.1999765,
-    "LONG": 77.430557
+    "LONG": 77.430557,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 354,
@@ -9196,12 +9902,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 10:33:56",
+    "DATETIME": "2021-04-28 16:47:29",
     "CONTACT": 9486285464,
-    "REMARKS": ".",
+    "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=3002788649277215133",
     "LAT": 8.9800132,
-    "LONG": 77.4239562
+    "LONG": 77.4239562,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 355,
@@ -9222,12 +9930,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:41:31",
+    "DATETIME": "2021-04-28 09:41:31",
     "CONTACT": 9944903256,
     "REMARKS": "(28/4/2021)",
     "LOCATION": "https://maps.google.com/?cid=6202406425610769373",
     "LAT": 13.0379903,
-    "LONG": 80.2013184
+    "LONG": 80.2013184,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 356,
@@ -9248,12 +9958,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 7:41:43",
+    "DATETIME": "2021-04-28 17:37:34",
     "CONTACT": 9841091403,
-    "REMARKS": "27.04.2021\\r\\n",
+    "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?q=SKS+Hospital+Rd,+Salem,+Tamil+Nadu+636016,+India&ftid=0x3babf046713b5c41:0xb4c1b43ce63aac73",
     "LAT": 11.670354,
-    "LONG": 78.1431415
+    "LONG": 78.1431415,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 357,
@@ -9276,10 +9988,12 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 0,
     "DATETIME": "2021-04-26 18:12:05",
     "CONTACT": "NULL",
-    "REMARKS": "updated 21.04.2021",
+    "REMARKS": "updated  21.04.2021",
     "LOCATION": "https://maps.google.com/?cid=12228167668979495366",
     "LAT": 10.532248,
-    "LONG": 79.635523
+    "LONG": 79.635523,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 358,
@@ -9300,12 +10014,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 5,
-    "DATETIME": "2021-04-28 7:35:53",
+    "DATETIME": "2021-04-28 07:35:53",
     "CONTACT": 9444444534,
     "REMARKS": "updated 28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=4141699008189391279",
     "LAT": 9.9428427,
-    "LONG": 78.1303743
+    "LONG": 78.1303743,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 359,
@@ -9326,12 +10042,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:26:20",
+    "DATETIME": "2021-04-28 08:26:20",
     "CONTACT": 9976819987,
-    "REMARKS": "28:37:41",
+    "REMARKS": "28:04:2021",
     "LOCATION": "https://maps.google.com/?cid=17386083873615101964",
     "LAT": 13.102499,
-    "LONG": 80.209025
+    "LONG": 80.209025,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 360,
@@ -9352,12 +10070,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:30:01",
+    "DATETIME": "2021-04-28 09:30:01",
     "CONTACT": 9677050567,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=34370031335435237",
     "LAT": 13.0510836,
-    "LONG": 80.2297678
+    "LONG": 80.2297678,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 361,
@@ -9378,12 +10098,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 6:35:42",
+    "DATETIME": "2021-04-28 06:35:42",
     "CONTACT": 9487701007,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=4616483733434899346",
     "LAT": 10.6613708,
-    "LONG": 79.4470747
+    "LONG": 79.4470747,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 362,
@@ -9409,7 +10131,9 @@ tamil_nadu_data=[
     "REMARKS": "28-04-2021",
     "LOCATION": "https://maps.google.com/?cid=11195101140967620971",
     "LAT": 12.9268661,
-    "LONG": 80.1146639
+    "LONG": 80.1146639,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 363,
@@ -9430,12 +10154,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 7:35:15",
+    "DATETIME": "2021-04-28 07:35:15",
     "CONTACT": 9841169226,
     "REMARKS": "27.04.2021",
     "LOCATION": "https://maps.google.com/?cid=13885933388232523476",
     "LAT": 13.0884182,
-    "LONG": 80.2507244
+    "LONG": 80.2507244,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 364,
@@ -9456,12 +10182,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 6:49:18",
+    "DATETIME": "2021-04-28 06:49:18",
     "CONTACT": 8072734246,
     "REMARKS": "Report Submitted on 28. 04.2021",
     "LOCATION": "https://www.google.com/maps/place/Visaalam+Hospitals/@11.3651892,77.74559,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba966024a09f253:0x547a7db73648600e!8m2!3d11.3651839!4d77.7477787",
     "LAT": 11.36540477,
-    "LONG": 77.74775724
+    "LONG": 77.74775724,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 365,
@@ -9487,7 +10215,9 @@ tamil_nadu_data=[
     "REMARKS": "nill",
     "LOCATION": "https://maps.google.com/?cid=4543550226616262629",
     "LAT": 12.7295233,
-    "LONG": 77.8245274
+    "LONG": 77.8245274,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 366,
@@ -9513,7 +10243,9 @@ tamil_nadu_data=[
     "REMARKS": "Nil.",
     "LOCATION": "https://maps.google.com/?cid=15604185542713617518",
     "LAT": 11.5443898,
-    "LONG": 78.1460882
+    "LONG": 78.1460882,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 367,
@@ -9534,12 +10266,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2020-12-07 8:53:49",
+    "DATETIME": "2020-12-07 08:53:49",
     "CONTACT": "NULL",
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?q=Krishnagiri,+Tamil+Nadu+635001,+India&ftid=0x3bac34bce845416f:0x1433e043ad8f5a92",
     "LAT": 12.5252294,
-    "LONG": 78.214948
+    "LONG": 78.214948,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 368,
@@ -9565,7 +10299,9 @@ tamil_nadu_data=[
     "REMARKS": "updated on 28/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Naruvi+hospitals/@12.9359238,79.1434276,17z/data=!3m1!4b1!4m5!3m4!1s0x3bad39fb40302947:0x79cebc28f9ea37ae!8m2!3d12.9359186!4d79.1456163",
     "LAT": 12.93619045,
-    "LONG": 79.14560557
+    "LONG": 79.14560557,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 369,
@@ -9586,12 +10322,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:40:32",
+    "DATETIME": "2021-04-28 09:40:32",
     "CONTACT": 8248586758,
-    "REMARKS": "NIL\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\nNIL\\r\\n",
+    "REMARKS": "NIL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIL",
     "LOCATION": "https://www.google.com/maps/place/Nathans+Speciality+Hospital,+Krishnagiri+Tn./@12.5151132,78.2211573,17z/data=!3m1!4b1!4m5!3m4!1s0x3bac34936a89b98f:0xb051a412b4fc7230!8m2!3d12.515108!4d78.223346",
     "LAT": 12.51528603,
-    "LONG": 78.22393609
+    "LONG": 78.22393609,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 370,
@@ -9617,7 +10355,9 @@ tamil_nadu_data=[
     "REMARKS": "28/04/2021",
     "LOCATION": "https://maps.google.com/?cid=15670329938984123084",
     "LAT": 13.1128781,
-    "LONG": 80.2917361
+    "LONG": 80.2917361,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 371,
@@ -9638,12 +10378,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:31:32",
+    "DATETIME": "2021-04-28 16:32:08",
     "CONTACT": 8754950234,
     "REMARKS": "Today 28.04.2021 update",
     "LOCATION": "https://maps.google.com/?cid=7742827705710979883",
     "LAT": 8.6994634,
-    "LONG": 77.7264369
+    "LONG": 77.7264369,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 372,
@@ -9669,18 +10411,20 @@ tamil_nadu_data=[
     "REMARKS": "27/04/2021",
     "LOCATION": "https://maps.google.com/?cid=13718909709235869756",
     "LAT": 12.9229372,
-    "LONG": 80.1604983
+    "LONG": 80.1604983,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 373,
     "DISTRICT": "Chennai",
     "HOSPITAL_NAME": "Sen Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 25,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 15,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 10,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 16,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 9,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 19,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 9,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 11,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 8,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -9690,38 +10434,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 13:20:21",
+    "DATETIME": "2021-04-28 17:46:56",
     "CONTACT": 9600899382,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Sen+Hospital/@13.1105897,80.2396925,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5265b0be5f5e59:0x1d547397bd123d34!8m2!3d13.1105845!4d80.2418812",
     "LAT": 13.11086661,
-    "LONG": 80.24191339
+    "LONG": 80.24191339,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 374,
     "DISTRICT": "Chennai",
     "HOSPITAL_NAME": "st. Isabels hospital, Maylapore",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 34,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 32,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 2,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 16,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 30,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 4,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 17,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 15,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 16,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 16,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 15,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 14,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_OCCUPIED": 1,
     "ICU_BEDS_VACANT": 1,
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 3,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:09:40",
+    "DATETIME": "2021-04-28 17:42:27",
     "CONTACT": 9585965330,
-    "REMARKS": "Positive cases- 32\\r\\n",
+    "REMARKS": "Positive cases- 30",
     "LOCATION": "https://maps.google.com/?cid=8179461516196023921",
     "LAT": 13.0388601,
-    "LONG": 80.261923
+    "LONG": 80.261923,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 375,
@@ -9747,7 +10495,9 @@ tamil_nadu_data=[
     "REMARKS": "Daily Data Base",
     "LOCATION": "https://maps.google.com/?cid=2134619925125097216",
     "LAT": 13.0073648,
-    "LONG": 80.206016
+    "LONG": 80.206016,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 376,
@@ -9773,7 +10523,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=5197655487685156096",
     "LAT": 13.0057618,
-    "LONG": 80.2042755
+    "LONG": 80.2042755,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 377,
@@ -9783,23 +10535,25 @@ tamil_nadu_data=[
     "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 19,
     "BEDS_FOR_SUSPECTED_CASES_VACANT": 6,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 15,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 14,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 13,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 5,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_OCCUPIED": 6,
+    "ICU_BEDS_VACANT": 4,
     "VENTILATOR_TOTAL": 4,
-    "VENTILATOR_OCCUPIED": 2,
-    "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-26 17:06:57",
-    "CONTACT": 9884218343,
+    "VENTILATOR_OCCUPIED": 3,
+    "VENTILATOR_VACANT": 1,
+    "DATETIME": "2021-04-28 18:22:25",
+    "CONTACT": 9445025558,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=431264812615289282",
     "LAT": 12.8764275,
-    "LONG": 80.0794818
+    "LONG": 80.0794818,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 378,
@@ -9825,7 +10579,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=7076051908780860687",
     "LAT": 13.052948,
-    "LONG": 80.2302809
+    "LONG": 80.2302809,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 379,
@@ -9851,18 +10607,20 @@ tamil_nadu_data=[
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=15574709297871955762",
     "LAT": 8.3065865,
-    "LONG": 77.2225316
+    "LONG": 77.2225316,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 380,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "RK hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 12,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 10,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 2,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 11,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 1,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 10,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 9,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -9872,12 +10630,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-27 12:26:46",
+    "DATETIME": "2021-04-28 14:32:44",
     "CONTACT": 7373004777,
     "REMARKS": "Here with Updating our Hospital bed details",
     "LOCATION": "https://www.google.com/maps/place/RK+Hospital/@11.67467,78.131672,17z/data=!3m1!4b1!4m5!3m4!1s0x3babf042a6daaaab:0xa1fd9834c750fc9!8m2!3d11.6746648!4d78.1338607",
     "LAT": 11.67494847,
-    "LONG": 78.13389289
+    "LONG": 78.13389289,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 381,
@@ -9898,12 +10658,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 7:45:50",
+    "DATETIME": "2021-04-28 07:45:50",
     "CONTACT": 9566854364,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=5932459318474410058",
     "LAT": 10.9625737,
-    "LONG": 78.0590204
+    "LONG": 78.0590204,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 382,
@@ -9924,12 +10686,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 7:24:05",
+    "DATETIME": "2021-04-28 07:24:05",
     "CONTACT": 8608638184,
-    "REMARKS": "28/04/2021\\r\\n07.23 Am",
+    "REMARKS": "28/04/2021\n07.23 Am",
     "LOCATION": "https://www.google.com/maps/place/Amar+Hospital/@9.504892,78.1006828,17z/data=!3m1!4b1!4m5!3m4!1s0x3b01300f036c6e2d:0x71e84db819d8f658!8m2!3d9.5048867!4d78.1028715",
     "LAT": 9.505140644,
-    "LONG": 78.1028715
+    "LONG": 78.1028715,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 383,
@@ -9955,7 +10719,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=7234120372795236071",
     "LAT": 12.7361841,
-    "LONG": 77.824343
+    "LONG": 77.824343,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 384,
@@ -9976,12 +10742,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 5,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:16:48",
+    "DATETIME": "2021-04-28 08:16:48",
     "CONTACT": 9843604611,
     "REMARKS": "25 Active cases",
     "LOCATION": "https://www.google.com/maps/place/Vj+Hospital,Tirunelveli/@8.6986759,77.7357854,17z/data=!3m1!4b1!4m5!3m4!1s0x3b041273a72eb9b3:0xdde14147e536cdf!8m2!3d8.6986706!4d77.7379741",
     "LAT": 8.698787247,
-    "LONG": 77.73802774
+    "LONG": 77.73802774,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 385,
@@ -10004,21 +10772,23 @@ tamil_nadu_data=[
     "VENTILATOR_VACANT": 1,
     "DATETIME": "2021-04-28 11:42:51",
     "CONTACT": 7092980125,
-    "REMARKS": "COVID-19-15\\r\\nSari Ili & Ct Chest Positive -5\\r\\n",
+    "REMARKS": "COVID-19-15\nSari Ili & Ct Chest Positive -5",
     "LOCATION": "https://www.google.com/maps/place/ATLAS+HOSPITALS/@10.8345373,78.6892979,17z/data=!3m1!4b1!4m5!3m4!1s0x3baaf558ad5dfbcb:0xd41b67dd8fbf071c!8m2!3d10.834532!4d78.6914866",
     "LAT": 10.83475327,
-    "LONG": 78.69146514
+    "LONG": 78.69146514,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 386,
     "DISTRICT": "Tiruppur",
     "HOSPITAL_NAME": "Velan Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 30,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 26,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 4,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 22,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 8,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 18,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 16,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 12,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 6,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 4,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 2,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 2,
@@ -10028,12 +10798,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 8:01:40",
+    "DATETIME": "2021-04-28 15:55:15",
     "CONTACT": 8248725224,
-    "REMARKS": "Nill",
+    "REMARKS": "NULL",
     "LOCATION": "https://www.google.com/maps/place/Velan+hospital/@11.1389569,77.3197609,17z/data=!4m5!3m4!1s0x3ba906ed44dcbae7:0xcab26fdee6d4cdbc!8m2!3d11.139099!4d77.3201579?hl=en",
     "LAT": 11.1389569,
-    "LONG": 77.3197609
+    "LONG": 77.3197609,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 387,
@@ -10054,17 +10826,19 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 5,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 4,
-    "DATETIME": "2021-04-28 8:43:14",
+    "DATETIME": "2021-04-28 08:43:14",
     "CONTACT": 9965534490,
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=9913321503987777114",
     "LAT": 10.6844985,
-    "LONG": 78.1144031
+    "LONG": 78.1144031,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 388,
     "DISTRICT": "Chennai",
-    "HOSPITAL_NAME": "Be well hospital T.Nagar",
+    "HOSPITAL_NAME": "Be well  hospital T.Nagar",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 19,
     "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 18,
     "BEDS_FOR_SUSPECTED_CASES_VACANT": 1,
@@ -10083,9 +10857,11 @@ tamil_nadu_data=[
     "DATETIME": "2021-04-27 15:20:34",
     "CONTACT": 7550203865,
     "REMARKS": "",
-    "LOCATION": "https://www.google.com/maps/place/Be+Well+Hospitals/@13.0430592,80.2453426,15z/data=!4m5!3m4!1s0x0:0xa8a2d399cd313d35!8m2!3d13.0430592!4d80.2453426",
-    "LAT": 13.0430592,
-    "LONG": 80.2453426
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 389,
@@ -10111,7 +10887,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Vijai's+Nursing+Home/@13.0265199,80.2286668,17z/data=!4m5!3m4!1s0x3a5267065f55b327:0x119be6cee010cba4!8m2!3d13.0265669!4d80.2282376?hl=en",
     "LAT": 13.0265199,
-    "LONG": 80.2286668
+    "LONG": 80.2286668,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 390,
@@ -10132,12 +10910,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:55:58",
+    "DATETIME": "2021-04-28 09:55:58",
     "CONTACT": 9941011680,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=2183185980971471290",
     "LAT": 13.076723,
-    "LONG": 80.205766
+    "LONG": 80.205766,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 391,
@@ -10158,12 +10938,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:31:25",
+    "DATETIME": "2021-04-28 08:31:25",
     "CONTACT": 7550372088,
-    "REMARKS": "Total Sari. cases. 13 \\r\\nTotal Positive cases 16",
+    "REMARKS": "Total Sari. cases. 13 \nTotal Positive cases  16",
     "LOCATION": "https://maps.google.com/?cid=11158322215390744428",
     "LAT": 10.4258015,
-    "LONG": 79.3175995
+    "LONG": 79.3175995,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 392,
@@ -10189,7 +10971,9 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=17425011880172536908",
     "LAT": 10.9997095,
-    "LONG": 76.9953809
+    "LONG": 76.9953809,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 393,
@@ -10210,12 +10994,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:53:54",
+    "DATETIME": "2021-04-28 09:53:54",
     "CONTACT": 9944376111,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17953206792362072566",
     "LAT": 11.232651,
-    "LONG": 77.10189
+    "LONG": 77.10189,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 394,
@@ -10236,12 +11022,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 10,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 10,
-    "DATETIME": "2021-04-28 8:17:58",
+    "DATETIME": "2021-04-28 08:17:58",
     "CONTACT": 8220995440,
     "REMARKS": "Date 28.04.2021 Time 08.17am",
     "LOCATION": "https://maps.google.com/?cid=3870356233589818607",
     "LAT": 11.3574459,
-    "LONG": 77.9468141
+    "LONG": 77.9468141,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 395,
@@ -10267,7 +11055,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=7934289828389048361",
     "LAT": 13.050513,
-    "LONG": 80.0986603
+    "LONG": 80.0986603,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 396,
@@ -10288,12 +11078,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:37:12",
+    "DATETIME": "2021-04-28 09:37:12",
     "CONTACT": 9524241241,
     "REMARKS": "Positive cases- 8 updated on 28",
     "LOCATION": "https://www.google.com/maps/place/National+Pharma+Hospital+and+Research+Institute,+111,+Medical+College+-+Vallam+Road,+(Sundaram+Paints+Busstop),+THANJAVUR+-+613+004.+Tamil+Nadu.+India.,+Medical+College+Rd,+Krishna+Nagar,+Jayalakshmi+Nagar,+Neelagiri,+Tamil+Nadu+613004/@10.757162,79.0953249,17z/data=!3m1!4b1!4m5!3m4!1s0x3baabf3a90fd5e13:0xebe5c9fe3f4426fd!8m2!3d10.7571567!4d79.0975136",
     "LAT": 10.75727263,
-    "LONG": 79.09780328
+    "LONG": 79.09780328,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 397,
@@ -10312,14 +11104,16 @@ tamil_nadu_data=[
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 5,
     "VENTILATOR_TOTAL": 2,
-    "VENTILATOR_OCCUPIED": 1,
-    "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 10:54:33",
+    "VENTILATOR_OCCUPIED": 2,
+    "VENTILATOR_VACANT": 0,
+    "DATETIME": "2021-04-28 18:17:17",
     "CONTACT": 9566683380,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=11155343490720849920",
     "LAT": 10.9871595,
-    "LONG": 78.3361595
+    "LONG": 78.3361595,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 398,
@@ -10345,7 +11139,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=4316414216155337891",
     "LAT": 13.0811202,
-    "LONG": 80.2520908
+    "LONG": 80.2520908,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 399,
@@ -10371,7 +11167,9 @@ tamil_nadu_data=[
     "REMARKS": "UPDATED ON 26.04.2021",
     "LOCATION": "https://maps.google.com/?cid=13491478869041224070",
     "LAT": 11.6781533,
-    "LONG": 78.143102
+    "LONG": 78.143102,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 400,
@@ -10392,12 +11190,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-27 15:51:06",
+    "DATETIME": "2021-04-28 20:01:27",
     "CONTACT": 9840887689,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Fortis+Hospital+Vadapalani/@13.0473962,80.2021102,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5266c49dcec2bd:0x8e79c9721a9cdd42!8m2!3d13.047391!4d80.2042989",
     "LAT": 13.04767318,
-    "LONG": 80.20469587
+    "LONG": 80.20469587,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 401,
@@ -10423,7 +11223,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=13138017847627420732",
     "LAT": 13.0844295,
-    "LONG": 80.2160773
+    "LONG": 80.2160773,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 402,
@@ -10444,12 +11246,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:26:35",
+    "DATETIME": "2021-04-28 16:55:30",
     "CONTACT": 9994655886,
-    "REMARKS": "",
+    "REMARKS": "NIL",
     "LOCATION": "https://maps.google.com/?cid=11680170767593340491",
     "LAT": 11.1754664,
-    "LONG": 77.2952143
+    "LONG": 77.2952143,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 403,
@@ -10470,12 +11274,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:41:43",
+    "DATETIME": "2021-04-28 09:41:43",
     "CONTACT": 7200084041,
     "REMARKS": "ICU CLOSED FOR FUMIGATION",
     "LOCATION": "https://maps.google.com/?cid=5304405174488239915",
     "LAT": 12.6998661,
-    "LONG": 79.9742732
+    "LONG": 79.9742732,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 404,
@@ -10501,7 +11307,9 @@ tamil_nadu_data=[
     "REMARKS": ".",
     "LOCATION": "https://maps.google.com/?cid=5114493651942443299",
     "LAT": 8.1126807,
-    "LONG": 77.5333326
+    "LONG": 77.5333326,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 405,
@@ -10527,7 +11335,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=5244979139834624617",
     "LAT": 13.1213868,
-    "LONG": 80.2888983
+    "LONG": 80.2888983,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 406,
@@ -10553,7 +11363,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Faith+Multispeciality+Hospital/@13.1067062,80.2072323,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52646a739d0d19:0xcfe16ea468a11c8b!8m2!3d13.106701!4d80.209421",
     "LAT": 13.10694132,
-    "LONG": 80.20936736
+    "LONG": 80.20936736,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 407,
@@ -10579,7 +11391,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=10048950072698738509",
     "LAT": 12.9952704,
-    "LONG": 80.2068802
+    "LONG": 80.2068802,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 408,
@@ -10600,12 +11414,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 13:32:23",
+    "DATETIME": "2021-04-28 16:24:00",
     "CONTACT": 7397558274,
-    "REMARKS": "1 BED AVAILABLE.",
+    "REMARKS": "1 BED AVAILABLE",
     "LOCATION": "https://www.google.com/maps/place/Indus+hospital/@9.9552265,78.1270906,17z/data=!3m1!4b1!4m5!3m4!1s0x3b00c5f477138f15:0x747bc7f3d4dac08a!8m2!3d9.9552212!4d78.1292793",
     "LAT": 9.955379691,
-    "LONG": 78.12990158
+    "LONG": 78.12990158,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 409,
@@ -10631,7 +11447,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=15743208184806572586",
     "LAT": 13.0439591,
-    "LONG": 80.2407456
+    "LONG": 80.2407456,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 410,
@@ -10657,7 +11475,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=14702827732583730836",
     "LAT": 12.978766,
-    "LONG": 80.1846312
+    "LONG": 80.1846312,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 411,
@@ -10683,7 +11503,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=9626209142412180101",
     "LAT": 13.1160441,
-    "LONG": 80.2453932
+    "LONG": 80.2453932,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 412,
@@ -10709,15 +11531,17 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=11296208351796254337",
     "LAT": 12.9701658,
-    "LONG": 79.9523207
+    "LONG": 79.9523207,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 413,
     "DISTRICT": "Thoothukudi",
     "HOSPITAL_NAME": "Jayashri Hospital,Tuticorin",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 13,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 2,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 14,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 1,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 5,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 5,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -10725,17 +11549,19 @@ tamil_nadu_data=[
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 7,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 3,
-    "ICU_BEDS_OCCUPIED": 1,
-    "ICU_BEDS_VACANT": 2,
+    "ICU_BEDS_OCCUPIED": 2,
+    "ICU_BEDS_VACANT": 1,
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:00:00",
+    "DATETIME": "2021-04-28 19:31:24",
     "CONTACT": 9944393258,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=959913093001983630",
     "LAT": 9.1323002,
-    "LONG": 78.1662045
+    "LONG": 78.1662045,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 414,
@@ -10756,12 +11582,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:59:55",
+    "DATETIME": "2021-04-28 09:59:55",
     "CONTACT": 8054484748,
-    "REMARKS": "Suspect-13\\r\\nPositive-1",
+    "REMARKS": "Suspect-13\nPositive-1",
     "LOCATION": "https://maps.google.com/?cid=18048602571086781487",
     "LAT": 10.0772332,
-    "LONG": 78.784921
+    "LONG": 78.784921,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 415,
@@ -10787,7 +11615,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=11328789960332335664",
     "LAT": 13.118134,
-    "LONG": 80.2851139
+    "LONG": 80.2851139,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 416,
@@ -10808,23 +11638,25 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:17:36",
+    "DATETIME": "2021-04-28 08:17:36",
     "CONTACT": 9842741902,
-    "REMARKS": "RTPCR Positive 4 Cases\\r\\nSARI 2 Cases\\r\\nTotal 6 Cases",
+    "REMARKS": "RTPCR Positive 4 Cases\nSARI 2 Cases\nTotal 6 Cases",
     "LOCATION": "https://maps.google.com/?cid=4248240135792733937",
     "LAT": 10.4224595,
-    "LONG": 79.3209407
+    "LONG": 79.3209407,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 417,
     "DISTRICT": "Chengalpattu",
     "HOSPITAL_NAME": "Kathir Memorial Hospital,Chengalpattu",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 10,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 9,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 1,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 10,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 10,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 9,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -10834,23 +11666,25 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 10:46:24",
+    "DATETIME": "2021-04-28 17:41:54",
     "CONTACT": 9566572277,
-    "REMARKS": "28/04/2021\\r\\n10:30am",
+    "REMARKS": "28/04/2021\n05:30pm",
     "LOCATION": "https://maps.google.com/?cid=7143447857082694888",
     "LAT": 12.8493575,
-    "LONG": 80.1417175
+    "LONG": 80.1417175,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 418,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Kavin Hospital,Omalur",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 12,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 3,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 13,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 2,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 10,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 9,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 3,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -10860,12 +11694,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:49:14",
+    "DATETIME": "2021-04-28 17:08:19",
     "CONTACT": 9944332762,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=13552080279872978526",
     "LAT": 11.7428925,
-    "LONG": 78.0463892
+    "LONG": 78.0463892,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 419,
@@ -10891,7 +11727,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=11312350625546068499",
     "LAT": 12.9503313,
-    "LONG": 80.1513003
+    "LONG": 80.1513003,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 420,
@@ -10912,12 +11750,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:22:08",
+    "DATETIME": "2021-04-28 16:18:55",
     "CONTACT": 9629025780,
-    "REMARKS": "nil",
+    "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=1226391624746599785",
     "LAT": 11.0918169,
-    "LONG": 77.3608762
+    "LONG": 77.3608762,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 421,
@@ -10943,7 +11783,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=16041266692779820367",
     "LAT": 12.970083,
-    "LONG": 80.148135
+    "LONG": 80.148135,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 422,
@@ -10969,7 +11811,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=4462874705061800921",
     "LAT": 13.152921,
-    "LONG": 80.2980217
+    "LONG": 80.2980217,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 423,
@@ -10990,12 +11834,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 2,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:33:55",
+    "DATETIME": "2021-04-28 09:33:55",
     "CONTACT": 8610485027,
     "REMARKS": "27/04/2021",
     "LOCATION": "https://www.google.com/maps/place/Lakshmi+Hospital/@12.9005524,79.1272959,16z/data=!4m5!3m4!1s0x0:0x75c7644e365a0a3a!8m2!3d12.9002967!4d79.1271845?hl=en",
     "LAT": 12.9005524,
-    "LONG": 79.1272959
+    "LONG": 79.1272959,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 424,
@@ -11021,7 +11867,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=420568784336293890",
     "LAT": 13.1175168,
-    "LONG": 80.2894495
+    "LONG": 80.2894495,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 425,
@@ -11047,7 +11895,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=14888679365215248764",
     "LAT": 13.1183785,
-    "LONG": 80.2608816
+    "LONG": 80.2608816,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 426,
@@ -11073,7 +11923,9 @@ tamil_nadu_data=[
     "REMARKS": "27.04.2021",
     "LOCATION": "https://maps.google.com/?cid=550619328980131950",
     "LAT": 13.0294293,
-    "LONG": 80.2360232
+    "LONG": 80.2360232,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 427,
@@ -11099,7 +11951,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=6726145497904874787",
     "LAT": 13.1262317,
-    "LONG": 80.2489773
+    "LONG": 80.2489773,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 428,
@@ -11120,12 +11974,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:34:28",
+    "DATETIME": "2021-04-28 16:46:00",
     "CONTACT": 9787955955,
-    "REMARKS": "nil",
+    "REMARKS": "Nill",
     "LOCATION": "https://maps.google.com/?cid=10807668584598935437",
     "LAT": 10.7941446,
-    "LONG": 78.6790331
+    "LONG": 78.6790331,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 429,
@@ -11151,7 +12007,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=17944128993979447609",
     "LAT": 13.0695116,
-    "LONG": 80.2361634
+    "LONG": 80.2361634,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 430,
@@ -11177,7 +12035,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=2093633310350095028",
     "LAT": 10.3722393,
-    "LONG": 78.831922
+    "LONG": 78.831922,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 431,
@@ -11203,7 +12063,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=5615727598891161274",
     "LAT": 13.040182,
-    "LONG": 80.208732
+    "LONG": 80.208732,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 432,
@@ -11229,7 +12091,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=8637946193424532308",
     "LAT": 13.0789006,
-    "LONG": 80.2405791
+    "LONG": 80.2405791,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 433,
@@ -11255,7 +12119,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=5995242984760144229",
     "LAT": 12.9523769,
-    "LONG": 80.1863839
+    "LONG": 80.1863839,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 434,
@@ -11281,7 +12147,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=5388946414507340895",
     "LAT": 12.73399,
-    "LONG": 77.826126
+    "LONG": 77.826126,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 435,
@@ -11302,12 +12170,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 5:17:40",
+    "DATETIME": "2021-04-28 05:17:40",
     "CONTACT": 9715180099,
     "REMARKS": "Report Submitted on 28.04.2021",
     "LOCATION": "https://maps.google.com/?cid=4556540300473040987",
     "LAT": 11.2077975,
-    "LONG": 78.179875
+    "LONG": 78.179875,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 436,
@@ -11333,7 +12203,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=2122976709629844547",
     "LAT": 13.0484291,
-    "LONG": 80.2610335
+    "LONG": 80.2610335,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 437,
@@ -11359,7 +12231,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=16951951368680514380",
     "LAT": 13.0319358,
-    "LONG": 80.2103999
+    "LONG": 80.2103999,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 438,
@@ -11380,12 +12254,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:34:55",
+    "DATETIME": "2021-04-28 16:46:31",
     "CONTACT": 9894226648,
-    "REMARKS": "nil",
+    "REMARKS": "Nill",
     "LOCATION": "https://maps.google.com/?cid=4784762453043181703",
     "LAT": 10.8026465,
-    "LONG": 78.7414566
+    "LONG": 78.7414566,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 439,
@@ -11411,7 +12287,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=9752539820774823143",
     "LAT": 12.9785163,
-    "LONG": 80.185132
+    "LONG": 80.185132,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 440,
@@ -11437,7 +12315,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=14806887228235964361",
     "LAT": 13.124833,
-    "LONG": 80.290823
+    "LONG": 80.290823,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 441,
@@ -11463,7 +12343,9 @@ tamil_nadu_data=[
     "REMARKS": "UPDATED on 28",
     "LOCATION": "https://www.google.com/maps/place/Sri+Kumaran+Hospital/@10.7677499,79.1090995,17z/data=!3m1!4b1!4m5!3m4!1s0x3baab8b519025413:0xca91512433236a88!8m2!3d10.7677446!4d79.1112882",
     "LAT": 10.767987,
-    "LONG": 79.11134185
+    "LONG": 79.11134185,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 442,
@@ -11489,7 +12371,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Sri+Ranga+Hospital/@13.0289522,80.2617216,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5267ce6a5d50f9:0x566668f1f426007e!8m2!3d13.028947!4d80.2639103",
     "LAT": 13.02913513,
-    "LONG": 80.26389957
+    "LONG": 80.26389957,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 443,
@@ -11515,7 +12399,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=4819062308253500755",
     "LAT": 13.1700994,
-    "LONG": 80.3065786
+    "LONG": 80.3065786,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 444,
@@ -11536,64 +12422,70 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 1:38:24",
+    "DATETIME": "2021-04-28 01:38:24",
     "CONTACT": 6381046461,
     "REMARKS": "UPDATE GIVEN",
     "LOCATION": "https://maps.google.com/?cid=17080888865389940716",
     "LAT": 9.950072,
-    "LONG": 78.1475719
+    "LONG": 78.1475719,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 445,
     "DISTRICT": "Tiruppur",
     "HOSPITAL_NAME": "Vel Hospital, Dharapuram",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 25,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 2,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 23,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 3,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 22,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 4,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 4,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 19,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 2,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 17,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 16,
     "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 2,
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:16:09",
+    "DATETIME": "2021-04-28 16:06:19",
     "CONTACT": 8610931703,
     "REMARKS": "NIL",
     "LOCATION": "https://maps.google.com/?cid=3686973262643249777",
     "LAT": 10.728576,
-    "LONG": 77.5232139
+    "LONG": 77.5232139,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 446,
     "DISTRICT": "Tiruppur",
     "HOSPITAL_NAME": "Vel Hospital,Udumalpet",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 8,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 7,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 10,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 5,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 3,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 3,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 10,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 8,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 2,
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 12:56:09",
+    "DATETIME": "2021-04-28 16:02:35",
     "CONTACT": 9751766002,
     "REMARKS": "Nil",
     "LOCATION": "https://maps.google.com/?cid=1734496358956517387",
     "LAT": 10.581057,
-    "LONG": 77.2478338
+    "LONG": 77.2478338,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 447,
@@ -11614,12 +12506,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 8:14:14",
+    "DATETIME": "2021-04-28 08:14:14",
     "CONTACT": 9003401778,
     "REMARKS": "Nil",
     "LOCATION": "https://www.google.com/maps/place/Vijaya+Hospital/@9.9154484,78.0806893,13z/data=!4m9!1m2!2m1!1sVijaya+Hospital+madurai!3m5!1s0x3b00c5819ce17fa3:0xb0dd1c9ef19606df!8m2!3d9.9154484!4d78.1157082!15sChdWaWpheWEgSG9zcGl0YWwgbWFkdXJhaZIBEGdlbmVyYWxfaG9zcGl0YWw",
     "LAT": 9.919251422,
-    "LONG": 78.11502267
+    "LONG": 78.11502267,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 448,
@@ -11640,12 +12534,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 1,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:03:36",
+    "DATETIME": "2021-04-28 14:50:48",
     "CONTACT": 9150891207,
-    "REMARKS": "",
+    "REMARKS": "nil",
     "LOCATION": "https://maps.google.com/?cid=4821027597533957183",
     "LAT": 9.9304089,
-    "LONG": 78.1697339
+    "LONG": 78.1697339,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 449,
@@ -11671,7 +12567,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=16817891490981204624",
     "LAT": 13.0532125,
-    "LONG": 80.2507338
+    "LONG": 80.2507338,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 450,
@@ -11697,7 +12595,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 451,
@@ -11718,12 +12618,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 8:02:50",
+    "DATETIME": "2021-04-28 16:52:17",
     "CONTACT": 9843859353,
-    "REMARKS": "Nil",
+    "REMARKS": "NIL",
     "LOCATION": "https://maps.google.com/?cid=8004354808244208866",
     "LAT": 10.7367944,
-    "LONG": 77.5228703
+    "LONG": 77.5228703,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 452,
@@ -11744,12 +12646,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 9:01:32",
+    "DATETIME": "2021-04-28 09:01:32",
     "CONTACT": 8883306695,
     "REMARKS": "1 patient under admission in non oxygen supported bed.",
     "LOCATION": "https://maps.google.com/?cid=5873858554607180349",
     "LAT": 9.9171984,
-    "LONG": 78.1069344
+    "LONG": 78.1069344,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 453,
@@ -11775,33 +12679,37 @@ tamil_nadu_data=[
     "REMARKS": "We have two liquid oxygen tanks with capacity of 875 ltrs per tank",
     "LOCATION": "https://maps.google.com/?cid=13556126858546482829",
     "LAT": 12.924041,
-    "LONG": 80.1139042
+    "LONG": 80.1139042,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 454,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Deepam Hospital,Salem",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 70,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 43,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 27,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 45,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 25,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 42,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 15,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 27,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 23,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 19,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 10,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 6,
     "ICU_BEDS_TOTAL": 18,
     "ICU_BEDS_OCCUPIED": 18,
     "ICU_BEDS_VACANT": 0,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 10:22:37",
+    "DATETIME": "2021-04-28 13:43:44",
     "CONTACT": 6384003000,
     "REMARKS": "",
     "LOCATION": "https://maps.google.com/?cid=12832995640015297191",
     "LAT": 11.6269209,
-    "LONG": 78.1476691
+    "LONG": 78.1476691,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 455,
@@ -11827,7 +12735,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/RIMS+HOSPITAL/@13.2018868,80.1743965,17z/data=!3m1!4b1!4m5!3m4!1s0x3a527d40d82cc68d:0x356cd0571975c44!8m2!3d13.2018816!4d80.1765852",
     "LAT": 13.20199648,
-    "LONG": 80.17657447
+    "LONG": 80.17657447,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 456,
@@ -11848,12 +12758,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 8:37:28",
+    "DATETIME": "2021-04-28 16:48:26",
     "CONTACT": 7373762266,
-    "REMARKS": "",
+    "REMARKS": "4.00pm",
     "LOCATION": "https://maps.google.com/?cid=879498728758635618",
     "LAT": 8.8010451,
-    "LONG": 78.1331371
+    "LONG": 78.1331371,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 457,
@@ -11879,7 +12791,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Morris+Mathias+Hospital/@8.2887222,77.2087536,10.66z/data=!4m5!3m4!1s0x0:0xc87eb3f7fef84420!8m2!3d8.1804817!4d77.4191218",
     "LAT": 8.2887222,
-    "LONG": 77.2087536
+    "LONG": 77.2087536,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 458,
@@ -11905,7 +12819,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Holy+Cross+Hospital/@8.1883792,77.4175201,15z/data=!4m5!3m4!1s0x0:0x6b273505914608c0!8m2!3d8.1883792!4d77.4175201",
     "LAT": 8.1883792,
-    "LONG": 77.4175201
+    "LONG": 77.4175201,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 459,
@@ -11926,38 +12842,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 8:35:58",
+    "DATETIME": "2021-04-28 08:35:58",
     "CONTACT": 9786629040,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Krishnammal+Memorial+Hospital,+Theni/@10.0411738,77.4938751,15z/data=!4m5!3m4!1s0x0:0xa428e0c919b66475!8m2!3d10.0411738!4d77.4938751",
     "LAT": 10.0411738,
-    "LONG": 77.4938751
+    "LONG": 77.4938751,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 460,
     "DISTRICT": "Tiruppur",
     "HOSPITAL_NAME": "Sri Kumaran Hospital",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 78,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 70,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 8,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 73,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 5,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 48,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 47,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 48,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 20,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 20,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 3,
-    "ICU_BEDS_VACANT": 7,
+    "ICU_BEDS_OCCUPIED": 5,
+    "ICU_BEDS_VACANT": 5,
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 9:18:58",
+    "DATETIME": "2021-04-28 16:51:27",
     "CONTACT": 9843668880,
-    "REMARKS": "Nil",
+    "REMARKS": "NIL",
     "LOCATION": "https://www.google.com/maps/place/Sri+Kumaran+Hospital/@11.1308187,77.3412947,15z/data=!4m5!3m4!1s0x0:0x9536d7272fbfd6f4!8m2!3d11.1308187!4d77.3412947",
     "LAT": 11.1308187,
-    "LONG": 77.3412947
+    "LONG": 77.3412947,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 461,
@@ -11978,12 +12898,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 3,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 3,
-    "DATETIME": "2021-04-28 8:44:31",
+    "DATETIME": "2021-04-28 08:44:31",
     "CONTACT": 9894447717,
     "REMARKS": "Theni",
     "LOCATION": "https://www.google.com/maps/place/NRT+Hospital/@10.006297,77.4866188,15z/data=!4m5!3m4!1s0x0:0x532d20e779b56042!8m2!3d10.006297!4d77.4866188",
     "LAT": 10.006297,
-    "LONG": 77.4866188
+    "LONG": 77.4866188,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 462,
@@ -12009,33 +12931,37 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Manu+Hospital/@10.9938321,76.9831803,15z/data=!4m5!3m4!1s0x0:0xa261b8a0d873fe0d!8m2!3d10.9938321!4d76.9831803",
     "LAT": 10.9938321,
-    "LONG": 76.9831803
+    "LONG": 76.9831803,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 463,
     "DISTRICT": "Chennai",
     "HOSPITAL_NAME": "Aditya Kamaraja Hospital Pvt Ltd,Virugambakkam",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 6,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 9,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 10,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 6,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 4,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 3,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 3,
+    "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_VACANT": 2,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:03:14",
-    "CONTACT": "NULL",
+    "DATETIME": "2021-04-28 16:40:29",
+    "CONTACT": 8015101809,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Aaditya+Kamaraja+Eye+Hospital/@13.0463823,80.1865843,15z/data=!4m5!3m4!1s0x0:0x8595a537c39a2e0e!8m2!3d13.0463823!4d80.1865843",
     "LAT": 13.0463823,
-    "LONG": 80.1865843
+    "LONG": 80.1865843,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 464,
@@ -12061,7 +12987,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "",
     "LAT": "",
-    "LONG": ""
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 465,
@@ -12087,7 +13015,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Laboratory+Services,+Assured+Best+Care+Hospital+(P)+Ltd/@10.8310187,78.6847489,15z/data=!4m5!3m4!1s0x0:0x48f4ed5dbf276239!8m2!3d10.8310187!4d78.6847489",
     "LAT": 10.8310187,
-    "LONG": 78.6847489
+    "LONG": 78.6847489,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 466,
@@ -12113,33 +13043,37 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Christudas+Orthopaedic+Speciality+Hospital/@12.9212228,80.1273787,17z/data=!4m5!3m4!1s0x3a525f1692ff7561:0xa3fcd4cac3b4760e!8m2!3d12.9210555!4d80.1273358",
     "LAT": 12.9212228,
-    "LONG": 80.1273787
+    "LONG": 80.1273787,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 467,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "City Medical Center, Thennur",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 12,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 3,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 8,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 8,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 5,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 0,
+    "ICU_BEDS_VACANT": 2,
+    "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:07:49",
-    "CONTACT": "NULL",
-    "REMARKS": "",
+    "VENTILATOR_VACANT": 1,
+    "DATETIME": "2021-04-28 14:49:06",
+    "CONTACT": 7397271129,
+    "REMARKS": "alternate number: 9790420251",
     "LOCATION": "https://www.google.com/maps/place/City+Medical+Center/@10.8194941,78.6837896,17z/data=!3m1!4b1!4m5!3m4!1s0x3baaf5f2f62bcd5f:0x1f42a9401cdf4b73!8m2!3d10.8194941!4d78.6859783",
     "LAT": 10.8194941,
-    "LONG": 78.6837896
+    "LONG": 78.6837896,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 468,
@@ -12165,59 +13099,65 @@ tamil_nadu_data=[
     "REMARKS": "pediatric covid hospital serving all children from newborns to 18years",
     "LOCATION": "https://www.google.com/maps/place/Coimbatore+Child+Trust+Hospital+NABH+Accredited+pediatric+hospital/@10.9979747,77.017143,15z/data=!4m5!3m4!1s0x0:0xbd92d2aee934602b!8m2!3d10.9979747!4d77.017143",
     "LAT": 10.9979747,
-    "LONG": 77.017143
+    "LONG": 77.017143,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 469,
     "DISTRICT": "Cuddalore",
     "HOSPITAL_NAME": "Cuddalore Specialty Hospital,Manjakuppam",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 25,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 3,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 22,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 4,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 21,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 15,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "OXYGEN_SUPPORTED_BEDS_VACANT": 15,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 6,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 3,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 4,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 4,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 4,
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 12:48:20",
+    "DATETIME": "2021-04-28 16:00:34",
     "CONTACT": 9543447359,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Cuddalore+Specialty+Hospital/@11.7619911,79.7523905,15z/data=!4m9!1m2!2m1!1sCuddalore+Specialty+Hospital,Manjakuppam!3m5!1s0x3a549926863e32d7:0x45c52e9f40e0a656!8m2!3d11.7605647!4d79.7634201!15sCihDdWRkYWxvcmUgU3BlY2lhbHR5IEhvc3BpdGFsLE1hbmpha3VwcGFtkgEIaG9zcGl0YWw",
     "LAT": 11.7619911,
-    "LONG": 79.7523905
+    "LONG": 79.7523905,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 470,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "Decca Hospital, Thillai Nagar",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 22,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 9,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 13,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 17,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 6,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 11,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 3,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 1,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "ICU_BEDS_TOTAL": 2,
+    "ICU_BEDS_OCCUPIED": 2,
     "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 0,
+    "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:10:50",
-    "CONTACT": "NULL",
-    "REMARKS": "",
+    "VENTILATOR_VACANT": 1,
+    "DATETIME": "2021-04-28 18:11:02",
+    "CONTACT": 9842410780,
+    "REMARKS": "NIL",
     "LOCATION": "https://www.google.com/maps/place/Decca+Hospital/@10.8195492,78.6849072,15z/data=!4m5!3m4!1s0x0:0x39e756864869d26!8m2!3d10.8195492!4d78.6849072",
     "LAT": 10.8195492,
-    "LONG": 78.6849072
+    "LONG": 78.6849072,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 471,
@@ -12243,7 +13183,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/@10.7469127,79.1142554,15z",
     "LAT": 10.7469127,
-    "LONG": 79.1142554
+    "LONG": 79.1142554,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 472,
@@ -12269,18 +13211,20 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Ezhil+Hospital/@13.1293114,80.2909471,17z/data=!4m5!3m4!1s0x3a526f79e477cfb9:0xf3a0aec778b3506!8m2!3d13.1294368!4d80.2912153",
     "LAT": 13.1293114,
-    "LONG": 80.2909471
+    "LONG": 80.2909471,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 473,
     "DISTRICT": "Coimbatore",
     "HOSPITAL_NAME": "Fathima Hospital,Podanur",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 15,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 10,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 5,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 11,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 4,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 5,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 1,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 4,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 2,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 3,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 10,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 9,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 1,
@@ -12290,168 +13234,182 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 11:08:54",
+    "DATETIME": "2021-04-28 19:12:04",
     "CONTACT": 8098011072,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Fathima+Hospitals/@11.0223827,77.4597613,7.86z/data=!4m5!3m4!1s0x3ba85980bdfee4cb:0xf5219d25c598cd8!8m2!3d10.9690937!4d76.9733794",
     "LAT": 11.0223827,
-    "LONG": 77.4597613
+    "LONG": 77.4597613,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 474,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "Jagadha Hospital,Thillai Nagar",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 20,
     "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 20,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 14,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 14,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 4,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 4,
+    "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_VACANT": 2,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:14:21",
-    "CONTACT": "NULL",
+    "DATETIME": "2021-04-28 14:39:08",
+    "CONTACT": 9488333620,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Jagadha+Hospital/@10.8260136,78.6817504,16.96z/data=!4m9!1m2!2m1!1sJagadha+Hospital,Thillai+Nagar!3m5!1s0x3baaf5a2c2d75519:0xaeb94d89801bbf5d!8m2!3d10.8264798!4d78.6816623!15sCh5KYWdhZGhhIEhvc3BpdGFsLFRoaWxsYWkgTmFnYXJaMgoQamFnYWRoYSBob3NwaXRhbCIeamFnYWRoYSBob3NwaXRhbCB0aGlsbGFpIG5hZ2FykgEIaG9zcGl0YWw",
     "LAT": 10.8260136,
-    "LONG": 78.6817504
+    "LONG": 78.6817504,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 475,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "Kanapathy Memorial Hospital, Musiri",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 16,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 2,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 14,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 8,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 2,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 6,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 2,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 2,
+    "ICU_BEDS_TOTAL": 6,
     "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 0,
+    "ICU_BEDS_VACANT": 6,
+    "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:15:14",
-    "CONTACT": "NULL",
+    "VENTILATOR_VACANT": 2,
+    "DATETIME": "2021-04-28 15:30:44",
+    "CONTACT": 9566813205,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Kanapathy+Memorial+Hospital/@10.9520457,78.4399997,17z/data=!3m1!4b1!4m5!3m4!1s0x3baa4f8fe38b654d:0x43d8f774f35e2903!8m2!3d10.9520457!4d78.4421884",
     "LAT": 10.9520457,
-    "LONG": 78.4399997
+    "LONG": 78.4399997,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 476,
     "DISTRICT": "TheNilgiris",
     "HOSPITAL_NAME": "Kotagiri Medical Fellowship Hospital,Kotagiri",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 16,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 1,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 15,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 8,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 8,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 6,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 1,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 5,
+    "ICU_BEDS_TOTAL": 2,
     "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 0,
+    "ICU_BEDS_VACANT": 2,
+    "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:16:49",
-    "CONTACT": "NULL",
+    "VENTILATOR_VACANT": 1,
+    "DATETIME": "2021-04-28 20:21:21",
+    "CONTACT": 9585259479,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/KMF+Hospital/@11.4346065,76.8600444,17z/data=!4m5!3m4!1s0x3ba8c04619b52437:0xeb414c038fe73736!8m2!3d11.4347222!4d76.8596689",
     "LAT": 11.4346065,
-    "LONG": 76.8600444
+    "LONG": 76.8600444,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 477,
     "DISTRICT": "Ariyalur",
     "HOSPITAL_NAME": "KVS Hospital Pvt Ltd,Valaja Nagaram",
     "BEDS_FOR_SUSPECTED_CASES_TOTAL": 18,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 13,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 5,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 12,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 6,
     "OXYGEN_SUPPORTED_BEDS_TOTAL": 14,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 11,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 3,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 10,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 4,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 4,
     "ICU_BEDS_OCCUPIED": 2,
     "ICU_BEDS_VACANT": 2,
-    "VENTILATOR_TOTAL": 0,
+    "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-28 11:04:31",
+    "VENTILATOR_VACANT": 1,
+    "DATETIME": "2021-04-28 16:24:47",
     "CONTACT": 9585288077,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/KVS+Hospital/@11.126286,79.0873683,17z/data=!3m1!4b1!4m5!3m4!1s0x3baadf4186cdb3ab:0x9b4ac7b358567dcc!8m2!3d11.126286!4d79.089557",
     "LAT": 11.126286,
-    "LONG": 79.0873683
+    "LONG": 79.0873683,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 478,
     "DISTRICT": "Salem",
     "HOSPITAL_NAME": "Malar Hospital,Vazhapadi",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 13,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 9,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 4,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 4,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 1,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 5,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 5,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 0,
+    "ICU_BEDS_TOTAL": 4,
+    "ICU_BEDS_OCCUPIED": 1,
+    "ICU_BEDS_VACANT": 3,
+    "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:18:29",
-    "CONTACT": "NULL",
+    "VENTILATOR_VACANT": 1,
+    "DATETIME": "2021-04-28 16:07:03",
+    "CONTACT": 8270562733,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Malar+Hospital/@11.6572158,78.392686,17z/data=!4m5!3m4!1s0x3bab8fe876d41dd3:0x1bf538cdb51d6a7e!8m2!3d11.656785!4d78.392804",
     "LAT": 11.6572158,
-    "LONG": 78.392686
+    "LONG": 78.392686,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 479,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "Max Care Hospital, Annamalai Nagar",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 23,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 1,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 22,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 10,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 1,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 9,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 10,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 10,
+    "ICU_BEDS_TOTAL": 3,
     "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 0,
+    "ICU_BEDS_VACANT": 3,
+    "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:19:09",
-    "CONTACT": "NULL",
+    "VENTILATOR_VACANT": 1,
+    "DATETIME": "2021-04-28 14:27:07",
+    "CONTACT": 9600073580,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/MOTC+Hospital+-+Previously+Maxcare+Hospital/@10.8277744,78.6849372,17z/data=!4m5!3m4!1s0x3baaf5bcac94349b:0xfa1f888800eb1295!8m2!3d10.8279219!4d78.6848299",
     "LAT": 10.8277744,
-    "LONG": 78.6849372
+    "LONG": 78.6849372,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 480,
@@ -12472,12 +13430,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 2,
-    "DATETIME": "2021-04-28 13:12:53",
+    "DATETIME": "2021-04-28 16:54:11",
     "CONTACT": 8056912666,
-    "REMARKS": "28.04.2021-Afternoon report",
+    "REMARKS": "28.04.2021-Evening report",
     "LOCATION": "https://www.google.com/maps/place/Metromale+Clinic+%26+Fertility+Center/@13.0341515,80.1546097,17z/data=!3m1!4b1!4m5!3m4!1s0x3a5261e6a9df5155:0x303353ce86e3ff14!8m2!3d13.0341642!4d80.1567991",
     "LAT": 13.0341515,
-    "LONG": 80.1546097
+    "LONG": 80.1546097,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 481,
@@ -12503,7 +13463,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Mount+Multispeciality+Hospitals/@12.9824028,80.1967875,17z/data=!3m1!4b1!4m5!3m4!1s0x3a525df0a67a25f5:0x86282580f788d613!8m2!3d12.9824028!4d80.1989762",
     "LAT": 12.9824028,
-    "LONG": 80.1967875
+    "LONG": 80.1967875,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 482,
@@ -12529,7 +13491,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/New+Ruthraan+Hospital/@13.0997674,80.2260543,17z/data=!3m1!4b1!4m5!3m4!1s0x3a52643448afb4cd:0xf63ba8750f2e1b51!8m2!3d13.0997674!4d80.228243",
     "LAT": 13.0997674,
-    "LONG": 80.2260543
+    "LONG": 80.2260543,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 483,
@@ -12555,7 +13519,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Sanjjeev+Hospital/@11.2350071,78.8719608,17z/data=!4m9!1m2!2m1!1sSanjjeev+Hospital,Venkatesapuram!3m5!1s0x3bab1b2e5e61fe5d:0x4ec4dc955580b640!8m2!3d11.2358915!4d78.8723397!15sCiBTYW5qamVldiBIb3NwaXRhbCxWZW5rYXRlc2FwdXJhbVo1ChFzYW5qamVldiBob3NwaXRhbCIgc2FuamplZXYgaG9zcGl0YWwgdmVua2F0ZXNhcHVyYW2SAQhob3NwaXRhbA",
     "LAT": 11.2350071,
-    "LONG": 78.8719608
+    "LONG": 78.8719608,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 484,
@@ -12576,12 +13542,14 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 13:20:58",
+    "DATETIME": "2021-04-28 17:09:10",
     "CONTACT": 6382253140,
-    "REMARKS": ".",
+    "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Sasi+Hospital+%26+Heart+Centre/@9.1671435,77.8528987,17z/data=!4m5!3m4!1s0x3b06b30fab8f1c93:0x1d7aafddecc5c8e3!8m2!3d9.1674295!4d77.8530811",
     "LAT": 9.1671435,
-    "LONG": 77.8528987
+    "LONG": 77.8528987,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 485,
@@ -12607,7 +13575,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Shri+Hospitals/@11.66042,78.1519598,17z/data=!4m9!1m2!2m1!1sShri+Hospitals,+Shankar+Nagar+salem+!3m5!1s0x3babf11cf93f09d5:0x8fba01fade38263e!8m2!3d11.6611797!4d78.1533547!15sCiNTaHJpIEhvc3BpdGFscywgU2hhbmthciBOYWdhciBzYWxlbVo0Cg5zaHJpIGhvc3BpdGFscyIic2hyaSBob3NwaXRhbHMgc2hhbmthciBuYWdhciBzYWxlbZIBCGhvc3BpdGFs",
     "LAT": 11.66042,
-    "LONG": 78.1519598
+    "LONG": 78.1519598,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 486,
@@ -12633,7 +13603,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Sri+Isari+Velan+Mission+Hospital/@12.8472814,80.1954435,17z/data=!3m1!4b1!4m5!3m4!1s0x3a525a2e07deb6d5:0x3065a426efad17d3!8m2!3d12.8472814!4d80.1976322",
     "LAT": 12.8472814,
-    "LONG": 80.1954435
+    "LONG": 80.1954435,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 487,
@@ -12659,33 +13631,37 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Silverline+Speciality+Hospital/@10.8245047,78.6817944,17z/data=!4m5!3m4!1s0x3baaf5640d452e41:0x6233462592b6722a!8m2!3d10.824726!4d78.6819983",
     "LAT": 10.8245047,
-    "LONG": 78.6817944
+    "LONG": 78.6817944,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 488,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "SMS Hospital,Salai Road",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 23,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 11,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 12,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 18,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 6,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 12,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 3,
+    "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 3,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
+    "ICU_BEDS_TOTAL": 2,
+    "ICU_BEDS_OCCUPIED": 2,
     "ICU_BEDS_VACANT": 0,
-    "VENTILATOR_TOTAL": 0,
+    "VENTILATOR_TOTAL": 2,
     "VENTILATOR_OCCUPIED": 0,
-    "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:30:28",
-    "CONTACT": "NULL",
-    "REMARKS": "",
+    "VENTILATOR_VACANT": 2,
+    "DATETIME": "2021-04-28 14:38:47",
+    "CONTACT": 9750958305,
+    "REMARKS": "Dr.N. Duraisamy  MD.,DM., 9842465414 (Chairman)",
     "LOCATION": "https://www.google.com/maps/place/SMS+Hospital/@10.827115,78.6803087,17z/data=!3m1!4b1!4m5!3m4!1s0x3baaf5a3280816d1:0x85d64f78e60a2cb6!8m2!3d10.827115!4d78.6824974",
     "LAT": 10.827115,
-    "LONG": 78.6803087
+    "LONG": 78.6803087,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 489,
@@ -12706,38 +13682,42 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 1,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 1,
-    "DATETIME": "2021-04-28 9:14:33",
+    "DATETIME": "2021-04-28 09:14:33",
     "CONTACT": 9361362038,
     "REMARKS": "Nil",
     "LOCATION": "https://www.google.com/maps/place/SR+Hospital+,+chella+fertility+centre/@11.1369369,79.0732849,17z/data=!4m9!1m2!2m1!1sSR+Hospital,Ariyalur!3m5!1s0x3baadf7c85e4844f:0x83685ace97c88030!8m2!3d11.1377538!4d79.0733986!15sChRTUiBIb3NwaXRhbCxBcml5YWx1closChRzciBob3NwaXRhbCBhcml5YWx1ciIUc3IgaG9zcGl0YWwgYXJpeWFsdXKSAQhob3NwaXRhbA",
     "LAT": 11.1369369,
-    "LONG": 79.0732849
+    "LONG": 79.0732849,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 490,
     "DISTRICT": "Thiruchirappalli",
     "HOSPITAL_NAME": "Sri Kumaran Hospital Manapparai",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 18,
     "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 18,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 7,
     "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 7,
+    "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 7,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
+    "NONOXYGEN_SUPPORTED_BEDS_VACANT": 7,
+    "ICU_BEDS_TOTAL": 4,
     "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_VACANT": 4,
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 16:35:03",
-    "CONTACT": "NULL",
+    "DATETIME": "2021-04-28 15:35:42",
+    "CONTACT": 9003772250,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Sri+Kumaran+Hospital+,+Manapparai/@10.6056638,78.4266793,17z/data=!3m1!4b1!4m5!3m4!1s0x3baa6e353e877cc9:0xd75a723511ca67a2!8m2!3d10.6056638!4d78.428868",
     "LAT": 10.6056638,
-    "LONG": 78.4266793
+    "LONG": 78.4266793,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 491,
@@ -12763,7 +13743,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Ratna+Doss+Hospital/@10.6059737,78.4189268,17z/data=!4m5!3m4!1s0x3baa6e3793a58ecd:0xbd7704a5a53f53d5!8m2!3d10.6057206!4d78.4192809",
     "LAT": 10.6059737,
-    "LONG": 78.4189268
+    "LONG": 78.4189268,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 492,
@@ -12789,7 +13771,9 @@ tamil_nadu_data=[
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/SUNDARAM+MULTI+SPECIALITY+HOSPITAL/@11.6005966,78.5925758,17z/data=!3m1!4b1!4m5!3m4!1s0x3bab9c423f917299:0xa5970e54bea6cb27!8m2!3d11.6005966!4d78.5947645",
     "LAT": 11.6005966,
-    "LONG": 78.5925758
+    "LONG": 78.5925758,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 493,
@@ -12815,18 +13799,20 @@ tamil_nadu_data=[
     "REMARKS": "28.04.2021",
     "LOCATION": "https://www.google.com/maps/place/VG+Hospital/@11.0707898,76.9399977,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba8f63d73bdc70d:0x6ab3e03d6f343f69!8m2!3d11.0707898!4d76.9421864",
     "LAT": 11.0707898,
-    "LONG": 76.9399977
+    "LONG": 76.9399977,
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "FALSE"
   },
   {
     "SNO": 494,
     "DISTRICT": "TheNilgiris",
     "HOSPITAL_NAME": "Shiva Shakthi Hospital,Udagamandalam",
-    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 0,
-    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 0,
-    "BEDS_FOR_SUSPECTED_CASES_VACANT": 0,
-    "OXYGEN_SUPPORTED_BEDS_TOTAL": 0,
-    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
-    "OXYGEN_SUPPORTED_BEDS_VACANT": 0,
+    "BEDS_FOR_SUSPECTED_CASES_TOTAL": 8,
+    "BEDS_FOR_SUSPECTED_CASES_OCCUPIED": 2,
+    "BEDS_FOR_SUSPECTED_CASES_VACANT": 6,
+    "OXYGEN_SUPPORTED_BEDS_TOTAL": 8,
+    "OXYGEN_SUPPORTED_BEDS_OCCUPIED": 2,
+    "OXYGEN_SUPPORTED_BEDS_VACANT": 6,
     "NONOXYGEN_SUPPORTED_BEDS_TOTAL": 0,
     "NONOXYGEN_SUPPORTED_BEDS_OCCUPIED": 0,
     "NONOXYGEN_SUPPORTED_BEDS_VACANT": 0,
@@ -12836,11 +13822,13 @@ tamil_nadu_data=[
     "VENTILATOR_TOTAL": 0,
     "VENTILATOR_OCCUPIED": 0,
     "VENTILATOR_VACANT": 0,
-    "DATETIME": "2021-04-27 17:13:01",
-    "CONTACT": "NULL",
+    "DATETIME": "2021-04-28 17:03:46",
+    "CONTACT": 9486253427,
     "REMARKS": "",
     "LOCATION": "https://www.google.com/maps/place/Siva+Shakthi+Hospital,/@11.4010927,76.7025331,16.23z/data=!4m5!3m4!1s0x3ba8bd89d8b73dbb:0x95c4c4c18ef946cf!8m2!3d11.4013136!4d76.7030248",
     "LAT": 11.4010927,
-    "LONG": 76.7025331
+    "LONG": 76.7025331,
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
   }
 ]
