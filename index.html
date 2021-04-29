@@ -108,6 +108,21 @@
 			.modal-body {
 				font-size: 1.25em;
 			}
+			.modal-body div:nth-child(1) {
+				padding-bottom: 0.5em;
+			}
+			.modal-body div:nth-child(2) {
+				padding-bottom: 1em;
+			}
+			.modal-body div:nth-child(3) {
+				padding-bottom: 1em;
+				font-size: 0.8em;
+				line-height: 1.5em;
+				color: #777;
+			}
+			.modal-body div:nth-child(4) {
+				text-align: center;
+			}
 			@media only screen and (max-width: 1024px) {
 				#pointers {
 					max-width: 90%;
@@ -135,6 +150,12 @@
 				.modal-body {
 					font-size: 2em;
     			line-height: 1.5em;
+				}
+				.modal-title {
+					font-size: 3em;
+				}
+				.modal-body button {
+					font-size: 1em;
 				}
 			}
 		</style>
@@ -165,28 +186,32 @@
 
 		<div id="mapid"></div>
 
-		<div id="icudisclaimer" class="modal" tabindex="-1" role="dialog">
-		  <div class="modal-dialog" role="document">
+		<div id="icudisclaimer" class="modal">
+		  <div class="modal-dialog">
 		    <div class="modal-content">
 		      <div class="modal-header">
 		        <h5 class="modal-title">NOTE</h5>
 		      </div>
 		      <div class="modal-body">
-		        This <b style="color: crimson">does not show availability</b> of ICU beds, it only lists hospitals that provide ICU beds facility.<br><br>
-		        West Bengal releases no information about the total number of ICU beds in a hospital.
+		        <div>This only lists hospitals that provide ICU beds and <b style="color: crimson">does not show its availability</b>.</div>
+		        <div>To get availability details, click on <b style="color: #1997d4">blue</b> markers on map.</div>
+		        <div>West Bengal does not provide data on the number of ICU beds.</div>
+		        <div><button type="button" class="btn btn-secondary" onclick="$('#icudisclaimer').modal('hide');">OK</button></div>
 		      </div>
 		    </div>
 		  </div>
 		</div>
-		<div id="ventdisclaimer" class="modal" tabindex="-1" role="dialog">
-		  <div class="modal-dialog" role="document">
+		<div id="ventdisclaimer" class="modal">
+		  <div class="modal-dialog">
 		    <div class="modal-content">
 		      <div class="modal-header">
 		        <h5 class="modal-title">NOTE</h5>
 		      </div>
 		      <div class="modal-body">
-		        This <b style="color: crimson">does not show availability</b> of Ventilator beds, it only lists hospitals that provide Ventilator beds facility.<br><br>
-		        Madhya Pradesh, Telangana and West Bengal release no information about the total number of Ventilator beds in a hospital.
+		        <div>This only lists hospitals that provide ICU Ventilator beds and <b style="color: crimson">does not show its availability</b>.</div>
+		        <div>To get availability details, click on <b style="color: #1997d4">blue</b> markers on map.</div>
+		        <div>Madhya Pradesh, Telangana and West Bengal do not provide data on the number of ICU Ventilator beds.</div>
+		        <div><button type="button" class="btn btn-secondary" onclick="$('#ventdisclaimer').modal('hide');">OK</button></div>
 		      </div>
 		    </div>
 		  </div>
