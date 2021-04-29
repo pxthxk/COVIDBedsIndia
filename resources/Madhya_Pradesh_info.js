@@ -737,7 +737,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 09:17:45",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -1079,7 +1079,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 08:58:23",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -1440,7 +1440,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 11:52:38",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=26.5684266%20,78.7959217",
+    "LOCATION": "https://maps.google.com/?q=26.5684266,78.7959217",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -1839,7 +1839,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 4,
     "LAST_UPDATED": "29-04-2021, 18:46:41",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=23.2900414%20,77.4131170",
+    "LOCATION": "https://maps.google.com/?q=23.2900414,77.4131170",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -2713,7 +2713,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 1,
     "LAST_UPDATED": "29-04-2021, 16:07:12",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -3340,7 +3340,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 2,
     "LAST_UPDATED": "29-04-2021, 15:55:54",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=23.3896930%20,77.5294159",
+    "LOCATION": "https://maps.google.com/?q=23.3896930,77.5294159",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -3986,7 +3986,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 05:11:59",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=25.0000000%20,79.0000000",
+    "LOCATION": "https://maps.google.com/?q=25.0000000,79.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -4214,7 +4214,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 06:52:31",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -4309,7 +4309,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 06:53:22",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -4575,7 +4575,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 2,
     "LAST_UPDATED": "29-04-2021, 18:44:41",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=27.2046000%20,77.4977000",
+    "LOCATION": "https://maps.google.com/?q=27.2046000,77.4977000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -5278,7 +5278,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:30:21",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=22.2017300%20,75.4863860",
+    "LOCATION": "https://maps.google.com/?q=22.2017300,75.4863860",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -5354,7 +5354,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:19:05",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=24.6444000%20,77.3101000",
+    "LOCATION": "https://maps.google.com/?q=24.6444000,77.3101000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -5639,7 +5639,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 10:17:11",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=28.6519400%20,77.2689500",
+    "LOCATION": "https://maps.google.com/?q=28.6519400,77.2689500",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -7235,7 +7235,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 08:49:09",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -7254,7 +7254,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 08:44:57",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -7368,7 +7368,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 08:46:32",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -7387,7 +7387,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 08:23:44",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -8071,7 +8071,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:30:38",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=22.6758720%20,75.8848026",
+    "LOCATION": "https://maps.google.com/?q=22.6758720,75.8848026",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -8432,7 +8432,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:42:34",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=22.7401346%20,75.8400612",
+    "LOCATION": "https://maps.google.com/?q=22.7401346,75.8400612",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -8888,7 +8888,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:44:22",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=22.6986364%20,75.8546824",
+    "LOCATION": "https://maps.google.com/?q=22.6986364,75.8546824",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -9287,7 +9287,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:46:51",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=0.0000000%20,0.0000000",
+    "LOCATION": "https://maps.google.com/?q=0.0000000,0.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10085,7 +10085,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 19:12:00",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10256,7 +10256,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 19:13:27",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10351,7 +10351,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:12:46",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10427,7 +10427,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 19:05:53",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10541,7 +10541,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 11:18:52",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10693,7 +10693,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 19:07:29",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10731,7 +10731,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 09:45:22",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -10883,7 +10883,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 19:09:08",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -11244,7 +11244,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 19:10:25",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -11282,7 +11282,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 3,
     "LAST_UPDATED": "29-04-2021, 09:40:06",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000%20,72.0000000",
+    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -11909,7 +11909,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 10:47:25",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=22.1773000%20,75.5830000",
+    "LOCATION": "https://maps.google.com/?q=22.1773000,75.5830000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -12080,7 +12080,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 10:59:39",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=21.8681000%20,75.9629000",
+    "LOCATION": "https://maps.google.com/?q=21.8681000,75.9629000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -12175,7 +12175,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 09:45:26",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=21.6816000%20,75.5932000",
+    "LOCATION": "https://maps.google.com/?q=21.6816000,75.5932000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12327,7 +12327,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 17:23:46",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=24.0650490%20,75.0718420",
+    "LOCATION": "https://maps.google.com/?q=24.0650490,75.0718420",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12346,7 +12346,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:23:03",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=24.0768040%20,75.0604850",
+    "LOCATION": "https://maps.google.com/?q=24.0768040,75.0604850",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12384,7 +12384,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 16:59:35",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=24.1866950%20,75.6363210",
+    "LOCATION": "https://maps.google.com/?q=24.1866950,75.6363210",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12441,7 +12441,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 13:31:57",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=24.0729900%20,75.6527490",
+    "LOCATION": "https://maps.google.com/?q=24.0729900,75.6527490",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12536,7 +12536,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:26:21",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=26.4960970%20,77.9986760",
+    "LOCATION": "https://maps.google.com/?q=26.4960970,77.9986760",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12726,7 +12726,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 19:13:28",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=22.0000000%20,79.0000000",
+    "LOCATION": "https://maps.google.com/?q=22.0000000,79.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12821,7 +12821,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:49:09",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,79.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,79.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -12973,7 +12973,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 08:24:22",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=18.2220000%20,3.2200000",
+    "LOCATION": "https://maps.google.com/?q=18.2220000,3.2200000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -13467,7 +13467,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 13:57:23",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -13505,7 +13505,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:27:22",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -13543,7 +13543,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:23:41",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -13600,7 +13600,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:48:42",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -13638,7 +13638,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:43:24",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -13676,7 +13676,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:40:41",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -13714,7 +13714,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:07:51",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -13752,7 +13752,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:47:55",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.0000000%20,75.0000000",
+    "LOCATION": "https://maps.google.com/?q=23.0000000,75.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -13999,7 +13999,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 13:30:21",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.6227110%20,78.5768274",
+    "LOCATION": "https://maps.google.com/?q=23.6227110,78.5768274",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -14189,7 +14189,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "-",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.8107017%20,78.7462493",
+    "LOCATION": "https://maps.google.com/?q=23.8107017,78.7462493",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -14360,7 +14360,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "-",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=24.3214000%20,80.5786000",
+    "LOCATION": "https://maps.google.com/?q=24.3214000,80.5786000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -14436,7 +14436,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 13:42:33",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=24.9167000%20,80.8036000",
+    "LOCATION": "https://maps.google.com/?q=24.9167000,80.8036000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -14797,7 +14797,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:23:18",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=22.7346800%20,77.4339700",
+    "LOCATION": "https://maps.google.com/?q=22.7346800,77.4339700",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -14949,7 +14949,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 08:44:43",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=22.7384600%20,77.4359600",
+    "LOCATION": "https://maps.google.com/?q=22.7384600,77.4359600",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -15177,7 +15177,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 5,
     "LAST_UPDATED": "29-04-2021, 16:43:38",
     "PACKAGE": "View",
-    "LOCATION": "https://www.google.com/maps/place/Shri+shyam+care+hospital/@23.3153262,81.3571311,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO3WWYCtzHK4Ty0V-V9WNLfJw_5zBUirLbYxS5B!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO3WWYCtzHK4Ty0V-V9WNLfJw_5zBUirLbYxS5B%3Dw408-h306-k-no!7i4160!8i3120!4m5!3m4!1s0x3986fab837ad763f:0x5472a2f73ea89ed5!8m2!3d23.3153463!4d81.3572446",
+    "LOCATION": "https://maps.google.com/?q=23.3153262,81.3571311",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -15557,7 +15557,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:29:26",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=26.0513280%20,77.3756800",
+    "LOCATION": "https://maps.google.com/?q=26.0513280,77.3756800",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -15804,7 +15804,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 09:03:22",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.5170680%20,77.7981210",
+    "LOCATION": "https://maps.google.com/?q=23.5170680,77.7981210",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -16279,7 +16279,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:02:04",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.6070483%20,75.7239353",
+    "LOCATION": "https://maps.google.com/?q=23.6070483,75.7239353",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -16621,7 +16621,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 17:31:54",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=23.4898505%20,75.6596396",
+    "LOCATION": "https://maps.google.com/?q=23.4898505,75.6596396",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -16811,7 +16811,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 14:51:35",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=27.0000000%20,78.0000000",
+    "LOCATION": "https://maps.google.com/?q=27.0000000,78.0000000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -16868,7 +16868,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 18:04:18",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=24.1172300%20,78.0782000",
+    "LOCATION": "https://maps.google.com/?q=24.1172300,78.0782000",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
