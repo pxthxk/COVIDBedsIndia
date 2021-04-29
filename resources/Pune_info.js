@@ -23,9 +23,7 @@ pune_data=[
     "PINCODE": 412114,
     "LOCATION": "https://maps.google.com/?cid=10143032907061263915",
     "LAT": 18.6816444,
-    "LONG": 73.8254849,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8254849
   },
   {
     "DISTRICT": "Pune",
@@ -51,9 +49,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1037571152106136271",
     "LAT": 18.0833389,
-    "LONG": 74.9096597,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.9096597
   },
   {
     "DISTRICT": "Pune",
@@ -79,9 +75,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=10396893246396269527",
     "LAT": 18.3510674,
-    "LONG": 74.0285138,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.0285138
   },
   {
     "DISTRICT": "Pune",
@@ -107,9 +101,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=10430995506163014438",
     "LAT": 18.4969384,
-    "LONG": 73.9616157,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9616157
   },
   {
     "DISTRICT": "Pune",
@@ -135,9 +127,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=10458532923452895777",
     "LAT": 18.4846648,
-    "LONG": 73.8588867,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8588867
   },
   {
     "DISTRICT": "Pune",
@@ -163,9 +153,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=10467113018505088951",
     "LAT": 18.4918072,
-    "LONG": 73.9304723,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9304723
   },
   {
     "DISTRICT": "Pune",
@@ -191,9 +179,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=10486704553913787198",
     "LAT": 18.4903663,
-    "LONG": 73.9532632,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9532632
   },
   {
     "DISTRICT": "Pune",
@@ -219,9 +205,7 @@ pune_data=[
     "PINCODE": 411038,
     "LOCATION": "https://maps.google.com/?cid=10511925460550895650",
     "LAT": 18.4947751,
-    "LONG": 73.8135445,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8135445
   },
   {
     "DISTRICT": "Pune",
@@ -247,9 +231,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://maps.google.com/?cid=10562684640770036600",
     "LAT": 18.6029369,
-    "LONG": 73.7952995,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7952995
   },
   {
     "DISTRICT": "Pune",
@@ -275,9 +257,7 @@ pune_data=[
     "PINCODE": 410507,
     "LOCATION": "https://maps.google.com/?cid=10564460234104208831",
     "LAT": 18.7358452,
-    "LONG": 73.6754263,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.6754263
   },
   {
     "DISTRICT": "Pune",
@@ -303,9 +283,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1093884896698176578",
     "LAT": 18.4872517,
-    "LONG": 73.8570221,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8570221
   },
   {
     "DISTRICT": "Pune",
@@ -331,9 +309,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=10957632438792911894",
     "LAT": 18.4895584,
-    "LONG": 74.0222731,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.0222731
   },
   {
     "DISTRICT": "Pune",
@@ -359,9 +335,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=10960607790223335250",
     "LAT": 18.5710355,
-    "LONG": 73.8806862,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8806862
   },
   {
     "DISTRICT": "Pune",
@@ -387,9 +361,7 @@ pune_data=[
     "PINCODE": 411006,
     "LOCATION": "https://maps.google.com/?cid=10963902532311386441",
     "LAT": 18.5618372,
-    "LONG": 73.8926066,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8926066
   },
   {
     "DISTRICT": "Pune",
@@ -415,9 +387,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11136994275970921940",
     "LAT": 18.7549729,
-    "LONG": 73.5547767,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.5547767
   },
   {
     "DISTRICT": "Pune",
@@ -443,9 +413,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11297935864254382136",
     "LAT": 18.6155646,
-    "LONG": 73.8765838,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8765838
   },
   {
     "DISTRICT": "Pune",
@@ -471,9 +439,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11351611194444288805",
     "LAT": 18.5626426,
-    "LONG": 73.8327699,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8327699
   },
   {
     "DISTRICT": "Pune",
@@ -499,9 +465,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11427537906568189500",
     "LAT": 18.6491053,
-    "LONG": 73.8502793,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8502793
   },
   {
     "DISTRICT": "Pune",
@@ -527,9 +491,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11442334695996316911",
     "LAT": 18.5031163,
-    "LONG": 73.8447202,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8447202
   },
   {
     "DISTRICT": "Pune",
@@ -555,9 +517,7 @@ pune_data=[
     "PINCODE": 411019,
     "LOCATION": "https://maps.google.com/?cid=11465114598441198689",
     "LAT": 18.6388394,
-    "LONG": 73.8016208,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8016208
   },
   {
     "DISTRICT": "Pune",
@@ -583,9 +543,7 @@ pune_data=[
     "PINCODE": 411039,
     "LOCATION": "https://maps.google.com/?cid=1146638797769834669",
     "LAT": 18.6343109,
-    "LONG": 73.8493193,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8493193
   },
   {
     "DISTRICT": "Pune",
@@ -611,9 +569,7 @@ pune_data=[
     "PINCODE": 411058,
     "LOCATION": "https://maps.google.com/?cid=11519273404669904430",
     "LAT": 18.4851876,
-    "LONG": 73.7997543,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7997543
   },
   {
     "DISTRICT": "Pune",
@@ -639,9 +595,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11602780556949574407",
     "LAT": 18.5229851,
-    "LONG": 73.863934,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.863934
   },
   {
     "DISTRICT": "Pune",
@@ -667,9 +621,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11673341080782201236",
     "LAT": 18.5234811,
-    "LONG": 73.7183639,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7183639
   },
   {
     "DISTRICT": "Pune",
@@ -695,9 +647,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11789226030447439149",
     "LAT": 18.1461309,
-    "LONG": 74.5771815,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5771815
   },
   {
     "DISTRICT": "Pune",
@@ -723,9 +673,7 @@ pune_data=[
     "PINCODE": 411023,
     "LOCATION": "https://maps.google.com/?cid=11808152781087167245",
     "LAT": 18.4615225,
-    "LONG": 73.7733157,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7733157
   },
   {
     "DISTRICT": "Pune",
@@ -751,9 +699,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11889970637102233670",
     "LAT": 18.6275599,
-    "LONG": 73.7820296,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7820296
   },
   {
     "DISTRICT": "Pune",
@@ -779,9 +725,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11891452422054366936",
     "LAT": 18.4535518,
-    "LONG": 74.5860005,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5860005
   },
   {
     "DISTRICT": "Pune",
@@ -807,9 +751,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=11969006056448119276",
     "LAT": 18.6544973,
-    "LONG": 73.7696512,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7696512
   },
   {
     "DISTRICT": "Pune",
@@ -835,9 +777,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12026778143915678143",
     "LAT": 18.8182602,
-    "LONG": 74.3715164,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.3715164
   },
   {
     "DISTRICT": "Pune",
@@ -863,9 +803,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12069423699345489302",
     "LAT": 18.5030828,
-    "LONG": 73.8104017,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8104017
   },
   {
     "DISTRICT": "Pune",
@@ -891,9 +829,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12160546335449628540",
     "LAT": 18.5832246,
-    "LONG": 73.9863804,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9863804
   },
   {
     "DISTRICT": "Pune",
@@ -919,9 +855,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12195085363827970629",
     "LAT": 18.58231,
-    "LONG": 73.989403,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.989403
   },
   {
     "DISTRICT": "Pune",
@@ -947,9 +881,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12206796579478248158",
     "LAT": 18.8268438,
-    "LONG": 74.3711784,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.3711784
   },
   {
     "DISTRICT": "Pune",
@@ -975,9 +907,7 @@ pune_data=[
     "PINCODE": 411006,
     "LOCATION": "https://maps.google.com/?cid=12404651422553636855",
     "LAT": 18.5664193,
-    "LONG": 73.8757208,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8757208
   },
   {
     "DISTRICT": "Pune",
@@ -1003,9 +933,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12438362083168550915",
     "LAT": 18.4644973,
-    "LONG": 73.8154612,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8154612
   },
   {
     "DISTRICT": "Pune",
@@ -1031,9 +959,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12533091900763974862",
     "LAT": 18.4553391,
-    "LONG": 74.5731605,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5731605
   },
   {
     "DISTRICT": "Pune",
@@ -1059,9 +985,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12630089763120127266",
     "LAT": 18.5863914,
-    "LONG": 73.8137008,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8137008
   },
   {
     "DISTRICT": "Pune",
@@ -1087,9 +1011,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12650640858169709213",
     "LAT": 18.6061711,
-    "LONG": 73.7729699,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7729699
   },
   {
     "DISTRICT": "Pune",
@@ -1115,9 +1037,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12836597343771233",
     "LAT": 18.4653473,
-    "LONG": 74.5868066,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5868066
   },
   {
     "DISTRICT": "Pune",
@@ -1143,9 +1063,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12860565194124647652",
     "LAT": 18.6794067,
-    "LONG": 73.8471395,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8471395
   },
   {
     "DISTRICT": "Pune",
@@ -1171,9 +1089,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12875616440219257668",
     "LAT": 18.604867,
-    "LONG": 73.7785745,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7785745
   },
   {
     "DISTRICT": "Pune",
@@ -1199,9 +1115,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12922391768324730333",
     "LAT": 18.4563263,
-    "LONG": 73.8208408,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8208408
   },
   {
     "DISTRICT": "Pune",
@@ -1227,9 +1141,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=12922391768324730333",
     "LAT": 18.4563263,
-    "LONG": 73.8208408,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8208408
   },
   {
     "DISTRICT": "Pune",
@@ -1255,9 +1167,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1298956836200130093",
     "LAT": 18.1456759,
-    "LONG": 74.5823984,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5823984
   },
   {
     "DISTRICT": "Pune",
@@ -1283,9 +1193,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13011558563025905928",
     "LAT": 18.5722343,
-    "LONG": 73.8786954,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8786954
   },
   {
     "DISTRICT": "Pune",
@@ -1311,9 +1219,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13036050145318313042",
     "LAT": 18.5600316,
-    "LONG": 73.8073043,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8073043
   },
   {
     "DISTRICT": "Pune",
@@ -1339,9 +1245,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13060983558407831401",
     "LAT": 18.5022006,
-    "LONG": 73.8746996,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8746996
   },
   {
     "DISTRICT": "Pune",
@@ -1367,9 +1271,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13091086591101128245",
     "LAT": 18.7564118,
-    "LONG": 73.8606057,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8606057
   },
   {
     "DISTRICT": "Pune",
@@ -1395,9 +1297,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://maps.google.com/?cid=13140699852110065675",
     "LAT": 18.6142103,
-    "LONG": 73.7657422,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7657422
   },
   {
     "DISTRICT": "Pune",
@@ -1423,9 +1323,7 @@ pune_data=[
     "PINCODE": 411005,
     "LOCATION": "https://maps.google.com/?cid=13188519736577007714",
     "LAT": 18.5280529,
-    "LONG": 73.853224,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.853224
   },
   {
     "DISTRICT": "Pune",
@@ -1451,9 +1349,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13263816855765180729",
     "LAT": 18.5410689,
-    "LONG": 73.9356306,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9356306
   },
   {
     "DISTRICT": "Pune",
@@ -1479,9 +1375,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://maps.google.com/?cid=13483456097332811494",
     "LAT": 18.6062535,
-    "LONG": 73.7734893,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7734893
   },
   {
     "DISTRICT": "Pune",
@@ -1507,9 +1401,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13522629065564485592",
     "LAT": 18.8288257,
-    "LONG": 74.3800491,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.3800491
   },
   {
     "DISTRICT": "Pune",
@@ -1535,9 +1427,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13549546118899092236",
     "LAT": 18.6794044,
-    "LONG": 73.732012,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.732012
   },
   {
     "DISTRICT": "Pune",
@@ -1563,9 +1453,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13554938524543287172",
     "LAT": 18.5348639,
-    "LONG": 73.8874219,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8874219
   },
   {
     "DISTRICT": "Pune",
@@ -1591,9 +1479,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13674800163428508551",
     "LAT": 18.615488,
-    "LONG": 73.8464656,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8464656
   },
   {
     "DISTRICT": "Pune",
@@ -1619,9 +1505,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13730769845791442753",
     "LAT": 18.1439656,
-    "LONG": 73.8519859,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8519859
   },
   {
     "DISTRICT": "Pune",
@@ -1647,9 +1531,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13734541888451275685",
     "LAT": 18.6239446,
-    "LONG": 73.8530713,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8530713
   },
   {
     "DISTRICT": "Pune",
@@ -1675,9 +1557,7 @@ pune_data=[
     "PINCODE": 412308,
     "LOCATION": "https://maps.google.com/?cid=13786101062101218265",
     "LAT": 18.4903747,
-    "LONG": 74.0002244,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.0002244
   },
   {
     "DISTRICT": "Pune",
@@ -1703,9 +1583,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13801177728253844252",
     "LAT": 18.5482168,
-    "LONG": 73.8786236,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8786236
   },
   {
     "DISTRICT": "Pune",
@@ -1731,9 +1609,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13816390984335485041",
     "LAT": 18.5486399,
-    "LONG": 73.8892884,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8892884
   },
   {
     "DISTRICT": "Pune",
@@ -1759,9 +1635,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=13888426815307461073",
     "LAT": 18.5195188,
-    "LONG": 73.8621121,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8621121
   },
   {
     "DISTRICT": "Pune",
@@ -1787,9 +1661,7 @@ pune_data=[
     "PINCODE": 411015,
     "LOCATION": "https://maps.google.com/?cid=13961444366943909359",
     "LAT": 18.583414,
-    "LONG": 73.8859538,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8859538
   },
   {
     "DISTRICT": "Pune",
@@ -1815,9 +1687,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1400462149219416421",
     "LAT": 18.459349,
-    "LONG": 73.857241,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.857241
   },
   {
     "DISTRICT": "Pune",
@@ -1843,9 +1713,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14193834994785912762",
     "LAT": 18.6600327,
-    "LONG": 73.7959984,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7959984
   },
   {
     "DISTRICT": "Pune",
@@ -1871,9 +1739,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14199397665376377261",
     "LAT": 18.7616785,
-    "LONG": 73.5571251,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.5571251
   },
   {
     "DISTRICT": "Pune",
@@ -1899,9 +1765,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14225274605338718042",
     "LAT": 18.5057893,
-    "LONG": 73.9381702,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9381702
   },
   {
     "DISTRICT": "Pune",
@@ -1927,9 +1791,7 @@ pune_data=[
     "PINCODE": 411057,
     "LOCATION": "https://maps.google.com/?cid=14241650291572763449",
     "LAT": 18.6006979,
-    "LONG": 73.775239,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.775239
   },
   {
     "DISTRICT": "Pune",
@@ -1955,9 +1817,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14313727798430907419",
     "LAT": 18.4774132,
-    "LONG": 73.823813,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.823813
   },
   {
     "DISTRICT": "Pune",
@@ -1983,9 +1843,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14355135769532169061",
     "LAT": 18.5194841,
-    "LONG": 73.8659493,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8659493
   },
   {
     "DISTRICT": "Pune",
@@ -2011,9 +1869,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14568525841216650119",
     "LAT": 18.5821619,
-    "LONG": 73.8284032,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8284032
   },
   {
     "DISTRICT": "Pune",
@@ -2039,9 +1895,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14583768265094011671",
     "LAT": 18.4808273,
-    "LONG": 73.8046161,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8046161
   },
   {
     "DISTRICT": "Pune",
@@ -2067,9 +1921,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14612424497967961336",
     "LAT": 18.4848014,
-    "LONG": 73.9049307,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9049307
   },
   {
     "DISTRICT": "Pune",
@@ -2095,9 +1947,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14615764664284593021",
     "LAT": 18.5150732,
-    "LONG": 73.8419587,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8419587
   },
   {
     "DISTRICT": "Pune",
@@ -2123,9 +1973,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14630854285563219693",
     "LAT": 18.49591,
-    "LONG": 73.8122612,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8122612
   },
   {
     "DISTRICT": "Pune",
@@ -2151,9 +1999,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14657417345892749351",
     "LAT": 18.60465,
-    "LONG": 73.776174,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.776174
   },
   {
     "DISTRICT": "Pune",
@@ -2179,9 +2025,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1496429161786700160",
     "LAT": 18.6005417,
-    "LONG": 73.9096051,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9096051
   },
   {
     "DISTRICT": "Pune",
@@ -2207,9 +2051,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=14977485308856446138",
     "LAT": 18.6831112,
-    "LONG": 73.7977928,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7977928
   },
   {
     "DISTRICT": "Pune",
@@ -2235,9 +2077,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15082899403248434116",
     "LAT": 18.7276953,
-    "LONG": 73.6424309,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.6424309
   },
   {
     "DISTRICT": "Pune",
@@ -2263,9 +2103,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15092967731694695180",
     "LAT": 18.5020211,
-    "LONG": 73.934834,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.934834
   },
   {
     "DISTRICT": "Pune",
@@ -2291,9 +2129,7 @@ pune_data=[
     "PINCODE": 411038,
     "LOCATION": "https://maps.google.com/?cid=15176313111210812265",
     "LAT": 18.5075138,
-    "LONG": 73.8056893,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8056893
   },
   {
     "DISTRICT": "Pune",
@@ -2319,9 +2155,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15187918480439925066",
     "LAT": 18.6331437,
-    "LONG": 73.8167192,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8167192
   },
   {
     "DISTRICT": "Pune",
@@ -2347,9 +2181,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15286659790126101681",
     "LAT": 18.4658145,
-    "LONG": 73.8538239,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8538239
   },
   {
     "DISTRICT": "Pune",
@@ -2375,9 +2207,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1531813379985464324",
     "LAT": 18.501175,
-    "LONG": 73.938348,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.938348
   },
   {
     "DISTRICT": "Pune",
@@ -2403,9 +2233,7 @@ pune_data=[
     "PINCODE": 411057,
     "LOCATION": "https://maps.google.com/?cid=15337427786169595706",
     "LAT": 18.6030647,
-    "LONG": 73.7773,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7773
   },
   {
     "DISTRICT": "Pune",
@@ -2431,9 +2259,7 @@ pune_data=[
     "PINCODE": 411057,
     "LOCATION": "https://maps.google.com/?cid=15483942795279104819",
     "LAT": 18.592599,
-    "LONG": 73.7340401,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7340401
   },
   {
     "DISTRICT": "Pune",
@@ -2459,9 +2285,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15505251909605419295",
     "LAT": 18.1566383,
-    "LONG": 74.582393,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.582393
   },
   {
     "DISTRICT": "Pune",
@@ -2487,9 +2311,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15564738596769148257",
     "LAT": 18.4919769,
-    "LONG": 73.8709658,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8709658
   },
   {
     "DISTRICT": "Pune",
@@ -2515,9 +2337,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15627261511099594680",
     "LAT": 18.4591599,
-    "LONG": 73.8233273,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8233273
   },
   {
     "DISTRICT": "Pune",
@@ -2543,9 +2363,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15652705672821004462",
     "LAT": 18.7498199,
-    "LONG": 74.3417546,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.3417546
   },
   {
     "DISTRICT": "Pune",
@@ -2571,9 +2389,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15751104295294223971",
     "LAT": 18.5290662,
-    "LONG": 73.8287597,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8287597
   },
   {
     "DISTRICT": "Pune",
@@ -2599,9 +2415,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15844001082004140173",
     "LAT": 18.4552161,
-    "LONG": 73.8120056,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8120056
   },
   {
     "DISTRICT": "Pune",
@@ -2627,9 +2441,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15861340066587546179",
     "LAT": 19.1190592,
-    "LONG": 73.9691616,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9691616
   },
   {
     "DISTRICT": "Pune",
@@ -2655,9 +2467,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=15926717924980578591",
     "LAT": 18.563189,
-    "LONG": 73.936577,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.936577
   },
   {
     "DISTRICT": "Pune",
@@ -2683,9 +2493,7 @@ pune_data=[
     "PINCODE": 411048,
     "LOCATION": "https://maps.google.com/?cid=15929414226623101369",
     "LAT": 18.4723448,
-    "LONG": 73.8924104,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8924104
   },
   {
     "DISTRICT": "Pune",
@@ -2711,9 +2519,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1598258388989639448",
     "LAT": 18.5446319,
-    "LONG": 73.9223245,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9223245
   },
   {
     "DISTRICT": "Pune",
@@ -2739,9 +2545,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16086411063275515448",
     "LAT": 18.5063354,
-    "LONG": 73.850743,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.850743
   },
   {
     "DISTRICT": "Pune",
@@ -2767,9 +2571,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16131765468179395689",
     "LAT": 18.5304104,
-    "LONG": 73.8474815,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8474815
   },
   {
     "DISTRICT": "Pune",
@@ -2795,9 +2597,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16200340716589302370",
     "LAT": 18.503618,
-    "LONG": 73.8079464,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8079464
   },
   {
     "DISTRICT": "Pune",
@@ -2823,9 +2623,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16279321547154457558",
     "LAT": 18.8257578,
-    "LONG": 74.3746038,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.3746038
   },
   {
     "DISTRICT": "Pune",
@@ -2851,9 +2649,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16279648791630060286",
     "LAT": 18.4611943,
-    "LONG": 73.7732869,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7732869
   },
   {
     "DISTRICT": "Pune",
@@ -2879,9 +2675,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16546699890160607115",
     "LAT": 18.513111,
-    "LONG": 73.8392905,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8392905
   },
   {
     "DISTRICT": "Pune",
@@ -2907,9 +2701,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16571688357271290764",
     "LAT": 19.0020939,
-    "LONG": 73.9508972,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9508972
   },
   {
     "DISTRICT": "Pune",
@@ -2935,9 +2727,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://maps.google.com/?cid=16657824535555687794",
     "LAT": 18.6349275,
-    "LONG": 73.7627367,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7627367
   },
   {
     "DISTRICT": "Pune",
@@ -2963,9 +2753,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16772303130495135620",
     "LAT": 18.5004566,
-    "LONG": 73.943496,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.943496
   },
   {
     "DISTRICT": "Pune",
@@ -2991,9 +2779,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16828101262532222608",
     "LAT": 18.4522402,
-    "LONG": 73.8906507,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8906507
   },
   {
     "DISTRICT": "Pune",
@@ -3019,9 +2805,7 @@ pune_data=[
     "PINCODE": 411019,
     "LOCATION": "https://maps.google.com/?cid=16837748976785790573",
     "LAT": 18.6649615,
-    "LONG": 73.8049127,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8049127
   },
   {
     "DISTRICT": "Pune",
@@ -3047,9 +2831,7 @@ pune_data=[
     "PINCODE": 411017,
     "LOCATION": "https://maps.google.com/?cid=16898060945941478121",
     "LAT": 18.6106764,
-    "LONG": 73.8005901,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8005901
   },
   {
     "DISTRICT": "Pune",
@@ -3075,9 +2857,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16941295233523477474",
     "LAT": 18.514114,
-    "LONG": 73.869115,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.869115
   },
   {
     "DISTRICT": "Pune",
@@ -3103,9 +2883,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=16954935884942647447",
     "LAT": 18.1460861,
-    "LONG": 74.5844245,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.5844245
   },
   {
     "DISTRICT": "Pune",
@@ -3131,9 +2909,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=17027050580707713560",
     "LAT": 18.573223,
-    "LONG": 73.8775427,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8775427
   },
   {
     "DISTRICT": "Pune",
@@ -3159,9 +2935,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=17031469321344229808",
     "LAT": 18.510214,
-    "LONG": 73.8698551,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8698551
   },
   {
     "DISTRICT": "Pune",
@@ -3187,9 +2961,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=17072244796208801482",
     "LAT": 18.5276595,
-    "LONG": 73.8296401,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8296401
   },
   {
     "DISTRICT": "Pune",
@@ -3215,9 +2987,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=17207623693414232767",
     "LAT": 18.6187222,
-    "LONG": 73.8699799,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8699799
   },
   {
     "DISTRICT": "Pune",
@@ -3243,9 +3013,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=17235896685725916898",
     "LAT": 18.597276,
-    "LONG": 73.9084464,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9084464
   },
   {
     "DISTRICT": "Pune",
@@ -3271,9 +3039,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1724957803126235800",
     "LAT": 18.49502,
-    "LONG": 73.861879,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.861879
   },
   {
     "DISTRICT": "Pune",
@@ -3299,9 +3065,7 @@ pune_data=[
     "PINCODE": 411028,
     "LOCATION": "https://maps.google.com/?cid=17292259816548919979",
     "LAT": 18.5030243,
-    "LONG": 73.9321215,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9321215
   },
   {
     "DISTRICT": "Pune",
@@ -3327,9 +3091,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://maps.google.com/?cid=17448981566596221274",
     "LAT": 18.6111407,
-    "LONG": 73.7777115,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7777115
   },
   {
     "DISTRICT": "Pune",
@@ -3355,9 +3117,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1760901834743153097",
     "LAT": 18.5737046,
-    "LONG": 73.7618551,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7618551
   },
   {
     "DISTRICT": "Pune",
@@ -3383,9 +3143,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://maps.google.com/?cid=17754882970955596299",
     "LAT": 18.637315,
-    "LONG": 73.7902847,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7902847
   },
   {
     "DISTRICT": "Pune",
@@ -3411,9 +3169,7 @@ pune_data=[
     "PINCODE": 411026,
     "LOCATION": "https://maps.google.com/?cid=17827039485484593810",
     "LAT": 18.6337548,
-    "LONG": 73.8493107,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8493107
   },
   {
     "DISTRICT": "Pune",
@@ -3439,9 +3195,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=17941796599549952369",
     "LAT": 18.5174833,
-    "LONG": 73.8427196,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8427196
   },
   {
     "DISTRICT": "Pune",
@@ -3467,9 +3221,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=17971946934231228180",
     "LAT": 18.5092257,
-    "LONG": 73.8127778,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8127778
   },
   {
     "DISTRICT": "Pune",
@@ -3495,9 +3247,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18019302195305512131",
     "LAT": 18.5330075,
-    "LONG": 73.8487659,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8487659
   },
   {
     "DISTRICT": "Pune",
@@ -3523,9 +3273,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18065290132932113265",
     "LAT": 18.4664275,
-    "LONG": 73.8577453,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8577453
   },
   {
     "DISTRICT": "Pune",
@@ -3551,9 +3299,7 @@ pune_data=[
     "PINCODE": 411039,
     "LOCATION": "https://maps.google.com/?cid=18079030334935105170",
     "LAT": 18.6184245,
-    "LONG": 73.8495333,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8495333
   },
   {
     "DISTRICT": "Pune",
@@ -3579,9 +3325,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18079084341524993055",
     "LAT": 18.7072623,
-    "LONG": 73.7801212,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7801212
   },
   {
     "DISTRICT": "Pune",
@@ -3607,9 +3351,7 @@ pune_data=[
     "PINCODE": 411001,
     "LOCATION": "https://maps.google.com/?cid=18107018162897268078",
     "LAT": 18.5027602,
-    "LONG": 73.8771085,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8771085
   },
   {
     "DISTRICT": "Pune",
@@ -3635,9 +3377,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18117212122914799808",
     "LAT": 18.140667,
-    "LONG": 74.579692,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.579692
   },
   {
     "DISTRICT": "Pune",
@@ -3663,9 +3403,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18117212122914799808",
     "LAT": 18.140667,
-    "LONG": 74.579692,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.579692
   },
   {
     "DISTRICT": "Pune",
@@ -3691,9 +3429,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18190787100890289746",
     "LAT": 18.7278092,
-    "LONG": 73.6787982,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.6787982
   },
   {
     "DISTRICT": "Pune",
@@ -3719,9 +3455,7 @@ pune_data=[
     "PINCODE": 411038,
     "LOCATION": "https://maps.google.com/?cid=18259295221019254818",
     "LAT": 18.5072286,
-    "LONG": 73.7997657,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7997657
   },
   {
     "DISTRICT": "Pune",
@@ -3747,9 +3481,7 @@ pune_data=[
     "PINCODE": 411018,
     "LOCATION": "https://maps.google.com/?cid=1826843509558193800",
     "LAT": 18.6298159,
-    "LONG": 73.8206681,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8206681
   },
   {
     "DISTRICT": "Pune",
@@ -3775,9 +3507,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18269860137564470295",
     "LAT": 18.6341779,
-    "LONG": 73.7885779,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7885779
   },
   {
     "DISTRICT": "Pune",
@@ -3803,9 +3533,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18345627783870603539",
     "LAT": 18.5304494,
-    "LONG": 73.8766532,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8766532
   },
   {
     "DISTRICT": "Pune",
@@ -3831,9 +3559,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=18349981690506646045",
     "LAT": 18.5115069,
-    "LONG": 73.8628048,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8628048
   },
   {
     "DISTRICT": "Pune",
@@ -3859,9 +3585,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1892031250532891656",
     "LAT": 18.630004,
-    "LONG": 73.8472559,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8472559
   },
   {
     "DISTRICT": "Pune",
@@ -3887,9 +3611,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=1965536353771374995",
     "LAT": 18.696218,
-    "LONG": 73.783086,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.783086
   },
   {
     "DISTRICT": "Pune",
@@ -3915,9 +3637,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2017177680676936601",
     "LAT": 18.1473479,
-    "LONG": 74.574632,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.574632
   },
   {
     "DISTRICT": "Pune",
@@ -3943,9 +3663,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2090121380162935579",
     "LAT": 18.5199723,
-    "LONG": 73.8669765,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8669765
   },
   {
     "DISTRICT": "Pune",
@@ -3971,9 +3689,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2207181959912761913",
     "LAT": 18.6196372,
-    "LONG": 73.8433767,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8433767
   },
   {
     "DISTRICT": "Pune",
@@ -3999,9 +3715,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2262853153000054589",
     "LAT": 18.5011632,
-    "LONG": 73.8413848,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8413848
   },
   {
     "DISTRICT": "Pune",
@@ -4027,9 +3741,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2295753766708103504",
     "LAT": 18.142094,
-    "LONG": 74.573176,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.573176
   },
   {
     "DISTRICT": "Pune",
@@ -4055,9 +3767,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2303201408118084906",
     "LAT": 18.603004,
-    "LONG": 73.926779,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.926779
   },
   {
     "DISTRICT": "Pune",
@@ -4083,9 +3793,7 @@ pune_data=[
     "PINCODE": 411028,
     "LOCATION": "https://maps.google.com/?cid=2305445095639098139",
     "LAT": 18.510314,
-    "LONG": 73.9380043,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9380043
   },
   {
     "DISTRICT": "Pune",
@@ -4111,9 +3819,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2312948792829142105",
     "LAT": 18.6424294,
-    "LONG": 73.7731663,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7731663
   },
   {
     "DISTRICT": "Pune",
@@ -4139,9 +3845,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2330134705806205461",
     "LAT": 18.6751504,
-    "LONG": 73.8980026,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8980026
   },
   {
     "DISTRICT": "Pune",
@@ -4167,9 +3871,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2336107939437693438",
     "LAT": 18.5318618,
-    "LONG": 73.8472552,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8472552
   },
   {
     "DISTRICT": "Pune",
@@ -4195,9 +3897,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2454185184011703531",
     "LAT": 18.4753257,
-    "LONG": 73.931604,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.931604
   },
   {
     "DISTRICT": "Pune",
@@ -4223,9 +3923,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2470477935017104593",
     "LAT": 18.4891996,
-    "LONG": 73.8138577,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8138577
   },
   {
     "DISTRICT": "Pune",
@@ -4251,9 +3949,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2510808967315769606",
     "LAT": 18.6127029,
-    "LONG": 73.7625145,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7625145
   },
   {
     "DISTRICT": "Pune",
@@ -4279,9 +3975,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2539934596853221075",
     "LAT": 18.5073109,
-    "LONG": 73.8082113,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8082113
   },
   {
     "DISTRICT": "Pune",
@@ -4307,9 +4001,7 @@ pune_data=[
     "PINCODE": 411017,
     "LOCATION": "https://maps.google.com/?cid=2616399925959399810",
     "LAT": 18.6044281,
-    "LONG": 73.7910555,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7910555
   },
   {
     "DISTRICT": "Pune",
@@ -4335,9 +4027,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2648624405322349881",
     "LAT": 18.5537952,
-    "LONG": 73.9391145,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9391145
   },
   {
     "DISTRICT": "Pune",
@@ -4363,9 +4053,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2728230786190247824",
     "LAT": 18.493452,
-    "LONG": 73.9767827,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9767827
   },
   {
     "DISTRICT": "Pune",
@@ -4391,9 +4079,7 @@ pune_data=[
     "PINCODE": 410501,
     "LOCATION": "https://maps.google.com/?cid=2733369940797672809",
     "LAT": 18.7550656,
-    "LONG": 73.8526163,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8526163
   },
   {
     "DISTRICT": "Pune",
@@ -4419,9 +4105,7 @@ pune_data=[
     "PINCODE": 411007,
     "LOCATION": "https://maps.google.com/?cid=280704767303630711",
     "LAT": 18.5619325,
-    "LONG": 73.8047899,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8047899
   },
   {
     "DISTRICT": "Pune",
@@ -4447,9 +4131,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2820565028019414152",
     "LAT": 18.6235901,
-    "LONG": 73.8517157,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8517157
   },
   {
     "DISTRICT": "Pune",
@@ -4475,9 +4157,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2894069093445979027",
     "LAT": 18.447798,
-    "LONG": 73.810522,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.810522
   },
   {
     "DISTRICT": "Pune",
@@ -4503,9 +4183,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2942264874292499544",
     "LAT": 18.647945,
-    "LONG": 73.770271,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.770271
   },
   {
     "DISTRICT": "Pune",
@@ -4531,9 +4209,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=2943750457326172240",
     "LAT": 18.4821246,
-    "LONG": 73.9543035,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9543035
   },
   {
     "DISTRICT": "Pune",
@@ -4559,9 +4235,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3130392432882708269",
     "LAT": 18.5770266,
-    "LONG": 73.8762797,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8762797
   },
   {
     "DISTRICT": "Pune",
@@ -4587,9 +4261,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3234945359128463465",
     "LAT": 18.4605364,
-    "LONG": 74.5822154,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5822154
   },
   {
     "DISTRICT": "Pune",
@@ -4615,9 +4287,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3267379368760396661",
     "LAT": 18.5718554,
-    "LONG": 73.8788668,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8788668
   },
   {
     "DISTRICT": "Pune",
@@ -4643,9 +4313,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3324829731312636194",
     "LAT": 18.5314002,
-    "LONG": 73.8690629,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8690629
   },
   {
     "DISTRICT": "Pune",
@@ -4671,9 +4339,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3580444280647978967",
     "LAT": 18.5082781,
-    "LONG": 73.8309675,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8309675
   },
   {
     "DISTRICT": "Pune",
@@ -4699,9 +4365,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3645359459696368045",
     "LAT": 18.530508,
-    "LONG": 73.941755,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.941755
   },
   {
     "DISTRICT": "Pune",
@@ -4727,9 +4391,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3666496730086555378",
     "LAT": 18.5007549,
-    "LONG": 73.9364447,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9364447
   },
   {
     "DISTRICT": "Pune",
@@ -4755,9 +4417,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3690389262123832630",
     "LAT": 18.5051892,
-    "LONG": 73.8341308,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8341308
   },
   {
     "DISTRICT": "Pune",
@@ -4783,9 +4443,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3690505764229774283",
     "LAT": 18.462683,
-    "LONG": 73.773285,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.773285
   },
   {
     "DISTRICT": "Pune",
@@ -4811,9 +4469,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3703041370873014361",
     "LAT": 18.6146724,
-    "LONG": 73.7856194,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7856194
   },
   {
     "DISTRICT": "Pune",
@@ -4839,9 +4495,7 @@ pune_data=[
     "PINCODE": 411017,
     "LOCATION": "https://maps.google.com/?cid=3732679879953731797",
     "LAT": 18.6188663,
-    "LONG": 73.802695,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.802695
   },
   {
     "DISTRICT": "Pune",
@@ -4867,9 +4521,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3780583503213619804",
     "LAT": 18.5855233,
-    "LONG": 73.815997,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.815997
   },
   {
     "DISTRICT": "Pune",
@@ -4895,9 +4547,7 @@ pune_data=[
     "PINCODE": 412308,
     "LOCATION": "https://maps.google.com/?cid=3843739015217261246",
     "LAT": 18.4846496,
-    "LONG": 73.9536812,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9536812
   },
   {
     "DISTRICT": "Pune",
@@ -4923,9 +4573,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3945161960866145666",
     "LAT": 18.6469723,
-    "LONG": 73.850097,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.850097
   },
   {
     "DISTRICT": "Pune",
@@ -4951,9 +4599,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3947918375684956097",
     "LAT": 18.521538,
-    "LONG": 73.8555989,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8555989
   },
   {
     "DISTRICT": "Pune",
@@ -4979,9 +4625,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=3951712184347501695",
     "LAT": 18.6631598,
-    "LONG": 74.3715874,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.3715874
   },
   {
     "DISTRICT": "Pune",
@@ -5007,9 +4651,7 @@ pune_data=[
     "PINCODE": 411057,
     "LOCATION": "https://maps.google.com/?cid=4076051488817144921",
     "LAT": 18.597616,
-    "LONG": 73.755455,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.755455
   },
   {
     "DISTRICT": "Pune",
@@ -5035,9 +4677,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4123216962894204958",
     "LAT": 18.6192088,
-    "LONG": 73.7912962,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7912962
   },
   {
     "DISTRICT": "Pune",
@@ -5063,9 +4703,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4134256854426562306",
     "LAT": 18.6192725,
-    "LONG": 73.7945132,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7945132
   },
   {
     "DISTRICT": "Pune",
@@ -5091,9 +4729,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4196939586709670394",
     "LAT": 18.1490502,
-    "LONG": 74.5718305,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.5718305
   },
   {
     "DISTRICT": "Pune",
@@ -5119,9 +4755,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4289213551050781257",
     "LAT": 18.4987391,
-    "LONG": 73.8383157,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8383157
   },
   {
     "DISTRICT": "Pune",
@@ -5147,9 +4781,7 @@ pune_data=[
     "PINCODE": 411015,
     "LOCATION": "https://maps.google.com/?cid=4353784701030461997",
     "LAT": 18.572801,
-    "LONG": 73.881542,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.881542
   },
   {
     "DISTRICT": "Pune",
@@ -5175,9 +4807,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=437916441622191755",
     "LAT": 18.5585971,
-    "LONG": 73.9273808,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9273808
   },
   {
     "DISTRICT": "Pune",
@@ -5203,9 +4833,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4398946118655338574",
     "LAT": 18.5109506,
-    "LONG": 73.8370631,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8370631
   },
   {
     "DISTRICT": "Pune",
@@ -5231,9 +4859,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4448877379234186363",
     "LAT": 18.4820346,
-    "LONG": 73.9541952,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9541952
   },
   {
     "DISTRICT": "Pune",
@@ -5259,9 +4885,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4542527689545713661",
     "LAT": 18.6553238,
-    "LONG": 73.8844951,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8844951
   },
   {
     "DISTRICT": "Pune",
@@ -5287,9 +4911,7 @@ pune_data=[
     "PINCODE": 411007,
     "LOCATION": "https://maps.google.com/?cid=454436682981431418",
     "LAT": 18.5597716,
-    "LONG": 73.8030735,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8030735
   },
   {
     "DISTRICT": "Pune",
@@ -5315,9 +4937,7 @@ pune_data=[
     "PINCODE": 411029,
     "LOCATION": "https://maps.google.com/?cid=4584563516085102889",
     "LAT": 18.4778445,
-    "LONG": 73.7977384,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7977384
   },
   {
     "DISTRICT": "Pune",
@@ -5343,9 +4963,7 @@ pune_data=[
     "PINCODE": 412301,
     "LOCATION": "https://maps.google.com/?cid=4584863092710240033",
     "LAT": 18.3514961,
-    "LONG": 74.0271449,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.0271449
   },
   {
     "DISTRICT": "Pune",
@@ -5371,9 +4989,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4624042891107452425",
     "LAT": 18.4803162,
-    "LONG": 73.8610096,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8610096
   },
   {
     "DISTRICT": "Pune",
@@ -5399,9 +5015,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4661589623711578247",
     "LAT": 18.750506,
-    "LONG": 73.8655766,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8655766
   },
   {
     "DISTRICT": "Pune",
@@ -5427,9 +5041,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=468182069318017324",
     "LAT": 18.5793178,
-    "LONG": 73.8142604,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8142604
   },
   {
     "DISTRICT": "Pune",
@@ -5455,9 +5067,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4696186834625546227",
     "LAT": 18.5514755,
-    "LONG": 73.9412266,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9412266
   },
   {
     "DISTRICT": "Pune",
@@ -5483,9 +5093,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4730592682318588560",
     "LAT": 19.179008,
-    "LONG": 74.0887232,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.0887232
   },
   {
     "DISTRICT": "Pune",
@@ -5511,9 +5119,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4831050108506648527",
     "LAT": 18.498508,
-    "LONG": 73.9542119,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9542119
   },
   {
     "DISTRICT": "Pune",
@@ -5539,9 +5145,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4843996795509335885",
     "LAT": 18.6596269,
-    "LONG": 73.7971734,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7971734
   },
   {
     "DISTRICT": "Pune",
@@ -5567,9 +5171,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=486478081377346954",
     "LAT": 18.9991403,
-    "LONG": 73.9437574,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9437574
   },
   {
     "DISTRICT": "Pune",
@@ -5595,9 +5197,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=4954569360150851624",
     "LAT": 18.4810026,
-    "LONG": 73.8662476,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8662476
   },
   {
     "DISTRICT": "Pune",
@@ -5623,9 +5223,7 @@ pune_data=[
     "PINCODE": 411044,
     "LOCATION": "https://maps.google.com/?cid=5017900317024638990",
     "LAT": 18.657435,
-    "LONG": 73.76931,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.76931
   },
   {
     "DISTRICT": "Pune",
@@ -5651,9 +5249,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5139605320311806983",
     "LAT": 18.5336133,
-    "LONG": 73.877178,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.877178
   },
   {
     "DISTRICT": "Pune",
@@ -5679,9 +5275,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5254835098374994485",
     "LAT": 18.469301,
-    "LONG": 73.864284,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.864284
   },
   {
     "DISTRICT": "Pune",
@@ -5707,9 +5301,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5414805913014108631",
     "LAT": 18.5092968,
-    "LONG": 73.8482569,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8482569
   },
   {
     "DISTRICT": "Pune",
@@ -5735,9 +5327,7 @@ pune_data=[
     "PINCODE": 411009,
     "LOCATION": "https://maps.google.com/?cid=5444775427069429791",
     "LAT": 18.4967869,
-    "LONG": 73.8494177,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8494177
   },
   {
     "DISTRICT": "Pune",
@@ -5763,9 +5353,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5459443889514051591",
     "LAT": 18.5648165,
-    "LONG": 73.7861185,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7861185
   },
   {
     "DISTRICT": "Pune",
@@ -5791,9 +5379,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5588983046767496908",
     "LAT": 18.5237526,
-    "LONG": 73.8689796,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8689796
   },
   {
     "DISTRICT": "Pune",
@@ -5819,9 +5405,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5639649077775101442",
     "LAT": 18.5178525,
-    "LONG": 73.8640501,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8640501
   },
   {
     "DISTRICT": "Pune",
@@ -5847,9 +5431,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5689956620142424361",
     "LAT": 18.4594619,
-    "LONG": 74.5812485,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5812485
   },
   {
     "DISTRICT": "Pune",
@@ -5875,9 +5457,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5713191855308120338",
     "LAT": 18.5049439,
-    "LONG": 73.9270805,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9270805
   },
   {
     "DISTRICT": "Pune",
@@ -5903,9 +5483,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5764147703348789144",
     "LAT": 18.7520477,
-    "LONG": 73.8633645,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8633645
   },
   {
     "DISTRICT": "Pune",
@@ -5931,9 +5509,7 @@ pune_data=[
     "PINCODE": 411018,
     "LOCATION": "https://maps.google.com/?cid=5821267092026128932",
     "LAT": 18.6364598,
-    "LONG": 73.8225061,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8225061
   },
   {
     "DISTRICT": "Pune",
@@ -5959,9 +5535,7 @@ pune_data=[
     "PINCODE": 411014,
     "LOCATION": "https://maps.google.com/?cid=5870771542348574977",
     "LAT": 18.5468853,
-    "LONG": 73.9464688,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9464688
   },
   {
     "DISTRICT": "Pune",
@@ -5987,9 +5561,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=5894388499163361791",
     "LAT": 18.6785785,
-    "LONG": 73.7329582,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7329582
   },
   {
     "DISTRICT": "Pune",
@@ -6015,9 +5587,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=593330533546513892",
     "LAT": 18.5542577,
-    "LONG": 73.8970961,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8970961
   },
   {
     "DISTRICT": "Pune",
@@ -6043,9 +5613,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=594041187368510315",
     "LAT": 18.6221236,
-    "LONG": 73.868898,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.868898
   },
   {
     "DISTRICT": "Pune",
@@ -6071,9 +5639,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6002594767528220762",
     "LAT": 18.43223,
-    "LONG": 73.978856,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.978856
   },
   {
     "DISTRICT": "Pune",
@@ -6099,9 +5665,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6003107440269578914",
     "LAT": 18.5647359,
-    "LONG": 73.8023114,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8023114
   },
   {
     "DISTRICT": "Pune",
@@ -6127,9 +5691,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6097935482242734419",
     "LAT": 18.6205984,
-    "LONG": 73.8588551,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8588551
   },
   {
     "DISTRICT": "Pune",
@@ -6155,9 +5717,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6111717465346813630",
     "LAT": 18.5108143,
-    "LONG": 73.8420697,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8420697
   },
   {
     "DISTRICT": "Pune",
@@ -6183,9 +5743,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6146333777266063185",
     "LAT": 18.7590035,
-    "LONG": 73.4268451,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.4268451
   },
   {
     "DISTRICT": "Pune",
@@ -6211,9 +5769,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6165244988580482859",
     "LAT": 18.8261365,
-    "LONG": 74.3798061,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.3798061
   },
   {
     "DISTRICT": "Pune",
@@ -6239,9 +5795,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6215983548146607698",
     "LAT": 18.5244752,
-    "LONG": 73.8438402,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8438402
   },
   {
     "DISTRICT": "Pune",
@@ -6267,9 +5821,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6216342914845638414",
     "LAT": 18.5812131,
-    "LONG": 73.8184633,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8184633
   },
   {
     "DISTRICT": "Pune",
@@ -6295,9 +5847,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6236628493768932802",
     "LAT": 18.5975211,
-    "LONG": 73.7823069,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7823069
   },
   {
     "DISTRICT": "Pune",
@@ -6323,9 +5873,7 @@ pune_data=[
     "PINCODE": 411037,
     "LOCATION": "https://maps.google.com/?cid=6237102445460432592",
     "LAT": 18.4810936,
-    "LONG": 73.8725346,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8725346
   },
   {
     "DISTRICT": "Pune",
@@ -6351,9 +5899,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6353648673590660333",
     "LAT": 18.5855305,
-    "LONG": 73.8160604,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8160604
   },
   {
     "DISTRICT": "Pune",
@@ -6379,9 +5925,7 @@ pune_data=[
     "PINCODE": 411019,
     "LOCATION": "https://maps.google.com/?cid=6382001983073757961",
     "LAT": 18.6682945,
-    "LONG": 73.7969468,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7969468
   },
   {
     "DISTRICT": "Pune",
@@ -6407,9 +5951,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6423885419727228512",
     "LAT": 18.4624722,
-    "LONG": 73.8048944,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8048944
   },
   {
     "DISTRICT": "Pune",
@@ -6435,9 +5977,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6525268851322396692",
     "LAT": 18.6942106,
-    "LONG": 74.1394537,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.1394537
   },
   {
     "DISTRICT": "Pune",
@@ -6463,9 +6003,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6576600177511203439",
     "LAT": 18.6714314,
-    "LONG": 74.1036442,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.1036442
   },
   {
     "DISTRICT": "Pune",
@@ -6491,9 +6029,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6735322699850690658",
     "LAT": 18.6457148,
-    "LONG": 74.0628464,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.0628464
   },
   {
     "DISTRICT": "Pune",
@@ -6519,9 +6055,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6790598819334900806",
     "LAT": 19.0006762,
-    "LONG": 73.9434989,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9434989
   },
   {
     "DISTRICT": "Pune",
@@ -6547,9 +6081,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=6864254571107782844",
     "LAT": 19.118004,
-    "LONG": 73.9736503,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9736503
   },
   {
     "DISTRICT": "Pune",
@@ -6575,9 +6107,7 @@ pune_data=[
     "PINCODE": 412101,
     "LOCATION": "https://maps.google.com/?cid=7050773196107770575",
     "LAT": 18.6433253,
-    "LONG": 73.7546544,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7546544
   },
   {
     "DISTRICT": "Pune",
@@ -6603,9 +6133,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7205706784600342023",
     "LAT": 18.5969141,
-    "LONG": 73.9001172,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9001172
   },
   {
     "DISTRICT": "Pune",
@@ -6631,9 +6159,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7249097723390849572",
     "LAT": 18.5990631,
-    "LONG": 73.7943064,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7943064
   },
   {
     "DISTRICT": "Pune",
@@ -6659,9 +6185,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7257831289072787696",
     "LAT": 18.7041261,
-    "LONG": 73.684503,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.684503
   },
   {
     "DISTRICT": "Pune",
@@ -6687,9 +6211,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7304587190870716377",
     "LAT": 18.25734,
-    "LONG": 73.884484,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.884484
   },
   {
     "DISTRICT": "Pune",
@@ -6715,9 +6237,7 @@ pune_data=[
     "PINCODE": 411051,
     "LOCATION": "https://maps.google.com/?cid=7381551907852003319",
     "LAT": 18.4797759,
-    "LONG": 73.8250998,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8250998
   },
   {
     "DISTRICT": "Pune",
@@ -6743,9 +6263,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=74365217336816512",
     "LAT": 18.5034764,
-    "LONG": 73.9290968,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9290968
   },
   {
     "DISTRICT": "Pune",
@@ -6771,9 +6289,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7496592342007226326",
     "LAT": 18.512757,
-    "LONG": 73.869503,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.869503
   },
   {
     "DISTRICT": "Pune",
@@ -6799,9 +6315,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7500252827968279790",
     "LAT": 18.4579002,
-    "LONG": 73.8168721,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8168721
   },
   {
     "DISTRICT": "Pune",
@@ -6827,9 +6341,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7505424783847905",
     "LAT": 18.4495854,
-    "LONG": 73.8493831,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8493831
   },
   {
     "DISTRICT": "Pune",
@@ -6855,9 +6367,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7510198048162481367",
     "LAT": 18.6781335,
-    "LONG": 73.9021201,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9021201
   },
   {
     "DISTRICT": "Pune",
@@ -6883,9 +6393,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7619198571876868027",
     "LAT": 18.4588357,
-    "LONG": 73.8564635,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8564635
   },
   {
     "DISTRICT": "Pune",
@@ -6911,9 +6419,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7671036050647820891",
     "LAT": 18.5259002,
-    "LONG": 73.962919,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.962919
   },
   {
     "DISTRICT": "Pune",
@@ -6939,9 +6445,7 @@ pune_data=[
     "PINCODE": 411046,
     "LOCATION": "https://maps.google.com/?cid=7737089091556833754",
     "LAT": 18.4533594,
-    "LONG": 73.8509127,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8509127
   },
   {
     "DISTRICT": "Pune",
@@ -6967,9 +6471,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7848583976682142489",
     "LAT": 18.5154337,
-    "LONG": 73.7810308,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7810308
   },
   {
     "DISTRICT": "Pune",
@@ -6995,9 +6497,7 @@ pune_data=[
     "PINCODE": 411017,
     "LOCATION": "https://maps.google.com/?cid=7868210172947603774",
     "LAT": 18.6057395,
-    "LONG": 73.7783057,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7783057
   },
   {
     "DISTRICT": "Pune",
@@ -7023,9 +6523,7 @@ pune_data=[
     "PINCODE": 412114,
     "LOCATION": "https://maps.google.com/?cid=7870564238411137036",
     "LAT": 18.6836972,
-    "LONG": 73.8136387,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8136387
   },
   {
     "DISTRICT": "Pune",
@@ -7051,9 +6549,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7914444989696094514",
     "LAT": 18.6634246,
-    "LONG": 73.8872794,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8872794
   },
   {
     "DISTRICT": "Pune",
@@ -7079,9 +6575,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=7931992460171983635",
     "LAT": 18.5031702,
-    "LONG": 73.8999937,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8999937
   },
   {
     "DISTRICT": "Pune",
@@ -7107,9 +6601,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8046295311337127192",
     "LAT": 19.0019756,
-    "LONG": 73.9452986,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9452986
   },
   {
     "DISTRICT": "Pune",
@@ -7135,9 +6627,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8066375076416118517",
     "LAT": 18.5984827,
-    "LONG": 73.8068374,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8068374
   },
   {
     "DISTRICT": "Pune",
@@ -7163,9 +6653,7 @@ pune_data=[
     "PINCODE": 412105,
     "LOCATION": "https://maps.google.com/?cid=8117092943742692225",
     "LAT": 18.6480953,
-    "LONG": 73.8498646,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8498646
   },
   {
     "DISTRICT": "Pune",
@@ -7191,9 +6679,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8147249239619501182",
     "LAT": 18.7665247,
-    "LONG": 73.5526053,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.5526053
   },
   {
     "DISTRICT": "Pune",
@@ -7219,9 +6705,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8169711528818028525",
     "LAT": 18.4481155,
-    "LONG": 73.8491351,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8491351
   },
   {
     "DISTRICT": "Pune",
@@ -7247,9 +6731,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=826375175175601049",
     "LAT": 18.1500272,
-    "LONG": 74.5751296,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.5751296
   },
   {
     "DISTRICT": "Pune",
@@ -7275,9 +6757,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8275484566663799480",
     "LAT": 18.5984516,
-    "LONG": 73.8285472,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8285472
   },
   {
     "DISTRICT": "Pune",
@@ -7303,9 +6783,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8369884865990534740",
     "LAT": 18.6768501,
-    "LONG": 73.9013376,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9013376
   },
   {
     "DISTRICT": "Pune",
@@ -7331,9 +6809,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8369884865990534740",
     "LAT": 18.6768501,
-    "LONG": 73.9013376,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9013376
   },
   {
     "DISTRICT": "Pune",
@@ -7359,9 +6835,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8438102496231710394",
     "LAT": 18.1464029,
-    "LONG": 74.583079,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.583079
   },
   {
     "DISTRICT": "Pune",
@@ -7387,9 +6861,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8473245027313988590",
     "LAT": 18.6181259,
-    "LONG": 73.8494644,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8494644
   },
   {
     "DISTRICT": "Pune",
@@ -7415,9 +6887,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8493565597834623831",
     "LAT": 18.4707942,
-    "LONG": 73.8884023,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8884023
   },
   {
     "DISTRICT": "Pune",
@@ -7443,9 +6913,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8511495480660505368",
     "LAT": 18.6020695,
-    "LONG": 73.74753,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.74753
   },
   {
     "DISTRICT": "Pune",
@@ -7471,9 +6939,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8588780188438360179",
     "LAT": 18.6046033,
-    "LONG": 73.7869279,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7869279
   },
   {
     "DISTRICT": "Pune",
@@ -7499,9 +6965,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8666912848835308994",
     "LAT": 18.5973698,
-    "LONG": 73.9089308,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9089308
   },
   {
     "DISTRICT": "Pune",
@@ -7527,9 +6991,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8746335225116567026",
     "LAT": 18.7027191,
-    "LONG": 73.686884,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.686884
   },
   {
     "DISTRICT": "Pune",
@@ -7555,9 +7017,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8755427506493921978",
     "LAT": 18.6218194,
-    "LONG": 73.8210282,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8210282
   },
   {
     "DISTRICT": "Pune",
@@ -7583,9 +7043,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8863206037750576928",
     "LAT": 18.5102368,
-    "LONG": 73.8370689,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8370689
   },
   {
     "DISTRICT": "Pune",
@@ -7611,9 +7069,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8915858724947552410",
     "LAT": 18.5444455,
-    "LONG": 74.4920576,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.4920576
   },
   {
     "DISTRICT": "Pune",
@@ -7639,9 +7095,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=8918360624508935133",
     "LAT": 18.465938,
-    "LONG": 73.860092,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.860092
   },
   {
     "DISTRICT": "Pune",
@@ -7667,9 +7121,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9117682896550724326",
     "LAT": 18.825547,
-    "LONG": 74.373086,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 74.373086
   },
   {
     "DISTRICT": "Pune",
@@ -7695,9 +7147,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9128507540079648022",
     "LAT": 18.4781619,
-    "LONG": 73.8620657,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8620657
   },
   {
     "DISTRICT": "Pune",
@@ -7723,9 +7173,7 @@ pune_data=[
     "PINCODE": 411015,
     "LOCATION": "https://maps.google.com/?cid=9257801393624685974",
     "LAT": 18.573574,
-    "LONG": 73.877374,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.877374
   },
   {
     "DISTRICT": "Pune",
@@ -7751,9 +7199,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9280657829380152106",
     "LAT": 18.553501,
-    "LONG": 73.753809,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.753809
   },
   {
     "DISTRICT": "Pune",
@@ -7779,9 +7225,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9285684909620945946",
     "LAT": 18.8538693,
-    "LONG": 73.8846224,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8846224
   },
   {
     "DISTRICT": "Pune",
@@ -7807,9 +7251,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9384400332972630657",
     "LAT": 18.6222122,
-    "LONG": 73.8503069,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8503069
   },
   {
     "DISTRICT": "Pune",
@@ -7835,9 +7277,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9496708744651837706",
     "LAT": 18.5180779,
-    "LONG": 73.8658346,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8658346
   },
   {
     "DISTRICT": "Pune",
@@ -7863,9 +7303,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9547424590395587182",
     "LAT": 18.817685,
-    "LONG": 74.369445,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.369445
   },
   {
     "DISTRICT": "Pune",
@@ -7891,9 +7329,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9555547936754919484",
     "LAT": 18.5748462,
-    "LONG": 73.9606383,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9606383
   },
   {
     "DISTRICT": "Pune",
@@ -7919,9 +7355,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9555574007292576371",
     "LAT": 18.6518712,
-    "LONG": 73.7834715,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7834715
   },
   {
     "DISTRICT": "Pune",
@@ -7947,9 +7381,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9662328738407723890",
     "LAT": 18.7316902,
-    "LONG": 73.6640579,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.6640579
   },
   {
     "DISTRICT": "Pune",
@@ -7975,9 +7407,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9684768469919865523",
     "LAT": 18.6119317,
-    "LONG": 73.7848213,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7848213
   },
   {
     "DISTRICT": "Pune",
@@ -8003,9 +7433,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9686519138162893013",
     "LAT": 19.0016018,
-    "LONG": 73.942652,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.942652
   },
   {
     "DISTRICT": "Pune",
@@ -8031,9 +7459,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9718973356617134508",
     "LAT": 18.5214255,
-    "LONG": 73.8558527,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8558527
   },
   {
     "DISTRICT": "Pune",
@@ -8059,9 +7485,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9812914460854862999",
     "LAT": 18.4662234,
-    "LONG": 73.8500019,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8500019
   },
   {
     "DISTRICT": "Pune",
@@ -8087,9 +7511,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=98952092672445145",
     "LAT": 18.6175513,
-    "LONG": 73.8500537,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8500537
   },
   {
     "DISTRICT": "Pune",
@@ -8115,9 +7537,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9905763384357252343",
     "LAT": 18.5021281,
-    "LONG": 73.8321104,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8321104
   },
   {
     "DISTRICT": "Pune",
@@ -8143,9 +7563,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=993259340926325601",
     "LAT": 18.6338188,
-    "LONG": 73.8032305,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8032305
   },
   {
     "DISTRICT": "Pune",
@@ -8171,9 +7589,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?cid=9983020521093652336",
     "LAT": 18.5299342,
-    "LONG": 73.8529763,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8529763
   },
   {
     "DISTRICT": "Pune",
@@ -8199,9 +7615,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=14&ftid=0x3bc2c3d984b0d027:0x96eb5f6be7eb74c5",
     "LAT": 18.5511443,
-    "LONG": 73.9411818,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9411818
   },
   {
     "DISTRICT": "Pune",
@@ -8227,9 +7641,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=2,+Datta+Mandir+Rd,+Sadguru+Colony,+No.2,+Shankar+Kalat+Nagar,+Wakad,+Pimpri-Chinchwad,+Maharashtra+411057,+India&ftid=0x3bc2b971a3b7e5bf:0x4100276413837a24",
     "LAT": 18.6047654,
-    "LONG": 73.7637399,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7637399
   },
   {
     "DISTRICT": "Pune",
@@ -8255,9 +7667,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=6,+Airport+Rd,+Yerawada,+Pune,+Maharashtra+411006,+India&ftid=0x3bc2c126ce522da9:0x31d507a1f05bbe49",
     "LAT": 18.5615656,
-    "LONG": 73.8922215,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8922215
   },
   {
     "DISTRICT": "Pune",
@@ -8283,9 +7693,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=62,+St+Dnyaneshwar+Rd,+Shanti+Nagar,+Visharant+Wadi,+Pune,+Maharashtra+411015,+India&ftid=0x3bc2c0d04e41c1d5:0xde215e259b0581ec",
     "LAT": 18.5687342,
-    "LONG": 73.8792326,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8792326
   },
   {
     "DISTRICT": "Pune",
@@ -8311,9 +7719,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=71,+Nana+Peth+Rd,+New+Nana+Peth,+Ganj+Peth,+Pune,+Maharashtra+411002,+India&ftid=0x3bc2c041da65a033:0x3e95cfc85f318eeb",
     "LAT": 18.5112683,
-    "LONG": 73.8659246,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8659246
   },
   {
     "DISTRICT": "Pune",
@@ -8339,9 +7745,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=Baner+-+Mahalunge+Rd,+Mahalunge,+Pune,+Maharashtra+411045,+India&ftid=0x3bc2becbf68ad25d:0x8241b2863e8b4a6e",
     "LAT": 18.5702556,
-    "LONG": 73.762834,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.762834
   },
   {
     "DISTRICT": "Pune",
@@ -8367,9 +7771,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=Danadekar+Bridge+Colony,+Dandekar+Pool,+Municipal+Colony,+Pune,+Maharashtra+411030,+India&ftid=0x3bc2c00bdda18a9b:0xe2fe44e0638f77ae",
     "LAT": 18.5007274,
-    "LONG": 73.8461563,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8461563
   },
   {
     "DISTRICT": "Pune",
@@ -8395,9 +7797,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=Gangadham+-+Shatrunjay+Rd,+Bibwewadi,+Pune,+Maharashtra,+India&ftid=0x3bc2ea92676dada9:0x848857639fc2f81d",
     "LAT": 18.4691991,
-    "LONG": 73.8759064,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8759064
   },
   {
     "DISTRICT": "Pune",
@@ -8423,9 +7823,7 @@ pune_data=[
     "PINCODE": 411019,
     "LOCATION": "https://maps.google.com/?q=Gharkul+Rd,+Sector+19,+Chikhali,+Vitthal+Nagar,+Maharashtra+411019,+India&ftid=0x3bc2b786037920b7:0x6152e6fe34dfec3f",
     "LAT": 18.6673596,
-    "LONG": 73.8060585,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8060585
   },
   {
     "DISTRICT": "Pune",
@@ -8451,9 +7849,7 @@ pune_data=[
     "PINCODE": 411026,
     "LOCATION": "https://maps.google.com/?q=New+Bhosari+Hospital&ftid=0x3bc2c7814d05c1c5:0x80519ff0a3e243b2",
     "LAT": 18.6267931,
-    "LONG": 73.8469144,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8469144
   },
   {
     "DISTRICT": "Pune",
@@ -8479,9 +7875,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=Pooja+Mangal+Karyalay+Building&ftid=0x3bc2b796874217ab:0xf69dbf006764deb1",
     "LAT": 18.684289,
-    "LONG": 73.8120504,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8120504
   },
   {
     "DISTRICT": "Pune",
@@ -8507,9 +7901,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=Seth+Tarachand+Ramnath+Charitable+Ayurvedic+Hospital&ftid=0x3bc2c06816cd532d:0xd999db64f7a20787",
     "LAT": 18.517871,
-    "LONG": 73.8644648,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8644648
   },
   {
     "DISTRICT": "Pune",
@@ -8535,9 +7927,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://maps.google.com/?q=Velhe,+Maharashtra+412212,+India&ftid=0x3bc29ab09fff4c1b:0x174bff06fad7c542",
     "LAT": 18.2962689,
-    "LONG": 73.637432,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.637432
   },
   {
     "DISTRICT": "Pune",
@@ -8563,9 +7953,7 @@ pune_data=[
     "PINCODE": 411048,
     "LOCATION": "https://www.google.com/maps/place/Aarya+Clinic/@18.4566422,73.8880499,21z/data=!4m5!3m4!1s0x3bc2eaf64e6cb9cb:0x788573fe7a70ecd4!8m2!3d18.4566537!4d73.8880306?hl=en",
     "LAT": 18.4566422,
-    "LONG": 73.8880499,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8880499
   },
   {
     "DISTRICT": "Pune",
@@ -8591,9 +7979,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Agarwal+Maternity+%26+General+Hospital/@18.558896,73.931146,21z/data=!4m5!3m4!1s0x3bc2c3d9e44ee10f:0x172f411c0d54989a!8m2!3d18.5589268!4d73.9311098?hl=en",
     "LAT": 18.558896,
-    "LONG": 73.931146,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.931146
   },
   {
     "DISTRICT": "Pune",
@@ -8619,9 +8005,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Alliance+Munot+Hospital/@18.502524,73.86886,20z/data=!4m5!3m4!1s0x3bc2c03e8424caa7:0xad807134ba9f559f!8m2!3d18.5025688!4d73.8687829?hl=en",
     "LAT": 18.502524,
-    "LONG": 73.86886,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.86886
   },
   {
     "DISTRICT": "Pune",
@@ -8647,9 +8031,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Apple+Hospital/@18.5883808,73.7804135,18z/data=!4m5!3m4!1s0x3bc2b93cf0cc0e7b:0xea8a7cf18b979629!8m2!3d18.5885232!4d73.7803277",
     "LAT": 18.5883808,
-    "LONG": 73.7804135,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7804135
   },
   {
     "DISTRICT": "Pune",
@@ -8675,9 +8057,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Apple+Hospital/@18.6029744,73.9268273,21z/data=!4m5!3m4!1s0x3bc2c6a258771833:0x1ff69d7a510ed52a!8m2!3d18.603004!4d73.926779?hl=en",
     "LAT": 18.6029744,
-    "LONG": 73.9268273,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9268273
   },
   {
     "DISTRICT": "Pune",
@@ -8703,9 +8083,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Asha+clinic/@18.4845741,73.9557781,21z/data=!4m5!3m4!1s0x3bc2e9e6ef657545:0xec6888fda67864dc!8m2!3d18.4845945!4d73.9557767?hl=en",
     "LAT": 18.4845741,
-    "LONG": 73.9557781,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9557781
   },
   {
     "DISTRICT": "Pune",
@@ -8731,9 +8109,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Aundh+Institute+of+Medical+Sciences/@18.5625104,73.8106779,21z/data=!4m5!3m4!1s0x3bc2bf36b513fe95:0xc2bcc3ba3728528a!8m2!3d18.5625247!4d73.8106531?hl=en",
     "LAT": 18.5625104,
-    "LONG": 73.8106779,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8106779
   },
   {
     "DISTRICT": "Pune",
@@ -8759,9 +8135,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Bhandari+Hospital/@18.4776706,73.8235269,21z/data=!4m5!3m4!1s0x3bc2955ed9daf9a7:0x561d60761bde348!8m2!3d18.4776805!4d73.8234873",
     "LAT": 18.4776706,
-    "LONG": 73.8235269,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8235269
   },
   {
     "DISTRICT": "Pune",
@@ -8787,9 +8161,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/BRMH+(BIRASAHEB+RUPNAR+MEMORIAL+HOSPITAL)/@18.6397212,73.8453944,17z/data=!4m5!3m4!1s0x3bc2c7ce4b49c945:0xcdb3fe1b89b67f7!8m2!3d18.6400618!4d73.8452335",
     "LAT": 18.6397212,
-    "LONG": 73.8453944,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8453944
   },
   {
     "DISTRICT": "Pune",
@@ -8815,9 +8187,7 @@ pune_data=[
     "PINCODE": 411037,
     "LOCATION": "https://www.google.com/maps/place/Chintamani+Hospital/@18.4725045,73.8633349,21z/data=!4m5!3m4!1s0x3bc2eaa3a9f6841f:0x2497dcf76704cf39!8m2!3d18.4725297!4d73.8633148",
     "LAT": 18.4725045,
-    "LONG": 73.8633349,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8633349
   },
   {
     "DISTRICT": "Pune",
@@ -8843,9 +8213,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/City+Care+Hospital+pune/@18.5449097,73.9219803,21z/data=!4m5!3m4!1s0x3bc2c360bd062a5d:0x1e43d4c6d26d670c!8m2!3d18.5449401!4d73.9219569",
     "LAT": 18.5449097,
-    "LONG": 73.9219803,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9219803
   },
   {
     "DISTRICT": "Pune",
@@ -8871,9 +8239,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Dedicate+Covid+Hospital/@18.5674384,73.7740421,21z/data=!4m8!1m2!2m1!1shospitals!3m4!1s0x3bc2bf374b29ba53:0x464609d496873d19!8m2!3d18.5674724!4d73.7740292?hl=en",
     "LAT": 18.5674384,
-    "LONG": 73.7740421,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7740421
   },
   {
     "DISTRICT": "Pune",
@@ -8899,9 +8265,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Dhanvantari+Hospital+%26+Nursing+Home/@18.4827214,73.954726,21z/data=!4m9!1m2!2m1!1sDhanwantari+Hospital+(+Fursungi+)!3m5!1s0x0:0x8562aa4ba2d8afc9!8m2!3d18.482767!4d73.9547048!15sCiFEaGFud2FudGFyaSBIb3NwaXRhbCAoIEZ1cnN1bmdpICmSAQhob3NwaXRhbA",
     "LAT": 18.4827214,
-    "LONG": 73.954726,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.954726
   },
   {
     "DISTRICT": "Pune",
@@ -8927,9 +8291,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Divine+Superspeciality+Hospital+and+Trauma+Center+-best+hospital+in+morwadi+-+best+hospital+in+pimpri+orthopedic+hospital+in+pimpri-+best+superspeciality+hospital+in+pimpri-+best+physician+doctor+in+pimpri+-+best+neurosurgeon+doctor+in+pimpri-multispeciality+hospital+in+pimpri/@18.6332843,73.8034742,17z/data=!4m12!1m6!3m5!1s0x3bc2b787dcf2c8f1:0x3e89913c48a2fa3a!2sGharkul+Chikhali!8m2!3d18.665378!4d73.8060255!3m4!1s0x3bc2b903f2f9d3db:0xdc8c41ba9c09361!8m2!3d18.6338188!4d73.8032305",
     "LAT": 18.6332843,
-    "LONG": 73.8034742,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8034742
   },
   {
     "DISTRICT": "Pune",
@@ -8955,9 +8317,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Divine+Superspeciality+Hospital+and+Trauma+Center+-best+hospital+in+morwadi+-+best+hospital+in+pimpri+orthopedic+hospital+in+pimpri-+best+superspeciality+hospital+in+pimpri-+best+physician+doctor+in+pimpri+-+best+neurosurgeon+doctor+in+pimpri-multispeciality+hospital+in+pimpri/@18.6332843,73.8034742,17z/data=!4m12!1m6!3m5!1s0x3bc2b787dcf2c8f1:0x3e89913c48a2fa3a!2sGharkul+Chikhali!8m2!3d18.665378!4d73.8060255!3m4!1s0x3bc2b903f2f9d3db:0xdc8c41ba9c09361!8m2!3d18.6338188!4d73.8032305",
     "LAT": 18.6332843,
-    "LONG": 73.8034742,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8034742
   },
   {
     "DISTRICT": "Pune",
@@ -8983,9 +8343,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Dr.+D.+Y.+Patil+College+of+Ayurved+and+Research+Centre/@18.6251802,73.8257523,17z/data=!4m5!3m4!1s0x3bc2b86408ee2807:0x5f234caba280855d!8m2!3d18.6253276!4d73.8253124",
     "LAT": 18.6251802,
-    "LONG": 73.8257523,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8257523
   },
   {
     "DISTRICT": "Pune",
@@ -9011,9 +8369,7 @@ pune_data=[
     "PINCODE": 411018,
     "LOCATION": "https://www.google.com/maps/place/Dr.+D.+Y.+Patil+Medical+College,+Hospital+%26+Research+Centre/@18.6239534,73.82163,17z/data=!4m5!3m4!1s0x3bc2b8613fbc4431:0x121db9f8d7d29098!8m2!3d18.624111!4d73.821233",
     "LAT": 18.6239534,
-    "LONG": 73.82163,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.82163
   },
   {
     "DISTRICT": "Pune",
@@ -9039,9 +8395,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Dr.+Mhaske+Hospital+%26+Research+Center/@18.500633,73.941597,21z/data=!4m5!3m4!1s0x3bc2c203630bbe23:0xeb660027f8118a29!8m2!3d18.500655!4d73.941601",
     "LAT": 18.500633,
-    "LONG": 73.941597,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.941597
   },
   {
     "DISTRICT": "Pune",
@@ -9067,9 +8421,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Ganga+Nursing+Home/@18.5304475,73.9129592,21z/data=!4m5!3m4!1s0x3bc2c19f5db88a1d:0x37d09763714a5075!8m2!3d18.5304675!4d73.9129062",
     "LAT": 18.5304475,
-    "LONG": 73.9129592,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9129592
   },
   {
     "DISTRICT": "Pune",
@@ -9095,9 +8447,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Ghadage+Hospital+-+Multispeciality+Hospital+In+PCMC/@18.6696206,73.7911708,17z/data=!4m5!3m4!1s0x3bc2b77f20b48493:0x45791b9afabe9354!8m2!3d18.6700018!4d73.7910742",
     "LAT": 18.6696206,
-    "LONG": 73.7911708,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7911708
   },
   {
     "DISTRICT": "Pune",
@@ -9123,9 +8473,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Giridhar+Hospital/@18.4486972,73.8328807,14z/data=!4m9!1m2!2m1!1sGiridhar+Hospital+%26+Maternity+Home+pune!3m5!1s0x3bc29531cb76c313:0xc3385d48fc6b7379!8m2!3d18.4482116!4d73.8331533!15sCidHaXJpZGhhciBIb3NwaXRhbCAmIE1hdGVybml0eSBIb21lIHB1bmWSAQhob3NwaXRhbA",
     "LAT": 18.44979636,
-    "LONG": 73.83382484,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.83382484
   },
   {
     "DISTRICT": "Pune",
@@ -9151,9 +8499,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Gurukrupa+Nursing+Home/@18.500352,73.8469605,21z/data=!4m5!3m4!1s0x3bc2c00ea82f691b:0x67c1c503cf0f52e0!8m2!3d18.500362!4d73.8469543",
     "LAT": 18.500352,
-    "LONG": 73.8469605,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8469605
   },
   {
     "DISTRICT": "Pune",
@@ -9179,9 +8525,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/H3+HOSPITAL%7CMultispeciality+Hospital+%7Cbhekrai+nagar%7CPune/@18.480949,73.9536644,21z/data=!4m5!3m4!1s0x3bc2e95d2e93916d:0x87b7b92e95d54c3d!8m2!3d18.4809455!4d73.953645",
     "LAT": 18.480949,
-    "LONG": 73.9536644,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9536644
   },
   {
     "DISTRICT": "Pune",
@@ -9207,9 +8551,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Health+Care+Hospital/@18.6695582,73.7915996,17z/data=!4m9!1m2!2m1!1sHealth+Care+Hospital,+!3m5!1s0x3bc2b778e25a3b61:0xbbedaf2c23ebe65d!8m2!3d18.6701473!4d73.7917889!15sChVIZWFsdGggQ2FyZSBIb3NwaXRhbCxaLAoUaGVhbHRoIGNhcmUgaG9zcGl0YWwiFGhlYWx0aCBjYXJlIGhvc3BpdGFskgEIaG9zcGl0YWw",
     "LAT": 18.6695582,
-    "LONG": 73.7915996,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7915996
   },
   {
     "DISTRICT": "Pune",
@@ -9235,9 +8577,7 @@ pune_data=[
     "PINCODE": 411019,
     "LOCATION": "https://www.google.com/maps/place/icon+Hospital/@18.668411,73.7888387,15z/data=!4m9!1m2!2m1!1sIcon+Hospital+!3m5!1s0x0:0x989d66029ed9a1f2!8m2!3d18.6718795!4d73.7875966!15sCg1JY29uIEhvc3BpdGFsWh4KDWljb24gaG9zcGl0YWwiDWljb24gaG9zcGl0YWySARBnZW5lcmFsX2hvc3BpdGFs",
     "LAT": 18.668411,
-    "LONG": 73.7888387,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7888387
   },
   {
     "DISTRICT": "Pune",
@@ -9263,9 +8603,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/icon+Hospital/@18.671874,73.7876123,21z/data=!4m12!1m6!3m5!1s0x3bc2b787dcf2c8f1:0x3e89913c48a2fa3a!2sGharkul+Chikhali!8m2!3d18.665378!4d73.8060255!3m4!1s0x3bc2b77a3f1498e3:0x989d66029ed9a1f2!8m2!3d18.6718795!4d73.7875966",
     "LAT": 18.671874,
-    "LONG": 73.7876123,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7876123
   },
   {
     "DISTRICT": "Pune",
@@ -9291,9 +8629,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/icon+Hospital/@18.671874,73.7876123,21z/data=!4m12!1m6!3m5!1s0x3bc2b787dcf2c8f1:0x3e89913c48a2fa3a!2sGharkul+Chikhali!8m2!3d18.665378!4d73.8060255!3m4!1s0x3bc2b77a3f1498e3:0x989d66029ed9a1f2!8m2!3d18.6718795!4d73.7875966",
     "LAT": 18.671874,
-    "LONG": 73.7876123,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7876123
   },
   {
     "DISTRICT": "Pune",
@@ -9319,9 +8655,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Inlaks+and+Budhrani+Hospital/@18.5345943,73.887894,17z/data=!4m12!1m6!3m5!1s0x3bc2c0fe3d05ca6f:0xbc1cd0c55ba8ff84!2sSadhu+Vaswani+Missions+Medical+Complex!8m2!3d18.5348639!4d73.8874219!3m4!1s0x3bc2c0ffcac4e837:0xee215d906ae8d0f7!8m2!3d18.535355!4d73.8876117",
     "LAT": 18.5345943,
-    "LONG": 73.887894,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.887894
   },
   {
     "DISTRICT": "Pune",
@@ -9347,9 +8681,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/ITI+Velhe/@18.301154,73.6537226,15z/data=!4m5!3m4!1s0x0:0x3fde03c73108e63b!8m2!3d18.301154!4d73.6537226",
     "LAT": 18.30198927,
-    "LONG": 73.65393718,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.65393718
   },
   {
     "DISTRICT": "Pune",
@@ -9375,9 +8707,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/JEEVANDHARA+MULTISPECIALITY+HOSPITAL-%7CBEST+ICU+CARE+CARDIAC+CARE+KATRAJ+PUNE%7C/@18.4489974,73.8578464,20z/data=!4m5!3m4!1s0x3bc2eb045b185be3:0x34ca6dd8a48d7345!8m2!3d18.4490248!4d73.8578437",
     "LAT": 18.4489974,
-    "LONG": 73.8578464,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8578464
   },
   {
     "DISTRICT": "Pune",
@@ -9403,9 +8733,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/JEEWAN+JYOT+HOSPITAL,+KHARADI/@18.5613107,73.9407519,21z/data=!4m5!3m4!1s0x3bc2c34c5e3359f9:0xe46a850cfc3346a2!8m2!3d18.5613277!4d73.9407083",
     "LAT": 18.5613107,
-    "LONG": 73.9407519,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9407519
   },
   {
     "DISTRICT": "Pune",
@@ -9431,9 +8759,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Joshi+Dr+S+M/@18.502535,73.9247247,15.76z/data=!4m5!3m4!1s0x0:0x6dd6bb058825071c!8m2!3d18.5030542!4d73.9246894",
     "LAT": 18.5030542,
-    "LONG": 73.9246894,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9246894
   },
   {
     "DISTRICT": "Pune",
@@ -9459,9 +8785,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Kalyani+Hospital/@18.5046743,73.859252,21z/data=!4m5!3m4!1s0x3bc2c013800fb8a9:0xa7106843dce00d78!8m2!3d18.504721!4d73.85925",
     "LAT": 18.5046743,
-    "LONG": 73.859252,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.859252
   },
   {
     "DISTRICT": "Pune",
@@ -9487,9 +8811,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/KamalNayan+Hospital+%26+MedZone+Pharma/@18.504872,73.8589876,21z/data=!4m5!3m4!1s0x3bc2c188338b2499:0xa4ded1cff6f30dae!8m2!3d18.5048895!4d73.8589655",
     "LAT": 18.504872,
-    "LONG": 73.8589876,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8589876
   },
   {
     "DISTRICT": "Pune",
@@ -9515,9 +8837,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Kulkarni+hospital+and+diagnostic+centre/@18.4843629,73.809197,17z/data=!4m5!3m4!1s0x3bc2be2cffffffff:0xe1d5788957267d57!8m2!3d18.4846733!4d73.8094545",
     "LAT": 18.4843629,
-    "LONG": 73.809197,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.809197
   },
   {
     "DISTRICT": "Pune",
@@ -9543,9 +8863,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Life+Care+Multispecality+Hospital/@18.4867841,73.9389783,16z/data=!4m9!1m2!2m1!1sLifeCare+Multispecility+Hospital!3m5!1s0x0:0xfb1d55483acffc21!8m2!3d18.4879541!4d73.9390136!15sCiFMaWZlQ2FyZSBNdWx0aXNwZWNpYWxpdHkgSG9zcGl0YWxaRgohbGlmZWNhcmUgbXVsdGlzcGVjaWFsaXR5IGhvc3BpdGFsIiFsaWZlY2FyZSBtdWx0aXNwZWNpYWxpdHkgaG9zcGl0YWySARBnZW5lcmFsX2hvc3BpdGFs",
     "LAT": 18.4867841,
-    "LONG": 73.9389783,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9389783
   },
   {
     "DISTRICT": "Pune",
@@ -9571,9 +8889,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Lifecare+Surgical+and+Maternity+Hospital/@18.5015067,73.9361277,19z/data=!4m9!1m2!2m1!1slife+care+hospital!3m5!1s0x0:0xc3014cd5fea60ca3!8m2!3d18.5017398!4d73.9360374!15sChJsaWZlIGNhcmUgaG9zcGl0YWySAQdzdXJnZW9u",
     "LAT": 18.5015067,
-    "LONG": 73.9361277,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9361277
   },
   {
     "DISTRICT": "Pune",
@@ -9599,9 +8915,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/MANGALMURTI+MULTI+SPECIALITY+HOSPITAL/@18.6427716,73.7521758,19z/data=!4m9!1m2!2m1!1sMangalmurti+Multispeciality+Hospital!3m5!1s0x3bc2b99db44c37d1:0x9345a0c58f7176c9!8m2!3d18.6428415!4d73.7519237!15sCiRNYW5nYWxtdXJ0aSBNdWx0aXNwZWNpYWxpdHkgSG9zcGl0YWySAQhob3NwaXRhbA",
     "LAT": 18.6427716,
-    "LONG": 73.7521758,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7521758
   },
   {
     "DISTRICT": "Pune",
@@ -9627,9 +8941,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Manisha+Gramin+Rugnalay+And+Cancer+Centre/@19.2064257,73.8686367,17z/data=!4m5!3m4!1s0x0:0x2b55a82d84e08828!8m2!3d19.2061358!4d73.8680799",
     "LAT": 19.2064257,
-    "LONG": 73.8686367,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8686367
   },
   {
     "DISTRICT": "Pune",
@@ -9655,9 +8967,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Mankikar+Children+Hospital/@18.6180067,73.849695,17z/data=!4m5!3m4!1s0x3bc2b881dca8fb19:0x29cf39e2ebcb6619!8m2!3d18.6187438!4d73.8495984",
     "LAT": 18.6180067,
-    "LONG": 73.849695,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.849695
   },
   {
     "DISTRICT": "Pune",
@@ -9683,9 +8993,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Matoshree+Hospital+manchar/@19.004819,73.8770192,12z/data=!4m9!1m2!2m1!1sMatoshree+Hospital,+Manchar!3m5!1s0x3bdd313769284cdf:0xb522cc536440448d!8m2!3d19.004819!4d73.947057!15sChtNYXRvc2hyZWUgSG9zcGl0YWwsIE1hbmNoYXKSAQhob3NwaXRhbA",
     "LAT": 19.00983682,
-    "LONG": 73.94877889,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.94877889
   },
   {
     "DISTRICT": "Pune",
@@ -9711,9 +9019,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Medicare+Hospital+-+Multi+Speciality+Hospital/@18.5118131,73.9377967,17z/data=!4m5!3m4!1s0x3bc2c21fc7ab2605:0xbd719ad8e6c8b044!8m2!3d18.511808!4d73.937271",
     "LAT": 18.5118131,
-    "LONG": 73.9377967,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9377967
   },
   {
     "DISTRICT": "Pune",
@@ -9739,9 +9045,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/MINERVA+HOSPITAL/@18.4654609,73.7773553,17z/data=!4m5!3m4!1s0x3bc2958dfdc49cb9:0xc1be532776fb0bf4!8m2!3d18.4657102!4d73.7770871",
     "LAT": 18.4654609,
-    "LONG": 73.7773553,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7773553
   },
   {
     "DISTRICT": "Pune",
@@ -9767,9 +9071,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Moraya+Hospital/@18.4816313,73.9511348,17z/data=!4m5!3m4!1s0x3bc2e9e5a29c8b03:0x9eb4abe1ed8c8279!8m2!3d18.481901!4d73.951285",
     "LAT": 18.4816313,
-    "LONG": 73.9511348,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9511348
   },
   {
     "DISTRICT": "Pune",
@@ -9795,9 +9097,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/N.+M.+Wadia+Hospital/@18.5306106,73.8772275,18z/data=!4m5!3m4!1s0x3bc2c06d49955325:0xa23459b5723dc0a7!8m2!3d18.5307479!4d73.8770237",
     "LAT": 18.5306106,
-    "LONG": 73.8772275,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8772275
   },
   {
     "DISTRICT": "Pune",
@@ -9823,9 +9123,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/National+Institute+of+Post+Harvest+Technology/@18.7225171,73.6609653,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2b1e7ae2e8c45:0x14540e61e2e706e2!8m2!3d18.7224784!4d73.6632217",
     "LAT": 18.72272536,
-    "LONG": 73.66326129,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.66326129
   },
   {
     "DISTRICT": "Pune",
@@ -9851,9 +9149,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/New+Sofia+Hospital/@18.4721752,73.8915645,17z/data=!4m5!3m4!1s0x3bc2ea62f91620e7:0xd4029d9e3b5ea1ca!8m2!3d18.4726179!4d73.891425",
     "LAT": 18.4721752,
-    "LONG": 73.8915645,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8915645
   },
   {
     "DISTRICT": "Pune",
@@ -9879,9 +9175,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Nikhil+Poly+Clinic/@18.5607712,73.8939626,17z/data=!4m5!3m4!1s0x3bc2c1214f7d35cb:0xcf89c090e3a0fadd!8m2!3d18.5611679!4d73.893865",
     "LAT": 18.5607712,
-    "LONG": 73.8939626,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8939626
   },
   {
     "DISTRICT": "Pune",
@@ -9907,9 +9201,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/OXYCARE+MULTISPECIALITY+HOSPITAL/@18.6131553,73.7901294,17z/data=!4m5!3m4!1s0x3bc2b906ef5d17cf:0x94aebdb2f32e5f35!8m2!3d18.6136078!4d73.7903225",
     "LAT": 18.6131553,
-    "LONG": 73.7901294,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7901294
   },
   {
     "DISTRICT": "Pune",
@@ -9935,9 +9227,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/PATIL+MULTSPECIALITY+HOSPITAL+AND+LAPROSCOPY+CENTER/@18.447237,73.8493209,17z/data=!4m5!3m4!1s0x3bc2ead1ec3b85e1:0xfd7491f2b965c949!8m2!3d18.4473744!4d73.8487737",
     "LAT": 18.447237,
-    "LONG": 73.8493209,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8493209
   },
   {
     "DISTRICT": "Pune",
@@ -9963,9 +9253,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/PMC's+Late+Ramchandra+Bankar+School+%26+Sports+Complex/@18.4938213,73.9562836,21z/data=!4m5!3m4!1s0x3bc2c20a60823971:0x310f16ebe29a4f66!8m2!3d18.49384!4d73.9562551?hl=en",
     "LAT": 18.4938213,
-    "LONG": 73.9562836,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9562836
   },
   {
     "DISTRICT": "Pune",
@@ -9991,9 +9279,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Pooja+Hospital/@18.6235143,73.8523586,17z/data=!4m5!3m4!1s0x3bc2c7dbe37da697:0xffdceec2b22d63ae!8m2!3d18.6237532!4d73.8527663",
     "LAT": 18.6235143,
-    "LONG": 73.8523586,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8523586
   },
   {
     "DISTRICT": "Pune",
@@ -10019,9 +9305,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Pulse+Multispeciality+Hospital/@18.6013228,73.7487511,14z/data=!4m9!1m2!2m1!1sPulse+MS+Hospital,+Tathawade!3m5!1s0x3bc2bb6db2b671c9:0x35b55bbdf6b62389!8m2!3d18.6074216!4d73.7476987!15sChxQdWxzZSBNUyBIb3NwaXRhbCwgVGF0aGF3YWRlWjAKEXB1bHNlIG1zIGhvc3BpdGFsIhtwdWxzZSBtcyBob3NwaXRhbCB0YXRoYXdhZGWSAQZkb2N0b3I",
     "LAT": 18.6013228,
-    "LONG": 73.7487511,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7487511
   },
   {
     "DISTRICT": "Pune",
@@ -10047,9 +9331,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Rainbow+Children+and+Eye+Hospital/@18.6115275,73.7849172,17z/data=!4m9!1m2!2m1!1sRainbow+Hospital!3m5!1s0x0:0xc4f3757b49aa78f7!8m2!3d18.6119618!4d73.7848421!15sChBSYWluYm93IEhvc3BpdGFsIgOIAQGSAQhob3NwaXRhbA",
     "LAT": 18.6115275,
-    "LONG": 73.7849172,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7849172
   },
   {
     "DISTRICT": "Pune",
@@ -10075,9 +9357,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Rainbow+Multispeciality+Hospital,+krishna+nagar,+Chinchawad,+Pune/@18.667698,73.7964141,17z/data=!4m5!3m4!1s0x3bc2b781929097db:0xd41d7d626b468a7f!8m2!3d18.6678149!4d73.796457",
     "LAT": 18.667698,
-    "LONG": 73.7964141,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7964141
   },
   {
     "DISTRICT": "Pune",
@@ -10103,9 +9383,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Remedy+Hospital,+Ramanand+Complex/@18.5002666,73.9364601,17z/data=!4m5!3m4!1s0x3bc2c20298f1c889:0x2465f321b04d718f!8m2!3d18.5006482!4d73.9364923",
     "LAT": 18.5002666,
-    "LONG": 73.9364601,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9364601
   },
   {
     "DISTRICT": "Pune",
@@ -10131,9 +9409,7 @@ pune_data=[
     "PINCODE": 411026,
     "LOCATION": "https://www.google.com/maps/place/Ruby+Ailcare+Services+Pvt+Ltd/@18.6210527,73.8208942,17z/data=!4m5!3m4!1s0x3bc2b86057940337:0xd1d827540df9cbe!8m2!3d18.6214747!4d73.8206796",
     "LAT": 18.6210527,
-    "LONG": 73.8208942,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8208942
   },
   {
     "DISTRICT": "Pune",
@@ -10159,9 +9435,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Sahara+Hospital/@18.5006498,73.8457631,19z/data=!4m9!1m2!2m1!1sSAHARA+MULTISPECILITY+HOSPITAL(+Shinhgad+rd+)!3m5!1s0x0:0x347a3accb1b1df20!8m2!3d18.5008566!4d73.8457618!15sCjBTQUhBUkEgTVVMVElTUEVDSUFMSVRZIEhPU1BJVEFMKCBTaW5oYWdhZCByb2FkICmSAQhob3NwaXRhbA",
     "LAT": 18.5006498,
-    "LONG": 73.8457631,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8457631
   },
   {
     "DISTRICT": "Pune",
@@ -10187,9 +9461,7 @@ pune_data=[
     "PINCODE": 412308,
     "LOCATION": "https://www.google.com/maps/place/Sai+Hospital/@18.4789979,73.9535534,18z/data=!4m9!1m2!2m1!1sshree+sai+hospital+(+fursungi+)+bhosale+village,+opp+power+house+,+fursungi+pune+08!3m5!1s0x0:0xc644f3f844d6e5ee!8m2!3d18.4794497!4d73.9534974!15sClNzaHJlZSBzYWkgaG9zcGl0YWwgKCBmdXJzdW5naSApIGJob3NhbGUgdmlsbGFnZSwgb3BwIHBvd2VyIGhvdXNlICwgZnVyc3VuZ2kgcHVuZSAwOJIBCGhvc3BpdGFs",
     "LAT": 18.4789979,
-    "LONG": 73.9535534,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9535534
   },
   {
     "DISTRICT": "Pune",
@@ -10215,9 +9487,7 @@ pune_data=[
     "PINCODE": 411019,
     "LOCATION": "https://www.google.com/maps/place/Sai+Speciality+Hospital/@18.6656902,73.7971025,17z/data=!4m9!1m2!2m1!1sSai+Speciality+Hospital,+Chikhali!3m5!1s0x3bc2b78232cda167:0xf6813c37df50e15f!8m2!3d18.6662115!4d73.7975003!15sCiFTYWkgU3BlY2lhbGl0eSBIb3NwaXRhbCwgQ2hpa2hhbGmSAQZkb2N0b3I",
     "LAT": 18.6656902,
-    "LONG": 73.7971025,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7971025
   },
   {
     "DISTRICT": "Pune",
@@ -10243,9 +9513,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Sanjeevani+Hospital/@18.6691615,73.7977791,17z/data=!4m5!3m4!1s0x3bc2b783d2681a95:0x21bbab091fb843ca!8m2!3d18.6693597!4d73.7980259",
     "LAT": 18.6691615,
-    "LONG": 73.7977791,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7977791
   },
   {
     "DISTRICT": "Pune",
@@ -10271,9 +9539,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Sant+Tukaram+Multispeciality+Shivkrupa+Hospital/@18.6834622,73.8151972,18z/data=!4m5!3m4!1s0x3bc2b704b500505f:0x6cc0a66515d3e1b3!8m2!3d18.6836632!4d73.814892",
     "LAT": 18.6834622,
-    "LONG": 73.8151972,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8151972
   },
   {
     "DISTRICT": "Pune",
@@ -10299,9 +9565,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Sarvadnya+Multispeciality+Hospital/@18.6791595,73.8478466,17z/data=!4m5!3m4!1s0x3bc2c81b560d9e03:0xbb3647fc7b04cbbc!8m2!3d18.6792764!4d73.8478144",
     "LAT": 18.6791595,
-    "LONG": 73.8478466,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8478466
   },
   {
     "DISTRICT": "Pune",
@@ -10327,9 +9591,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/SATHE+HOSPITAL/@18.5950104,73.9279273,17z/data=!4m5!3m4!1s0x3bc2c6a5a4e7059d:0xcece36078cdad14!8m2!3d18.5956053!4d73.9277986",
     "LAT": 18.5950104,
-    "LONG": 73.9279273,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9279273
   },
   {
     "DISTRICT": "Pune",
@@ -10355,9 +9617,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Sharad+Hospital/@18.467826,73.8191373,17z/data=!4m5!3m4!1s0x3bc2955c25e585f9:0xe90f85b501608e52!8m2!3d18.4683704!4d73.8189227",
     "LAT": 18.467826,
-    "LONG": 73.8191373,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8191373
   },
   {
     "DISTRICT": "Pune",
@@ -10383,9 +9643,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shatayu+Hospital/@18.4584648,73.80838,17z/data=!4m5!3m4!1s0x3bc295a83a9639d7:0x7aab60f85c67baa6!8m2!3d18.4587752!4d73.8080581",
     "LAT": 18.4584648,
-    "LONG": 73.80838,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.80838
   },
   {
     "DISTRICT": "Pune",
@@ -10411,9 +9669,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shatayu+hospital/@18.524198,73.9538708,15z/data=!4m9!1m2!2m1!1sshatayu++hospital+(+mundhawa+)!3m5!1s0x3bc2c23a00227e19:0xd3e43667ed0e1bf7!8m2!3d18.5267616!4d73.9536562!15sChxzaGF0YXl1IGhvc3BpdGFsICggbXVuZGh3YSApWiwKEHNoYXRheXUgaG9zcGl0YWwiGHNoYXRheXUgaG9zcGl0YWwgbXVuZGh3YZIBCGhvc3BpdGFs",
     "LAT": 18.524198,
-    "LONG": 73.9538708,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9538708
   },
   {
     "DISTRICT": "Pune",
@@ -10439,9 +9695,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shree+Ayurved+and+Panchkarma+Hospital+Pune/@18.5605966,73.941062,17z/data=!4m5!3m4!1s0x3bc2c15c30f1892d:0x3160640ecf950b40!8m2!3d18.5607237!4d73.9410727",
     "LAT": 18.5605966,
-    "LONG": 73.941062,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.941062
   },
   {
     "DISTRICT": "Pune",
@@ -10467,9 +9721,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shree+Hospital+%26+Maternity+Home/@18.5816496,73.8135929,19z/data=!4m9!1m2!2m1!1sShree+Hospital+%26+Maternity+Home,324,+Sangvi+Pune+411+027!3m5!1s0x3bc2b8c8b7bf5347:0x425dd141f6506a1a!8m2!3d18.5817896!4d73.8134897!15sCjhTaHJlZSBIb3NwaXRhbCAmIE1hdGVybml0eSBIb21lLDMyNCwgU2FuZ3ZpIFB1bmUgNDExIDAyN5IBE2hvc3BpdGFsX2RlcGFydG1lbnQ",
     "LAT": 18.5816496,
-    "LONG": 73.8135929,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8135929
   },
   {
     "DISTRICT": "Pune",
@@ -10495,9 +9747,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shree+laxmi+Hospital/@18.5501573,73.9377144,17z/data=!4m5!3m4!1s0x3bc2c3d869bd45b7:0x8a99313c4a6f6d7d!8m2!3d18.5502743!4d73.9373174",
     "LAT": 18.5501573,
-    "LONG": 73.9377144,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9377144
   },
   {
     "DISTRICT": "Pune",
@@ -10523,9 +9773,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shri+Ganesha+Multispeciality+Hospital/@18.817685,74.369445,15z/data=!4m5!3m4!1s0x0:0x847f44149e5bba6e!8m2!3d18.817685!4d74.369445",
     "LAT": 18.81876147,
-    "LONG": 74.36940208,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 74.36940208
   },
   {
     "DISTRICT": "Pune",
@@ -10551,9 +9799,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shrigiri+Hospital+and+Heart+Care+Center+Best+Heart+Hospital+Hadapsar/@18.5010789,73.9377371,19z/data=!4m5!3m4!1s0x3bc2c3c42874880f:0x4218ff8281f7707!8m2!3d18.501173!4d73.9376794",
     "LAT": 18.5010789,
-    "LONG": 73.9377371,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.9377371
   },
   {
     "DISTRICT": "Pune",
@@ -10579,9 +9825,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Shwas+Multispeciality+Hospital/@18.4464791,73.8379452,17z/data=!4m5!3m4!1s0x3bc2956a0df5ab95:0xa7535815181b7407!8m2!3d18.4467895!4d73.8374195",
     "LAT": 18.4464791,
-    "LONG": 73.8379452,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8379452
   },
   {
     "DISTRICT": "Pune",
@@ -10607,9 +9851,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/SILVER+BIRCH+MULTISPECIALITY+HOSPITAL+PVT.LTD./@18.4404455,73.8100107,17z/data=!4m5!3m4!1s0x3bc29559096b8c4f:0x286c7a1267194acd!8m2!3d18.440705!4d73.8095815",
     "LAT": 18.4404455,
-    "LONG": 73.8100107,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8100107
   },
   {
     "DISTRICT": "Pune",
@@ -10635,9 +9877,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Snehbandh+Multispeciality+Hospital/@18.5801776,73.8308301,17z/data=!4m5!3m4!1s0x3bc2b8ae19858b2b:0x759d42c1f7860b08!8m2!3d18.5805895!4d73.8306799",
     "LAT": 18.5801776,
-    "LONG": 73.8308301,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8308301
   },
   {
     "DISTRICT": "Pune",
@@ -10663,9 +9903,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://www.google.com/maps/place/Sonali+Memorial+Hospital/@18.6124001,73.7678959,17z/data=!4m5!3m4!1s0x3bc2b99c3232de55:0x1caab7acfb2dd367!8m2!3d18.6125577!4d73.767971",
     "LAT": 18.6124001,
-    "LONG": 73.7678959,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7678959
   },
   {
     "DISTRICT": "Pune",
@@ -10691,9 +9929,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Sonawane+Maternity+Hospital/@18.5056112,73.8687809,21z/data=!4m5!3m4!1s0x3bc2c03f05f1a84f:0x7bb291bf8857f6b3!8m2!3d18.5056579!4d73.868797?hl=en",
     "LAT": 18.5056112,
-    "LONG": 73.8687809,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8687809
   },
   {
     "DISTRICT": "Pune",
@@ -10719,9 +9955,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/sr+no+39,+Teachers+Colony,+Sasane+Colony,+Keshav+Nagar,+Mundhwa,+Pune,+Maharashtra+411036/@18.531542,73.9370492,17z/data=!3m1!4b1!4m9!1m2!2m1!1sSr.NO.39,+Ward+no,2,+house+no+159%2F2,+shikshak+soc,+Keshavnagar,+Mundhwa+Pune+36!3m5!1s0x3bc2c3a64e265613:0x534e377a6909a155!8m2!3d18.531542!4d73.9392379!15sCk9Tci5OTy4zOSwgV2FyZCBubywyLCBob3VzZSBubyAxNTkvMiwgc2hpa3NoYWsgc29jLCBLZXNoYXZuYWdhciwgTXVuZGh3YSBQdW5lIDM2kgEQZ2VvY29kZWRfYWRkcmVzcw",
     "LAT": 18.531542,
-    "LONG": 73.9370492,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9370492
   },
   {
     "DISTRICT": "Pune",
@@ -10747,9 +9981,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/STAR+Speciality+Hospital/@18.672273,73.8316209,17z/data=!4m5!3m4!1s0x3bc2b7cc9888e0a3:0x778e21c5c2f0d16c!8m2!3d18.6724814!4d73.8313956",
     "LAT": 18.672273,
-    "LONG": 73.8316209,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8316209
   },
   {
     "DISTRICT": "Pune",
@@ -10775,9 +10007,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Sunny+Hospital/@18.5100321,73.8134232,17z/data=!4m12!1m6!3m5!1s0x3bc2bfbd4bffffff:0xcc5cba610445cb70!2sSuny+Nursing+Home!8m2!3d18.5098134!4d73.8149038!3m4!1s0x0:0x7bd5fa692c926e75!8m2!3d18.5105243!4d73.8135324",
     "LAT": 18.5100321,
-    "LONG": 73.8134232,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8134232
   },
   {
     "DISTRICT": "Pune",
@@ -10803,9 +10033,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/SWIM+HOSPITAL/@18.6704997,73.7349817,17z/data=!4m5!3m4!1s0x3bc2b0ba8e3d058b:0x8932301fedeff8b0!8m2!3d18.6711248!4d73.7349602",
     "LAT": 18.6704997,
-    "LONG": 73.7349817,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7349817
   },
   {
     "DISTRICT": "Pune",
@@ -10831,9 +10059,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Tarachand+Complex,+Uttam+Nagar,+NDA+Rd,+Indira+Colony,+Shivane,+Pune,+Maharashtra+411023/@18.4597856,73.7722839",
     "LAT": 18.4597856,
-    "LONG": 73.7722839,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7722839
   },
   {
     "DISTRICT": "Pune",
@@ -10859,9 +10085,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Triveni+Hospital/@18.6331324,73.7671373,17z/data=!4m5!3m4!1s0x3bc2b9930b47ee09:0x6cc77e8193eaa100!8m2!3d18.6335035!4d73.7671373",
     "LAT": 18.6331324,
-    "LONG": 73.7671373,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7671373
   },
   {
     "DISTRICT": "Pune",
@@ -10887,9 +10111,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/TULJABHAVANI+HOSPITAL/@19.2079389,73.8728411,14z/data=!4m5!3m4!1s0x0:0x1aa6e3f25da3fae6!8m2!3d19.2079389!4d73.8728411",
     "LAT": 19.2079389,
-    "LONG": 73.8728411,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8728411
   },
   {
     "DISTRICT": "Pune",
@@ -10915,9 +10137,7 @@ pune_data=[
     "PINCODE": 411028,
     "LOCATION": "https://www.google.com/maps/place/Vaibhavi+Hospital+Medical+%26+General+Stores/@18.4991348,73.9469476,17z/data=!4m5!3m4!1s0x3bc2c20599df585f:0x1e1acdce07f8baa0!8m2!3d18.4994553!4d73.946894",
     "LAT": 18.4991348,
-    "LONG": 73.9469476,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9469476
   },
   {
     "DISTRICT": "Pune",
@@ -10943,9 +10163,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Varad+Hospital+%26+Critical+Care/@18.6632879,73.7356527,17z/data=!4m5!3m4!1s0x3bc2b1786f3a8acd:0x77707763e7fa3ea7!8m2!3d18.6635573!4d73.7353952",
     "LAT": 18.6632879,
-    "LONG": 73.7356527,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7356527
   },
   {
     "DISTRICT": "Pune",
@@ -10971,9 +10189,7 @@ pune_data=[
     "PINCODE": 411033,
     "LOCATION": "https://www.google.com/maps/place/Vatsalya+Hospital/@18.6117737,73.7660814,18z/data=!4m5!3m4!1s0x3bc2b996bc5c60e5:0x7a4283e100850d76!8m2!3d18.6120014!4d73.7658944",
     "LAT": 18.6117737,
-    "LONG": 73.7660814,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.7660814
   },
   {
     "DISTRICT": "Pune",
@@ -10999,9 +10215,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Vighnaharta+Hospital/@18.4847043,73.9556392,17z/data=!4m5!3m4!1s0x3bc2e9e6ea3c44e9:0x1c6f848fa86ae7b6!8m2!3d18.4850147!4d73.9553924",
     "LAT": 18.4847043,
-    "LONG": 73.9556392,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.9556392
   },
   {
     "DISTRICT": "Pune",
@@ -11027,9 +10241,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Vital+Multispeciality+Hospital/@18.63309,73.8203469,17z/data=!4m5!3m4!1s0x3bc2b869b43defd5:0x474407633b7b5fce!8m2!3d18.6332781!4d73.8201216",
     "LAT": 18.63309,
-    "LONG": 73.8203469,
-    "HAS_ICU_BEDS": "TRUE",
-    "HAS_VENTILATORS": "TRUE"
+    "LONG": 73.8203469
   },
   {
     "DISTRICT": "Pune",
@@ -11055,9 +10267,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Wadekar+ENT+and+Maternity+Hospital+%7C+gynaecologist+%7C+ENT+Doctor+%7C+Sinhagad+Road/@18.472896,73.8195494,17z/data=!4m5!3m4!1s0x3bc2955d93c15629:0xa164d6f6bc27bda5!8m2!3d18.4731453!4d73.8193456",
     "LAT": 18.472896,
-    "LONG": 73.8195494,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.8195494
   },
   {
     "DISTRICT": "Pune",
@@ -11083,9 +10293,7 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/place/Yashorahi+hospital/@18.4571976,73.7706852,17z/data=!4m5!3m4!1s0x3bc295634cb9acd3:0x2a47da194cb7c273!8m2!3d18.457793!4d73.7706208",
     "LAT": 18.4571976,
-    "LONG": 73.7706852,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.7706852
   },
   {
     "DISTRICT": "Pune",
@@ -11111,8 +10319,6 @@ pune_data=[
     "PINCODE": "",
     "LOCATION": "https://www.google.com/maps/search/Sr.NO.174%2F2%2F28%2F+Opp+Bank+Of+Maharashtra,+Pune+Saswad+rd,+Hadapsar,+Pune/@18.4890623,73.948618,17z/data=!3m1!4b1",
     "LAT": 18.4890623,
-    "LONG": 73.948618,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "LONG": 73.948618
   }
 ]
