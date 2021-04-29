@@ -21,11 +21,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 2,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "2. ADILABAD NEURO SUPER SPECIALITY HOSPITAL",
     "CONTACT": 9505262365,
@@ -46,11 +45,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17263480969794618231",
     "LAT": 19.6692572,
     "LONG": 78.532199,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 3,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "3. ADITHYA GENERAL HOSPITAL",
     "CONTACT": 9908719345,
@@ -71,11 +69,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Netaji+Chowk,+Adilabad(U),+Telangana+504001/@19.671295,78.532803,16z/data=!4m5!3m4!1s0x3bd25c7742e93e89:0x83cc1cd7cde23a2b!8m2!3d19.6712949!4d78.5328034?hl=en",
     "LAT": 19.67154757,
     "LONG": 78.53276008,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 4,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "4. AGARWAL HOSPITAL",
     "CONTACT": 9505579000,
@@ -96,11 +93,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10470151823277922761",
     "LAT": 19.6722856,
     "LONG": 78.5330174,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 5,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "5. AKHIL ORTHOPEDIC HOSPITAL",
     "CONTACT": 9440612031,
@@ -121,11 +117,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15395463364654795456",
     "LAT": 19.6685174,
     "LONG": 78.5295368,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 6,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "6. AMMA HOSPITAL",
     "CONTACT": 9908943787,
@@ -146,11 +141,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2182110731643302060",
     "LAT": 19.6622689,
     "LONG": 78.5272371,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 7,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "7. AYYAPPA ORTHOPEDIC AND CHILDRENDS HOSPITAL HOSPITAL",
     "CONTACT": 9440441394,
@@ -171,11 +165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12948623611542219779",
     "LAT": 19.6700945,
     "LONG": 78.5326072,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 8,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "8. BALAJI HOSPITAL",
     "CONTACT": 9177981213,
@@ -196,11 +189,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14155852296761504794",
     "LAT": 19.6687,
     "LONG": 78.5285,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 9,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "9. CHROME HOSPITAL, ADILABAD",
     "CONTACT": 7382492683,
@@ -221,11 +213,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13303226212519064416",
     "LAT": 19.6764455,
     "LONG": 78.5304754,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 10,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "10. DR.SUNDARAIAH HOSPITAL NEW HOPE LAPROSCOY CENTRE",
     "CONTACT": 8686055077,
@@ -246,11 +237,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12008069794386769820",
     "LAT": 19.652139,
     "LONG": 78.5233806,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 11,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "11. ELIGHT HOSPITAL",
     "CONTACT": 9866110729,
@@ -271,11 +261,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 12,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "12. HOLLY TRINITY HOSPITAL",
     "CONTACT": 9603122757,
@@ -296,11 +285,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 13,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "13. HYDERABAD EYE CENTRE, UNIT SESHANNA CHENNAWAR EYE CENTRE",
     "CONTACT": 7093824299,
@@ -321,11 +309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17342587923075972111",
     "LAT": 19.6432324,
     "LONG": 78.5122618,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 14,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "14. JANANI MATERNITY HOSPITAL AND DIAGNOSTICS",
     "CONTACT": 8341110011,
@@ -346,11 +333,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 15,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "15. JEEVAN JYOTHI HOSPITAL",
     "CONTACT": 9490226020,
@@ -371,11 +357,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@19.6701364,78.528126,15z/data=!4m2!3m1!1s0x0:0xc0e7a90700a03de3?sa=X&ved=2ahUKEwjT8qfOnKHwAhVSg-YKHeUQCFcQ_BIwZHoECFwQBQ",
     "LAT": 19.67128812,
     "LONG": 78.52838349,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 16,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "16. KARTHIKEYA HOSPITAL",
     "CONTACT": 9701502901,
@@ -396,11 +381,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15976149618148889619",
     "LAT": 19.6692811,
     "LONG": 78.5319455,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 17,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "17. MADHAVA HOSPITAL",
     "CONTACT": 9440035441,
@@ -421,11 +405,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Madhava+Hospital/@19.6704385,78.5309105,15z/data=!4m2!3m1!1s0x0:0x77d16d6faa3d094e?sa=X&ved=2ahUKEwjbsoD3q5bwAhXPyzgGHTLnDZEQ_BIwbXoECHAQBQ",
     "LAT": 19.67122651,
     "LONG": 78.53082467,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 18,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "18. MAMATHA HOSPITAL",
     "CONTACT": 9440422418,
@@ -446,11 +429,10 @@ telangana_data=[
     "LOCATION": "https://maps.mapmyindia.com/place-mamatha+clinic-brahmanwadi-adilabad-telangana-504001-VO1KEO@zdata=MTkuNjcwMjkrNzguNTM2MjgrMTcrVk8xS0VPKytucg==ed",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 19,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "19. NAKSHATRA HOSPITAL",
     "CONTACT": 8884170980,
@@ -471,11 +453,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10474471402806414671",
     "LAT": 19.6734063,
     "LONG": 78.5317014,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 20,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "20. PRAGATHI HOSPITAL",
     "CONTACT": 9908943787,
@@ -496,11 +477,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 21,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "21. RAJ HOSPITAL",
     "CONTACT": 9951984577,
@@ -521,11 +501,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 22,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "22. SACHI NURSING HOME AND DIAGNOSTIC CENTRE, ECG AND X- RAY CENTRE",
     "CONTACT": 9441865322,
@@ -546,11 +525,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Saachi+Hospital/@19.6754042,78.5320732,15z/data=!4m2!3m1!1s0x0:0x8e4f8375bfb18243?sa=X&ved=2ahUKEwjrlfD1s5bwAhVTyDgGHZUJCyMQ_BIwTnoECFAQAw",
     "LAT": 19.67615178,
     "LONG": 78.53198737,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 23,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "23. SANSA GASTRO, LIVER, SKIN HOSPITAL",
     "CONTACT": 7893908061,
@@ -571,11 +549,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 24,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "24. SEVA HOSPITAL AND KIDNEY CENTER AND DIAGNOSTIC CENTER AND X- RAY",
     "CONTACT": 9493600533,
@@ -596,11 +573,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 25,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "25. SHARADA NURSING HOME",
     "CONTACT": 9177385157,
@@ -621,11 +597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4208972679879973585",
     "LAT": 19.6692852,
     "LONG": 78.5291647,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 26,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "26. SHIVAPRIYA NURSING HOME",
     "CONTACT": 9666581399,
@@ -646,11 +621,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11148715998829426612",
     "LAT": 19.6783381,
     "LONG": 78.5357117,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 27,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "27. SHREE BALAJI HOSPITAL",
     "CONTACT": 8008040081,
@@ -671,11 +645,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+balaji+hospital/@19.6687,78.5263113,17z/data=!4m12!1m6!3m5!1s0x0:0xc473b0a9b95df41a!2sBalaji+Hospital!8m2!3d19.6687!4d78.5285!3m4!1s0x0:0xbc9fa87ee04487e4!8m2!3d19.6698758!4d78.529434",
     "LAT": 19.67016993,
     "LONG": 78.52940126,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 28,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "28. SHREE CRITICAL CARE HOSPITAL",
     "CONTACT": 9491841390,
@@ -696,11 +669,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10639923218578845869",
     "LAT": 19.664062,
     "LONG": 78.532011,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 29,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "29. SHRI GAJANAN HOSPITAL AND INTENSIVE CARE UNIT",
     "CONTACT": 9505023964,
@@ -721,11 +693,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5767863980768805021",
     "LAT": 19.6780233,
     "LONG": 78.5357163,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 30,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "30. SHRI GAJANAN MATERNITY AND NURSING HOME",
     "CONTACT": 8328154350,
@@ -746,11 +717,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5767863980768805021",
     "LAT": 19.6780233,
     "LONG": 78.5357163,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 31,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "31. SNEHA NURSING HOME",
     "CONTACT": 9866334840,
@@ -771,11 +741,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12388769705801418673",
     "LAT": 19.6712893,
     "LONG": 78.5306235,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 32,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "32. SRAVYA NURSING HOME,",
     "CONTACT": 9959911299,
@@ -796,11 +765,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5560850190552585538",
     "LAT": 19.6706923,
     "LONG": 78.5276281,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 33,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "33. SRINIVASA METERNITY AND SURGICAL NARSING HOME.",
     "CONTACT": 9949027591,
@@ -821,11 +789,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5554440888500800728",
     "LAT": 19.6698023,
     "LONG": 78.5325335,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 34,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "34. SRI RAMA NURSING HOME",
     "CONTACT": 9951065152,
@@ -846,11 +813,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=96561074917913265",
     "LAT": 19.6722971,
     "LONG": 78.5322824,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 35,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "35. SRI SRI RAGHAVENDRA NURSING HOME",
     "CONTACT": 9908900550,
@@ -871,11 +837,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1401478424356360006",
     "LAT": 19.674378,
     "LONG": 78.529676,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 36,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "36. SRI VENKATESHWARA CHILDREN’S CLINIC AND DIAGNOSTIC CENTER.",
     "CONTACT": 9849543364,
@@ -896,11 +861,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Venkateshwara+Children's+Hospital/@19.6666304,78.5300684,15z/data=!4m2!3m1!1s0x0:0x6d66f9428e5d8766?sa=X&ved=2ahUKEwjUiY6stpbwAhVkwTgGHQqkC7YQ_BIwYnoECFkQAw",
     "LAT": 19.66770132,
     "LONG": 78.53002548,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 37,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "37. SUJATHA MATERNITY AND SURGICAL NURSING HOME",
     "CONTACT": 8187037035,
@@ -921,11 +885,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/SHAMA+URDU+HIGH+SCHOOL/@19.6741934,78.5298593,19.51z/data=!4m5!3m4!1s0x3bd25c7867fda527:0xc6eba8da3c3e13e7!8m2!3d19.6741782!4d78.5298669",
     "LAT": 19.67421557,
     "LONG": 78.52987255,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 38,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "38. TIRUMALA HOSPITAL",
     "CONTACT": 8341110011,
@@ -946,11 +909,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4978759313593204757",
     "LAT": 19.6695056,
     "LONG": 78.5289538,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 39,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "39. TULASI HOSPITAL",
     "CONTACT": 9393272277,
@@ -971,11 +933,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Tulasi+Hospital/@19.4369259,78.4523053,14z/data=!4m5!3m4!1s0x0:0x6cd4d02a934aae06!8m2!3d19.4287747!4d78.4465969",
     "LAT": 19.43113861,
     "LONG": 78.44672653,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 40,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "40. UPENDRA GENERAL HOSPITAL",
     "CONTACT": 9849878635,
@@ -996,11 +957,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 41,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "41. VAIBHAVI HOSPITAL",
     "CONTACT": 9848797507,
@@ -1021,11 +981,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8415376562600776633",
     "LAT": 19.6681742,
     "LONG": 78.5282386,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 42,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "42. VENKATESHWARA CHILDREN’S CLINIC",
     "CONTACT": 9849072897,
@@ -1046,11 +1005,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Venkateshwara+Children's+Hospital/@19.6666304,78.5300684,15z/data=!4m2!3m1!1s0x0:0x6d66f9428e5d8766?sa=X&ved=2ahUKEwiBuuvDipfwAhW_zDgGHakGCPwQ_BIwXnoECGUQAw",
     "LAT": 19.66753967,
     "LONG": 78.53002548,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 43,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "43. VIGNESHWARA ORTHOPEDIC AND MATERNITY HOSPITAL",
     "CONTACT": 9849287515,
@@ -1071,11 +1029,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5453408285431161658",
     "LAT": 19.6703044,
     "LONG": 78.5358417,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 44,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "44. VIJAYA NURSING HOME",
     "CONTACT": 9908719345,
@@ -1096,11 +1053,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10302368333391976965",
     "LAT": 19.6694077,
     "LONG": 78.5319324,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 45,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "45. AMRUTHA MULTI SPECIALITY AND CRITICAL CARE HOSPITAL",
     "CONTACT": 9848316248,
@@ -1121,11 +1077,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16382497853233933587",
     "LAT": 17.55579,
     "LONG": 80.61502,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 46,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "46. ANU MULTI SUPER SPECIALITY HOSPITAL PALVANCAH",
     "CONTACT": "--",
@@ -1146,11 +1101,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5357306265946220527",
     "LAT": 17.9407446,
     "LONG": 80.8162136,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 47,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "47. AROGGYA HOSPITAL, BHADRACHALAM",
     "CONTACT": 9966833399,
@@ -1171,11 +1125,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10635392570095827136",
     "LAT": 17.666585,
     "LONG": 80.8918374,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 48,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "48. NIKHITHA HOSPITAL - BHADRADRI KOTHAGUDEM",
     "CONTACT": 9100337798,
@@ -1186,21 +1139,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 4,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 6,
-    "ICU_BEDS_OCCUPIED": 3,
-    "ICU_BEDS_VACANT": 3,
+    "ICU_BEDS_OCCUPIED": 4,
+    "ICU_BEDS_VACANT": 2,
     "TOTAL": 10,
-    "OCCUPIED": 7,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "8:30:56 AM",
+    "OCCUPIED": 8,
+    "VACANT": 2,
+    "DATE": "29/04/2021",
+    "TIME": "7:32:00 AM",
     "LOCATION": "https://maps.google.com/?cid=10612786895219317322",
     "LAT": 17.5390706,
     "LONG": 80.6164175,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 49,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "49. PRABHA SHANKAR HOSPITAL, BHADRACHALAM",
     "CONTACT": 9746498328,
@@ -1221,11 +1173,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10878282771102923457",
     "LAT": 17.6715457,
     "LONG": 80.8942511,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 50,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "50. PRAVEEN EMERGENCY AND MULTI SPECILITY HOSPITAL, MEDARBASTHI KOTHAGUDEM",
     "CONTACT": "--",
@@ -1246,11 +1197,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Praveen+Emergency%26Multispeciality+hospital/@17.5558733,80.6154489,15z/data=!4m2!3m1!1s0x0:0x903ecf4f67e09b8a?sa=X&ved=2ahUKEwihg9Tm3JjwAhV44jgGHVHZDWYQ_BIwEnoECD8QBQ",
     "LAT": 17.55679392,
     "LONG": 80.61527724,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 51,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "51. SANKALPA MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9989266574,
@@ -1271,11 +1221,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sankalpa+Multi+Speciality+Hospital/@17.555089,80.6181512,15z/data=!4m9!1m2!2m1!1sSANKALPA+MULTI+SPECIALITY+HOSPITAL!3m5!1s0x0:0x5ba3924161779f51!8m2!3d17.5559899!4d80.6173804!15sCiJTQU5LQUxQQSBNVUxUSSBTUEVDSUFMSVRZIEhPU1BJVEFMWkgKInNhbmthbHBhIG11bHRpIHNwZWNpYWxpdHkgaG9zcGl0YWwiInNhbmthbHBhIG11bHRpIHNwZWNpYWxpdHkgaG9zcGl0YWySAQhob3NwaXRhbA",
     "LAT": 17.555089,
     "LONG": 80.6181512,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 52,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "52. SRI BALAJI CHEST AND DIABETES",
     "CONTACT": "--",
@@ -1296,11 +1245,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Balaji+Diabetise+And+Chest+Hospital,+Vaccination+centre/@17.2515859,80.1411974,17z/data=!3m1!4b1!4m5!3m4!1s0x3a3459ccd7cb239f:0xf58b160efbf92450!8m2!3d17.2515859!4d80.1433861",
     "LAT": 17.2515859,
     "LONG": 80.1411974,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 53,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "53. SRI LALITA PADMAVATI NURSING HOME",
     "CONTACT": 9848222512,
@@ -1321,11 +1269,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16248095529602813441",
     "LAT": 17.5566829,
     "LONG": 80.617552,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 54,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "54. AAYUSH MULTISPECIALITY HOSPITAL - DILSUKNAGAR",
     "CONTACT": 9391653419,
@@ -1346,11 +1293,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2709157696353730988",
     "LAT": 17.3680111,
     "LONG": 78.5206587,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 55,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "55. ADITHYA HOSPITAL - BOGGULAKUNTA",
     "CONTACT": 9985175197,
@@ -1371,11 +1317,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2372476301105635248",
     "LAT": 17.390546,
     "LONG": 78.481084,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 56,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "56. AL-ARIF GENERAL HOSPITAL",
     "CONTACT": 9550297717,
@@ -1396,11 +1341,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4529215866558918801",
     "LAT": 17.3115057,
     "LONG": 78.4670022,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 57,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "57. ALPHA SUPER SPECIALITY HOSPITAL,",
     "CONTACT": 9666995296,
@@ -1416,16 +1360,15 @@ telangana_data=[
     "TOTAL": 20,
     "OCCUPIED": 0,
     "VACANT": 20,
-    "DATE": "28/04/2021",
-    "TIME": "6:59:10 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:15:00 AM",
     "LOCATION": "https://maps.google.com/?cid=13953147598605373030",
     "LAT": 17.3586594,
     "LONG": 78.4780741,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 58,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "58. ANKURA HOSPITAL - BANJARA HILLS",
     "CONTACT": 9100900279,
@@ -1441,22 +1384,21 @@ telangana_data=[
     "TOTAL": 50,
     "OCCUPIED": 50,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "3:53:25 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:16:40 AM",
     "LOCATION": "https://www.google.com/maps/place/Ankura+Hospital+for+Women+%26+Children/@17.4115979,78.4324306,15z/data=!4m2!3m1!1s0x0:0xd896599e3b1057e4?sa=X&ved=2ahUKEwj_8rHWipfwAhXtzjgGHeoWCjAQ_BIwWXoECGYQBQ",
     "LAT": 17.41256019,
     "LONG": 78.43449055,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 59,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "59. ANURAG REHABILITATION CENTRE - NAMPALLY",
     "CONTACT": 9247342832,
     "REGULAR_BEDS_TOTAL": 18,
-    "REGULAR_BEDS_OCCUPIED": 4,
-    "REGULAR_BEDS_VACANT": 14,
+    "REGULAR_BEDS_OCCUPIED": 7,
+    "REGULAR_BEDS_VACANT": 11,
     "OXYGEN_BEDS_TOTAL": 0,
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 0,
@@ -1464,18 +1406,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 18,
-    "OCCUPIED": 4,
-    "VACANT": 14,
-    "DATE": "28/04/2021",
-    "TIME": "4:37:41 PM",
+    "OCCUPIED": 7,
+    "VACANT": 11,
+    "DATE": "29/04/2021",
+    "TIME": "7:49:44 AM",
     "LOCATION": "https://maps.google.com/?cid=17611021808027818028",
     "LAT": 17.411017,
     "LONG": 78.483228,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 60,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "60. APOLLO HOSPITAL - HYDERGUDA",
     "CONTACT": 9849744721,
@@ -1496,11 +1437,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6454638222859279834",
     "LAT": 17.3994238,
     "LONG": 78.4792712,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 61,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "61. APOLLO HOSPITALS ENTERPRISE LTD DRDO",
     "CONTACT": 9391031601,
@@ -1516,16 +1456,15 @@ telangana_data=[
     "TOTAL": 25,
     "OCCUPIED": 25,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "5:04:30 PM",
+    "DATE": "29/04/2021",
+    "TIME": "5:21:35 AM",
     "LOCATION": "https://maps.google.com/?cid=3529017695008084531",
     "LAT": 17.3425814,
     "LONG": 78.5070019,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 62,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "62. APOLLO HOSPITALS ENTERPRISES LTD JUBILEE HILLS",
     "CONTACT": 9849637920,
@@ -1546,11 +1485,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17351519238616480755",
     "LAT": 17.4317206,
     "LONG": 78.4095337,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 63,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "63. APOLLO HOSPITALS - SECUNDERABAD",
     "CONTACT": 9390094515,
@@ -1571,11 +1509,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16500049699991943643",
     "LAT": 17.4396123,
     "LONG": 78.5047331,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 64,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "64. APOLLO INST. OF MEDICAL SCIENCES & RESEARCH, APOLLO HOSPITAL CAMPUS, HYDERABAD",
     "CONTACT": 9246240001,
@@ -1596,11 +1533,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Apollo+Institute+of+Medical+Sciences+and+Research/@17.4149044,78.4125593,17z/data=!4m5!3m4!1s0x3bcb96cedf4c3327:0x41edbf89d86ce2c8!8m2!3d17.4150426!4d78.412216",
     "LAT": 17.4149044,
     "LONG": 78.4125593,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 65,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "65. ASTER PRIME HOSPITAL",
     "CONTACT": 9177700125,
@@ -1616,16 +1552,15 @@ telangana_data=[
     "TOTAL": 80,
     "OCCUPIED": 80,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "10:29:42 AM",
+    "DATE": "29/04/2021",
+    "TIME": "6:49:44 AM",
     "LOCATION": "https://maps.google.com/?cid=14764370779769925528",
     "LAT": 17.4376215,
     "LONG": 78.4459567,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 66,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "66. ASVINS HOSPITAL - SOMAJIGUDA",
     "CONTACT": 9849984735,
@@ -1641,16 +1576,15 @@ telangana_data=[
     "TOTAL": 40,
     "OCCUPIED": 33,
     "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "9:08:29 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:09:36 AM",
     "LOCATION": "https://maps.google.com/?cid=13751180293582180409",
     "LAT": 17.4248358,
     "LONG": 78.4564081,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 67,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "67. BASAVATARAKAM INDO AMERICAN CANCER HOSPITAL AND RESEARCH INSTITUTE, HYDERABAD",
     "CONTACT": 9848011421,
@@ -1671,11 +1605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1344655617288420388",
     "LAT": 17.4171079,
     "LONG": 78.4305233,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 68,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "68. BLISS HOSPITAL",
     "CONTACT": 9399952715,
@@ -1696,11 +1629,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11032566727703820584",
     "LAT": 17.3913849,
     "LONG": 78.4421374,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 69,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "69. CARE HOSPITALS BANJARAHILLS",
     "CONTACT": 9956069034,
@@ -1716,16 +1648,15 @@ telangana_data=[
     "TOTAL": 142,
     "OCCUPIED": 142,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "7:54:32 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:12:26 AM",
     "LOCATION": "https://maps.google.com/?cid=383780839283713591",
     "LAT": 17.4125702,
     "LONG": 78.4502685,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 70,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "70. CARE HOSPITALS MUSHIRABAD",
     "CONTACT": 9466574429,
@@ -1741,16 +1672,15 @@ telangana_data=[
     "TOTAL": 29,
     "OCCUPIED": 28,
     "VACANT": 1,
-    "DATE": "28/04/2021",
-    "TIME": "6:00:15 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:19:14 AM",
     "LOCATION": "https://maps.google.com/?cid=14631291181928404850",
     "LAT": 17.415442,
     "LONG": 78.497965,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 71,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "71. CARE HOSPITALS- NAMPALLY",
     "CONTACT": 7331126430,
@@ -1766,16 +1696,15 @@ telangana_data=[
     "TOTAL": 53,
     "OCCUPIED": 53,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "9:23:02 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:55:30 AM",
     "LOCATION": "https://maps.google.com/?cid=16566898567598116385",
     "LAT": 17.3857416,
     "LONG": 78.4741384,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 72,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "72. CENTURY HOSPITAL - BANJARA HILLS",
     "CONTACT": 9989143340,
@@ -1792,21 +1721,20 @@ telangana_data=[
     "OCCUPIED": 75,
     "VACANT": 0,
     "DATE": "28/04/2021",
-    "TIME": "8:02:31 PM",
+    "TIME": "11:00:56 PM",
     "LOCATION": "https://maps.google.com/?cid=7280409248591334256",
     "LAT": 17.4072387,
     "LONG": 78.4449793,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 73,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "73. CITI NEURO CENTRE (A UNIT OF HYDERABAD INSTITUTE OF NEURO SCIENCES PVT LTD)",
     "CONTACT": 9160019361,
     "REGULAR_BEDS_TOTAL": 30,
-    "REGULAR_BEDS_OCCUPIED": 28,
-    "REGULAR_BEDS_VACANT": 2,
+    "REGULAR_BEDS_OCCUPIED": 29,
+    "REGULAR_BEDS_VACANT": 1,
     "OXYGEN_BEDS_TOTAL": 30,
     "OXYGEN_BEDS_OCCUPIED": 30,
     "OXYGEN_BEDS_VACANT": 0,
@@ -1814,24 +1742,23 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 13,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 73,
-    "OCCUPIED": 71,
-    "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "3:33:18 PM",
+    "OCCUPIED": 72,
+    "VACANT": 1,
+    "DATE": "29/04/2021",
+    "TIME": "7:06:21 AM",
     "LOCATION": "https://maps.google.com/?cid=8483304890678053373",
     "LAT": 17.4136616,
     "LONG": 78.4244204,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 74,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "74. CURE REHAB, PHYSIOTHERAPY POST HOSPITALIZATION REHABLITATION",
     "CONTACT": 8042784140,
     "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 7,
-    "REGULAR_BEDS_VACANT": 3,
+    "REGULAR_BEDS_OCCUPIED": 8,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 8,
     "OXYGEN_BEDS_OCCUPIED": 8,
     "OXYGEN_BEDS_VACANT": 0,
@@ -1839,18 +1766,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 2,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 20,
-    "OCCUPIED": 17,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "5:15:14 PM",
+    "OCCUPIED": 18,
+    "VACANT": 2,
+    "DATE": "29/04/2021",
+    "TIME": "6:20:55 AM",
     "LOCATION": "https://maps.google.com/?cid=9583834558803335584",
     "LAT": 17.4371439,
     "LONG": 78.455224,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 75,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "75. Dharani Multi Speciality Hospital-Mehdipanam",
     "CONTACT": 9100134141,
@@ -1871,11 +1797,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Dharani+Hospital/@17.388859,\n,15z/data=!4m9!1m2!2m1!1s74.+Dharani+Multi+Speciality+Hospital-Mehdipanam!3m5!1s0x3bcb9706974fe215:0xdc4dd11433c33eaa!8m2!3d17.3837978!4d78.4368159!15sCjA3NC4gRGhhcmFuaSBNdWx0aXNwZWNpYWxpdHkgSG9zcGl0YWwtTWVoZGlwYXRuYW1aVgojNzQgZGhhcmFuaSBtdWx0aXNwZWNpYWxpdHkgaG9zcGl0YWwiLzc0IGRoYXJhbmkgbXVsdGlzcGVjaWFsaXR5IGhvc3BpdGFsIG1laGRpcGF0bmFtkgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTnBMVTVYTlRaM1JSQUI",
     "LAT": 17.388859,
     "LONG": 78.431204,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 76,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "76. DR.NOSHINAS  NOBLE HOSPITAL",
     "CONTACT": 8008123708,
@@ -1891,41 +1816,39 @@ telangana_data=[
     "TOTAL": 25,
     "OCCUPIED": 19,
     "VACANT": 6,
-    "DATE": "28/04/2021",
-    "TIME": "8:09:54 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:21:07 AM",
     "LOCATION": "https://maps.google.com/?cid=10075141833464597690",
     "LAT": 17.3894882,
     "LONG": 78.4539083,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 77,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "77. DURGABAI DESHMUKH HOSPITAL - VIDYA NAGAR",
     "CONTACT": "--",
-    "REGULAR_BEDS_TOTAL": 8,
-    "REGULAR_BEDS_OCCUPIED": 8,
+    "REGULAR_BEDS_TOTAL": 6,
+    "REGULAR_BEDS_OCCUPIED": 6,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 0,
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 18,
-    "ICU_BEDS_OCCUPIED": 18,
+    "ICU_BEDS_TOTAL": 20,
+    "ICU_BEDS_OCCUPIED": 20,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 26,
     "OCCUPIED": 26,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "6:17:02 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:17:40 AM",
     "LOCATION": "https://www.google.com/maps/place/Durgabai+Deshmukh+Hospital+%26+Research+Centre/@17.4024079,78.510348,15z/data=!4m12!1m6!3m5!1s0x0:0x691a7d491f3cc5!2sAndhra+Mahila+Sabha+Durgabai+Deshmukh+Hospital!8m2!3d17.4024079!4d78.510348!3m4!1s0x0:0x5feb49e12ac70aa9!8m2!3d17.4090391!4d78.5162103",
     "LAT": 17.40938991,
     "LONG": 78.51923189,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 78,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "78. GLOBAL GLENEAGLES HOSPITAL - HYDERABAD",
     "CONTACT": 9849690680,
@@ -1946,11 +1869,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5579843191336061180",
     "LAT": 17.4053533,
     "LONG": 78.463263,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 79,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "79. GSN Hospital-Sr Nagar,Hyderabad",
     "CONTACT": 9849055293,
@@ -1971,11 +1893,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/GSN+Hosptal/@17.4418499,78.4430373,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb91644dd48fff:0xb4a13b43e6e71669!8m2!3d17.4418499!4d78.445226",
     "LAT": 17.4418499,
     "LONG": 78.4430373,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 80,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "80. HYDERABAD MULTI SPECIALITY HOSPITAL (UNIT OF VVR HOSPITALS PVT. LTD.),",
     "CONTACT": 9391012791,
@@ -1996,11 +1917,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4083445059439510046",
     "LAT": 17.3715777,
     "LONG": 78.5004419,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 81,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "81. IMAGE HOSPITALS - AMEERPET",
     "CONTACT": 9000007644,
@@ -2011,46 +1931,44 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 5,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 10,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_OCCUPIED": 7,
+    "ICU_BEDS_VACANT": 3,
     "TOTAL": 25,
-    "OCCUPIED": 25,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:30:44 PM",
+    "OCCUPIED": 22,
+    "VACANT": 3,
+    "DATE": "29/04/2021",
+    "TIME": "7:44:05 AM",
     "LOCATION": "https://maps.google.com/?cid=12621668498571284342",
     "LAT": 17.4314475,
     "LONG": 78.446675,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 82,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "82. INDO - US SUPERSPECIALITY HOSPITAL - AMEERPET",
     "CONTACT": 9848050066,
     "REGULAR_BEDS_TOTAL": 25,
-    "REGULAR_BEDS_OCCUPIED": 16,
-    "REGULAR_BEDS_VACANT": 9,
+    "REGULAR_BEDS_OCCUPIED": 20,
+    "REGULAR_BEDS_VACANT": 5,
     "OXYGEN_BEDS_TOTAL": 18,
-    "OXYGEN_BEDS_OCCUPIED": 15,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_OCCUPIED": 17,
+    "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 27,
     "ICU_BEDS_OCCUPIED": 20,
     "ICU_BEDS_VACANT": 7,
     "TOTAL": 70,
-    "OCCUPIED": 51,
-    "VACANT": 19,
-    "DATE": "28/04/2021",
-    "TIME": "9:00:32 AM",
+    "OCCUPIED": 57,
+    "VACANT": 13,
+    "DATE": "29/04/2021",
+    "TIME": "8:01:03 AM",
     "LOCATION": "https://maps.google.com/?cid=8945385323586282014",
     "LAT": 17.4397341,
     "LONG": 78.452817,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 83,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "83. INNOVA HOSPITAL - TARNAKA",
     "CONTACT": 9989692392,
@@ -2071,11 +1989,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14452599105291313403",
     "LAT": 17.429356,
     "LONG": 78.533463,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 84,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "84. INTEGRO HOSPITAL",
     "CONTACT": 8008866323,
@@ -2096,11 +2013,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1967878557003928072",
     "LAT": 17.395643,
     "LONG": 78.4302504,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 85,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "85. KASTURI MULTI SPECIALITY HOSPITAL (UNIT OF KASTURI MULTI SPECIALITY MEDICARE PVT. LTD.),",
     "CONTACT": 9989691223,
@@ -2121,11 +2037,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Kasturi+Multispeciality+Medicare+Pvt+Ltd/@17.437667,78.505015,15z/data=!4m5!3m4!1s0x0:0x7dc37e8685dbf351!8m2!3d17.437667!4d78.505015",
     "LAT": 17.43834256,
     "LONG": 78.50518666,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 86,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "86. KIRLOSKAR HOSPITAL,",
     "CONTACT": "--",
@@ -2146,11 +2061,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13951526071182825723",
     "LAT": 17.4036527,
     "LONG": 78.4753781,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 87,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "87. KRISHNA INSTITUTE OF MEDICAL SCIENCES LTD, SECUNDERABAD",
     "CONTACT": 7995888432,
@@ -2166,16 +2080,15 @@ telangana_data=[
     "TOTAL": 510,
     "OCCUPIED": 510,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:07:55 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:14:16 AM",
     "LOCATION": "https://maps.google.com/?cid=9189988357583173564",
     "LAT": 17.4375708,
     "LONG": 78.4823085,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 88,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "88. LAKSHMI HOSPITAL AND RESEARCH CENTRE_LLP",
     "CONTACT": 9246541363,
@@ -2196,11 +2109,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6594838861091369178",
     "LAT": 17.400171,
     "LONG": 78.48405,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 89,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "89. LOTUS CURE MULTI SPECIALITY HOSPITAL-HYDERABAD",
     "CONTACT": 8520041688,
@@ -2221,11 +2133,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9698041055707933718",
     "LAT": 17.4709376,
     "LONG": 78.5089468,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 90,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "90. LOTUS HOSPITAL FOR WOMEN AND CHILDREN (A UNIT OF SRI VISWA MEDICARE LTD.)",
     "CONTACT": "--",
@@ -2241,16 +2152,15 @@ telangana_data=[
     "TOTAL": 82,
     "OCCUPIED": 69,
     "VACANT": 13,
-    "DATE": "28/04/2021",
-    "TIME": "8:05:00 PM",
+    "DATE": "29/04/2021",
+    "TIME": "12:02:28 AM",
     "LOCATION": "https://maps.google.com/?cid=16041041701616342683",
     "LAT": 17.4041067,
     "LONG": 78.4611235,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 91,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "91. MADHAVA NURSING HOME MULTISPECIALITY HOSPITAL - BANJARA HILLS",
     "CONTACT": 9848048914,
@@ -2271,17 +2181,16 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/@17.4410687,78.5018367,19.81z",
     "LAT": 17.44095555,
     "LONG": 78.50209172,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 92,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "92. MAHAVIR HOSPITAL - A C GAURDS",
     "CONTACT": "--",
     "REGULAR_BEDS_TOTAL": 58,
-    "REGULAR_BEDS_OCCUPIED": 32,
-    "REGULAR_BEDS_VACANT": 26,
+    "REGULAR_BEDS_OCCUPIED": 30,
+    "REGULAR_BEDS_VACANT": 28,
     "OXYGEN_BEDS_TOTAL": 30,
     "OXYGEN_BEDS_OCCUPIED": 30,
     "OXYGEN_BEDS_VACANT": 0,
@@ -2289,18 +2198,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 10,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 98,
-    "OCCUPIED": 72,
-    "VACANT": 26,
-    "DATE": "28/04/2021",
-    "TIME": "4:05:24 PM",
+    "OCCUPIED": 70,
+    "VACANT": 28,
+    "DATE": "29/04/2021",
+    "TIME": "7:53:23 AM",
     "LOCATION": "https://maps.google.com/?cid=16441249184276497800",
     "LAT": 17.4036002,
     "LONG": 78.4570332,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 93,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "93. Mallaredy institute of medical sciences-Hyderabad",
     "CONTACT": 9849891212,
@@ -2321,11 +2229,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Malla+Reddy+Institute+of+Medical+Sciences/@17.5454046,78.4314943,15z/data=!4m9!1m2!2m1!1s90.+Mallaredy+institute+of+medical+sciences-Hyderabad!3m5!1s0x3bcb8fb4a26904f1:0x6000fffb2b82fbeb!8m2!3d17.5464856!4d78.4310964!15sCjU5MC4gTWFsbGFyZWR5IGluc3RpdHV0ZSBvZiBtZWRpY2FsIHNjaWVuY2VzLUh5ZGVyYWJhZFpiCio5MCBtYWxsYXJlZHkgaW5zdGl0dXRlIG9mIG1lZGljYWwgc2NpZW5jZXMiNDkwIG1hbGxhcmVkeSBpbnN0aXR1dGUgb2YgbWVkaWNhbCBzY2llbmNlcyBoeWRlcmFiYWSSAQdjb2xsZWdlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU13YkdKMU4zRlJSUkFC?hl=en",
     "LAT": 17.5454046,
     "LONG": 78.4314943,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 94,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "94. MOHAMMEDI MEMORIAL HOSPITAL,",
     "CONTACT": 9849286151,
@@ -2341,22 +2248,21 @@ telangana_data=[
     "TOTAL": 18,
     "OCCUPIED": 7,
     "VACANT": 11,
-    "DATE": "28/04/2021",
-    "TIME": "9:46:20 PM",
+    "DATE": "29/04/2021",
+    "TIME": "4:41:29 AM",
     "LOCATION": "https://maps.google.com/?cid=722023369959388343",
     "LAT": 17.3562899,
     "LONG": 78.4535027,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 95,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "95. MYTHRI HOSPITAL,",
     "CONTACT": "--",
     "REGULAR_BEDS_TOTAL": 35,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 35,
+    "REGULAR_BEDS_OCCUPIED": 1,
+    "REGULAR_BEDS_VACANT": 34,
     "OXYGEN_BEDS_TOTAL": 15,
     "OXYGEN_BEDS_OCCUPIED": 15,
     "OXYGEN_BEDS_VACANT": 0,
@@ -2364,18 +2270,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 30,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 80,
-    "OCCUPIED": 45,
-    "VACANT": 35,
-    "DATE": "28/04/2021",
-    "TIME": "5:40:19 PM",
+    "OCCUPIED": 46,
+    "VACANT": 34,
+    "DATE": "29/04/2021",
+    "TIME": "7:32:19 AM",
     "LOCATION": "https://maps.google.com/?cid=6712207578560121669",
     "LAT": 17.3836954,
     "LONG": 78.4292071,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 96,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "96. NATIONAL INSTITUTE OF GASTROENTEROLOGY AND LIVER DISEASES (A UNIT OF TEJASWINI HEALTHCARE SERVICES PVT LTD.)",
     "CONTACT": 9849705112,
@@ -2391,41 +2296,39 @@ telangana_data=[
     "TOTAL": 37,
     "OCCUPIED": 37,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "2:52:45 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:17:59 AM",
     "LOCATION": "https://maps.google.com/?cid=17095700069996515223",
     "LAT": 17.4135686,
     "LONG": 78.4244004,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 97,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "97. Naveen Reddy hospital-Hyderabad",
     "CONTACT": "88010 71236",
-    "REGULAR_BEDS_TOTAL": 8,
-    "REGULAR_BEDS_OCCUPIED": 5,
-    "REGULAR_BEDS_VACANT": 3,
-    "OXYGEN_BEDS_TOTAL": 3,
-    "OXYGEN_BEDS_OCCUPIED": 3,
+    "REGULAR_BEDS_TOTAL": 3,
+    "REGULAR_BEDS_OCCUPIED": 3,
+    "REGULAR_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_TOTAL": 1,
+    "OXYGEN_BEDS_OCCUPIED": 1,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 9,
     "ICU_BEDS_OCCUPIED": 9,
     "ICU_BEDS_VACANT": 0,
-    "TOTAL": 20,
-    "OCCUPIED": 17,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "9:08:15 PM",
+    "TOTAL": 13,
+    "OCCUPIED": 13,
+    "VACANT": 0,
+    "DATE": "29/04/2021",
+    "TIME": "6:23:20 AM",
     "LOCATION": "https://www.google.com/maps/place/Dr+Naveen+Reddy+Hospital/@17.4535053,78.4184853,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb911a3f42b7cd:0xc75fa4c03a525686!8m2!3d17.4535053!4d78.420674",
     "LAT": 17.4535053,
     "LONG": 78.4184853,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 98,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "98. NAVJEEVAN HOSPITALS",
     "CONTACT": 9703586000,
@@ -2446,11 +2349,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17902582197576151845",
     "LAT": 17.4555468,
     "LONG": 78.4982526,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 99,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "99. NAVODAYA HOSPITAL - HYDERABAD",
     "CONTACT": 8341816161,
@@ -2471,11 +2373,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16097876597791942219",
     "LAT": 17.4417293,
     "LONG": 78.48612,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 100,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "100. NIKHIL HOSPITAL, AMEERPET",
     "CONTACT": 9866966778,
@@ -2496,11 +2397,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1650053016601108806",
     "LAT": 17.430334,
     "LONG": 78.4367922,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 101,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "101. NIKHIL HOSPITAL - DILSUKNAGAR",
     "CONTACT": 8519993543,
@@ -2521,11 +2421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12284824634175919973",
     "LAT": 17.368173,
     "LONG": 78.5203891,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 102,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "102. OLIVE HOSPITAL",
     "CONTACT": 9666919293,
@@ -2546,11 +2445,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Olive+Hospitals/@17.393623,78.4251473,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb96e24ec92bc3:0xccfd9d3502e362e9!8m2!3d17.393623!4d78.427336",
     "LAT": 17.393623,
     "LONG": 78.4251473,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 103,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "103. OMEGAHOSPITALS",
     "CONTACT": 9848011421,
@@ -2566,16 +2464,15 @@ telangana_data=[
     "TOTAL": 40,
     "OCCUPIED": 29,
     "VACANT": 11,
-    "DATE": "28/04/2021",
-    "TIME": "8:57:56 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:28:48 AM",
     "LOCATION": "https://maps.google.com/?cid=10891524551604139444",
     "LAT": 17.4135711,
     "LONG": 78.4240224,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 104,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "104. ONUS HOSPITAL",
     "CONTACT": 9502792322,
@@ -2591,16 +2488,15 @@ telangana_data=[
     "TOTAL": 51,
     "OCCUPIED": 1,
     "VACANT": 50,
-    "DATE": "28/04/2021",
-    "TIME": "5:51:57 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:13:44 AM",
     "LOCATION": "https://maps.google.com/?cid=15468178070132072426",
     "LAT": 17.3469694,
     "LONG": 78.5199594,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 105,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "105. PADMAVATHI  MEDICAL CENTRE",
     "CONTACT": 9160668686,
@@ -2621,11 +2517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11711536688385137731",
     "LAT": 17.426208,
     "LONG": 78.5322483,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 106,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "106. PHYSIO REHAB CARE HEALTH AND WELLNESS CENTRE",
     "CONTACT": 9963678314,
@@ -2646,17 +2541,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14425646412163147572",
     "LAT": 17.4192633,
     "LONG": 78.3827283,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 107,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "107. PRAJA SAI HOSPITAL",
     "CONTACT": 9100059777,
     "REGULAR_BEDS_TOTAL": 20,
-    "REGULAR_BEDS_OCCUPIED": 4,
-    "REGULAR_BEDS_VACANT": 16,
+    "REGULAR_BEDS_OCCUPIED": 6,
+    "REGULAR_BEDS_VACANT": 14,
     "OXYGEN_BEDS_TOTAL": 20,
     "OXYGEN_BEDS_OCCUPIED": 5,
     "OXYGEN_BEDS_VACANT": 15,
@@ -2664,18 +2558,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 10,
     "TOTAL": 50,
-    "OCCUPIED": 9,
-    "VACANT": 41,
-    "DATE": "28/04/2021",
-    "TIME": "4:32:59 PM",
+    "OCCUPIED": 11,
+    "VACANT": 39,
+    "DATE": "29/04/2021",
+    "TIME": "4:38:21 AM",
     "LOCATION": "https://maps.google.com/?cid=3021725380924331781",
     "LAT": 17.4072554,
     "LONG": 78.4928257,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 108,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "108. PREMIER HOSPITAL",
     "CONTACT": 9848034747,
@@ -2696,11 +2589,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16635621599022423760",
     "LAT": 17.3915846,
     "LONG": 78.4269006,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 109,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "109. PULSE HOSPITAL - PADMARAO NAGAR",
     "CONTACT": 8341816161,
@@ -2721,11 +2613,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13402941142546788597",
     "LAT": 17.4217241,
     "LONG": 78.5041712,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 110,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "110. RAGHAVENDRA HOSPITALS (A UNIT OF SKHC PVT LTD)",
     "CONTACT": "--",
@@ -2746,11 +2637,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Raghavendra+Multi+Specialty+Hospital,+Bowenpally./@17.433672,78.4454747,12.17z/data=!4m5!3m4!1s0x3bcb9a742826de05:0xa6a1c63d5962ada1!8m2!3d17.4567325!4d78.4786157",
     "LAT": 17.433672,
     "LONG": 78.4454747,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 111,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "111. RAINBOW CHILDREN HOSPITAL BANJARA HILLS",
     "CONTACT": 9959115050,
@@ -2771,11 +2661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5484957210900679002",
     "LAT": 17.4249716,
     "LONG": 78.432013,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 112,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "112. RAVI HELIOS HOSPITAL - INDIRA PARK",
     "CONTACT": 9849084566,
@@ -2796,11 +2685,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13215735889716992618",
     "LAT": 17.4110352,
     "LONG": 78.4831418,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 113,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "113. RENEW MEDICAL & REHABILITATION CENTRE - BEGUMPET",
     "CONTACT": 9032030459,
@@ -2821,36 +2709,34 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Renew+Hospital+(General+Medicine,+Orthopaedic+Surgeon,+Post+Hospitalisation+Rehabilitation+,+Physiotherapy)/@17.44609,78.4628203,17z/data=!4m5!3m4!1s0x3bcb90bcc3f954a7:0x4f1d8a661fbbf818!8m2!3d17.4459314!4d78.4627452",
     "LAT": 17.44609,
     "LONG": 78.4628203,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 114,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "114. RENOVO HOSPITAL - LANGER HOUSE",
     "CONTACT": 9989143340,
-    "REGULAR_BEDS_TOTAL": 27,
-    "REGULAR_BEDS_OCCUPIED": 27,
+    "REGULAR_BEDS_TOTAL": 28,
+    "REGULAR_BEDS_OCCUPIED": 28,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 23,
     "OXYGEN_BEDS_OCCUPIED": 23,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 9,
-    "ICU_BEDS_VACANT": 1,
-    "TOTAL": 60,
-    "OCCUPIED": 59,
-    "VACANT": 1,
-    "DATE": "28/04/2021",
-    "TIME": "8:21:26 PM",
+    "ICU_BEDS_OCCUPIED": 10,
+    "ICU_BEDS_VACANT": 0,
+    "TOTAL": 61,
+    "OCCUPIED": 61,
+    "VACANT": 0,
+    "DATE": "29/04/2021",
+    "TIME": "7:45:06 AM",
     "LOCATION": "https://maps.google.com/?cid=4489316555421638439",
     "LAT": 17.3732716,
     "LONG": 78.4144672,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 115,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "115. RUSH SUPERSPECIALITY HOSPITAL",
     "CONTACT": 8886611109,
@@ -2871,11 +2757,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17628751062741547790",
     "LAT": 17.4997767,
     "LONG": 78.4774663,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 116,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "116. SAI VANI HOSPITAL - INDIRA PARK",
     "CONTACT": 9866458511,
@@ -2896,11 +2781,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9718059870334955309",
     "LAT": 17.4109667,
     "LONG": 78.4835584,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 117,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "117. SAMEER HOSPITAL.",
     "CONTACT": 9177373017,
@@ -2908,24 +2792,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 9,
     "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 12,
-    "OXYGEN_BEDS_OCCUPIED": 9,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_OCCUPIED": 8,
+    "OXYGEN_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 14,
-    "ICU_BEDS_OCCUPIED": 11,
-    "ICU_BEDS_VACANT": 3,
+    "ICU_BEDS_OCCUPIED": 13,
+    "ICU_BEDS_VACANT": 1,
     "TOTAL": 38,
-    "OCCUPIED": 29,
-    "VACANT": 9,
-    "DATE": "28/04/2021",
-    "TIME": "4:47:43 PM",
+    "OCCUPIED": 30,
+    "VACANT": 8,
+    "DATE": "29/04/2021",
+    "TIME": "5:32:44 AM",
     "LOCATION": "https://maps.google.com/?cid=4899260907126174668",
     "LAT": 17.3932614,
     "LONG": 78.4446225,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 118,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "118. SEASONS HOSPITAL - BAGH AMBERPET",
     "CONTACT": 6303906008,
@@ -2941,16 +2824,15 @@ telangana_data=[
     "TOTAL": 24,
     "OCCUPIED": 22,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "6:17:25 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:23:50 AM",
     "LOCATION": "https://maps.google.com/?cid=1154210680507865512",
     "LAT": 17.38935,
     "LONG": 78.5139908,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 119,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "119. SHALINI HOSPITAL BARKATPURA",
     "CONTACT": 8341816161,
@@ -2971,11 +2853,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=710474992532417871",
     "LAT": 17.392568,
     "LONG": 78.495821,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 120,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "120. SHANTILAL NAVODAYA MULTISPECIALITY HOSPITAL",
     "CONTACT": 8341816161,
@@ -2991,16 +2872,15 @@ telangana_data=[
     "TOTAL": 9,
     "OCCUPIED": 7,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "6:12:11 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:14:26 AM",
     "LOCATION": "https://maps.google.com/?cid=2564103547381446372",
     "LAT": 17.3986569,
     "LONG": 78.5136994,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 121,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "121. SKS NEURO HOSPITAL - KACHIGUDA",
     "CONTACT": 9848629407,
@@ -3021,11 +2901,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2752384371355747741",
     "LAT": 17.3899398,
     "LONG": 78.4959282,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 122,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "122. SREESTA KAMALA HOSPITAL - DILSUKNAGAR",
     "CONTACT": 9032771234,
@@ -3033,24 +2912,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 10,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 18,
-    "OXYGEN_BEDS_OCCUPIED": 15,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_OCCUPIED": 16,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 17,
-    "ICU_BEDS_OCCUPIED": 14,
-    "ICU_BEDS_VACANT": 3,
+    "ICU_BEDS_OCCUPIED": 17,
+    "ICU_BEDS_VACANT": 0,
     "TOTAL": 45,
-    "OCCUPIED": 39,
-    "VACANT": 6,
+    "OCCUPIED": 43,
+    "VACANT": 2,
     "DATE": "28/04/2021",
-    "TIME": "5:55:06 PM",
+    "TIME": "10:09:06 PM",
     "LOCATION": "https://maps.google.com/?cid=17022626517215849016",
     "LAT": 17.3682889,
     "LONG": 78.5220108,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 123,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "123. SRIKARA HOSPITAL - SECUNDERABAD",
     "CONTACT": 9848097591,
@@ -3071,11 +2949,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14709622984859722366",
     "LAT": 17.4353605,
     "LONG": 78.5064975,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 124,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "124. SRI SAI SRINIVASA SPECIALITY HOSPITALS PVT LTD-HYDERABAD",
     "CONTACT": 9849107979,
@@ -3096,11 +2973,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15659365862806816737",
     "LAT": 17.3979135,
     "LONG": 78.4920801,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 125,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "125. ST THERESA HOSPITAL",
     "CONTACT": 9032067678,
@@ -3121,11 +2997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6200231568385825729",
     "LAT": 17.4518963,
     "LONG": 78.4378678,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 126,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "126. SURAKSHA CHILDRENS HOSPITAL",
     "CONTACT": 9848018479,
@@ -3146,11 +3021,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6500953828074767808",
     "LAT": 17.4261317,
     "LONG": 78.5324168,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 127,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "127. SVS HOSPITALS PVT. LTD.,",
     "CONTACT": 9246297659,
@@ -3171,36 +3045,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9422257078324111133",
     "LAT": 17.3891471,
     "LONG": 78.4928653,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 128,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "128. Swarag Healthcare Services Pvt Ltd-Somajiguda",
     "CONTACT": 7602777935,
     "REGULAR_BEDS_TOTAL": 4,
-    "REGULAR_BEDS_OCCUPIED": 1,
-    "REGULAR_BEDS_VACANT": 3,
+    "REGULAR_BEDS_OCCUPIED": 2,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 4,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 4,
+    "OXYGEN_BEDS_OCCUPIED": 1,
+    "OXYGEN_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 8,
-    "OCCUPIED": 1,
-    "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "3:55:30 PM",
+    "OCCUPIED": 3,
+    "VACANT": 5,
+    "DATE": "29/04/2021",
+    "TIME": "7:41:58 AM",
     "LOCATION": "https://www.google.com/maps/place/Swaraag+Rehabilitation+Center/@17.4179131,78.4567912,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb97cddbcebf17:0x9c8c159b99b52aa7!8m2!3d17.4179102!4d78.4589793",
     "LAT": 17.4179131,
     "LONG": 78.4567912,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 129,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "129. SWASA HOSPITAL",
     "CONTACT": 9676760000,
@@ -3216,16 +3088,15 @@ telangana_data=[
     "TOTAL": 25,
     "OCCUPIED": 25,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "4:16:46 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:59:37 AM",
     "LOCATION": "https://maps.google.com/?cid=5367044295816770716",
     "LAT": 17.3989769,
     "LONG": 78.4927703,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 130,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "130. SWATHI MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -3246,11 +3117,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Swathi+Multi+Speciality+Hospital/@17.4144752,78.4399028,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb973016bbbf5d:0x5e68313a9f5478a9!8m2!3d17.4144752!4d78.4420915",
     "LAT": 17.4144752,
     "LONG": 78.4399028,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 131,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "131. TAVNIR HOSPITAL",
     "CONTACT": 9951911155,
@@ -3271,11 +3141,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=278332573652618040",
     "LAT": 17.4298087,
     "LONG": 78.4340375,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 132,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "132. THUMBAY HOSPITAL NEW LIFE A UNIT OF THUMBAY HOSPITAL INDIA PVT. LTD.",
     "CONTACT": 9642334949,
@@ -3296,17 +3165,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18331710636683721915",
     "LAT": 17.3768915,
     "LONG": 78.4905862,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 133,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "133. TRICOLOUR HOSPITAL & CRITICAL CARE - AMEERPET",
     "CONTACT": 9949375536,
     "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 10,
-    "REGULAR_BEDS_VACANT": 0,
+    "REGULAR_BEDS_OCCUPIED": 9,
+    "REGULAR_BEDS_VACANT": 1,
     "OXYGEN_BEDS_TOTAL": 14,
     "OXYGEN_BEDS_OCCUPIED": 14,
     "OXYGEN_BEDS_VACANT": 0,
@@ -3314,18 +3182,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 6,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 30,
-    "OCCUPIED": 30,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:10:32 PM",
+    "OCCUPIED": 29,
+    "VACANT": 1,
+    "DATE": "29/04/2021",
+    "TIME": "7:08:34 AM",
     "LOCATION": "https://www.google.com/maps/place/Tricolour+Hospital/@17.3935993,78.5227344,17z/data=!4m5!3m4!1s0x3bcb9924933bbd2f:0xce592407389d9721!8m2!3d17.3938399!4d78.5227237",
     "LAT": 17.3935993,
     "LONG": 78.5227344,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 134,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "134. TX-KACHIGUDA",
     "CONTACT": 9701667662,
@@ -3341,16 +3208,15 @@ telangana_data=[
     "TOTAL": 101,
     "OCCUPIED": 101,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:16:30 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:56:56 AM",
     "LOCATION": "https://maps.google.com/?cid=11749887650328886588",
     "LAT": 17.389563,
     "LONG": 78.4954536,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 135,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "135. UDAI OMNI HOSPITAL - NAMPALLY",
     "CONTACT": 9951493415,
@@ -3366,16 +3232,15 @@ telangana_data=[
     "TOTAL": 40,
     "OCCUPIED": 38,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "8:02:38 PM",
+    "DATE": "29/04/2021",
+    "TIME": "12:12:36 AM",
     "LOCATION": "https://maps.google.com/?cid=14772628000669664513",
     "LAT": 17.3968908,
     "LONG": 78.4723921,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 136,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "136. UNIMED HEALTHCARE PVT- LTD STAR HOSPITALS",
     "CONTACT": 7982144457,
@@ -3396,11 +3261,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12336851421673096639",
     "LAT": 17.4158125,
     "LONG": 78.4454577,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 137,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "137. VASAVI HOSPITAL - LAKDIKAPUL",
     "CONTACT": 9848120104,
@@ -3408,49 +3272,47 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 35,
-    "OXYGEN_BEDS_OCCUPIED": 32,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_OCCUPIED": 34,
+    "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 15,
     "ICU_BEDS_OCCUPIED": 15,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 50,
-    "OCCUPIED": 47,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "8:00:24 PM",
+    "OCCUPIED": 49,
+    "VACANT": 1,
+    "DATE": "29/04/2021",
+    "TIME": "12:59:20 AM",
     "LOCATION": "https://maps.google.com/?cid=14026722855591717185",
     "LAT": 17.4064206,
     "LONG": 78.4644846,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 138,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "138. VIJAYA HEALTH TRUST - KUMMARIGUDA",
     "CONTACT": 9848031934,
     "REGULAR_BEDS_TOTAL": 35,
     "REGULAR_BEDS_OCCUPIED": 35,
     "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 18,
-    "OXYGEN_BEDS_OCCUPIED": 18,
+    "OXYGEN_BEDS_TOTAL": 20,
+    "OXYGEN_BEDS_OCCUPIED": 20,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 8,
     "ICU_BEDS_OCCUPIED": 8,
     "ICU_BEDS_VACANT": 0,
-    "TOTAL": 61,
-    "OCCUPIED": 61,
+    "TOTAL": 63,
+    "OCCUPIED": 63,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:31:32 PM",
+    "DATE": "29/04/2021",
+    "TIME": "4:32:14 AM",
     "LOCATION": "https://maps.google.com/?cid=6238130026780690480",
     "LAT": 17.4391169,
     "LONG": 78.4987306,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 139,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "139. VINN HOSPITAL - BEGUMPET",
     "CONTACT": 7993360813,
@@ -3466,16 +3328,15 @@ telangana_data=[
     "TOTAL": 120,
     "OCCUPIED": 120,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "7:50:12 PM",
+    "DATE": "29/04/2021",
+    "TIME": "4:14:08 AM",
     "LOCATION": "https://maps.google.com/?cid=5582569174325729603",
     "LAT": 17.43744,
     "LONG": 78.4568556,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 140,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "140. VIVEKANANDA-BEGUMPET",
     "CONTACT": 9948268778,
@@ -3496,11 +3357,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9224045642370427764",
     "LAT": 17.4312609,
     "LONG": 78.4553471,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 141,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "141. WELLNESS HOSPITAL - AMEERPET",
     "CONTACT": 9490667172,
@@ -3521,36 +3381,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3028207556672572928",
     "LAT": 17.4358716,
     "LONG": 78.4499738,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 142,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "142. WOODLANDS HOSPITAL, A MULTI SPECIALITY CENTRE,",
     "CONTACT": 9885099998,
-    "REGULAR_BEDS_TOTAL": 11,
-    "REGULAR_BEDS_OCCUPIED": 11,
+    "REGULAR_BEDS_TOTAL": 10,
+    "REGULAR_BEDS_OCCUPIED": 10,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 13,
     "OXYGEN_BEDS_OCCUPIED": 13,
     "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 9,
-    "ICU_BEDS_OCCUPIED": 9,
+    "ICU_BEDS_TOTAL": 11,
+    "ICU_BEDS_OCCUPIED": 11,
     "ICU_BEDS_VACANT": 0,
-    "TOTAL": 33,
-    "OCCUPIED": 33,
+    "TOTAL": 34,
+    "OCCUPIED": 34,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "7:04:20 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:16:36 AM",
     "LOCATION": "https://maps.google.com/?cid=15134761342691274002",
     "LAT": 17.3929529,
     "LONG": 78.4975817,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 143,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "143. ZOI HOSPITAL - SOMAJIGUDA",
     "CONTACT": 9849029580,
@@ -3571,11 +3429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18370041411284867244",
     "LAT": 17.427782,
     "LONG": 78.4573554,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 144,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "144. ADHITYA HOSPITAL",
     "CONTACT": 9885033259,
@@ -3596,11 +3453,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Jambigadde,+Jambigadde+Rd,+Krishnanagar,+Jagtial,+Telangana+505327/@18.7961392,78.9222889,19.55z/data=!4m5!3m4!1s0x3bcd138f49705a59:0x551ea851b23d33e0!8m2!3d18.7961582!4d78.9227611",
     "LAT": 18.79618503,
     "LONG": 78.92276773,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 145,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "145. AMRITA TRINETRA MULTI SPECIALITY  HOSPITAL",
     "CONTACT": 9849099669,
@@ -3621,11 +3477,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18302331813317098538",
     "LAT": 18.7977252,
     "LONG": 78.924792,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 146,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "146. FORTUNE SIGMA MULTI SPECILITY HOSPITAL",
     "CONTACT": 9807104108,
@@ -3646,11 +3501,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/FORTUNE+SIGMA+MULTISPECIALITY+HOSPITAL/@18.7978893,78.9216396,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcd1339c1c81441:0xc5b844cd7f1dd2f!8m2!3d18.7978842!4d78.9238283",
     "LAT": 18.79819903,
     "LONG": 78.92381757,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 147,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "147. HANSHI HOSPITAL - JAGITYAL",
     "CONTACT": 9949715795,
@@ -3671,11 +3525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=136773257763692223",
     "LAT": 18.7989697,
     "LONG": 78.9202039,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 148,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "148. JANAKI CHEST HOSPITAL",
     "CONTACT": 8125299189,
@@ -3696,11 +3549,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10389436015376958077",
     "LAT": 18.7957888,
     "LONG": 78.9216131,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 149,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "149. KESHAVA HOSPITAL",
     "CONTACT": 9989469022,
@@ -3721,11 +3573,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1814162558160986403",
     "LAT": 18.797856,
     "LONG": 78.9243469,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 150,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "150. MANIKANTA HOSPITAL",
     "CONTACT": 9848067077,
@@ -3746,11 +3597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8500510229009937329",
     "LAT": 18.797933,
     "LONG": 78.9248788,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 151,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "151. MEENAKSHI HOSPITAL",
     "CONTACT": "--",
@@ -3766,16 +3616,15 @@ telangana_data=[
     "TOTAL": 11,
     "OCCUPIED": 8,
     "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "10:33:35 AM",
+    "DATE": "29/04/2021",
+    "TIME": "7:24:40 AM",
     "LOCATION": "https://maps.google.com/?cid=10808572740496384469",
     "LAT": 18.7987456,
     "LONG": 78.9194593,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 152,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "152. SRI MITHRA HOSPITAL",
     "CONTACT": 9052400987,
@@ -3796,11 +3645,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10910531437615177773",
     "LAT": 18.7962728,
     "LONG": 78.9247805,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 153,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "153. SRI RAJANNA HOSPITAL",
     "CONTACT": "--",
@@ -3821,11 +3669,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Rajanna+Hospital/@18.84353,78.6150088,13z/data=!4m9!1m2!2m1!1sSri+Rajanna+Hospital!3m5!1s0x3bcd9f1773381add:0x5cfb47140e19b338!8m2!3d18.8486768!4d78.616253!15sChRTcmkgUmFqYW5uYSBIb3NwaXRhbJIBCGhvc3BpdGFs",
     "LAT": 18.84353,
     "LONG": 78.6150088,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 154,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "154. SULOCHANA HOSPITAL",
     "CONTACT": 9440036031,
@@ -3836,21 +3683,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 9,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 8,
-    "ICU_BEDS_OCCUPIED": 7,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_OCCUPIED": 8,
+    "ICU_BEDS_VACANT": 0,
     "TOTAL": 27,
-    "OCCUPIED": 16,
-    "VACANT": 11,
+    "OCCUPIED": 17,
+    "VACANT": 10,
     "DATE": "28/04/2021",
-    "TIME": "3:51:04 PM",
+    "TIME": "10:03:45 PM",
     "LOCATION": "https://maps.google.com/?cid=12622660032133053664",
     "LAT": 18.7971805,
     "LONG": 78.9235537,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 155,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "155. VANI HOSPITAL",
     "CONTACT": 7680068049,
@@ -3866,16 +3712,15 @@ telangana_data=[
     "TOTAL": 20,
     "OCCUPIED": 13,
     "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "9:20:28 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:58:04 AM",
     "LOCATION": "https://www.google.com/maps/place/Vani+Hospital+Multispecality+Hospital/@18.7996191,78.9186654,18z/data=!4m8!1m2!2m1!1sVani+Multispeciality+Hospital+jagtial!3m4!1s0x3bcd13c56d113255:0x12e7ec20857513d4!8m2!3d18.800054!4d78.9193072",
     "LAT": 18.80018024,
     "LONG": 78.91930909,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 156,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "156. AJANTHA MULTI SPECIALITY AND CHILDREN HOSPITAL",
     "CONTACT": 9908227087,
@@ -3896,11 +3741,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/search/AJANTHA+MULTI+SPECIALITY+AND+CHILDREN+HOSPITAL+Jangaon/@17.7231405,79.1703695,17z?hl=en",
     "LAT": 17.7231405,
     "LONG": 79.1703695,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 157,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "157. KOTI RATNA HOSPITAL",
     "CONTACT": 9440170178,
@@ -3921,11 +3765,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14976771802000227762",
     "LAT": 17.7171072,
     "LONG": 79.1666774,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 158,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "158. RAVALI NURSING HOME",
     "CONTACT": 9866340952,
@@ -3946,11 +3789,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8862739750610439462",
     "LAT": 17.7175038,
     "LONG": 79.1612695,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 159,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "159. SRI SAI KRISHNA NURSING HOME",
     "CONTACT": 9848743585,
@@ -3971,11 +3813,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14173343192535777145",
     "LAT": 17.7196123,
     "LONG": 79.1616145,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 160,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "160. SRI SRINIVASA HOSPITAL",
     "CONTACT": 9989911201,
@@ -3996,11 +3837,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1016705588927744394",
     "LAT": 17.720442,
     "LONG": 79.1640639,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 161,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "161. SSK- JANGOAN",
     "CONTACT": 9912750422,
@@ -4021,11 +3861,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8745086861447881743",
     "LAT": 17.7205178,
     "LONG": 79.1647841,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 162,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "162. SWAPNA HOSPITAL",
     "CONTACT": 9010968666,
@@ -4046,11 +3885,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11271237909260762738",
     "LAT": 17.7249339,
     "LONG": 79.1838188,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 163,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "163. VIJAYA HOSPITAL",
     "CONTACT": 9866634050,
@@ -4071,11 +3909,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10263674669058724996",
     "LAT": 17.718824,
     "LONG": 79.1605666,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 164,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "164. GLOBAL CARE HOSPITAL",
     "CONTACT": "--",
@@ -4096,11 +3933,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10961963523055104836",
     "LAT": 18.432683,
     "LONG": 79.865189,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 165,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "165. KIRAN HOSPITAL",
     "CONTACT": "--",
@@ -4121,36 +3957,34 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 166,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "166. PRADHAN  HOSPITAL",
     "CONTACT": 9951617196,
     "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 10,
+    "REGULAR_BEDS_OCCUPIED": 1,
+    "REGULAR_BEDS_VACANT": 9,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 2,
-    "OXYGEN_BEDS_VACANT": 8,
+    "OXYGEN_BEDS_OCCUPIED": 3,
+    "OXYGEN_BEDS_VACANT": 7,
     "ICU_BEDS_TOTAL": 5,
     "ICU_BEDS_OCCUPIED": 2,
     "ICU_BEDS_VACANT": 3,
     "TOTAL": 25,
-    "OCCUPIED": 4,
-    "VACANT": 21,
-    "DATE": "28/04/2021",
-    "TIME": "3:36:50 PM",
+    "OCCUPIED": 6,
+    "VACANT": 19,
+    "DATE": "29/04/2021",
+    "TIME": "7:14:43 AM",
     "LOCATION": "https://maps.google.com/?cid=2188663053150061111",
     "LAT": 18.4419986,
     "LONG": 79.8699209,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 167,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "167. SAI BALAJI MULTI SPECIALTY HOSPITAL",
     "CONTACT": "--",
@@ -4171,11 +4005,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 168,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "168. SMART CARE MULTISPECIALITY HOSPITAL",
     "CONTACT": 7907385064,
@@ -4196,11 +4029,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10961963523055104836",
     "LAT": 18.432683,
     "LONG": 79.865189,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 169,
+    "SNO": 7,
     "DISTRICT": "Jogulamba",
     "HOSPITAL_NAME": "169. SRAVANTHI MULTISPECIALITY HOSPITA",
     "CONTACT": "--",
@@ -4221,11 +4053,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sravanthi+Multi+Speciality+Hospital/@17.425724,78.404761,11.84z/data=!4m9!1m2!2m1!1s164.+SRAVANTHI+MULTISPECIALITY+HOSPITA!3m5!1s0x0:0x68eb2f7705992a40!8m2!3d17.405474!4d78.4896943!15sCiYxNjQuIFNSQVZBTlRISSBNVUxUSVNQRUNJQUxJVFkgSE9TUElUQVpOCiUxNjQgc3JhdmFudGhpIG11bHRpc3BlY2lhbGl0eSBob3NwaXRhIiUxNjQgc3JhdmFudGhpIG11bHRpc3BlY2lhbGl0eSBob3NwaXRhkgEIaG9zcGl0YWw",
     "LAT": 17.425724,
     "LONG": 78.404761,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 170,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "170. ADITHYA HOSPITAL H,NO-1-7-57/12.SIRICILLA ROAD",
     "CONTACT": 9885707042,
@@ -4246,11 +4077,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Aditya+Hospital/@18.3259959,78.3378033,17z/data=!4m8!1m2!2m1!1sADITYA+HOSPITAL+H,NO-1-7-57%2F12.SIRCILLA+ROAD,+Kamareddy,+Telangana!3m4!1s0x3bcc49bece62e409:0x912312daa83fb0f7!8m2!3d18.3260483!4d78.3396749",
     "LAT": 18.32618429,
     "LONG": 78.34016366,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 171,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "171. AKHILA HOSPITAL KAMAREDDY",
     "CONTACT": "--",
@@ -4271,11 +4101,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15008923477928088082",
     "LAT": 18.3162401,
     "LONG": 78.3364312,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 172,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "172. AMRUTHA  CHILDRENS HPL,KAMAREDDY.",
     "CONTACT": 9885063559,
@@ -4296,11 +4125,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16111311446967399780",
     "LAT": 18.3317407,
     "LONG": 78.324794,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 173,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "173. AMRUTHA HOSPTAL BESIDE, SARASWATHI TEMPLE,",
     "CONTACT": 9949497703,
@@ -4321,11 +4149,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6160178003351159003",
     "LAT": 18.3239953,
     "LONG": 78.3343051,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 174,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "174. BALAJI HOSPITAL,HNO-1-5-64,GODOWN ROAD KAMAREDDY",
     "CONTACT": 9299991881,
@@ -4346,11 +4173,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2805623451446878481",
     "LAT": 18.3270411,
     "LONG": 78.3400987,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 175,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "175. DEVI HOSPITAL NGOS COLONY",
     "CONTACT": "--",
@@ -4371,11 +4197,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Devi+Hospital+Kamareddy/@18.3265447,78.3259053,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcc49a5356c1ef5:0x3ce3497131e33de9!8m2!3d18.3265447!4d78.328094",
     "LAT": 18.3265447,
     "LONG": 78.3259053,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 176,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "176. DR. ANJAL REDDY MEMORIAL HOSPITAL NETAJI ROAD, KAMAREDDY,",
     "CONTACT": 9000995775,
@@ -4396,11 +4221,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/anjalreddy+memorial+hospital/@18.3270073,78.3415468,17z/data=!4m5!3m4!1s0x3bcc490ae2b03ba5:0x201d3c427c0b8c57!8m2!3d18.3271244!4d78.3415039",
     "LAT": 18.3270073,
     "LONG": 78.3415468,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 177,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "177. DR. B. ESHWAR DAS.HOSPITAL, NEAR RAILWAY BRIDGE,",
     "CONTACT": 9989054815,
@@ -4421,11 +4245,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/search/DR.+B.+ESHWAR+DAS.HOSPITAL,+NEAR+RAILWAY+BRIDGE,,+Kamareddy,+Telangana/@18.3205389,78.3374629,17z",
     "LAT": 18.3205389,
     "LONG": 78.3374629,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 178,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "178. DR. RADHA VIJAYA LAXMI, RR HPL KAMAREDDY",
     "CONTACT": 9299995454,
@@ -4446,11 +4269,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/R.R.HOSPITAL/@18.326991,78.3424303,17z/data=!4m5!3m4!1s0x3bcc490b0fdf02c5:0x41cdd10b51824b93!8m2!3d18.3271285!4d78.3423659",
     "LAT": 18.326991,
     "LONG": 78.3424303,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 179,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "179. DWARAKA MULTI SPECILAITY HOSPITAL,",
     "CONTACT": 9985239983,
@@ -4471,11 +4293,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16211453085522346",
     "LAT": 18.3204533,
     "LONG": 78.3378434,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 180,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "180. GEEREDDY RAVINDEREDDY NEURO SPECIALITY HOOPITAL,KAMAREDDY",
     "CONTACT": 9985365679,
@@ -4496,11 +4317,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16252949248127923690",
     "LAT": 18.3269658,
     "LONG": 78.3398267,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 181,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "181. JAGRUTHI  HOSPITAL  HN-1-5-98, GODWN ROAD KAMAREDDY",
     "CONTACT": 9885817458,
@@ -4521,11 +4341,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15826406912135027606",
     "LAT": 18.327119,
     "LONG": 78.339792,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 182,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "182. JAYAMULTY SPECIALITY HOSPITAL",
     "CONTACT": 8099220068,
@@ -4546,11 +4365,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12911296027759360087",
     "LAT": 18.3245132,
     "LONG": 78.3319643,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 183,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "183. JEEVENDAN HOSPITAL,",
     "CONTACT": 9908222204,
@@ -4571,11 +4389,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11417256029889157189",
     "LAT": 18.3230247,
     "LONG": 78.3372188,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 184,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "184. JEEVENDAN HOSPITAL,",
     "CONTACT": 9908222204,
@@ -4596,11 +4413,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11417256029889157189",
     "LAT": 18.3230247,
     "LONG": 78.3372188,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 185,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "185. KOUSALIAYA M/S HOSPITAL",
     "CONTACT": 9848777931,
@@ -4621,11 +4437,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11417256029889157189",
     "LAT": 18.3230247,
     "LONG": 78.3372188,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 186,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "186. KOUSALYA MULTI SEPCIALITY HOSPITAL",
     "CONTACT": 9848777931,
@@ -4646,11 +4461,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12911296027759360087",
     "LAT": 18.3245132,
     "LONG": 78.3319643,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 187,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "187. KRISHNAVENI CHILDRENS HSPTAL KAMAREDDY.",
     "CONTACT": "--",
@@ -4671,11 +4485,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14341623632008329025",
     "LAT": 18.3272243,
     "LONG": 78.3410986,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 188,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "188. PARVATHI CHILDRENS HPL GODWAN ROAD. KAMAREDDY",
     "CONTACT": 9397311544,
@@ -4696,11 +4509,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Parvati+Children's+Hospital/@18.3257687,78.337704,16z/data=!4m9!1m2!2m1!1sPARVATHI+CHILDRENS+hospital+Kamareddy,+Telangana!3m5!1s0x0:0x4f22f781c5dadc1!8m2!3d18.3262316!4d78.337486!15sCjBQQVJWQVRISSBDSElMRFJFTlMgaG9zcGl0YWwgS2FtYXJlZGR5LCBUZWxhbmdhbmGSAQhob3NwaXRhbA",
     "LAT": 18.3257687,
     "LONG": 78.337704,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 189,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "189. RAJAMPET MULTI SPECIALITY HOSPITAL, RAJAMPET,",
     "CONTACT": 9848777931,
@@ -4721,11 +4533,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17502244091263957484",
     "LAT": 18.262421,
     "LONG": 78.3334208,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 190,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "190. RAJYA LAXMI NURSING HOME BESIDE MUNCIPAL OFFICE. KAMAREDDY.",
     "CONTACT": 8374191841,
@@ -4746,11 +4557,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 191,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "191. R.K,HOSPITAL  HN,1-5-193, NETHAJI ROAD  KAMAREDDY",
     "CONTACT": 9440135380,
@@ -4771,11 +4581,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 192,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "192. RUSSH MULTISPECIALITY HOSPITAL,",
     "CONTACT": 9160114411,
@@ -4796,11 +4605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17523074187018769197",
     "LAT": 18.3181091,
     "LONG": 78.3346609,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 193,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "193. SADHANA HOSPITAL",
     "CONTACT": "--",
@@ -4821,11 +4629,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14443617584722495946",
     "LAT": 18.3208295,
     "LONG": 78.3348356,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 194,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "194. SIRI CHILDRENS HOSPITAL,",
     "CONTACT": "--",
@@ -4846,11 +4653,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9967245472285462886",
     "LAT": 18.3260361,
     "LONG": 78.3395573,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 195,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "195. SRI BALAJI HOSPITAL OPP SRIRAMANDIR, BANSWADA",
     "CONTACT": 9703165465,
@@ -4871,11 +4677,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3066684454386331313",
     "LAT": 18.3843506,
     "LONG": 77.8737096,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 196,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "196. SRI GANESH MULTI SPECIALITY HOSPITAL DAILY MARKET",
     "CONTACT": 9848969713,
@@ -4896,11 +4701,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16048760006742152222",
     "LAT": 18.3245304,
     "LONG": 78.3392873,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 197,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "197. SRI GANGA CHILDRENS HPL SIRCILLA ROAD, KAMAREDDY",
     "CONTACT": 9849346044,
@@ -4921,11 +4725,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12490821844270951536",
     "LAT": 18.3258946,
     "LONG": 78.3384923,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 198,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "198. SRI. JANANI MOTHER AND CHILD HOSPITAL,KAMAREDDY",
     "CONTACT": 9849346044,
@@ -4946,11 +4749,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Janani+mother+and+child+hospital/@18.3261471,78.338642,17z/data=!4m5!3m4!1s0x3bcc49a0c923fb41:0xea5b515233ee50ae!8m2!3d18.3262439!4d78.338406",
     "LAT": 18.3261471,
     "LONG": 78.338642,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 199,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "199. SRINIVAS CHILDRENS HPL. SAI BHAG. KAMAREDDY",
     "CONTACT": 9849963996,
@@ -4971,11 +4773,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Srinivasa+Children+Hospital/@18.3201588,78.3355292,17z/data=!4m5!3m4!1s0x3bcc49a6f0b2678d:0x549b1f9d639b571d!8m2!3d18.3205!4d78.3351",
     "LAT": 18.3201588,
     "LONG": 78.3355292,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 200,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "200. SRI PADMAVATHI MULTISPECILITY HOSPITAL,",
     "CONTACT": 9949028128,
@@ -4996,11 +4797,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12294941109093376813",
     "LAT": 18.3261619,
     "LONG": 78.3293693,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 201,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "201. SRI RAMA MULTI SPECIALITY HOSPITAL,NH-7,KAMAREDDY.",
     "CONTACT": "--",
@@ -5021,11 +4821,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13161161642636698874",
     "LAT": 18.3193791,
     "LONG": 78.3341543,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 202,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "202. SRI SAI KRISHNA HOSPITAL",
     "CONTACT": 9290556081,
@@ -5046,11 +4845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10235996709455583281",
     "LAT": 18.3285983,
     "LONG": 78.3311204,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 203,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "203. SRI SAISIMHAMULTI SPECIALITY HOSPITALR.",
     "CONTACT": 9849822133,
@@ -5071,11 +4869,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11642568071995342736",
     "LAT": 18.3280927,
     "LONG": 78.3286307,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 204,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "204. SRI VENKETESHWAR CHILDRENS HPL.GODWAN ROAD",
     "CONTACT": "--",
@@ -5096,11 +4893,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12490821844270951536",
     "LAT": 18.3258946,
     "LONG": 78.3384923,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 205,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "205. SRI VENKETESHWAR NURSING HOME YELLAREDDY",
     "CONTACT": 9000489838,
@@ -5121,11 +4917,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=720393782436199191",
     "LAT": 18.1884911,
     "LONG": 78.0225772,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 206,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "206. SUNDAR HPL,PITLAM.",
     "CONTACT": "--",
@@ -5146,11 +4941,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16111311446967399780",
     "LAT": 18.3317407,
     "LONG": 78.324794,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 207,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "207. S.V.CHILDREN HOSPITAL,",
     "CONTACT": 9440228613,
@@ -5171,11 +4965,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 208,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "208. SVR HOSPITAL SIRCILLA ROAD KAMAREDDY",
     "CONTACT": 8468222550,
@@ -5196,11 +4989,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16262756326979978569",
     "LAT": 18.3259553,
     "LONG": 78.3420491,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 209,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "209. THIRUMALA N/H,KAMAREDDY.",
     "CONTACT": "--",
@@ -5221,11 +5013,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11505869080213586733",
     "LAT": 18.3267055,
     "LONG": 78.3393957,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 210,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "210. VARSHA HOSPITAL, GODOWN ROAD",
     "CONTACT": 9849204567,
@@ -5246,11 +5037,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4151940185500975022",
     "LAT": 18.3262173,
     "LONG": 78.3393985,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 211,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "211. VYASHANAVI HOSPITAL RAMA REDDY -KAMAREDDY",
     "CONTACT": 9618001880,
@@ -5271,11 +5061,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Vaishnavi+Hospital/@18.3259265,78.3413711,16.12z/data=!4m12!1m6!3m5!1s0x0:0x55dc4866fa9bd4e7!2sNandu+Engineering+Works!8m2!3d18.326026!4d78.3406842!3m4!1s0x3bcc490b1441d867:0xadc52df2ebd8f028!8m2!3d18.327618!4d78.3427223",
     "LAT": 18.32806057,
     "LONG": 78.34265861,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 212,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "212. YELLAREDDY SUPER SPECIALITY, YELLAREDDY, NIZAMABAD. (DIST)",
     "CONTACT": 9908932322,
@@ -5296,11 +5085,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7678914111073581348",
     "LAT": 18.1917445,
     "LONG": 78.0215999,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 213,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "213. Abhilash Hospital, Karimnagar",
     "CONTACT": 9849059462,
@@ -5321,11 +5109,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Abhilasha+Hospital/@18.4433678,79.1313598,17z/data=!3m1!4b1!4m5!3m4!1s0x3bccd91f74a2c621:0xfb9b3d7957b0a50d!8m2!3d18.4433678!4d79.1335485",
     "LAT": 18.4433678,
     "LONG": 79.1313598,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 214,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "214. ABHISHEK HOSPITALS KARIMNAGAR",
     "CONTACT": 8125014989,
@@ -5346,11 +5133,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5596824960737183689",
     "LAT": 18.4431303,
     "LONG": 79.1290055,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 215,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "215. ADARSHA HOSPITAL- KARIMNAGAR",
     "CONTACT": 9966666360,
@@ -5371,11 +5157,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=733206101019347422",
     "LAT": 18.4400346,
     "LONG": 79.1247123,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 216,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "216. AKHIRA HOSPITAL",
     "CONTACT": 9493773388,
@@ -5396,11 +5181,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6954658044558058236",
     "LAT": 18.4452765,
     "LONG": 79.124488,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 217,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "217. APEX HOSPITAL",
     "CONTACT": 9949390340,
@@ -5421,11 +5205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14689681852098613247",
     "LAT": 18.4408768,
     "LONG": 79.1329486,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 218,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "218. APOLLO REACH HOSPITAL - KARIMNAGAR",
     "CONTACT": 8886710444,
@@ -5436,21 +5219,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 42,
-    "ICU_BEDS_OCCUPIED": 35,
-    "ICU_BEDS_VACANT": 7,
+    "ICU_BEDS_OCCUPIED": 40,
+    "ICU_BEDS_VACANT": 2,
     "TOTAL": 47,
-    "OCCUPIED": 39,
-    "VACANT": 8,
-    "DATE": "28/04/2021",
-    "TIME": "6:09:35 PM",
+    "OCCUPIED": 44,
+    "VACANT": 3,
+    "DATE": "29/04/2021",
+    "TIME": "7:16:46 AM",
     "LOCATION": "https://maps.google.com/?cid=7133949440986640413",
     "LAT": 18.4566867,
     "LONG": 79.1350675,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 219,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "219. CHALMEDA ANANDARAO INSTITUTE OF MEDICAL SCIENCES - BOMMAKAL",
     "CONTACT": 8499808066,
@@ -5471,11 +5253,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14513954884291275338",
     "LAT": 18.4532394,
     "LONG": 79.1650826,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 220,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "220. CITY HOSPITAL KARIMNAGAR",
     "CONTACT": 9666416767,
@@ -5496,11 +5277,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8272356798217129182",
     "LAT": 18.4424923,
     "LONG": 79.1290071,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 221,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "221. CVM HOSPITAL - KARIMNAGAR",
     "CONTACT": 9959577751,
@@ -5521,11 +5301,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12969307883698357371",
     "LAT": 18.4402897,
     "LONG": 79.1317156,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 222,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "222. DR VEERA REDDY HOSPITAL",
     "CONTACT": 9666416767,
@@ -5546,11 +5325,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8834206861894935669",
     "LAT": 18.4376202,
     "LONG": 79.1315137,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 223,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "223. FORTUNE MEDICOVER HOSPITAL - KARIMNAGAR",
     "CONTACT": 9866235548,
@@ -5571,11 +5349,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1678219221783646880",
     "LAT": 18.4429541,
     "LONG": 79.1290954,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 224,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "224. GLOBAL MAXX MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9492213108,
@@ -5596,11 +5373,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14287387480479935774",
     "LAT": 18.4539315,
     "LONG": 79.1343015,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 225,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "225. GOODLIFE- KARIMNAGAR",
     "CONTACT": 8978598999,
@@ -5621,11 +5397,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10531303840952296776",
     "LAT": 18.4395414,
     "LONG": 79.1319563,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 226,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "226. KAMAKSHI HOSPITAL-KARIMNAGAR",
     "CONTACT": 9866223258,
@@ -5646,11 +5421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1387301598213891052",
     "LAT": 18.4412203,
     "LONG": 79.1306583,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 227,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "227. KARTHIKEYA MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9885657828,
@@ -5671,11 +5445,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13526116579079694205",
     "LAT": 18.4424306,
     "LONG": 79.1336669,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 228,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "228. KEA HOSPITAL-Karimnagar",
     "CONTACT": 9966550099,
@@ -5696,11 +5469,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 229,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "229. KELVIN HOSPITAL",
     "CONTACT": 9966827072,
@@ -5721,11 +5493,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6166701094662403956",
     "LAT": 18.4438508,
     "LONG": 79.1282131,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 230,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "230. LEPAKSHI HOSPITAL - KARIMNAGAR",
     "CONTACT": 9440415130,
@@ -5746,11 +5517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10528151940021614025",
     "LAT": 18.4405503,
     "LONG": 79.1327586,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 231,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "231. MAHATHI HOSPITAL - KARIMNAGAR",
     "CONTACT": 9384104108,
@@ -5771,11 +5541,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5007586840713426560",
     "LAT": 18.442867,
     "LONG": 79.1348536,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 232,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "232. MANJUNATHA HOSPITAL",
     "CONTACT": 9949514805,
@@ -5796,11 +5565,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14450507433554164426",
     "LAT": 18.4426657,
     "LONG": 79.1324404,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 233,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "233. MEDICOVER HOSPITAL - KARIMNAGAR",
     "CONTACT": 9505622000,
@@ -5811,21 +5579,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 20,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 20,
-    "ICU_BEDS_OCCUPIED": 19,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_OCCUPIED": 20,
+    "ICU_BEDS_VACANT": 0,
     "TOTAL": 50,
-    "OCCUPIED": 49,
-    "VACANT": 1,
-    "DATE": "28/04/2021",
-    "TIME": "8:23:41 AM",
+    "OCCUPIED": 50,
+    "VACANT": 0,
+    "DATE": "29/04/2021",
+    "TIME": "7:29:38 AM",
     "LOCATION": "https://maps.google.com/?cid=2480355118923396798",
     "LAT": 18.4417897,
     "LONG": 79.1287252,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 234,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "234. MEE KUMAR HOSPITAL",
     "CONTACT": 7306510082,
@@ -5846,11 +5613,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 235,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "235. MEENAKSHI HOSPITAL",
     "CONTACT": 9701444544,
@@ -5871,11 +5637,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10808572740496384469",
     "LAT": 18.7987456,
     "LONG": 78.9194593,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 236,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "236. MURUGAN HOSPITAL",
     "CONTACT": 9246370767,
@@ -5896,11 +5661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15054740818027681136",
     "LAT": 18.4378813,
     "LONG": 79.1315281,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 237,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "237. NOVA HOSPITAL - KARIMNAGAR",
     "CONTACT": 9949655535,
@@ -5921,11 +5685,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Nova+Hospital/@18.442689,79.132264,15z/data=!4m5!3m4!1s0x0:0xef109a9c5f66a571!8m2!3d18.442689!4d79.132264",
     "LAT": 18.44327931,
     "LONG": 79.13192068,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 238,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "238. ORCHID HOSPITALS",
     "CONTACT": 7732007700,
@@ -5946,11 +5709,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17680308489132688595",
     "LAT": 18.455435,
     "LONG": 79.134735,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 239,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "239. PABBA SUPERSPECIALITY HOSPITAL",
     "CONTACT": 9989455546,
@@ -5971,11 +5733,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10623894090665704209",
     "LAT": 18.4493627,
     "LONG": 79.1330903,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 240,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "240. PETALS NEO CARE",
     "CONTACT": 9849435313,
@@ -5996,11 +5757,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4154916198817458156",
     "LAT": 18.4410076,
     "LONG": 79.1317363,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 241,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "241. PRATHIMA INSTITUTE OF MEDICAL SCIENCES - KARIMNAGAR",
     "CONTACT": 9440120517,
@@ -6021,11 +5781,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15294035291963078276",
     "LAT": 18.4987789,
     "LONG": 79.1518771,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 242,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "242. PULLELLA HOSPITAL - KARIMNAGAR",
     "CONTACT": 9849037204,
@@ -6046,17 +5805,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2404110100966138168",
     "LAT": 18.448868,
     "LONG": 79.133023,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 243,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "243. RAJAN HOSPITAL - PRASHANTH NAGAR, KARIMNAGAR",
     "CONTACT": 9966772355,
     "REGULAR_BEDS_TOTAL": 5,
-    "REGULAR_BEDS_OCCUPIED": 5,
-    "REGULAR_BEDS_VACANT": 0,
+    "REGULAR_BEDS_OCCUPIED": 3,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 7,
     "OXYGEN_BEDS_OCCUPIED": 6,
     "OXYGEN_BEDS_VACANT": 1,
@@ -6064,18 +5822,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 7,
     "ICU_BEDS_VACANT": 3,
     "TOTAL": 22,
-    "OCCUPIED": 18,
-    "VACANT": 4,
-    "DATE": "28/04/2021",
-    "TIME": "9:29:20 AM",
+    "OCCUPIED": 16,
+    "VACANT": 6,
+    "DATE": "29/04/2021",
+    "TIME": "6:55:17 AM",
     "LOCATION": "https://maps.google.com/?cid=12813243280202666208",
     "LAT": 18.4434293,
     "LONG": 79.1297005,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 244,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "244. RBR Hospital -Karimnagar",
     "CONTACT": 9493103108,
@@ -6096,11 +5853,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 245,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "245. RENNE HOSPITAL - KARIMNAGAR",
     "CONTACT": 9000927576,
@@ -6121,11 +5877,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11029235964055561693",
     "LAT": 18.4451592,
     "LONG": 79.1302155,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 246,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "246. ROHAN HOSPITAL",
     "CONTACT": 8008155551,
@@ -6146,11 +5901,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10209188967092575019",
     "LAT": 18.450288,
     "LONG": 79.1333762,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 247,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "247. SAANVIKA MULITI SUPER SPECIALITY HOSPITAL -KARIMNAGAR",
     "CONTACT": 9848870843,
@@ -6171,11 +5925,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 248,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "248. SAGAR HOSPITAL",
     "CONTACT": 9550214148,
@@ -6196,11 +5949,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12813243280202666208",
     "LAT": 18.4434293,
     "LONG": 79.1297005,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 249,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "249. SAI ASWIKA HOSITAL",
     "CONTACT": 9866894577,
@@ -6221,11 +5973,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=535455124278216866",
     "LAT": 18.4436099,
     "LONG": 79.1289015,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 250,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "250. SAI HOSPITALS",
     "CONTACT": 9849676708,
@@ -6246,11 +5997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5950848001248969541",
     "LAT": 18.4395817,
     "LONG": 79.1318483,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 251,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "251. SAI KRISHNA HOSPITAL- KARIMNAGAR",
     "CONTACT": 9676964650,
@@ -6261,21 +6011,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 20,
-    "ICU_BEDS_OCCUPIED": 12,
-    "ICU_BEDS_VACANT": 8,
+    "ICU_BEDS_OCCUPIED": 11,
+    "ICU_BEDS_VACANT": 9,
     "TOTAL": 30,
-    "OCCUPIED": 22,
-    "VACANT": 8,
-    "DATE": "28/04/2021",
-    "TIME": "8:35:05 PM",
+    "OCCUPIED": 21,
+    "VACANT": 9,
+    "DATE": "29/04/2021",
+    "TIME": "8:01:08 AM",
     "LOCATION": "https://maps.google.com/?cid=16544338426560090053",
     "LAT": 18.4432105,
     "LONG": 79.1303234,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 252,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "252. SAI POORNIMA INFERTILITY AND PEDIATRIC CENTER",
     "CONTACT": 9959583735,
@@ -6296,11 +6045,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 253,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "253. SAI SHARANYA HOSPITAL - KARIMNAGAR",
     "CONTACT": 9701074742,
@@ -6321,11 +6069,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17350148064182457961",
     "LAT": 18.4394977,
     "LONG": 79.1269174,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 254,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "254. SAPTHAGIRI HOSPITAL",
     "CONTACT": 9618608080,
@@ -6346,11 +6093,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12247619998785903900",
     "LAT": 18.4401982,
     "LONG": 79.1302105,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 255,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "255. SAROJINI HOSPITAL",
     "CONTACT": 9849881875,
@@ -6371,11 +6117,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5401772898929015444",
     "LAT": 18.4414382,
     "LONG": 79.1290658,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 256,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "256. Sparsh Children Hospital-Karimnagar",
     "CONTACT": 7799579872,
@@ -6396,11 +6141,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sparsh+Children's+Hospital/@18.4404401,79.1294664,17z/data=!3m1!4b1!4m5!3m4!1s0x3bccd953de1bf657:0x36b08e3b9fb60e0c!8m2!3d18.4404401!4d79.1316551",
     "LAT": 18.4404401,
     "LONG": 79.1294664,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 257,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "257. SPR HOSPITAL",
     "CONTACT": 9866116030,
@@ -6421,11 +6165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17912484808931718894",
     "LAT": 18.4454418,
     "LONG": 79.1272428,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 258,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "258. SREE DEPIKA-KARIMNAGAR",
     "CONTACT": 9849449530,
@@ -6446,11 +6189,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4344428610508237613",
     "LAT": 18.4437498,
     "LONG": 79.1292051,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 259,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "259. SRI DWARAKAMAYEE MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9866499739,
@@ -6471,11 +6213,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17147108530388592026",
     "LAT": 18.4432066,
     "LONG": 79.1327914,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 260,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "260. SRI KRISHNA HOSPITAL",
     "CONTACT": 9676964650,
@@ -6491,16 +6232,15 @@ telangana_data=[
     "TOTAL": 26,
     "OCCUPIED": 7,
     "VACANT": 19,
-    "DATE": "28/04/2021",
-    "TIME": "9:20:17 PM",
+    "DATE": "29/04/2021",
+    "TIME": "3:11:36 AM",
     "LOCATION": "https://maps.google.com/?cid=16544338426560090053",
     "LAT": 18.4432105,
     "LONG": 79.1303234,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 261,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "261. SRINIVASA NURSING HOME",
     "CONTACT": 9849271441,
@@ -6521,11 +6261,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9391609321038873317",
     "LAT": 18.441701,
     "LONG": 79.1337145,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 262,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "262. SRI PADMAVATHI MULTISPECIALITY HOSPITAL",
     "CONTACT": 9949761701,
@@ -6546,11 +6285,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16333545722880891840",
     "LAT": 18.4384685,
     "LONG": 79.1313172,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 263,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "263. SRI SAI LIFE LINE HOSPITAL",
     "CONTACT": 9949888865,
@@ -6571,11 +6309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9925184069930961329",
     "LAT": 18.4460517,
     "LONG": 79.1243495,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 264,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "264. SRI VENKATESHWARA TRAUMA AND  MATERNITY CENTER",
     "CONTACT": 9490126262,
@@ -6596,11 +6333,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14987422873996374440",
     "LAT": 18.4417528,
     "LONG": 79.1375835,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 265,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "265. SRI VIJAYA SAI CRITICAL CARE HOSPITAL",
     "CONTACT": 8019804355,
@@ -6611,21 +6347,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 9,
-    "ICU_BEDS_OCCUPIED": 4,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_OCCUPIED": 6,
+    "ICU_BEDS_VACANT": 3,
     "TOTAL": 9,
-    "OCCUPIED": 4,
-    "VACANT": 5,
-    "DATE": "28/04/2021",
-    "TIME": "1:09:59 PM",
+    "OCCUPIED": 6,
+    "VACANT": 3,
+    "DATE": "29/04/2021",
+    "TIME": "6:08:22 AM",
     "LOCATION": "https://maps.google.com/?cid=7999884894720663742",
     "LAT": 18.443151,
     "LONG": 79.1284965,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 266,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "266. STAR WINGS HOSPITAL",
     "CONTACT": 9900086460,
@@ -6646,11 +6381,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/STAR+WINGS+HOSPITAL/@18.4443832,79.1316864,17z/data=!4m8!1m2!2m1!1s259.+STAR+WINGS+HOSPITAL!3m4!1s0x3bccd96590744309:0x2f88ce8917f24487!8m2!3d18.4443832!4d79.1338751",
     "LAT": 18.4443832,
     "LONG": 79.1316864,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 267,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "267. STAR WOMEN AND CHILDREN HOSPITAL",
     "CONTACT": 9849402280,
@@ -6671,11 +6405,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=973185399377103706",
     "LAT": 18.455723,
     "LONG": 79.1343626,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 268,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "268. SUDHA HOSPITAL",
     "CONTACT": 9966923000,
@@ -6696,11 +6429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12190729428752578249",
     "LAT": 18.4372595,
     "LONG": 79.1313588,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 269,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "269. SUNRISE HOSPITAL MULTISPECTY AND CRIT CARE CENTER",
     "CONTACT": 7799260000,
@@ -6721,11 +6453,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16406555799806955230",
     "LAT": 18.4430851,
     "LONG": 79.1291835,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 270,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "270. SUNSHINE HOSPITAL",
     "CONTACT": 9177629541,
@@ -6746,11 +6477,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10771600699732808544",
     "LAT": 18.4450173,
     "LONG": 79.1250036,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 271,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "271. SURABHI MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9052269369,
@@ -6771,11 +6501,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14153955878728944579",
     "LAT": 18.4435803,
     "LONG": 79.1276567,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 272,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "272. SURAKSHA MULTI SPECIALITY HOSPITAL",
     "CONTACT": 8250193296,
@@ -6796,11 +6525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14194069958692751697",
     "LAT": 18.2898412,
     "LONG": 79.4739612,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 273,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "273. SURYAN NURISNG HOME",
     "CONTACT": 9885748777,
@@ -6808,24 +6536,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 3,
     "REGULAR_BEDS_VACANT": 17,
     "OXYGEN_BEDS_TOTAL": 8,
-    "OXYGEN_BEDS_OCCUPIED": 8,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_OCCUPIED": 6,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 4,
     "ICU_BEDS_OCCUPIED": 4,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 32,
-    "OCCUPIED": 15,
-    "VACANT": 17,
-    "DATE": "28/04/2021",
-    "TIME": "7:27:45 PM",
+    "OCCUPIED": 13,
+    "VACANT": 19,
+    "DATE": "29/04/2021",
+    "TIME": "12:07:13 AM",
     "LOCATION": "https://maps.google.com/?cid=5530704515840954112",
     "LAT": 18.441499,
     "LONG": 79.1267395,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 274,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "274. VAARAHI HOSPITAL - KARIMNAGAR",
     "CONTACT": 9642088860,
@@ -6846,11 +6573,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8943817915170418995",
     "LAT": 18.4422105,
     "LONG": 79.126211,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 275,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "275. VASARA MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -6871,11 +6597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1961949009540052908",
     "LAT": 18.4402556,
     "LONG": 79.1106235,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 276,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "276. VASUDEVA HOSPITAL",
     "CONTACT": 9866148155,
@@ -6886,21 +6611,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 2,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 6,
-    "ICU_BEDS_OCCUPIED": 2,
-    "ICU_BEDS_VACANT": 4,
+    "ICU_BEDS_OCCUPIED": 3,
+    "ICU_BEDS_VACANT": 3,
     "TOTAL": 14,
-    "OCCUPIED": 6,
-    "VACANT": 8,
-    "DATE": "28/04/2021",
-    "TIME": "3:41:17 PM",
+    "OCCUPIED": 7,
+    "VACANT": 7,
+    "DATE": "29/04/2021",
+    "TIME": "12:32:59 AM",
     "LOCATION": "https://maps.google.com/?cid=7437708610980306596",
     "LAT": 18.443213,
     "LONG": 79.1327128,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 277,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "277. ANANYA HOSPITAL",
     "CONTACT": "--",
@@ -6921,11 +6645,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 278,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "278. ANKURA HOSPITAL",
     "CONTACT": "--",
@@ -6946,11 +6669,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 279,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "279. AROGYA MULTISPECIALITY HOSPITAL - KHAMMAM",
     "CONTACT": 9948888998,
@@ -6971,11 +6693,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11217957334636585243",
     "LAT": 17.2520765,
     "LONG": 80.1436133,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 280,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "280. AYU HOSPITAL - KHAMMAM",
     "CONTACT": 7702299522,
@@ -6996,11 +6717,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8622316226033901939",
     "LAT": 17.2453081,
     "LONG": 80.1759542,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 281,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "281. BREATHE CHEST AND GENERAL HOSPITAL, KHAMMAM",
     "CONTACT": 9121535979,
@@ -7021,17 +6741,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3313198554496059224",
     "LAT": 17.2522823,
     "LONG": 80.1409161,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 282,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "282. BRINDA HOSPTILS , KHAMMAM",
     "CONTACT": 9908130332,
     "REGULAR_BEDS_TOTAL": 7,
-    "REGULAR_BEDS_OCCUPIED": 6,
-    "REGULAR_BEDS_VACANT": 1,
+    "REGULAR_BEDS_OCCUPIED": 7,
+    "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 7,
     "OXYGEN_BEDS_OCCUPIED": 7,
     "OXYGEN_BEDS_VACANT": 0,
@@ -7039,43 +6758,41 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 5,
     "ICU_BEDS_VACANT": 2,
     "TOTAL": 21,
-    "OCCUPIED": 18,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "4:06:20 PM",
+    "OCCUPIED": 19,
+    "VACANT": 2,
+    "DATE": "29/04/2021",
+    "TIME": "12:19:15 AM",
     "LOCATION": "https://maps.google.com/?cid=12573780461681616645",
     "LAT": 17.2530181,
     "LONG": 80.1431611,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 283,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "283. CURE EMERGENCY HOSPITAL",
     "CONTACT": "--",
     "REGULAR_BEDS_TOTAL": 25,
-    "REGULAR_BEDS_OCCUPIED": 15,
-    "REGULAR_BEDS_VACANT": 10,
+    "REGULAR_BEDS_OCCUPIED": 16,
+    "REGULAR_BEDS_VACANT": 9,
     "OXYGEN_BEDS_TOTAL": 15,
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 15,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 5,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_OCCUPIED": 6,
+    "ICU_BEDS_VACANT": 4,
     "TOTAL": 50,
-    "OCCUPIED": 20,
-    "VACANT": 30,
+    "OCCUPIED": 22,
+    "VACANT": 28,
     "DATE": "28/04/2021",
-    "TIME": "4:32:12 PM",
+    "TIME": "10:14:21 PM",
     "LOCATION": "https://www.google.com/maps/place/Cure+Emergency+Hospital/@17.2522711,80.1421469,17z/data=!3m1!4b1!4m5!3m4!1s0x3a3459cce7e49ef5:0x3e10a93cf93e2026!8m2!3d17.2522711!4d80.1443356",
     "LAT": 17.2522711,
     "LONG": 80.1421469,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 284,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "284. GANESH CHEST CLINIC",
     "CONTACT": "--",
@@ -7096,11 +6813,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 285,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "285. HI CARE HOSPITAL MADHIRA",
     "CONTACT": 9704284512,
@@ -7116,22 +6832,21 @@ telangana_data=[
     "TOTAL": 13,
     "OCCUPIED": 12,
     "VACANT": 1,
-    "DATE": "28/04/2021",
-    "TIME": "7:00:39 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:56:35 AM",
     "LOCATION": "https://maps.google.com/?cid=16885314075852495503",
     "LAT": 16.9200313,
     "LONG": 80.3640721,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 286,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "286. KOPPU CHEST HOSPITAL  KHAMMAM",
     "CONTACT": 7569555137,
     "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 6,
-    "REGULAR_BEDS_VACANT": 4,
+    "REGULAR_BEDS_OCCUPIED": 10,
+    "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 3,
     "OXYGEN_BEDS_OCCUPIED": 3,
     "OXYGEN_BEDS_VACANT": 0,
@@ -7139,18 +6854,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 3,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 16,
-    "OCCUPIED": 12,
-    "VACANT": 4,
-    "DATE": "28/04/2021",
-    "TIME": "9:02:25 AM",
+    "OCCUPIED": 16,
+    "VACANT": 0,
+    "DATE": "29/04/2021",
+    "TIME": "7:26:10 AM",
     "LOCATION": "https://maps.google.com/?cid=13046948340084282020",
     "LAT": 17.2484617,
     "LONG": 80.1474158,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 287,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "287. MAMATA MEDICAL COLLEGE - KHAMMAM",
     "CONTACT": 9866181161,
@@ -7171,11 +6885,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6639413837560580340",
     "LAT": 17.2427991,
     "LONG": 80.1681584,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 288,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "288. MEGHANA HOSPITAL - KHAMMAM",
     "CONTACT": 9440294480,
@@ -7191,16 +6904,15 @@ telangana_data=[
     "TOTAL": 16,
     "OCCUPIED": 0,
     "VACANT": 16,
-    "DATE": "28/04/2021",
-    "TIME": "12:12:50 AM",
+    "DATE": "29/04/2021",
+    "TIME": "12:10:42 AM",
     "LOCATION": "https://maps.google.com/?cid=5529555921765919924",
     "LAT": 17.2514703,
     "LONG": 80.1455812,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 289,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "289. NEW LIFE EMERGENCY AND MULTISPECIALITY HOSPITAL",
     "CONTACT": 8008007716,
@@ -7210,22 +6922,21 @@ telangana_data=[
     "OXYGEN_BEDS_TOTAL": 20,
     "OXYGEN_BEDS_OCCUPIED": 8,
     "OXYGEN_BEDS_VACANT": 12,
-    "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 6,
-    "ICU_BEDS_VACANT": 4,
-    "TOTAL": 40,
-    "OCCUPIED": 19,
-    "VACANT": 21,
+    "ICU_BEDS_TOTAL": 14,
+    "ICU_BEDS_OCCUPIED": 9,
+    "ICU_BEDS_VACANT": 5,
+    "TOTAL": 44,
+    "OCCUPIED": 22,
+    "VACANT": 22,
     "DATE": "28/04/2021",
-    "TIME": "3:22:47 PM",
+    "TIME": "10:46:05 PM",
     "LOCATION": "https://maps.google.com/?cid=10326279509468991221",
     "LAT": 17.2486804,
     "LONG": 80.1459168,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 290,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "290. NOVA CARE HOSPITAL - KHAMMAM",
     "CONTACT": 9966426425,
@@ -7246,11 +6957,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15002469453647563600",
     "LAT": 17.2477945,
     "LONG": 80.1479127,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 291,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "291. PRANEEL MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -7261,21 +6971,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 1,
     "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 7,
-    "ICU_BEDS_OCCUPIED": 2,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_OCCUPIED": 4,
+    "ICU_BEDS_VACANT": 3,
     "TOTAL": 15,
-    "OCCUPIED": 8,
-    "VACANT": 7,
+    "OCCUPIED": 10,
+    "VACANT": 5,
     "DATE": "28/04/2021",
-    "TIME": "10:22:33 AM",
+    "TIME": "10:16:33 PM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 292,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "292. PRASANTHI HOSPITAL - KHAMMAM",
     "CONTACT": 9705835301,
@@ -7291,16 +7000,15 @@ telangana_data=[
     "TOTAL": 20,
     "OCCUPIED": 20,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "9:23:50 AM",
+    "DATE": "29/04/2021",
+    "TIME": "8:01:10 AM",
     "LOCATION": "https://maps.google.com/?cid=11454539193952854443",
     "LAT": 17.2496788,
     "LONG": 80.1475261,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 293,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "293. PULSE HOSPITAL",
     "CONTACT": "--",
@@ -7316,16 +7024,15 @@ telangana_data=[
     "TOTAL": 10,
     "OCCUPIED": 9,
     "VACANT": 1,
-    "DATE": "28/04/2021",
-    "TIME": "4:45:41 AM",
+    "DATE": "29/04/2021",
+    "TIME": "6:13:55 AM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 294,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "294. SAHASRA MULTI SPECIALTY  HOSPITAL",
     "CONTACT": "--",
@@ -7346,11 +7053,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/SAHASRA+MULTI+SPECIALTY+HOSPITAL/@17.2511441,80.1421246,18z/data=!4m9!1m2!2m1!1sSAHASRA+MULTI+SPECIALTY++HOSPITAL+khammam!3m5!1s0x3a345952166a471b:0xe9257bd380057a69!8m2!3d17.252167!4d80.141147!15sCilTQUhBU1JBIE1VTFRJIFNQRUNJQUxUWSAgSE9TUElUQUwga2hhbW1hbVpMCiBzYWhhc3JhIG11bHRpIHNwZWNpYWx0eSBob3NwaXRhbCIoc2FoYXNyYSBtdWx0aSBzcGVjaWFsdHkgaG9zcGl0YWwga2hhbW1hbZIBC25ldXJvbG9naXN0",
     "LAT": 17.2511441,
     "LONG": 80.1421246,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 295,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "295. SAI RAM GASTRO & LIVER HOSPITAL",
     "CONTACT": "--",
@@ -7371,11 +7077,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sairam+Gastro+%26+Liver+Hospital/@17.2519874,80.1405611,17z/data=!4m5!3m4!1s0x3a345833a746becb:0xbf22bf7e96b837ad!8m2!3d17.2521565!4d80.1403787?hl=en",
     "LAT": 17.2519874,
     "LONG": 80.1405611,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 296,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "296. SAKETH  KRISHNA HOSPITAL , WYRA",
     "CONTACT": 9885579123,
@@ -7391,16 +7096,15 @@ telangana_data=[
     "TOTAL": 20,
     "OCCUPIED": 3,
     "VACANT": 17,
-    "DATE": "28/04/2021",
-    "TIME": "7:21:46 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:34:14 AM",
     "LOCATION": "https://maps.google.com/?cid=3204717431590325253",
     "LAT": 17.1917741,
     "LONG": 80.3575128,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 297,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "297. SAMATHA HOSPITAL - MADHIRA",
     "CONTACT": 7659864934,
@@ -7421,11 +7125,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15932574121423350845",
     "LAT": 16.9364216,
     "LONG": 80.3673425,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 298,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "298. SANKALPA CSTAR HOSPITAL - KHAMMAM",
     "CONTACT": 9003584209,
@@ -7446,11 +7149,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2488297283826580106",
     "LAT": 17.2485421,
     "LONG": 80.1488411,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 299,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "299. SEELAM HOSPITAL - KHAMMAM",
     "CONTACT": 9959430003,
@@ -7471,11 +7173,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 300,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "300. SPANDANA HOSPITAL - KHAMMAM",
     "CONTACT": 9154491522,
@@ -7496,11 +7197,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11548842055810678486",
     "LAT": 17.2511286,
     "LONG": 80.1435307,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 301,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "301. SPARSHA NEURO EMARGENCY HOSPITAL KHAMMAM",
     "CONTACT": 7702050946,
@@ -7521,11 +7221,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16891939582694567860",
     "LAT": 17.2477077,
     "LONG": 80.148662,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 302,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "302. SRI ABHAYA HOSPITALS MULTISPECIALITY EMERGENCY AND CRITICAL CARE ,KHAMMAM",
     "CONTACT": 9848417867,
@@ -7541,16 +7240,15 @@ telangana_data=[
     "TOTAL": 32,
     "OCCUPIED": 25,
     "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "7:29:30 AM",
+    "DATE": "29/04/2021",
+    "TIME": "5:32:37 AM",
     "LOCATION": "https://maps.google.com/?cid=4830176793541568076",
     "LAT": 17.2488268,
     "LONG": 80.1667659,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 303,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "303. SRI BALAJI ASIAN HOSPITAL - KHAMMAM",
     "CONTACT": 9866926022,
@@ -7571,11 +7269,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16151657637853953257",
     "LAT": 17.2477375,
     "LONG": 80.1488079,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 304,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "304. SRI BALAJI CHEST AND DIABETES HOSPITAL ,KHAMMAM",
     "CONTACT": 9700335751,
@@ -7596,11 +7293,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17693259814667887696",
     "LAT": 17.2515859,
     "LONG": 80.1433861,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 305,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "305. SRI KRISHNA HOSPITAL , KHAMMAM",
     "CONTACT": 9912499164,
@@ -7616,16 +7312,15 @@ telangana_data=[
     "TOTAL": 22,
     "OCCUPIED": 10,
     "VACANT": 12,
-    "DATE": "28/04/2021",
-    "TIME": "7:29:52 PM",
+    "DATE": "29/04/2021",
+    "TIME": "12:03:28 AM",
     "LOCATION": "https://maps.google.com/?cid=10400420732903396084",
     "LAT": 17.2525326,
     "LONG": 80.1451157,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 306,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "306. SRI LAKSHMI MADHAVA HOSPITAL",
     "CONTACT": "--",
@@ -7646,11 +7341,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Laxmi+Madhava+Hospital/@17.2508184,80.1447836,18z/data=!4m9!1m2!2m1!1sSRI+LAKSHMI+MADHAVA+HOSPITAL+khammam!3m5!1s0x3a3459cda638565f:0x7c8f7b7c98027e4e!8m2!3d17.2508184!4d80.1458779!15sCiRTUkkgTEFLU0hNSSBNQURIQVZBIEhPU1BJVEFMIGtoYW1tYW1aRAocc3JpIGxha3NobWkgbWFkaGF2YSBob3NwaXRhbCIkc3JpIGxha3NobWkgbWFkaGF2YSBob3NwaXRhbCBraGFtbWFtkgEIaG9zcGl0YWw",
     "LAT": 17.2508184,
     "LONG": 80.1447836,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 307,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "307. SRINIVASA HOSPITAL",
     "CONTACT": "--",
@@ -7666,16 +7360,15 @@ telangana_data=[
     "TOTAL": 22,
     "OCCUPIED": 11,
     "VACANT": 11,
-    "DATE": "28/04/2021",
-    "TIME": "7:41:07 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:32:22 AM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 308,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "308. SRI RAKSHA HOSPITAL",
     "CONTACT": "--",
@@ -7696,11 +7389,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Raksha+Hospital/@17.2487357,80.1496901,17z/data=!4m5!3m4!1s0x3a3459cce9b475d5:0x7d214cf1b0799be9!8m2!3d17.248997!4d80.1494219?hl=en",
     "LAT": 17.2487357,
     "LONG": 80.1496901,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 309,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "309. SRIRAM KIDNEY & INFERTILITY CENTRE HOSPITAL - KHAMMAM",
     "CONTACT": 9966266645,
@@ -7721,61 +7413,58 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5241865618117377800",
     "LAT": 17.2516003,
     "LONG": 80.1443112,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 310,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "310. SRI SAI MARUTHI GENERAL HOSPITAL KHAMMAM",
     "CONTACT": 9849999792,
     "REGULAR_BEDS_TOTAL": 3,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 3,
+    "REGULAR_BEDS_OCCUPIED": 1,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 5,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_OCCUPIED": 2,
+    "OXYGEN_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 7,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 7,
     "TOTAL": 15,
-    "OCCUPIED": 0,
-    "VACANT": 15,
-    "DATE": "28/04/2021",
-    "TIME": "11:05:39 AM",
+    "OCCUPIED": 3,
+    "VACANT": 12,
+    "DATE": "29/04/2021",
+    "TIME": "12:21:55 AM",
     "LOCATION": "https://maps.google.com/?cid=9532343579208025233",
     "LAT": 17.2476555,
     "LONG": 80.1473766,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 311,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "311. SUJATHA HOSPITAL & DIALYSIS CENTRE",
     "CONTACT": "--",
     "REGULAR_BEDS_TOTAL": 4,
-    "REGULAR_BEDS_OCCUPIED": 3,
-    "REGULAR_BEDS_VACANT": 1,
+    "REGULAR_BEDS_OCCUPIED": 0,
+    "REGULAR_BEDS_VACANT": 4,
     "OXYGEN_BEDS_TOTAL": 8,
-    "OXYGEN_BEDS_OCCUPIED": 2,
-    "OXYGEN_BEDS_VACANT": 6,
+    "OXYGEN_BEDS_OCCUPIED": 6,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 8,
-    "ICU_BEDS_OCCUPIED": 4,
-    "ICU_BEDS_VACANT": 4,
+    "ICU_BEDS_OCCUPIED": 2,
+    "ICU_BEDS_VACANT": 6,
     "TOTAL": 20,
-    "OCCUPIED": 9,
-    "VACANT": 11,
-    "DATE": "28/04/2021",
-    "TIME": "6:03:29 PM",
+    "OCCUPIED": 8,
+    "VACANT": 12,
+    "DATE": "29/04/2021",
+    "TIME": "8:00:03 AM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 312,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "312. SURAKSHA HOSPITAL",
     "CONTACT": 9966436426,
@@ -7796,11 +7485,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4382049853737184400",
     "LAT": 17.2510936,
     "LONG": 80.1437023,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 313,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "313. SWATHI HOSPITAL , KHAMMAM",
     "CONTACT": 6281388276,
@@ -7821,11 +7509,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14307802617351863654",
     "LAT": 17.2481649,
     "LONG": 80.1472163,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 314,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "314. TEJASWI HOSPITAL - KHAMMAM",
     "CONTACT": 9154491522,
@@ -7846,11 +7533,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4612721611970191913",
     "LAT": 17.2496683,
     "LONG": 80.1456761,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 315,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "315. TELANGANA HOSPITAL - KHAMMAM",
     "CONTACT": 9010592739,
@@ -7866,16 +7552,15 @@ telangana_data=[
     "TOTAL": 14,
     "OCCUPIED": 0,
     "VACANT": 14,
-    "DATE": "28/04/2021",
-    "TIME": "9:43:27 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:19:22 AM",
     "LOCATION": "https://maps.google.com/?cid=626037659407157319",
     "LAT": 17.2518194,
     "LONG": 80.145167,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 316,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "316. USHODAYA HOSPITALS , KHAMMAM",
     "CONTACT": 9848454145,
@@ -7892,15 +7577,14 @@ telangana_data=[
     "OCCUPIED": 15,
     "VACANT": 35,
     "DATE": "28/04/2021",
-    "TIME": "8:18:38 PM",
+    "TIME": "11:57:58 PM",
     "LOCATION": "https://maps.google.com/?cid=12526296405573057572",
     "LAT": 17.2481649,
     "LONG": 80.1472624,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 317,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "317. VISHWAS MULTISPECIALITY HOSPITAL, KHAMMAM",
     "CONTACT": 9208108108,
@@ -7921,11 +7605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2089863045398995722",
     "LAT": 17.2527885,
     "LONG": 80.139851,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 318,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "318. ADITHYA NURSING HOME",
     "CONTACT": 9440010586,
@@ -7942,15 +7625,14 @@ telangana_data=[
     "OCCUPIED": 0,
     "VACANT": 20,
     "DATE": "28/04/2021",
-    "TIME": "3:59:54 PM",
+    "TIME": "10:13:04 PM",
     "LOCATION": "https://www.google.com/maps/place/Adithya+Nursing+Home/@19.3445087,79.4778865,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2d57cf72051ae3:0xef3d83b1da53d5d8!8m2!3d19.3445037!4d79.4800752",
     "LAT": 19.3445087,
     "LONG": 79.4778865,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 319,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "319. JYOTHI HOSPITAL",
     "CONTACT": 9573326748,
@@ -7966,16 +7648,15 @@ telangana_data=[
     "TOTAL": 1,
     "OCCUPIED": 0,
     "VACANT": 1,
-    "DATE": "28/04/2021",
-    "TIME": "8:30:29 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:55:04 AM",
     "LOCATION": "https://www.google.com/maps/place/Jyothi+Hospital/@19.3479053,79.4803809,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2d56affd0f8bbd:0x11660087fa25143!8m2!3d19.3479003!4d79.4825696",
     "LAT": 19.3479053,
     "LONG": 79.4803809,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 320,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "320. KIMS HOSPITAL",
     "CONTACT": 9908508520,
@@ -7991,16 +7672,15 @@ telangana_data=[
     "TOTAL": 50,
     "OCCUPIED": 3,
     "VACANT": 47,
-    "DATE": "28/04/2021",
-    "TIME": "8:28:48 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:54:15 AM",
     "LOCATION": "https://www.google.com/maps/place/KIMS+HOSPITAL+KAGAZNAGAR/@19.3555105,79.4727606,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2d5727a86b1443:0x4a104dca077b3fec!8m2!3d19.3555055!4d79.4749493",
     "LAT": 19.3555105,
     "LONG": 79.4727606,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 321,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "321. LAXMI CARE HOSPITAL",
     "CONTACT": 8328429208,
@@ -8021,11 +7701,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4528664006141176207",
     "LAT": 19.3544911,
     "LONG": 79.4721912,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 322,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "322. NAZRZTH MISSION HOSPITAL",
     "CONTACT": 9912204006,
@@ -8041,16 +7720,15 @@ telangana_data=[
     "TOTAL": 1,
     "OCCUPIED": 0,
     "VACANT": 1,
-    "DATE": "28/04/2021",
-    "TIME": "8:00:18 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:59:11 AM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 323,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "323. NEW CARE HOSPITAL",
     "CONTACT": 8886948611,
@@ -8071,11 +7749,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 324,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "324. PRAJA LIFE CARE HOSPITAL",
     "CONTACT": 7989318904,
@@ -8083,24 +7760,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 7,
     "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 7,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_OCCUPIED": 8,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 1,
     "ICU_BEDS_OCCUPIED": 1,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 21,
-    "OCCUPIED": 15,
-    "VACANT": 6,
-    "DATE": "28/04/2021",
-    "TIME": "8:02:15 PM",
+    "OCCUPIED": 16,
+    "VACANT": 5,
+    "DATE": "29/04/2021",
+    "TIME": "7:50:29 AM",
     "LOCATION": "https://maps.google.com/?cid=6412385691779565134",
     "LAT": 19.3528779,
     "LONG": 79.4712775,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 325,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "325. SRINIVASA CLINIC",
     "CONTACT": 7386461701,
@@ -8121,11 +7797,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 326,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "326. VIJAYA HOSPITAL",
     "CONTACT": 9849640656,
@@ -8146,11 +7821,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10263674669058724996",
     "LAT": 17.718824,
     "LONG": 79.1605666,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 327,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "327. VIJETHA HOSPITAL",
     "CONTACT": 7013599871,
@@ -8171,11 +7845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4278780940319288926",
     "LAT": 19.347181,
     "LONG": 79.4814773,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 328,
+    "SNO": 12,
     "DISTRICT": "Mahabubabad",
     "HOSPITAL_NAME": "328. AKSHAYA HOSPITAL-MAHABUBABAD",
     "CONTACT": 9842638209,
@@ -8196,11 +7869,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5846117263191933036",
     "LAT": 17.5972131,
     "LONG": 79.9978877,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 329,
+    "SNO": 12,
     "DISTRICT": "Mahabubabad",
     "HOSPITAL_NAME": "329. SAI MULTISPECIALITY HOSPITAL BESIDE BUSTAND",
     "CONTACT": 9676333833,
@@ -8208,24 +7880,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 20,
     "OXYGEN_BEDS_TOTAL": 23,
-    "OXYGEN_BEDS_OCCUPIED": 19,
-    "OXYGEN_BEDS_VACANT": 4,
+    "OXYGEN_BEDS_OCCUPIED": 20,
+    "OXYGEN_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 14,
-    "ICU_BEDS_OCCUPIED": 4,
-    "ICU_BEDS_VACANT": 10,
+    "ICU_BEDS_OCCUPIED": 2,
+    "ICU_BEDS_VACANT": 12,
     "TOTAL": 57,
-    "OCCUPIED": 23,
-    "VACANT": 34,
-    "DATE": "28/04/2021",
-    "TIME": "5:38:03 PM",
+    "OCCUPIED": 22,
+    "VACANT": 35,
+    "DATE": "29/04/2021",
+    "TIME": "7:58:04 AM",
     "LOCATION": "https://maps.google.com/?cid=6505037105442378464",
     "LAT": 17.5889586,
     "LONG": 79.6544164,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 330,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "330. AGUR PRIME HOSPITAL",
     "CONTACT": "--",
@@ -8246,11 +7917,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 331,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "331. ANILS SURGICARE HOSPITAL",
     "CONTACT": 9848421172,
@@ -8271,11 +7941,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1825295457767439529",
     "LAT": 16.7533026,
     "LONG": 78.0005279,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 332,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "332. CSR CHILDRENS HOSPITAL",
     "CONTACT": "--",
@@ -8296,11 +7965,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/CSR+Children+hospital/@16.7478293,77.9889927,14z/data=!4m9!1m2!2m1!1sCSR+CHILDRENS+HOSPITAL+Mahabubnagar!3m5!1s0x3bca29d21f26cf5b:0xc35798541d2829e9!8m2!3d16.7515023!4d78.0014504!15sCiNDU1IgQ0hJTERSRU5TIEhPU1BJVEFMIE1haGFidWJuYWdhcpIBDHBlZGlhdHJpY2lhbg",
     "LAT": 16.7478293,
     "LONG": 77.9889927,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 333,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "333. MALLIKA HOSPITAL SUPER SPECIALITY CENTRE-RAJENDRA NAGAR,MBNR",
     "CONTACT": 9966431276,
@@ -8321,11 +7989,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10639333457756698340",
     "LAT": 16.754533,
     "LONG": 77.9999504,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 334,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "334. NAVODAYA INSTITUTE OF MEDICAL SCIENCE - MAHBUBNAGAR",
     "CONTACT": 9346926084,
@@ -8346,11 +8013,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7348449212582916333",
     "LAT": 16.7497542,
     "LONG": 77.9930035,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 335,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "335. NEHA SUNSHINE HOSPITAL - MAHABUBNAGAR",
     "CONTACT": 7013496425,
@@ -8371,11 +8037,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15998474806643392215",
     "LAT": 16.7519436,
     "LONG": 78.0105154,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 336,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "336. PANCHAVATI-MAHABUBNAGAR",
     "CONTACT": 9738279000,
@@ -8391,41 +8056,39 @@ telangana_data=[
     "TOTAL": 80,
     "OCCUPIED": 74,
     "VACANT": 6,
-    "DATE": "28/04/2021",
-    "TIME": "3:52:54 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:51:10 AM",
     "LOCATION": "https://maps.google.com/?cid=14678189489269642151",
     "LAT": 16.7488994,
     "LONG": 78.0028152,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 337,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "337. SUSHRUTHA PEOPLE HOSPITAL - MAHABUBNAGAR",
     "CONTACT": 9866457501,
     "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 10,
-    "REGULAR_BEDS_VACANT": 0,
+    "REGULAR_BEDS_OCCUPIED": 8,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 12,
-    "OXYGEN_BEDS_OCCUPIED": 9,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_OCCUPIED": 8,
+    "OXYGEN_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 11,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 11,
     "TOTAL": 33,
-    "OCCUPIED": 19,
-    "VACANT": 14,
+    "OCCUPIED": 16,
+    "VACANT": 17,
     "DATE": "28/04/2021",
-    "TIME": "3:59:36 PM",
+    "TIME": "11:17:53 PM",
     "LOCATION": "https://maps.google.com/?cid=10719838395724054952",
     "LAT": 16.7491301,
     "LONG": 78.0008275,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 338,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "338. SVS MEDICAL COLLEGE - YENUGONDA, MAHBUBNAGAR",
     "CONTACT": 7659066270,
@@ -8446,11 +8109,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16372563384834126286",
     "LAT": 16.7558062,
     "LONG": 78.0413232,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 339,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "339. VEEKSHA HOSPITAL - MAHBUBNAGAR",
     "CONTACT": 8074182963,
@@ -8471,11 +8133,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17385983638770802106",
     "LAT": 16.7529265,
     "LONG": 78.0270521,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 340,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "340. ABHAYA KIDNEY ANDMULTISPECIALTY HOSPITAL",
     "CONTACT": 9866669432,
@@ -8496,11 +8157,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11470672174188248602",
     "LAT": 18.8817924,
     "LONG": 79.4438834,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 341,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "341. AMRUTHA HOSPITAL",
     "CONTACT": 9553953374,
@@ -8521,11 +8181,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17450760565784980341",
     "LAT": 18.8819383,
     "LONG": 79.4433276,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 342,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "342. ARYAN HOSPITAL , ISLAMPUR, BELLAMPALLY CHOWRASTHA MANCHERIAL",
     "CONTACT": 9849535143,
@@ -8546,11 +8205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10631335183624619767",
     "LAT": 18.881371,
     "LONG": 79.4417662,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 343,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "343. CHANDRA HOSPITALS",
     "CONTACT": 9489317667,
@@ -8566,16 +8224,15 @@ telangana_data=[
     "TOTAL": 15,
     "OCCUPIED": 15,
     "VACANT": 0,
-    "DATE": "27/04/2021",
-    "TIME": "2:39:26 PM",
+    "DATE": "29/04/2021",
+    "TIME": "4:38:17 AM",
     "LOCATION": "https://maps.google.com/?cid=3154136237611244345",
     "LAT": 18.8826753,
     "LONG": 79.4431619,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 344,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "344. HEALTH CARE HOSPITAL, MANCHERIAL",
     "CONTACT": 9347610162,
@@ -8596,11 +8253,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10964106102687321028",
     "LAT": 18.876472,
     "LONG": 79.443694,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 345,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "345. JAI SAI  HOSPITAL , BELLAMPALLY CHOWRASTA , MANCHERIAL",
     "CONTACT": 8686863667,
@@ -8621,11 +8277,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4583922193054966899",
     "LAT": 18.8815347,
     "LONG": 79.4425375,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 346,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "346. MAYURI HOSPITAL",
     "CONTACT": 9110346771,
@@ -8646,11 +8301,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15549123934603148446",
     "LAT": 18.8805753,
     "LONG": 79.442626,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 347,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "347. MEDILIFE MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9949940888,
@@ -8671,11 +8325,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6733001905224662648",
     "LAT": 18.8809622,
     "LONG": 79.4397143,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 348,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "348. MUKESH HOSPITALS",
     "CONTACT": 9849114878,
@@ -8696,11 +8349,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8802470844068960243",
     "LAT": 18.8812388,
     "LONG": 79.4397525,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 349,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "349. OM SAI MULTISPECIALITY HOSPITAL",
     "CONTACT": 9493969345,
@@ -8721,11 +8373,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1050925028391551933",
     "LAT": 18.8809651,
     "LONG": 79.4450536,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 350,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "350. PULSE CRITICAL CARE HOSPITAL",
     "CONTACT": 9440769353,
@@ -8746,11 +8397,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12385061994211488750",
     "LAT": 18.8713601,
     "LONG": 79.4434402,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 351,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "351. SANJEEVANI  HOSPITAL",
     "CONTACT": 9966247347,
@@ -8771,11 +8421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3232850108208014333",
     "LAT": 18.872368,
     "LONG": 79.4448062,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 352,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "352. SRI AGASTYA INSTITUTE OF MEDICAL SCIENCE ( AIMS HOSPITAL),",
     "CONTACT": 9550415582,
@@ -8796,11 +8445,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12036992310998152594",
     "LAT": 18.8816173,
     "LONG": 79.443746,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 353,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "353. SRI GANESH HOSPITAL - MANCHERIAL",
     "CONTACT": 9550251255,
@@ -8821,11 +8469,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4762090848509955235",
     "LAT": 18.8843325,
     "LONG": 79.4424043,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 354,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "354. Sri Krishna Hospital,Mancherial",
     "CONTACT": 9849273774,
@@ -8846,11 +8493,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Krishna+Hospital/@18.8807302,79.43964,17z/data=!4m8!1m2!2m1!1s354.+Sri+Krishna+Hospital,Mancherial!3m4!1s0x3a32ca76ac22a045:0x75bff779fe1100ea!8m2!3d18.8807302!4d79.4418287",
     "LAT": 18.8807302,
     "LONG": 79.43964,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 355,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "355. SRI MITHRA MULTISPECIALITY  HOSPITAL",
     "CONTACT": 9908595420,
@@ -8871,11 +8517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=463881716998415672",
     "LAT": 18.8811243,
     "LONG": 79.4404931,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 356,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "356. SRINIDHI HOSPITAL",
     "CONTACT": 9849633643,
@@ -8896,11 +8541,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4251306930195961565",
     "LAT": 18.8705735,
     "LONG": 79.444611,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 357,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "357. SRI RAKSHA HOSPITAL - MANCHERIAL",
     "CONTACT": 9618736838,
@@ -8921,11 +8565,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1529058761206412972",
     "LAT": 18.8823666,
     "LONG": 79.4432515,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 358,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "358. SRI SAI LIFELINE HOSPITAL - MANCHERIAL",
     "CONTACT": 9505697919,
@@ -8946,11 +8589,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5795385012464851737",
     "LAT": 18.8815703,
     "LONG": 79.4431807,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 359,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "359. AMMA NURSING HOME",
     "CONTACT": 9951940002,
@@ -8971,11 +8613,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11120964392990690999",
     "LAT": 17.745483,
     "LONG": 78.2797607,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 360,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "360. ANNAPURNA NURSING HOME",
     "CONTACT": 9618423442,
@@ -8996,11 +8637,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17306141396095208986",
     "LAT": 18.0442062,
     "LONG": 78.2635143,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 361,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "361. ANURADHA NURSING HOME",
     "CONTACT": 9908255590,
@@ -9021,11 +8661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17306141396095208986",
     "LAT": 18.0442062,
     "LONG": 78.2635143,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 362,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "362. BALAJI NURSING HOME RAMAYAMPET",
     "CONTACT": 9848945338,
@@ -9046,11 +8685,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2720129514439742708",
     "LAT": 18.1174321,
     "LONG": 78.4288025,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 363,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "363. BEST HOSPITAL",
     "CONTACT": 9989098177,
@@ -9071,11 +8709,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15260959927926708979",
     "LAT": 18.0318343,
     "LONG": 78.264083,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 364,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "364. BHARGAVI NURSING HOME",
     "CONTACT": 9440022010,
@@ -9096,11 +8733,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13770285934541721348",
     "LAT": 17.7384909,
     "LONG": 78.2829017,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 365,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "365. DANGORIA CHARITABLE TURST",
     "CONTACT": 9440049586,
@@ -9121,11 +8757,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1003804862196600598",
     "LAT": 17.7314222,
     "LONG": 78.2843712,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 366,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "366. GANESH HOSPITAL",
     "CONTACT": 7989633131,
@@ -9146,11 +8781,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10972769349444423330",
     "LAT": 17.9723182,
     "LONG": 78.4623502,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 367,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "367. GEETHA  NNURSING HOME",
     "CONTACT": 9052029289,
@@ -9171,11 +8805,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5310309168872160486",
     "LAT": 18.0429916,
     "LONG": 78.2623493,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 368,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "368. HELP HOSPITAL",
     "CONTACT": 9000073884,
@@ -9196,11 +8829,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3306389161206571457",
     "LAT": 18.0411292,
     "LONG": 78.2605408,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 369,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "369. JAYAKRISHNA HOSPITAL",
     "CONTACT": 9440021497,
@@ -9221,11 +8853,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7033431524433475359",
     "LAT": 18.0329389,
     "LONG": 78.263105,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 370,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "370. JAYA LAXMI ORTHOSPIC HOSPITAL",
     "CONTACT": 9848308610,
@@ -9246,11 +8877,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Jayalaxmi+Orthopedic+Hospital/@18.0469587,78.2665913,15z/data=!4m5!3m4!1s0x0:0xaf6bab94d2a8a3a4!8m2!3d18.0469587!4d78.2665913",
     "LAT": 18.04775438,
     "LONG": 78.26663422,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 371,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "371. JYOTHI NURSING HOME",
     "CONTACT": 9989098177,
@@ -9271,11 +8901,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17302926812552993109",
     "LAT": 18.0490077,
     "LONG": 78.2689204,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 372,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "372. LALITHA DEVI NURSING HOME, RAMAYAMPET",
     "CONTACT": 9866864662,
@@ -9296,11 +8925,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2720129514439742708",
     "LAT": 18.1174321,
     "LONG": 78.4288025,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 373,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "373. LIFE CARE NURSING HOME",
     "CONTACT": 9440486558,
@@ -9321,11 +8949,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3168322781613779362",
     "LAT": 18.039103,
     "LONG": 78.2609394,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 374,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "374. MADHAVI NURSING HOME",
     "CONTACT": 9866101318,
@@ -9346,11 +8973,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5330563274564498548",
     "LAT": 17.7429835,
     "LONG": 78.2826398,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 375,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "375. MAHESHWARA MEDICAL COLLEGE, CHITKU. VILLAGE, MEDAK",
     "CONTACT": 9849529783,
@@ -9371,11 +8997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5025074769879529047",
     "LAT": 17.5624265,
     "LONG": 78.2039489,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 376,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "376. MEDAK NEURO SUPER SPECIALTY HOSPITAL",
     "CONTACT": 8147725067,
@@ -9396,11 +9021,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8751184640699742663",
     "LAT": 18.0441925,
     "LONG": 78.262248,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 377,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "377. MEDAK NURSING HOME",
     "CONTACT": 9704063455,
@@ -9421,11 +9045,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8751184640699742663",
     "LAT": 18.0441925,
     "LONG": 78.262248,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 378,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "378. MEDAK ORTHOPEDIC AND  GENERAL HOSPITAL",
     "CONTACT": 9866093923,
@@ -9446,11 +9069,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2246680887876750486",
     "LAT": 18.0468618,
     "LONG": 78.266678,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 379,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "379. MEGA HOSPITAL",
     "CONTACT": 9502990066,
@@ -9471,11 +9093,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14373167810822772596",
     "LAT": 17.7383018,
     "LONG": 78.2828983,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 380,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "380. MNR MEDICAL COLLEGE & HOSPITAL - MEDAK",
     "CONTACT": 7330999246,
@@ -9483,24 +9104,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 3,
     "REGULAR_BEDS_VACANT": 147,
     "OXYGEN_BEDS_TOTAL": 70,
-    "OXYGEN_BEDS_OCCUPIED": 36,
-    "OXYGEN_BEDS_VACANT": 34,
+    "OXYGEN_BEDS_OCCUPIED": 31,
+    "OXYGEN_BEDS_VACANT": 39,
     "ICU_BEDS_TOTAL": 10,
     "ICU_BEDS_OCCUPIED": 10,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 230,
-    "OCCUPIED": 49,
-    "VACANT": 181,
-    "DATE": "28/04/2021",
-    "TIME": "6:50:55 PM",
+    "OCCUPIED": 44,
+    "VACANT": 186,
+    "DATE": "29/04/2021",
+    "TIME": "7:50:25 AM",
     "LOCATION": "https://maps.google.com/?cid=9854784856470188465",
     "LAT": 17.6224194,
     "LONG": 78.1269745,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 381,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "381. NAREN HOSPITAL",
     "CONTACT": 7799341041,
@@ -9521,11 +9141,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14572053392565104104",
     "LAT": 18.1187585,
     "LONG": 78.4322035,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 382,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "382. NIHAAL NURSING HOME",
     "CONTACT": 9440885464,
@@ -9546,11 +9165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10590941291661239797",
     "LAT": 18.0441277,
     "LONG": 78.2630161,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 383,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "383. OKAZ MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9908382091,
@@ -9571,11 +9189,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2477837466028326266",
     "LAT": 18.0425434,
     "LONG": 78.2631972,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 384,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "384. PADMALAYA HOSPITAL",
     "CONTACT": 9959801399,
@@ -9596,11 +9213,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10590941291661239797",
     "LAT": 18.0441277,
     "LONG": 78.2630161,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 385,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "385. PULSE HOSPITAL",
     "CONTACT": 9959474132,
@@ -9621,11 +9237,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 386,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "386. PUSHPA CHILDRENS HOSPITAL",
     "CONTACT": 9393940555,
@@ -9646,11 +9261,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16791475377700629813",
     "LAT": 18.0438654,
     "LONG": 78.262771,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 387,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "387. SAI DATTA NURSING HOME",
     "CONTACT": 9849721334,
@@ -9671,11 +9285,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6367471845541149380",
     "LAT": 18.0466086,
     "LONG": 78.2616587,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 388,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "388. SATHWIK HOSPITAL",
     "CONTACT": 9963432646,
@@ -9696,11 +9309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8106373506930536202",
     "LAT": 18.0417579,
     "LONG": 78.261213,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 389,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "389. SHIVA DATTA HOSPITAL",
     "CONTACT": 9908836015,
@@ -9721,11 +9333,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1443203779122273934",
     "LAT": 18.053079,
     "LONG": 77.9141958,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 390,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "390. SHIVA JYOTHI NURSING HOME",
     "CONTACT": 8500201229,
@@ -9746,11 +9357,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17302926812552993109",
     "LAT": 18.0490077,
     "LONG": 78.2689204,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 391,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "391. SHIVANANDA HOSPITAL",
     "CONTACT": 9440383819,
@@ -9771,11 +9381,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=465743714099090066",
     "LAT": 18.0438376,
     "LONG": 78.261622,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 392,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "392. SIRI MATERNITY NURSING HOME",
     "CONTACT": 9849031699,
@@ -9796,11 +9405,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11922481204236541852",
     "LAT": 17.741123,
     "LONG": 78.2824182,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 393,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "393. SRI AKSHAYA ORTHOPEDIC HOSPITAL",
     "CONTACT": 9000884203,
@@ -9821,11 +9429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15188338524168266280",
     "LAT": 18.0357304,
     "LONG": 78.2619503,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 394,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "394. SRI BHARATH CHILDRENS HOSPITAL",
     "CONTACT": 9704149162,
@@ -9846,11 +9453,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13990683556888581568",
     "LAT": 18.042617,
     "LONG": 78.2632042,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 395,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "395. SRI BHARATHI NURSING HOME",
     "CONTACT": 9291664433,
@@ -9871,11 +9477,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7873976982247034820",
     "LAT": 18.0428532,
     "LONG": 78.2625447,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 396,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "396. SRI GAYATRI HOSPITAL",
     "CONTACT": 9440386082,
@@ -9896,11 +9501,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4853370652271920789",
     "LAT": 18.0530682,
     "LONG": 77.9170725,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 397,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "397. SRI MALLAGOUD HOSPITAL",
     "CONTACT": 9542392935,
@@ -9921,11 +9525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4686942181841158580",
     "LAT": 18.0393937,
     "LONG": 78.2605039,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 398,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "398. SRI MANJEERA HOSPITAL",
     "CONTACT": 9553777007,
@@ -9946,11 +9549,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4686942181841158580",
     "LAT": 18.0393937,
     "LONG": 78.2605039,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 399,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "399. SRINIVASA NURSING HOME RAMAYAMPET",
     "CONTACT": 9989230500,
@@ -9971,11 +9573,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17608254420865251307",
     "LAT": 18.1160654,
     "LONG": 78.4283414,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 400,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "400. SRI RAGAVENDRA NURSING HOME",
     "CONTACT": 9440479762,
@@ -9996,11 +9597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15843017907639900188",
     "LAT": 18.0395489,
     "LONG": 78.2603611,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 401,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "401. SRI SAI CHANDRA NURSING HOME",
     "CONTACT": 9440003944,
@@ -10021,11 +9621,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15843017907639900188",
     "LAT": 18.0395489,
     "LONG": 78.2603611,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 402,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "402. SRI SAI HOSPITAL RAMAYAMPET",
     "CONTACT": 9963813690,
@@ -10046,11 +9645,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2720129514439742708",
     "LAT": 18.1174321,
     "LONG": 78.4288025,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 403,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "403. SRI SAIKRISHNA NURSING HOME RAMAYAMPET",
     "CONTACT": 9440006395,
@@ -10071,11 +9669,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2720129514439742708",
     "LAT": 18.1174321,
     "LONG": 78.4288025,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 404,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "404. SRI SAI KRISHNA TOOPRAN NURSING HOME",
     "CONTACT": 9849351056,
@@ -10096,11 +9693,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14405575550019216645",
     "LAT": 17.8464504,
     "LONG": 78.4761493,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 405,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "405. SRI SURYA NURSING HOME",
     "CONTACT": 9440006013,
@@ -10121,11 +9717,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5310309168872160486",
     "LAT": 18.0429916,
     "LONG": 78.2623493,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 406,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "406. SRI VENKATESHWARA NURSING HOME",
     "CONTACT": 9441537155,
@@ -10146,11 +9741,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6277203630384712753",
     "LAT": 18.1017403,
     "LONG": 78.8474697,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 407,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "407. SRK HOSPITAL",
     "CONTACT": 7337083059,
@@ -10171,36 +9765,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16869021485579454368",
     "LAT": 17.9705509,
     "LONG": 78.4605007,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 408,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "408. SUFI HOSPITAL",
     "CONTACT": 7358568276,
     "REGULAR_BEDS_TOTAL": 15,
-    "REGULAR_BEDS_OCCUPIED": 12,
-    "REGULAR_BEDS_VACANT": 3,
+    "REGULAR_BEDS_OCCUPIED": 11,
+    "REGULAR_BEDS_VACANT": 4,
     "OXYGEN_BEDS_TOTAL": 2,
     "OXYGEN_BEDS_OCCUPIED": 2,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 8,
-    "ICU_BEDS_OCCUPIED": 2,
-    "ICU_BEDS_VACANT": 6,
+    "ICU_BEDS_OCCUPIED": 4,
+    "ICU_BEDS_VACANT": 4,
     "TOTAL": 25,
-    "OCCUPIED": 16,
-    "VACANT": 9,
+    "OCCUPIED": 17,
+    "VACANT": 8,
     "DATE": "28/04/2021",
-    "TIME": "4:05:53 PM",
+    "TIME": "11:16:13 PM",
     "LOCATION": "https://maps.google.com/?cid=1094212346554300574",
     "LAT": 18.0431612,
     "LONG": 78.2620123,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 409,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "409. SUSHMA HOSPITAL",
     "CONTACT": 9440132700,
@@ -10221,11 +9813,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5146627295848211518",
     "LAT": 17.8412173,
     "LONG": 78.4781554,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 410,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "410. TVP CHARY NURSINGH HOME",
     "CONTACT": 9000751141,
@@ -10246,11 +9837,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5855213784924993312",
     "LAT": 18.0408949,
     "LONG": 78.4291907,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 411,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "411. UMA SANGAMESHWARA NURSING HOME",
     "CONTACT": 9440227742,
@@ -10271,11 +9861,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5310309168872160486",
     "LAT": 18.0429916,
     "LONG": 78.2623493,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 412,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "412. YASHASVI CHILDREN HOSPITAL",
     "CONTACT": 8464927644,
@@ -10296,11 +9885,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2504557813661544388",
     "LAT": 18.1176704,
     "LONG": 78.4289972,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 413,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "413. AADITYA HOSPITAL, ALWAL",
     "CONTACT": 9030817553,
@@ -10321,11 +9909,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12532772882485434592",
     "LAT": 17.4956504,
     "LONG": 78.5092193,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 414,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "414. AASHRITHA HOSPITAL,MALLAPUR",
     "CONTACT": 9502742949,
@@ -10346,11 +9933,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11354292576408430394",
     "LAT": 17.4455647,
     "LONG": 78.5676165,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 415,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "415. ADITHYA HOSPITALS, MEDCHAL",
     "CONTACT": 9848278370,
@@ -10371,11 +9957,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13143788945237143221",
     "LAT": 17.6325058,
     "LONG": 78.4850841,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 416,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "416. ADITHYA HOSPITAL - UPPAL",
     "CONTACT": 9848844610,
@@ -10396,11 +9981,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1094058235982484067",
     "LAT": 17.4016721,
     "LONG": 78.5756023,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 417,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "417. ADVANCED ENDOCRINE AND DIABETES HOSPITAL-KUKATPALLY",
     "CONTACT": 8885321212,
@@ -10421,11 +10005,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=223947451152116687",
     "LAT": 17.4897898,
     "LONG": 78.4009423,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 418,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "418. ADVITHA CHILDREN AND MULTISPEICALITY HOSPTIAL (A UNIT OF ASHITHA HEALTH CARE), MEDCHAL",
     "CONTACT": 9966666360,
@@ -10446,36 +10029,34 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Advitha+Children+and+Multispeciality+Hospital/@17.6381565,78.4854771,15z/data=!4m5!3m4!1s0x0:0x6050ceff72a0e35b!8m2!3d17.6381565!4d78.4854771",
     "LAT": 17.63850412,
     "LONG": 78.4879662,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 419,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "419. AMRITA ENT HEAD AND NECK  HOSPITAL",
     "CONTACT": 7702965698,
-    "REGULAR_BEDS_TOTAL": 4,
-    "REGULAR_BEDS_OCCUPIED": 4,
+    "REGULAR_BEDS_TOTAL": 6,
+    "REGULAR_BEDS_OCCUPIED": 6,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 7,
-    "OXYGEN_BEDS_OCCUPIED": 7,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_OCCUPIED": 5,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 4,
-    "ICU_BEDS_OCCUPIED": 4,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 15,
-    "OCCUPIED": 15,
-    "VACANT": 0,
+    "ICU_BEDS_OCCUPIED": 3,
+    "ICU_BEDS_VACANT": 1,
+    "TOTAL": 17,
+    "OCCUPIED": 14,
+    "VACANT": 3,
     "DATE": "28/04/2021",
-    "TIME": "8:13:38 AM",
+    "TIME": "11:09:30 PM",
     "LOCATION": "https://maps.google.com/?cid=2969179069232345176",
     "LAT": 17.4885298,
     "LONG": 78.3915001,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 420,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "420. ANANTHA LAKSHMI KIDNEY AND MULTISPECIALITY HOSPITAL,UPPAL",
     "CONTACT": 9392471295,
@@ -10496,11 +10077,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12922127609594723936",
     "LAT": 17.397484,
     "LONG": 78.53671,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 421,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "421. ANKURA HOSPITAL FOR WOMEN AND CHILDREN( A UNIT OF ANKURA MEDICAL AND RESEARCH PVT LTD), KUKATPALLY",
     "CONTACT": 9866283693,
@@ -10521,11 +10101,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=215014633756117766",
     "LAT": 17.4728215,
     "LONG": 78.3872419,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 422,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "422. ANKURA HOSPITAL FOR WOMEN AND CHILDREN ( A UNIT OF ANKURA MEDICAL AND RESEARCH PVT LTD), MEDIPALLY",
     "CONTACT": 9100980044,
@@ -10536,21 +10115,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 13,
     "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 9,
-    "ICU_BEDS_OCCUPIED": 6,
-    "ICU_BEDS_VACANT": 3,
+    "ICU_BEDS_OCCUPIED": 7,
+    "ICU_BEDS_VACANT": 2,
     "TOTAL": 30,
-    "OCCUPIED": 23,
-    "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "5:11:35 PM",
+    "OCCUPIED": 24,
+    "VACANT": 6,
+    "DATE": "29/04/2021",
+    "TIME": "4:34:17 AM",
     "LOCATION": "https://maps.google.com/?cid=215014633756117766",
     "LAT": 17.4728215,
     "LONG": 78.3872419,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 423,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "423. ANKURA KODALI HOSPITAL FOR WOMEN AND CHILDREN, BALANAGAR",
     "CONTACT": 9966759989,
@@ -10571,11 +10149,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5558358985882922666",
     "LAT": 17.483964,
     "LONG": 78.4487718,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 424,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "424. ANUKRISHNA HOSPITAL, MALKAJGIRI",
     "CONTACT": 6300134614,
@@ -10596,11 +10173,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14353978557332679156",
     "LAT": 17.4461501,
     "LONG": 78.5383881,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 425,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "425. APEX HOSPITAL - UPPAL",
     "CONTACT": 9885513204,
@@ -10621,11 +10197,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12188622833774731315",
     "LAT": 17.4081204,
     "LONG": 78.5988092,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 426,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "426. ARC HOSPITAL, ECIL",
     "CONTACT": 9348227797,
@@ -10646,11 +10221,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15388289932244080316",
     "LAT": 17.4715146,
     "LONG": 78.5676966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 427,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "427. ARKE HOSPITAL(TRAUMA ORTHOPAEDICS CRITICAL CARE), KOMPALLY",
     "CONTACT": 9849634090,
@@ -10671,11 +10245,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13364054587129311881",
     "LAT": 17.5314425,
     "LONG": 78.4875181,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 428,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "428. ASHA HOSPITAL - A S RAO NAGAR",
     "CONTACT": 9989050743,
@@ -10696,11 +10269,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8606999155665145560",
     "LAT": 17.4835981,
     "LONG": 78.5580477,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 429,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "429. BBR SUPERSPECIALITY HOSPITAL - BALANAGAR",
     "CONTACT": 9849879993,
@@ -10716,16 +10288,15 @@ telangana_data=[
     "TOTAL": 30,
     "OCCUPIED": 25,
     "VACANT": 5,
-    "DATE": "26/04/2021",
-    "TIME": "1:31:42 PM",
+    "DATE": "28/04/2021",
+    "TIME": "10:46:02 PM",
     "LOCATION": "https://maps.google.com/?cid=231464770652965539",
     "LAT": 17.4643021,
     "LONG": 78.4570945,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 430,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "430. BHASKARA HOSPITAL-SHAPURNAGAR",
     "CONTACT": 9000782510,
@@ -10746,11 +10317,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14446955561163618549",
     "LAT": 17.5164406,
     "LONG": 78.4457426,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 431,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "431. BHUVANA HOSPITAL, MEDCHAL",
     "CONTACT": 9849246499,
@@ -10771,11 +10341,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13143788945237143221",
     "LAT": 17.6325058,
     "LONG": 78.4850841,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 432,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "432. CALCIUM HOSPITAL, NIZAMPET",
     "CONTACT": 9392460662,
@@ -10796,11 +10365,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5403843154743610376",
     "LAT": 17.5065149,
     "LONG": 78.3842064,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 433,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "433. CHANDAMAMA HOSPITAL-NACHARAM",
     "CONTACT": 9246543045,
@@ -10821,11 +10389,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Chandamama+Hospital/@17.4274063,78.5517962,15z/data=!4m2!3m1!1s0x0:0x6c23f50756f8b267?sa=X&ved=2ahUKEwjTyYf53ZjwAhV_xzgGHbf8A5cQ_BIwP3oECGsQBQ",
     "LAT": 17.42795906,
     "LONG": 78.552912,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 434,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "434. CURE HOSPITALS VIJAYAPURI HOSPITALS,GHATKESAR",
     "CONTACT": 9502319879,
@@ -10846,11 +10413,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17044502064905972322",
     "LAT": 17.422319,
     "LONG": 78.6397356,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 435,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "435. CYGNUS INSTITUTE OF GASTROENTEROLOGY-KUKATPALLY",
     "CONTACT": 9866755573,
@@ -10871,11 +10437,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16954693812804244219",
     "LAT": 17.4976235,
     "LONG": 78.390113,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 436,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "436. DIVYANSH HOSPITAL- NAGARAM KEESARA",
     "CONTACT": 9885634512,
@@ -10883,24 +10448,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 3,
     "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 7,
-    "OXYGEN_BEDS_OCCUPIED": 7,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_OCCUPIED": 6,
+    "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 6,
     "ICU_BEDS_OCCUPIED": 6,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 19,
-    "OCCUPIED": 16,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "12:55:23 AM",
+    "OCCUPIED": 15,
+    "VACANT": 4,
+    "DATE": "29/04/2021",
+    "TIME": "12:03:55 AM",
     "LOCATION": "https://maps.google.com/?cid=15653720213795263200",
     "LAT": 17.489873,
     "LONG": 78.600499,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 437,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "437. EXCEL HOSPITAL - ALWAL",
     "CONTACT": 9700490049,
@@ -10921,11 +10485,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15996852659381007998",
     "LAT": 17.508018,
     "LONG": 78.5023314,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 438,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "438. GAYATHRI HOSPITAL - KUKATPALLY",
     "CONTACT": 9573457056,
@@ -10941,16 +10504,15 @@ telangana_data=[
     "TOTAL": 11,
     "OCCUPIED": 4,
     "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "7:13:34 AM",
+    "DATE": "29/04/2021",
+    "TIME": "7:13:37 AM",
     "LOCATION": "https://maps.google.com/?cid=6285142603105049858",
     "LAT": 17.4927511,
     "LONG": 78.4094638,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 439,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "439. GNR MULTISPECIALITY HOSPITAL ALWAL",
     "CONTACT": 8555093529,
@@ -10971,11 +10533,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13071586206761021238",
     "LAT": 17.4992576,
     "LONG": 78.5129053,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 440,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "440. Happy Childrens hospital-Chintal",
     "CONTACT": 9346134567,
@@ -10996,11 +10557,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Happy+Children's+Hospital/@17.5010448,78.4011153,12.89z/data=!4m5!3m4!1s0x3bcb90401d98a1cb:0xdb79276b7189ebda!8m2!3d17.496429!4d78.452438",
     "LAT": 17.5010448,
     "LONG": 78.4011153,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 441,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "441. JR REDDY LIONS CLUB HOSPITAL -NAGARAM KEESARA",
     "CONTACT": 7731930201,
@@ -11021,11 +10581,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Lions+Club+Of+Hyderabad+Hospital/@17.4573102,78.4930566,12z/data=!4m9!1m2!2m1!1sSearch+Results+Lions+Club+Of+Hyderabad+Hospital+Hyderabad,+Telangana+%C2%B7+040+2319+3273+Open+24+hours+DIRECTIONS+M+S+Reddy+Lions+Eye+Hospital+Hyderabad,+Telangana+%C2%B7+040+2713+6994+Closed+%E2%8B%85+Opens+8:30AM+Mon+WEBSITE+DIRECTIONS+Lions+Club+of+Medical+DIRECTIONS+Lions+Club+Of+Malkajgiri+Central+Hyderabad,+Telangana+%C2%B7+040+2705+5212+DIRECTIONS+Sadhuram+Eye+Hospital+Hyderabad,+Telangana+%C2%B7+040+2322+1094+Closed+%E2%8B%85+Opens+9AM+Mon+WEBSITE+DIRECTIONS+Alroyce+Speciality+Hospital+Plot+No.+6-1-04,+Village,+Keesara,+Gatkesaar+Road+%C2%B7+098496+23890+Open+24+hours+WEBSITE+DIRECTIONS+Sri+Kalki+Multi+Speciality+Hospital+And+Diagnostic+Centre+Ghatkesar,+Telangana+%C2%B7+092907+86888+Open+24+hours+DIRECTIONS+Lions+Dundoo+Eye+Hospital+Street+Number+14+%C2%B7+040+2771+6646+Closes+soon+%E2%8B%85+8PM+DIRECTIONS+Y+Kishan+Rao+Balanagar+Lions+Eye+Hospital+Hyderabad,+Telangana+Closed+%E2%8B%85+Opens+9AM+Mon+DIRECTIONS+Lions+Patny+Hospital+204,+Road+NO+:+7,+West+Marredpally+Road+Check+Post,+Opp+punjab+National+Bank+%C2%B7+040+6632+7111+Open+24+hours+DIRECTIONS+Lions+Club+Eye+Institute+1%2F254,+W+Marredpally+Rd+DIRECTIONS+Lions+Club+Of+Malkajgiri+500047+DIRECTIONS+Lions+Club+Of+Secunderabad+27-1%2F1%2F12,+Old+Neredmet+-+Malkajgiri+Rd+%C2%B7+040+2722+0826+Open+%E2%8B%85+Closes+9:30PM+DIRECTIONS+Lion+Club+of+Hyderabad+Open+now+DIRECTIONS+Lions+Club+Of+Secunderabad+Twin+Cities+2nd+Floor,+Varalaxmi+Complex,+Opposite+Stay+Inn+Hotel,+James+Street,+Rani+Gunj,+M+G+Road,+Rani+Gunj+%C2%B7+040+3241+1317+Closed+%E2%8B%85+Opens+7AM+Sun+Lions+Club+Hyderabad,+Telangana+DIRECTIONS+Lions+Club+Of+Secundrabad+-+Ln.Cholaram+Dental+Clinic+9%2F72,+W+Marredpally+Rd+%C2%B7+040+2324+0003+Closed+%E2%8B%85+Opens+9:45AM+Sun+DIRECTIONS+Can't+find+what+you+are+looking+for%3F+ADD+A+MISSING+PLACE+Looking+for+something+different%3F+India759015,+Odisha+-+Based+on+your+past+activityUse+precise+location+-+Learn+more+HelpSend+feedbackPrivacyTerms+++Lions+Club+Of+Hyderabad+Hospital!3m5!1s0x0:0x47653ad80a5a0d17!8m2!3d17.5197423!4d78.4428216!15sCtcOU2VhcmNoIFJlc3VsdHMgTGlvbnMgQ2x1YiBPZiBIeWRlcmFiYWQgSG9zcGl0YWwgSHlkZXJhYmFkLCBUZWxhbmdhbmEgwrcgMDQwIDIzMTkgMzI3MyBPcGVuIDI0IGhvdXJzIERJUkVDVElPTlMgTSBTIFJlZGR5IExpb25zIEV5ZSBIb3NwaXRhbCBIeWRlcmFiYWQsIFRlbGFuZ2FuYSDCtyAwNDAgMjcxMyA2OTk0IENsb3NlZCDii4UgT3BlbnMgODozMEFNIE1vbiBXRUJTSVRFIERJUkVDVElPTlMgTGlvbnMgQ2x1YiBvZiBNZWRpY2FsIERJUkVDVElPTlMgTGlvbnMgQ2x1YiBPZiBNYWxrYWpnaXJpIENlbnRyYWwgSHlkZXJhYmFkLCBUZWxhbmdhbmEgwrcgMDQwIDI3MDUgNTIxMiBESVJFQ1RJT05TIFNhZGh1cmFtIEV5ZSBIb3NwaXRhbCBIeWRlcmFiYWQsIFRlbGFuZ2FuYSDCtyAwNDAgMjMyMiAxMDk0IENsb3NlZCDii4UgT3BlbnMgOUFNIE1vbiBXRUJTSVRFIERJUkVDVElPTlMgQWxyb3ljZSBTcGVjaWFsaXR5IEhvc3BpdGFsIFBsb3QgTm8uIDYtMS0wNCwgVmlsbGFnZSwgS2Vlc2FyYSwgR2F0a2VzYWFyIFJvYWQgwrcgMDk4NDk2IDIzODkwIE9wZW4gMjQgaG91cnMgV0VCU0lURSBESVJFQ1RJT05TIFNyaSBLYWxraSBNdWx0aSBTcGVjaWFsaXR5IEhvc3BpdGFsIEFuZCBEaWFnbm9zdGljIENlbnRyZSBHaGF0a2VzYXIsIFRlbGFuZ2FuYSDCtyAwOTI5MDcgODY4ODggT3BlbiAyNCBob3VycyBESVJFQ1RJT05TIExpb25zIER1bmRvbyBFeWUgSG9zcGl0YWwgU3RyZWV0IE51bWJlciAxNCDCtyAwNDAgMjc3MSA2NjQ2IENsb3NlcyBzb29uIOKLhSA4UE0gRElSRUNUSU9OUyBZIEtpc2hhbiBSYW8gQmFsYW5hZ2FyIExpb25zIEV5ZSBIb3NwaXRhbCBIeWRlcmFiYWQsIFRlbGFuZ2FuYSBDbG9zZWQg4ouFIE9wZW5zIDlBTSBNb24gRElSRUNUSU9OUyBMaW9ucyBQYXRueSBIb3NwaXRhbCAyMDQsIFJvYWQgTk8gOiA3LCBXZXN0IE1hcnJlZHBhbGx5IFJvYWQgQ2hlY2sgUG9zdCwgT3BwIHB1bmphYiBOYXRpb25hbCBCYW5rIMK3IDA0MCA2NjMyIDcxMTEgT3BlbiAyNCBob3VycyBESVJFQ1RJT05TIExpb25zIENsdWIgRXllIEluc3RpdHV0ZSAxLzI1NCwgVyBNYXJyZWRwYWxseSBSZCBESVJFQ1RJT05TIExpb25zIENsdWIgT2YgTWFsa2FqZ2lyaSA1MDAwNDcgRElSRUNUSU9OUyBMaW9ucyBDbHViIE9mIFNlY3VuZGVyYWJhZCAyNy0xLzEvMTIsIE9sZCBOZXJlZG1ldCAtIE1hbGthamdpcmkgUmQgwrcgMDQwIDI3MjIgMDgyNiBPcGVuIOKLhSBDbG9zZXMgOTozMFBNIERJUkVDVElPTlMgTGlvbiBDbHViIG9mIEh5ZGVyYWJhZCBPcGVuIG5vdyBESVJFQ1RJT05TIExpb25zIENsdWIgT2YgU2VjdW5kZXJhYmFkIFR3aW4gQ2l0aWVzIDJuZCBGbG9vciwgVmFyYWxheG1pIENvbXBsZXgsIE9wcG9zaXRlIFN0YXkgSW5uIEhvdGVsLCBKYW1lcyBTdHJlZXQsIFJhbmkgR3VuaiwgTSBHIFJvYWQsIFJhbmkgR3VuaiDCtyAwNDAgMzI0MSAxMzE3IENsb3NlZCDii4UgT3BlbnMgN0FNIFN1biBMaW9ucyBDbHViIEh5ZGVyYWJhZCwgVGVsYW5nYW5hIERJUkVDVElPTlMgTGlvbnMgQ2x1YiBPZiBTZWN1bmRyYWJhZCAtIExuLkNob2xhcmFtIERlbnRhbCBDbGluaWMgOS83MiwgVyBNYXJyZWRwYWxseSBSZCDCtyAwNDAgMjMyNCAwMDAzIENsb3NlZCDii4UgT3BlbnMgOTo0NUFNIFN1biBESVJFQ1RJT05TIENhbid0IGZpbmQgd2hhdCB5b3UgYXJlIGxvb2tpbmcgZm9yPyBBREQgQSBNSVNTSU5HIFBMQUNFIExvb2tpbmcgZm9yIHNvbWV0aGluZyBkaWZmZXJlbnQ_IEluZGlhNzU5MDE1LCBPZGlzaGEgLSBCYXNlZCBvbiB5b3VyIHBhc3QgYWN0aXZpdHlVc2UgcHJlY2lzZSBsb2NhdGlvbiAtIExlYXJuIG1vcmUgSGVscFNlbmQgZmVlZGJhY2tQcml2YWN5VGVybXMgICBMaW9ucyBDbHViIE9mIEh5ZGVyYWJhZCBIb3NwaXRhbCIDiAEBkgEQZ2VuZXJhbF9ob3NwaXRhbA",
     "LAT": 17.52756008,
     "LONG": 78.44634368,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 442,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "442. JUBLIEE HOSPITALS - ALWAL",
     "CONTACT": 9100115340,
@@ -11046,11 +10605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17998591502754218394",
     "LAT": 17.5064102,
     "LONG": 78.5160565,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 443,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "443. KAKATIYA HOSPITAL - UPPAL",
     "CONTACT": 9381370144,
@@ -11066,16 +10624,15 @@ telangana_data=[
     "TOTAL": 40,
     "OCCUPIED": 22,
     "VACANT": 18,
-    "DATE": "28/04/2021",
-    "TIME": "4:07:39 PM",
+    "DATE": "29/04/2021",
+    "TIME": "12:07:09 AM",
     "LOCATION": "https://maps.google.com/?cid=3383145489714241924",
     "LAT": 17.4090398,
     "LONG": 78.5984994,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 444,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "444. KEERTHI HOSPITAL, KEESARA",
     "CONTACT": 9951051258,
@@ -11096,11 +10653,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9245716956695995046",
     "LAT": 17.4931431,
     "LONG": 78.6044058,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 445,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "445. KIDCARE HOSPITAL, BALANAGAR",
     "CONTACT": 9182972309,
@@ -11121,11 +10677,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14122498815593163337",
     "LAT": 17.4841549,
     "LONG": 78.4489151,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 446,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "446. KK REDDY HOSPITAL - KPHB COLONY",
     "CONTACT": 8143010104,
@@ -11146,11 +10701,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4713002846723967383",
     "LAT": 17.4920472,
     "LONG": 78.3973661,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 447,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "447. KONARK HOSPITALS, QUTHBULLAPUR",
     "CONTACT": "--",
@@ -11158,24 +10712,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 10,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 4,
-    "OXYGEN_BEDS_VACANT": 6,
+    "OXYGEN_BEDS_OCCUPIED": 5,
+    "OXYGEN_BEDS_VACANT": 5,
     "ICU_BEDS_TOTAL": 16,
     "ICU_BEDS_OCCUPIED": 8,
     "ICU_BEDS_VACANT": 8,
     "TOTAL": 36,
-    "OCCUPIED": 12,
-    "VACANT": 24,
-    "DATE": "28/04/2021",
-    "TIME": "7:55:35 PM",
+    "OCCUPIED": 13,
+    "VACANT": 23,
+    "DATE": "29/04/2021",
+    "TIME": "7:27:30 AM",
     "LOCATION": "https://maps.google.com/?cid=17791749364567946350",
     "LAT": 17.5123892,
     "LONG": 78.4754769,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 448,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "448. KS HOSPITAL MULTI SPECIALITY HOSPITAL - OLD BOWENPALLY",
     "CONTACT": 9700115963,
@@ -11196,11 +10749,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11456855230803983460",
     "LAT": 17.4691598,
     "LONG": 78.4778792,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 449,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "449. LAND MARK HOSPITAL (A UNIT OF CAPITAL HEALTH SERICES INDIA PRIVATE LIMITED), KUKATPALLY",
     "CONTACT": 8686852020,
@@ -11221,11 +10773,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/LandMark+Hospitals/@17.4990995,78.3872022,18z/data=!4m12!1m6!3m5!1s0x3bcb91f691a401d1:0x3ded4e5d221150b1!2sLandMark+Hospitals!8m2!3d17.4990975!4d78.388041!3m4!1s0x3bcb91f691a401d1:0x3ded4e5d221150b1!8m2!3d17.4990975!4d78.388041",
     "LAT": 17.49920945,
     "LONG": 78.38807665,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 450,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "450. LEAF MULTISPECIALITY HOSPITAL BORBANDA",
     "CONTACT": 7013160090,
@@ -11246,11 +10797,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14844327018891490852",
     "LAT": 17.4594702,
     "LONG": 78.4004702,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 451,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "451. LEELA HOSPITAL (SRK HEALTH CARE), MEDCHAL",
     "CONTACT": 7989798679,
@@ -11271,11 +10821,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4027695023361142014",
     "LAT": 17.6391351,
     "LONG": 78.4843487,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 452,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "452. LIFELINE-ECIL",
     "CONTACT": 8885568186,
@@ -11296,11 +10845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13225005181241625284",
     "LAT": 17.4878779,
     "LONG": 78.5645991,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 453,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "453. LIFELINE MEDICURE HOSPITAL - ALWAL",
     "CONTACT": 8096953645,
@@ -11321,11 +10869,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1361651638363060161",
     "LAT": 17.5113493,
     "LONG": 78.5161327,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 454,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "454. L.K.HOSPITAL PVT LTD, MALKAJGIRI",
     "CONTACT": 8008502200,
@@ -11346,11 +10893,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11491326230400790318",
     "LAT": 17.4513192,
     "LONG": 78.5352171,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 455,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "455. LOTUS HOSPITAL FOR WOMEN AND CHILDREN, KUKATPALLY",
     "CONTACT": 9866056385,
@@ -11371,11 +10917,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14835864590152895424",
     "LAT": 17.490997,
     "LONG": 78.393075,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 456,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "456. MALLA REDDY MEDICAL COLLEGE FOR WOMEN - SURARAM X ROAD",
     "CONTACT": 8008044111,
@@ -11396,11 +10941,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9356123402150176310",
     "LAT": 17.5444307,
     "LONG": 78.4321874,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 457,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "457. MALLA REDDY NARAYANA MULTISPECIALITY HOSPITALA UNIT OF CHANDRAMMA EDUCATIONAL SOCIETY",
     "CONTACT": 9885606758,
@@ -11421,11 +10965,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10725024769205826405",
     "LAT": 17.5439227,
     "LONG": 78.4333391,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 458,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "458. MAMATA ACADEMY OF MEDICAL SCIENCES - BACHUPALLY",
     "CONTACT": 7893211777,
@@ -11446,11 +10989,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10396547186234482038",
     "LAT": 17.5505381,
     "LONG": 78.3857911,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 459,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "459. MANA HOSPITAL  KUKATPALLY",
     "CONTACT": 9885912014,
@@ -11471,11 +11013,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7864384651233107514",
     "LAT": 17.4949681,
     "LONG": 78.4120095,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 460,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "460. MATRIX HOSPITAL - RAMANTHAPUR",
     "CONTACT": 9246872578,
@@ -11491,16 +11032,15 @@ telangana_data=[
     "TOTAL": 25,
     "OCCUPIED": 25,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "4:59:34 AM",
+    "DATE": "29/04/2021",
+    "TIME": "5:00:57 AM",
     "LOCATION": "https://maps.google.com/?cid=12057270256620981630",
     "LAT": 17.4000854,
     "LONG": 78.54032,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 461,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "461. MAX HEALTH HOSPITAL, KUKATPALLY",
     "CONTACT": 9966256464,
@@ -11521,11 +11061,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16776392861839042556",
     "LAT": 17.3662744,
     "LONG": 78.4973133,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 462,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "462. MAXWELL HOSPITAL , MEDCHAL",
     "CONTACT": 7989343094,
@@ -11546,11 +11085,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9070163413711808464",
     "LAT": 17.6378169,
     "LONG": 78.4849124,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 463,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "463. MAYFLOWER HOSPITAL, MALKAJGIRI",
     "CONTACT": 9866283693,
@@ -11571,11 +11109,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=634843573602654919",
     "LAT": 17.483254,
     "LONG": 78.552379,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 464,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "464. MCS NEURO HOSPITAL",
     "CONTACT": 9848051527,
@@ -11596,11 +11133,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17253006246463878029",
     "LAT": 17.4925702,
     "LONG": 78.3977378,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 465,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "465. MEDICALCENTRE BITS PILANI HYDERABAD CAMPUS, JAWAHAR NAGAR",
     "CONTACT": 8529335231,
@@ -11621,11 +11157,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4424908920455702717",
     "LAT": 17.5420487,
     "LONG": 78.5764487,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 466,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "466. MEDIVISION HOSPITAL - SHAPUR",
     "CONTACT": 8074171948,
@@ -11641,16 +11176,15 @@ telangana_data=[
     "TOTAL": 65,
     "OCCUPIED": 43,
     "VACANT": 22,
-    "DATE": "28/04/2021",
-    "TIME": "2:24:16 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:59:13 AM",
     "LOCATION": "https://maps.google.com/?cid=9178154797654322194",
     "LAT": 17.5161475,
     "LONG": 78.447298,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 467,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "467. MEDWISE HOSPITAL, KPHB",
     "CONTACT": 9100686380,
@@ -11671,11 +11205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7028863609794412472",
     "LAT": 17.4908255,
     "LONG": 78.3969102,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 468,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "468. MEENA MULTISPECIALITY HOSPITAL-ALWAL",
     "CONTACT": 8686224400,
@@ -11696,11 +11229,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5616297532685941672",
     "LAT": 17.44168,
     "LONG": 78.521864,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 469,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "469. MEHER HOSPITAL, MEDCHAL",
     "CONTACT": 9502029775,
@@ -11721,11 +11253,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11222274249913029654",
     "LAT": 17.6359036,
     "LONG": 78.4842082,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 470,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "470. NANDHINI-SAINIKPURI",
     "CONTACT": 9666656328,
@@ -11746,11 +11277,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5678090376929391966",
     "LAT": 17.488086,
     "LONG": 78.552181,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 471,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "471. NEERUJA REHABILATION CENTRE AND NURSING HOME",
     "CONTACT": 9849038265,
@@ -11771,11 +11301,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4027695023361142014",
     "LAT": 17.6391351,
     "LONG": 78.4843487,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 472,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "472. NEW LIFE CARE HOSPITAL, UPPAL",
     "CONTACT": 9848776644,
@@ -11796,11 +11325,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8696149394621065396",
     "LAT": 17.4003255,
     "LONG": 78.5656483,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 473,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "473. OMNI HOSPITAL - KUKATPALLY",
     "CONTACT": 9492433427,
@@ -11821,11 +11349,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13361647533386732115",
     "LAT": 17.4853116,
     "LONG": 78.411012,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 474,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "474. PADMAJA HOSPITALS - KUKATPALLY",
     "CONTACT": 8019022770,
@@ -11846,11 +11373,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2524931376904875727",
     "LAT": 17.4868782,
     "LONG": 78.399444,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 475,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "475. PARAMITHA CHILDRENS HOSPITAL, QUTHBULLAPUR",
     "CONTACT": 9849634090,
@@ -11871,11 +11397,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4567982013369786101",
     "LAT": 17.518488,
     "LONG": 78.4827574,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 476,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "476. POULAMI HOSPITAL - A S RAO NAGAR",
     "CONTACT": 9603755354,
@@ -11896,11 +11421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14655697253116419892",
     "LAT": 17.4825426,
     "LONG": 78.5528496,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 477,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "477. PRASAD HOSPITAL - NACHARAM",
     "CONTACT": 9951454074,
@@ -11916,16 +11440,15 @@ telangana_data=[
     "TOTAL": 63,
     "OCCUPIED": 61,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "7:23:09 AM",
+    "DATE": "29/04/2021",
+    "TIME": "12:50:02 AM",
     "LOCATION": "https://maps.google.com/?cid=18020108912459707311",
     "LAT": 17.4384274,
     "LONG": 78.5552277,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 478,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "478. PRASAD MULTISPECIALITY HOSPITAL - KPHB",
     "CONTACT": 9700127576,
@@ -11946,11 +11469,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7761778018216900055",
     "LAT": 17.4920849,
     "LONG": 78.4015897,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 479,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "479. PRATHIMA HOSPITALS, KUKATPALLY",
     "CONTACT": 9989050743,
@@ -11971,11 +11493,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4418639476174380204",
     "LAT": 17.4965495,
     "LONG": 78.3976316,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 480,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "480. PULSE HEART CENTRE - KPHB COLONY",
     "CONTACT": 9848014716,
@@ -11996,11 +11517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10214133762158004378",
     "LAT": 17.490907,
     "LONG": 78.3969412,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 481,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "481. RAGHAVENDRA HOSPITAL - NEW BOWENPALLY",
     "CONTACT": 9030071786,
@@ -12016,16 +11536,15 @@ telangana_data=[
     "TOTAL": 25,
     "OCCUPIED": 25,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:01:10 PM",
+    "DATE": "29/04/2021",
+    "TIME": "8:00:09 AM",
     "LOCATION": "https://maps.google.com/?cid=12007096048341396897",
     "LAT": 17.4567325,
     "LONG": 78.4786157,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 482,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "482. RAINBOW CHILDRENS MEDICARE PVT LTD, KUKATPALLY",
     "CONTACT": 9100858541,
@@ -12046,11 +11565,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17334640256944476367",
     "LAT": 17.4997845,
     "LONG": 78.3840907,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 483,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "483. RAMANTHAPUR HOSPITAL, RAMANTHAPUR",
     "CONTACT": 9963344458,
@@ -12071,11 +11589,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12069729168916196282",
     "LAT": 17.3974407,
     "LONG": 78.5338966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 484,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "484. RAMESH NEURO & CRITICAL CARE UNIT-CHINTAL",
     "CONTACT": 9948536436,
@@ -12083,24 +11600,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 1,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 16,
-    "OXYGEN_BEDS_OCCUPIED": 12,
-    "OXYGEN_BEDS_VACANT": 4,
+    "OXYGEN_BEDS_OCCUPIED": 10,
+    "OXYGEN_BEDS_VACANT": 6,
     "ICU_BEDS_TOTAL": 8,
     "ICU_BEDS_OCCUPIED": 5,
     "ICU_BEDS_VACANT": 3,
     "TOTAL": 25,
-    "OCCUPIED": 18,
-    "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "6:00:14 PM",
+    "OCCUPIED": 16,
+    "VACANT": 9,
+    "DATE": "29/04/2021",
+    "TIME": "5:58:56 AM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 485,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "485. RAMRAJ-JEEDIMETLA",
     "CONTACT": 9440240324,
@@ -12116,16 +11632,15 @@ telangana_data=[
     "TOTAL": 59,
     "OCCUPIED": 30,
     "VACANT": 29,
-    "DATE": "28/04/2021",
-    "TIME": "6:13:15 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:14:16 AM",
     "LOCATION": "https://maps.google.com/?q=Medchal+Rd,+Jeedimetla,+Hyderabad,+Telangana,+India&ftid=0x3bcb85773403847f:0xde27196477eb9468",
     "LAT": 17.519706,
     "LONG": 78.4822083,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 486,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "486. RAMYA HOSPITAL - OLD BOWENPALLY",
     "CONTACT": 9666911868,
@@ -12146,11 +11661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11097036966361640967",
     "LAT": 17.4759682,
     "LONG": 78.4836905,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 487,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "487. RANOVA BALAJI HOSPITAL (A UNIT OF SIVA RAMA HOSPITALS), MEDCHAL ROAD",
     "CONTACT": 9989143340,
@@ -12171,11 +11685,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16904932891709948762",
     "LAT": 17.5184138,
     "LONG": 78.4821834,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 488,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "488. RAVI HOSPITAL- KUKATPALLY",
     "CONTACT": 9494983533,
@@ -12196,11 +11709,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2751050866408887040",
     "LAT": 17.4936388,
     "LONG": 78.4000326,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 489,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "489. RBM HOSPITAL, UPPAL",
     "CONTACT": 9291595995,
@@ -12221,11 +11733,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6804563887819026032",
     "LAT": 17.4184967,
     "LONG": 78.5835565,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 490,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "490. REMEDY HOSPITAL - KUKATPALLY",
     "CONTACT": 8555866548,
@@ -12246,11 +11757,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14579386166358150064",
     "LAT": 17.4947034,
     "LONG": 78.3985733,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 491,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "491. RUSH HOSPITALS - SUCHITRA CIRCLE",
     "CONTACT": 9246569694,
@@ -12271,11 +11781,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17628751062741547790",
     "LAT": 17.4997767,
     "LONG": 78.4774663,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 492,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "492. SAFE SUPERSPECIALITY HOSPITAL - SUCHITRA CIRCLE",
     "CONTACT": 8008309744,
@@ -12296,11 +11805,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Safe+Super+Speciality+Hospitals+%7C+The+Top+%26+Best+Super+Speciality+Hospital+in+Kompally+-+Suchitra/@17.5108551,78.4802086,15z/data=!4m2!3m1!1s0x0:0xb9091b8dbb41b450?sa=X&ved=2ahUKEwjN8tnPpKHwAhWc4zgGHRMrB08Q_BIwRHoECGAQBQ",
     "LAT": 17.5118578,
     "LONG": 78.48025152,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 493,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "493. SAI SIDDARTHA HOSPITAL, SHAPUR NAGAR",
     "CONTACT": "--",
@@ -12321,11 +11829,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6128065973549244587",
     "LAT": 17.5171781,
     "LONG": 78.4449554,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 494,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "494. SANKHYA HOSPITAL - KPHB COLONY",
     "CONTACT": 9052222622,
@@ -12341,16 +11848,15 @@ telangana_data=[
     "TOTAL": 34,
     "OCCUPIED": 34,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:39:31 AM",
+    "DATE": "29/04/2021",
+    "TIME": "7:10:34 AM",
     "LOCATION": "https://maps.google.com/?cid=8197041584098331808",
     "LAT": 17.4875955,
     "LONG": 78.3999977,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 495,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "495. SAVE HOSPITAL - UPPAL",
     "CONTACT": 9100582795,
@@ -12371,11 +11877,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16708233318407542365",
     "LAT": 17.4057773,
     "LONG": 78.5875473,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 496,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "496. SHIVA NURSING HOME, UPPAL",
     "CONTACT": 9848228684,
@@ -12396,11 +11901,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10993780835382363891",
     "LAT": 17.42647,
     "LONG": 78.555081,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 497,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "497. SHREYAS HOSPITAL - ECIL",
     "CONTACT": 9246245811,
@@ -12421,11 +11925,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11736253552143328848",
     "LAT": 17.4778457,
     "LONG": 78.5626637,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 498,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "498. SHRI WAZRA MULTISPECIALITY HOSPITALS, GHATKESAR",
     "CONTACT": 7893412872,
@@ -12446,11 +11949,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14905905890351620166",
     "LAT": 17.4526992,
     "LONG": 78.6849101,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 499,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "499. SIA MULTISPECIALITY REHABILITATION CENTRE (ISOLATION FACILITY WITH MEDICAL SUPERVISION) - KUKATPALLY",
     "CONTACT": 8341246857,
@@ -12471,11 +11973,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3300453239360106790",
     "LAT": 17.4248999,
     "LONG": 78.4517298,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 500,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "500. SIGMA HOSPITAL - JEEDIMETLA",
     "CONTACT": 7993521438,
@@ -12496,11 +11997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10978652583346853230",
     "LAT": 17.5220912,
     "LONG": 78.4431942,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 501,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "501. SIRI ABHAYA HOSPITAL, KEESARA",
     "CONTACT": 9441117526,
@@ -12521,11 +12021,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8633063304654655766",
     "LAT": 17.4786829,
     "LONG": 78.6224187,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 502,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "502. SKIMS HOSPITAL - UPPAL",
     "CONTACT": 9701667662,
@@ -12546,11 +12045,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2387070199916038685",
     "LAT": 17.4023463,
     "LONG": 78.5669579,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 503,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "503. SLG HOSPITAL - BACHUPALLY",
     "CONTACT": 6303284571,
@@ -12571,11 +12069,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6592638803218026180",
     "LAT": 17.5285995,
     "LONG": 78.3627668,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 504,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "504. SOORYA HOSPITALS, MEDCHAL",
     "CONTACT": 9642477578,
@@ -12596,11 +12093,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6175965105089723136",
     "LAT": 17.6319619,
     "LONG": 78.4877752,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 505,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "505. SPARK HOSPITAL - PEERJADIGUDA",
     "CONTACT": 9866817252,
@@ -12621,11 +12117,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7875170177077839121",
     "LAT": 17.402785,
     "LONG": 78.5827075,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 506,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "506. SREE GOWRI HOSPITAL - KPHB",
     "CONTACT": 6304828547,
@@ -12646,11 +12141,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15368489136468476978",
     "LAT": 17.493772,
     "LONG": 78.3981353,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 507,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "507. SRI ADHITHYA-DAMMAIGUDA",
     "CONTACT": 9642665678,
@@ -12671,11 +12165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5423868277155862769",
     "LAT": 17.500925,
     "LONG": 78.5901588,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 508,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "508. SRIDHARANI-NAGARAM",
     "CONTACT": 9392509124,
@@ -12691,16 +12184,15 @@ telangana_data=[
     "TOTAL": 13,
     "OCCUPIED": 13,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "11:55:48 AM",
+    "DATE": "29/04/2021",
+    "TIME": "6:33:18 AM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 509,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "509. SRI HASINI HOSPITAL-GAJULAMARAM",
     "CONTACT": 8008649579,
@@ -12721,11 +12213,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/SRIHASINI+HOSPITAL/@17.5246935,78.4279545,15z/data=!4m2!3m1!1s0x0:0x985a803701b3ae7c?sa=X&ved=2ahUKEwjI8-WQ3pjwAhVNyzgGHVCGA9kQ_BIwNnoECF4QBQ",
     "LAT": 17.52549151,
     "LONG": 78.42786867,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 510,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "510. SRI HEALTH CARE MULTISPECIALITY HOSPITAL, UPPAL",
     "CONTACT": 9949708268,
@@ -12742,15 +12233,14 @@ telangana_data=[
     "OCCUPIED": 2,
     "VACANT": 8,
     "DATE": "28/04/2021",
-    "TIME": "3:58:37 PM",
+    "TIME": "10:50:05 PM",
     "LOCATION": "https://maps.google.com/?cid=2980226074683710953",
     "LAT": 17.3970141,
     "LONG": 78.5607618,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 511,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "511. SRI HOSPITAL-SHAPURNAGAR",
     "CONTACT": 7799922077,
@@ -12771,11 +12261,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 512,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "512. SRIKARA HOSPITAL - KOMPALLY, MEDCHAL",
     "CONTACT": 9030071786,
@@ -12796,11 +12285,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13364054587129311881",
     "LAT": 17.5314425,
     "LONG": 78.4875181,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 513,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "513. SRI LAXMI MULTISPECAILITY HOSPITAL LAPROSCOPIC AND RESEARCH CENTRE, NAGOLE-UPPAL",
     "CONTACT": 9848814267,
@@ -12821,11 +12309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5078475278461040089",
     "LAT": 17.376003,
     "LONG": 78.556852,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 514,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "514. SRINIVAS CHILDRENS AND GENERAL HOSPITAL-KUKATPALLY",
     "CONTACT": 8008823040,
@@ -12846,11 +12333,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Srinivas+childrens+hospital/@17.4868612,78.3845364,15z/data=!4m2!3m1!1s0x0:0xb45c99fef4770e38?sa=X&ved=2ahUKEwjXgrGB35jwAhXjwjgGHQ1mAosQ_BIwMnoECFwQBQ",
     "LAT": 17.48757751,
     "LONG": 78.38479389,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 515,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "515. SRI SAI HOSPITAL, MEDIPALLY",
     "CONTACT": 9912104211,
@@ -12871,11 +12357,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2970168657405854307",
     "LAT": 17.4091222,
     "LONG": 78.6015229,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 516,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "516. SRI SAI HOSPITAL, UPPAL",
     "CONTACT": 9045210458,
@@ -12896,11 +12381,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8526832850671948794",
     "LAT": 17.4003597,
     "LONG": 78.5661856,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 517,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "517. SRI SANJEEVINI MULTISPECIALITY HOSPITAL, ALWAL",
     "CONTACT": 9100176451,
@@ -12921,11 +12405,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2955251080619509716",
     "LAT": 17.493922,
     "LONG": 78.513109,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 518,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "518. SRI SRI HOLISTIC HOSPITAL A UNIT OF SREE RAMCHANDRA HEALTH SERVICES PRIVATE LIMITED",
     "CONTACT": 8886610105,
@@ -12946,11 +12429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8818247717623168489",
     "LAT": 17.5019252,
     "LONG": 78.3889698,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 519,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "519. SRI SWASTHIK HOSPITAL - BACHUPALLY",
     "CONTACT": 7901238439,
@@ -12971,11 +12453,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11903039762326928216",
     "LAT": 17.5380953,
     "LONG": 78.3638402,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 520,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "520. SRIYA HOSPITAL, NEREDMET",
     "CONTACT": 9030846699,
@@ -12996,11 +12477,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15061874789162022554",
     "LAT": 17.4751288,
     "LONG": 78.5394625,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 521,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "521. SRUJANA HOSPITAL - QUTHBULLAPUR",
     "CONTACT": 9492530883,
@@ -13021,11 +12501,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7709011852242623577",
     "LAT": 17.5058025,
     "LONG": 78.4669847,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 522,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "522. STORK HOSPITALS PVT LTD -PETBASHEERABAD",
     "CONTACT": 9550400852,
@@ -13046,11 +12525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3039788076293537255",
     "LAT": 17.40719,
     "LONG": 78.4416467,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 523,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "523. SUBHIKSHA HOSPITAL - KPHB",
     "CONTACT": 8464990055,
@@ -13071,11 +12549,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14778386879559840928",
     "LAT": 17.4912276,
     "LONG": 78.3993905,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 524,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "524. SUMANA HOSPITAL, KUKATPALLY",
     "CONTACT": 9515865105,
@@ -13083,24 +12560,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 19,
-    "OXYGEN_BEDS_OCCUPIED": 14,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_OCCUPIED": 15,
+    "OXYGEN_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 8,
     "ICU_BEDS_OCCUPIED": 6,
     "ICU_BEDS_VACANT": 2,
     "TOTAL": 27,
-    "OCCUPIED": 20,
-    "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "7:13:45 PM",
+    "OCCUPIED": 21,
+    "VACANT": 6,
+    "DATE": "29/04/2021",
+    "TIME": "6:26:02 AM",
     "LOCATION": "https://maps.google.com/?cid=14455480569496598188",
     "LAT": 17.4919469,
     "LONG": 78.4093719,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 525,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "525. SUMITHRA HOSPITALS PVT LTD, UPPAL",
     "CONTACT": 9912228489,
@@ -13121,11 +12597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16056861061066660439",
     "LAT": 17.3960983,
     "LONG": 78.5596091,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 526,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "526. SUN LIFES HOSPITAL - DAMMAIGUDA",
     "CONTACT": 9100099908,
@@ -13141,16 +12616,15 @@ telangana_data=[
     "TOTAL": 30,
     "OCCUPIED": 2,
     "VACANT": 28,
-    "DATE": "28/04/2021",
-    "TIME": "8:20:33 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:50:27 AM",
     "LOCATION": "https://maps.google.com/?cid=12829787400685067163",
     "LAT": 17.4961922,
     "LONG": 78.5960516,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 527,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "527. SURAKSHAKA DIABETIC CENTRE - KPHB",
     "CONTACT": 8886668020,
@@ -13171,11 +12645,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15222944795068079282",
     "LAT": 17.493349,
     "LONG": 78.401615,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 528,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "528. SURAKSHAKA WOMEN AND CHILDREN HOSPITAL, KOMPALLY",
     "CONTACT": "--",
@@ -13196,11 +12669,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Suraksha+Women+%26+Children+Hospital/@17.5170387,78.4783405,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb8565fb5dcebf:0xd2b3cdb571d92e71!8m2!3d17.5170387!4d78.4805292",
     "LAT": 17.5170387,
     "LONG": 78.4783405,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 529,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "529. THATHA HOSPITAL, ECIL",
     "CONTACT": 9885330488,
@@ -13221,11 +12693,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10507557932565293112",
     "LAT": 17.476931,
     "LONG": 78.562907,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 530,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "530. TREATMENT RANGE HOSPITAL PVT LTD, KUKATPALLY",
     "CONTACT": "--",
@@ -13246,11 +12717,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Treatment+Range+Multi-Speciality+Hospital/@17.4827408,78.3706208,12.06z/data=!4m12!1m6!3m5!1s0x3bcb91866ee77883:0xa6198b89919b11d6!2sTreatment+Range+Multi-Speciality+Hospital!8m2!3d17.4875257!4d78.3997211!3m4!1s0x3bcb91866ee77883:0xa6198b89919b11d6!8m2!3d17.4875257!4d78.3997211",
     "LAT": 17.4827408,
     "LONG": 78.3706208,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 531,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "531. TULASI - ECIL",
     "CONTACT": 8096998813,
@@ -13271,11 +12741,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15025804923246108517",
     "LAT": 17.4748683,
     "LONG": 78.5709549,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 532,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "532. TX HOSPITSLS, UPPAL",
     "CONTACT": 9701667662,
@@ -13285,22 +12754,21 @@ telangana_data=[
     "OXYGEN_BEDS_TOTAL": 40,
     "OXYGEN_BEDS_OCCUPIED": 40,
     "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 39,
+    "ICU_BEDS_TOTAL": 41,
     "ICU_BEDS_OCCUPIED": 39,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 99,
+    "ICU_BEDS_VACANT": 2,
+    "TOTAL": 101,
     "OCCUPIED": 99,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "9:01:02 AM",
+    "VACANT": 2,
+    "DATE": "29/04/2021",
+    "TIME": "7:20:16 AM",
     "LOCATION": "https://maps.google.com/?cid=2387070199916038685",
     "LAT": 17.4023463,
     "LONG": 78.5669579,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 533,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "533. UDBHAVA CHILDRENS HOSPITAL, KPHB COLONY",
     "CONTACT": 9248004438,
@@ -13321,11 +12789,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2712326132213246860",
     "LAT": 17.4911039,
     "LONG": 78.4011354,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 534,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "534. VAJRA HOSPITALS, MEDCHAL",
     "CONTACT": 9948533625,
@@ -13346,11 +12813,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2392865448378133151",
     "LAT": 17.4177329,
     "LONG": 78.6322862,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 535,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "535. VENNELA HOSPITAL OLD BOWENPALLY",
     "CONTACT": 7661021344,
@@ -13371,11 +12837,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17255243219611929807",
     "LAT": 17.4765441,
     "LONG": 78.4805916,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 536,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "536. VIJAYA HOSPITAL, KEESARA",
     "CONTACT": 9848857837,
@@ -13396,11 +12861,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1976497953260190428",
     "LAT": 17.481736,
     "LONG": 78.5951732,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 537,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "537. VR MULTISPECIALITY HOSPITAL, NEW BOWENPALLY",
     "CONTACT": 7288999960,
@@ -13417,15 +12881,14 @@ telangana_data=[
     "OCCUPIED": 20,
     "VACANT": 20,
     "DATE": "28/04/2021",
-    "TIME": "2:37:35 PM",
+    "TIME": "11:18:56 PM",
     "LOCATION": "https://maps.google.com/?cid=11456855230803983460",
     "LAT": 17.4691598,
     "LONG": 78.4778792,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 538,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "538. XENIA HOSPITALS - ECIL",
     "CONTACT": 7799612521,
@@ -13446,11 +12909,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2980967411521328581",
     "LAT": 17.472695,
     "LONG": 78.5713424,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 539,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "539. ANITHA CAREWELL HOSPITAL",
     "CONTACT": 9440295252,
@@ -13471,11 +12933,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6311463643890420228",
     "LAT": 16.487867,
     "LONG": 78.313609,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 540,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "540. CBM PRAJA VAIDHYASHALA",
     "CONTACT": 9652442233,
@@ -13496,11 +12957,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6215145636574183966",
     "LAT": 16.6669499,
     "LONG": 78.4911159,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 541,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "541. CHINTALA NARAYAN REDDY (CNR) MEMORIAL HOSPITAL",
     "CONTACT": 9440498618,
@@ -13521,11 +12981,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15602224063264954729",
     "LAT": 16.4866005,
     "LONG": 78.3158077,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 542,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "542. GAYATHRI HOSPITAL",
     "CONTACT": 8790971414,
@@ -13541,16 +13000,15 @@ telangana_data=[
     "TOTAL": 7,
     "OCCUPIED": 0,
     "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "9:21:16 PM",
+    "DATE": "29/04/2021",
+    "TIME": "4:54:04 AM",
     "LOCATION": "https://maps.google.com/?cid=5693089912359415420",
     "LAT": 16.4939417,
     "LONG": 78.3102489,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 543,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "543. MAMATHA SUBBAREDDY HOSPITAL",
     "CONTACT": 8184848169,
@@ -13571,11 +13029,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8466092700579506279",
     "LAT": 16.4857201,
     "LONG": 78.3172692,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 544,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "544. MEDCURE HOSPITAL",
     "CONTACT": 8008885999,
@@ -13596,11 +13053,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12711831751105272976",
     "LAT": 16.489804,
     "LONG": 78.307793,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 545,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "545. PRAGATHI NURSING HOME",
     "CONTACT": 7702039363,
@@ -13621,11 +13077,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5078074567463880650",
     "LAT": 16.4846764,
     "LONG": 78.3124097,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 546,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "546. PRASHANTHI NURSING HOME",
     "CONTACT": 9390061165,
@@ -13646,11 +13101,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Pragathi+Nursing+Home/@16.4846815,78.310221,17z/data=!3m1!4b1!4m5!3m4!1s0x3bca6ca10f9331fd:0x4678f1ea10a147ca!8m2!3d16.484672!4d78.3124087",
     "LAT": 16.4844655,
     "LONG": 78.3132895,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 547,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "547. SAMATHA HOSPITAL",
     "CONTACT": 9848213838,
@@ -13671,11 +13125,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 548,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "548. SHOBHA HOSPITAL",
     "CONTACT": 9010362408,
@@ -13691,16 +13144,15 @@ telangana_data=[
     "TOTAL": 5,
     "OCCUPIED": 0,
     "VACANT": 5,
-    "DATE": "28/04/2021",
-    "TIME": "6:41:03 AM",
+    "DATE": "29/04/2021",
+    "TIME": "2:31:25 AM",
     "LOCATION": "https://maps.google.com/?cid=11241935277971079004",
     "LAT": 16.489687,
     "LONG": 78.312592,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 549,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "549. SREENIVASA HOSPITAL",
     "CONTACT": 9505274814,
@@ -13721,11 +13173,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15602224063264954729",
     "LAT": 16.4866005,
     "LONG": 78.3158077,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 550,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "550. SRI RAMYA HOSPITAL",
     "CONTACT": 7702047171,
@@ -13746,11 +13197,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15180833560601547252",
     "LAT": 16.6684995,
     "LONG": 78.4906395,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 551,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "551. SRI SAI HOSPITAL",
     "CONTACT": 7386242533,
@@ -13771,11 +13221,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 552,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "552. SRI SAI HOSPITAL",
     "CONTACT": 7386242533,
@@ -13791,16 +13240,15 @@ telangana_data=[
     "TOTAL": 3,
     "OCCUPIED": 3,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "6:03:19 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:19:28 AM",
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 553,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "553. SRI SATHYA SAI NURSING HOME",
     "CONTACT": 9440731804,
@@ -13817,15 +13265,14 @@ telangana_data=[
     "OCCUPIED": 0,
     "VACANT": 7,
     "DATE": "28/04/2021",
-    "TIME": "1:52:55 PM",
+    "TIME": "11:28:59 PM",
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 554,
+    "SNO": 17,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "554. SRI SHIVA NURSING HOME",
     "CONTACT": 9573535622,
@@ -13841,16 +13288,15 @@ telangana_data=[
     "TOTAL": 7,
     "OCCUPIED": 0,
     "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "7:48:00 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:05:55 AM",
     "LOCATION": "https://maps.google.com/?cid=5078074567463880650",
     "LAT": 16.4846764,
     "LONG": 78.3124097,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 555,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "555. ABHAYA MALTISPECIALITY HOSPITAL, PRAKASHAM BAZAR, NALGONDA",
     "CONTACT": 9000265699,
@@ -13871,11 +13317,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15064352198125990522",
     "LAT": 17.0538379,
     "LONG": 79.2686147,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 556,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "556. GREENLAND HOSPITAL, NALGONDA",
     "CONTACT": 7337335050,
@@ -13896,11 +13341,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13331583532332573545",
     "LAT": 17.0540246,
     "LONG": 79.2756671,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 557,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "557. GREENLANDS MULTISPECIALITY HOSPITAL - NALGONDA",
     "CONTACT": 7337335050,
@@ -13911,21 +13355,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 22,
     "ICU_BEDS_TOTAL": 12,
-    "ICU_BEDS_OCCUPIED": 4,
-    "ICU_BEDS_VACANT": 8,
+    "ICU_BEDS_OCCUPIED": 6,
+    "ICU_BEDS_VACANT": 6,
     "TOTAL": 50,
-    "OCCUPIED": 4,
-    "VACANT": 46,
-    "DATE": "28/04/2021",
-    "TIME": "7:17:19 PM",
+    "OCCUPIED": 6,
+    "VACANT": 44,
+    "DATE": "29/04/2021",
+    "TIME": "7:19:00 AM",
     "LOCATION": "https://maps.google.com/?cid=15064352198125990522",
     "LAT": 17.0538379,
     "LONG": 79.2686147,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 558,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "558. JYOTHI HOSPITAL, MIRYALGUDA",
     "CONTACT": 9849191324,
@@ -13946,11 +13389,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9597607047433997743",
     "LAT": 16.8689801,
     "LONG": 79.5668278,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 559,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "559. KAMINENI INSTITUTE OF MEDICAL SCIENCES - NARKETPALLY",
     "CONTACT": 9885154553,
@@ -13971,11 +13413,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4609387794372173794",
     "LAT": 17.1970016,
     "LONG": 79.2135964,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 560,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "560. KONARK MULTISPECIALITY HOSPITAL, MIRYALAGUDA",
     "CONTACT": 9640564572,
@@ -13996,11 +13437,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7542477902851360643",
     "LAT": 16.8697943,
     "LONG": 79.5649097,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 561,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "561. MANASA HOSPITAL, MIRYALAGUDA",
     "CONTACT": "--",
@@ -14021,11 +13461,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9514459373314114311",
     "LAT": 16.869411,
     "LONG": 79.562161,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 562,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "562. MAXHEALTH MULTISPECIALITY HOSPITAL, BOTTUGUDA, NALGONDA",
     "CONTACT": 9866565759,
@@ -14046,11 +13485,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14733262280535980441",
     "LAT": 17.0540357,
     "LONG": 79.2684978,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 563,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "563. NAVYA MULTI SPECIALITY HOSPITAL, BOTTUGUDA, NALGONDA",
     "CONTACT": 9248616038,
@@ -14071,11 +13509,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14819143681282028871",
     "LAT": 17.0536764,
     "LONG": 79.2725661,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 564,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "564. NOBLE DIAGNOSTIC AND MULTI SUPER SPECIALITY HOSPITAL, NALGONDA",
     "CONTACT": "--",
@@ -14096,11 +13533,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10985423710263623778",
     "LAT": 17.0529238,
     "LONG": 79.2684901,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 565,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "565. PULSE MULTISPECIALITY HOSPITAL, ISLAMPURA, MIRYALAGUDA",
     "CONTACT": "--",
@@ -14121,11 +13557,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+srinivasa+multispeciality+hospital+SSMH/@16.8697943,79.5649097,15z/data=!4m5!3m4!1s0x0:0x68ac43b0ddb04783!8m2!3d16.8697943!4d79.5649097",
     "LAT": 16.87051299,
     "LONG": 79.56701256,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 566,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "566. SAI SRINIVASA HOSPITAL AND DIAGNOSTIC CENTER, NALGONDA",
     "CONTACT": 9440450628,
@@ -14146,11 +13581,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17185714117706620238",
     "LAT": 17.053502,
     "LONG": 79.276697,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 567,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "567. SAMRAKSHA MULTISPECIALITY HOSPITAL, DVK ROAD, NALGONDA",
     "CONTACT": 9703686080,
@@ -14171,11 +13605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13159954774046517471",
     "LAT": 17.0382328,
     "LONG": 79.2619219,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 568,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "568. SANJEEVINI MULTI SPECIALITY HOSPITAL, DEVERKONDA",
     "CONTACT": 9494943935,
@@ -14196,11 +13629,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1725523352462450750",
     "LAT": 16.690025,
     "LONG": 78.918509,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 569,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "569. SANJEEVINI MULTISPECIALITY HOSPITAL, DVK ROAD, NALGONDA",
     "CONTACT": 8464087102,
@@ -14221,11 +13653,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9109510434178977288",
     "LAT": 17.0463828,
     "LONG": 79.2672871,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 570,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "570. SRI BALAJI MULTI SPECIALITY HOSPITAL, MIRYALAGUDA",
     "CONTACT": "--",
@@ -14246,11 +13677,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4460246842250036691",
     "LAT": 16.8693033,
     "LONG": 79.5625943,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 571,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "571. SRI LAXMI MULTISPECIALITY HOSPITAL - NALGONDA",
     "CONTACT": 9252555777,
@@ -14271,11 +13701,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17947162737964648105",
     "LAT": 17.0539118,
     "LONG": 79.2730281,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 572,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "572. SRI SAI RAKSHA MULTISPECIALITY HOSPITAL, DOCTORS COLONY, NALGONDA",
     "CONTACT": "--",
@@ -14296,17 +13725,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=279783184933562552",
     "LAT": 16.8652413,
     "LONG": 79.5554566,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 573,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "573. SRI SURYA GENERAL HOSPITAL, MIRYALAGUDA",
     "CONTACT": 9959334148,
     "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 5,
-    "REGULAR_BEDS_VACANT": 5,
+    "REGULAR_BEDS_OCCUPIED": 7,
+    "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 0,
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 0,
@@ -14314,18 +13742,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 5,
     "ICU_BEDS_VACANT": 1,
     "TOTAL": 16,
-    "OCCUPIED": 10,
-    "VACANT": 6,
-    "DATE": "28/04/2021",
-    "TIME": "12:29:57 PM",
+    "OCCUPIED": 12,
+    "VACANT": 4,
+    "DATE": "29/04/2021",
+    "TIME": "12:36:12 AM",
     "LOCATION": "https://maps.google.com/?cid=15757132992287476561",
     "LAT": 16.8694814,
     "LONG": 79.562077,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 574,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "574. VARSHITHA HOSPITAL, ASHOK NAGAR, MIRYALAGUDA",
     "CONTACT": 8106811223,
@@ -14346,11 +13773,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12151809897451410147",
     "LAT": 16.8684362,
     "LONG": 79.5547087,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 575,
+    "SNO": 18,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "575. VITTAL HOSPITAL, PRAKASHAM BAZAR, NALGONDA",
     "CONTACT": 9885029925,
@@ -14371,11 +13797,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5690065244487828171",
     "LAT": 17.0537264,
     "LONG": 79.2692659,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 576,
+    "SNO": 19,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "576. BALAJI SKIN AND ENT HOSPITAL",
     "CONTACT": 7799614314,
@@ -14396,11 +13821,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1810208636972764652",
     "LAT": 19.1040439,
     "LONG": 78.3407616,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 577,
+    "SNO": 19,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "577. DEVENDAR REDDY MULTI SEPCIALITY HOSPITAL",
     "CONTACT": 9666645271,
@@ -14421,11 +13845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7378657811900717757",
     "LAT": 19.0857255,
     "LONG": 78.3516063,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 578,
+    "SNO": 19,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "578. KHAJA HOSPITAL",
     "CONTACT": 9440101166,
@@ -14446,11 +13869,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12464331979271273089",
     "LAT": 19.1077658,
     "LONG": 78.3406138,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 579,
+    "SNO": 19,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "579. SRI NARAYANA GURU KRUPA HOSPITAL",
     "CONTACT": 9440152454,
@@ -14471,11 +13893,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=128575371397923662",
     "LAT": 19.1060878,
     "LONG": 77.9637028,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 580,
+    "SNO": 19,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "580. SRI VENKATESWARA HOSPITAL",
     "CONTACT": 7702595784,
@@ -14496,11 +13917,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14785396521600108060",
     "LAT": 19.1056011,
     "LONG": 78.3394235,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 581,
+    "SNO": 19,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "581. THIRUMAL NURSING HOME",
     "CONTACT": 9848031793,
@@ -14521,11 +13941,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6114905085194186520",
     "LAT": 19.1046835,
     "LONG": 78.3397829,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 582,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "582. AMRUTHA HOSPITAL",
     "CONTACT": "--",
@@ -14546,11 +13965,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17450760565784980341",
     "LAT": 18.8819383,
     "LONG": 79.4433276,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 583,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "583. ANKAM HOSPITAL",
     "CONTACT": "--",
@@ -14571,11 +13989,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Ankam+Hospital/@18.6744262,78.1015532,15z/data=!4m2!3m1!1s0x0:0x61071c8766188735?sa=X&ved=2ahUKEwjA_P294JjwAhX1wTgGHXkNDZAQ_BIwZHoECFoQBQ",
     "LAT": 18.67501571,
     "LONG": 78.10159612,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 584,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "584. ANSHUL HOSPITAL",
     "CONTACT": "--",
@@ -14596,11 +14013,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Anshul+Hospital/@18.6742295,78.1023638,15z/data=!4m2!3m1!1s0x0:0xebd0b80724f90f0b?sa=X&ved=2ahUKEwi2w_bP4JjwAhXOzzgGHZRyDrUQ_BIwdnoECFcQAw",
     "LAT": 18.67506295,
     "LONG": 78.10249255,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 585,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "585. A.R. MULTI SPECIALITY HOSPITAL",
     "CONTACT": 7013955381,
@@ -14621,11 +14037,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/A.R+MULTISPECIALITY+HOSPITAL/@18.6725233,78.0926751,17z/data=!4m5!3m4!1s0x3bcddb27a6d07a53:0x33c6c567dea629dc!8m2!3d18.6725691!4d78.0915378",
     "LAT": 18.6725233,
     "LONG": 78.0926751,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 586,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "586. DEVI HOSPITAL",
     "CONTACT": 9646019493,
@@ -14646,11 +14061,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2560829378886618872",
     "LAT": 18.6756639,
     "LONG": 78.0976944,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 587,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "587. DREAM LAND HOPE HOSPITAL - NIZAMBAD",
     "CONTACT": 9000510251,
@@ -14671,36 +14085,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15738028811913946755",
     "LAT": 18.6723397,
     "LONG": 78.1028982,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 588,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "588. DR.RAJESH COVID CENTRE",
     "CONTACT": 7799991771,
     "REGULAR_BEDS_TOTAL": 10,
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 10,
-    "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 10,
+    "OXYGEN_BEDS_TOTAL": 14,
+    "OXYGEN_BEDS_OCCUPIED": 14,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
-    "TOTAL": 20,
-    "OCCUPIED": 10,
+    "TOTAL": 24,
+    "OCCUPIED": 14,
     "VACANT": 10,
-    "DATE": "27/04/2021",
-    "TIME": "12:54:04 PM",
+    "DATE": "28/04/2021",
+    "TIME": "10:47:15 PM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 589,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "589. GANGA BHAVANI HOSPITAL",
     "CONTACT": "--",
@@ -14711,21 +14123,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 15,
-    "ICU_BEDS_OCCUPIED": 7,
-    "ICU_BEDS_VACANT": 8,
+    "ICU_BEDS_OCCUPIED": 8,
+    "ICU_BEDS_VACANT": 7,
     "TOTAL": 24,
-    "OCCUPIED": 7,
-    "VACANT": 17,
+    "OCCUPIED": 8,
+    "VACANT": 16,
     "DATE": "28/04/2021",
-    "TIME": "10:06:24 AM",
+    "TIME": "11:01:43 PM",
     "LOCATION": "https://www.google.com/maps/place/Ganga+Bhavani+Hospital/@18.6744852,78.1067305,15z/data=!4m2!3m1!1s0x0:0xd7ec999f60725d6e?sa=X&ved=2ahUKEwiu-cLP4ZjwAhURwTgGHZIwBPAQ_BIwZHoECGkQBQ",
     "LAT": 18.67499339,
     "LONG": 78.10879044,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 590,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "590. G.S.B.V. MEMORIAL AMRUTHA LAXMI MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -14746,11 +14157,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/GSBV+Memorial+Amrutha+Laxmi+Multi+Speciality+Hospital/@18.6739608,78.102388,17z/data=!4m5!3m4!1s0x3bcddb2e515384db:0x22353c6c31bc5802!8m2!3d18.6740269!4d78.1028386",
     "LAT": 18.673971,
     "LONG": 78.1024631,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 591,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "591. HAYATT HOSPITAL",
     "CONTACT": "--",
@@ -14771,11 +14181,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Hayatt+Hospital/@17.4012356,78.4123209,15z/data=!4m2!3m1!1s0x0:0xd7105fcbadb3957d?sa=X&ved=2ahUKEwjjtMbl4ZjwAhU2yjgGHULMCLIQ_BIwd3oECHAQBQ",
     "LAT": 17.40174747,
     "LONG": 78.41519624,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 592,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "592. INDUS SUPERSPECIALITY HOSPITAL - SARASWATHINAGAR",
     "CONTACT": 9618246289,
@@ -14796,11 +14205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15960289503762579582",
     "LAT": 18.6721164,
     "LONG": 78.1059004,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 593,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "593. JAYA HOSPITAL",
     "CONTACT": "--",
@@ -14821,11 +14229,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1419755804481729968",
     "LAT": 18.6744163,
     "LONG": 78.1025325,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 594,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "594. JYOTHI MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9640333330,
@@ -14846,11 +14253,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5815313308807198362",
     "LAT": 18.6729194,
     "LONG": 78.1058021,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 595,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "595. KEERTHI SAI NURSNG HOME",
     "CONTACT": "--",
@@ -14871,11 +14277,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 596,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "596. KIDS CARE EMERGECY CHILDRENS HOSPITAL",
     "CONTACT": "--",
@@ -14896,11 +14301,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 597,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "597. KIWI HOSPITAL - NIZAMBAD",
     "CONTACT": 9885398505,
@@ -14921,11 +14325,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11523137110898580636",
     "LAT": 18.6640603,
     "LONG": 78.1090074,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 598,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "598. LAKSHMI HOSPITAL",
     "CONTACT": "--",
@@ -14946,11 +14349,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Lakshmi+Nursing+Home/@18.6705231,78.1029673,15z/data=!4m5!3m4!1s0x0:0x5c8eababe9191b0e!8m2!3d18.6705348!4d78.1029733",
     "LAT": 18.67107197,
     "LONG": 78.10313896,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 599,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "599. LAXMI GAYATRI HOSPITAL",
     "CONTACT": "--",
@@ -14967,15 +14369,14 @@ telangana_data=[
     "OCCUPIED": 13,
     "VACANT": 0,
     "DATE": "28/04/2021",
-    "TIME": "12:30:12 AM",
+    "TIME": "11:20:38 PM",
     "LOCATION": "https://www.google.com/maps/place/Gayathri+Hospital/@18.6716927,78.1008383,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xc8f99e5ce9f66064!8m2!3d18.6716927!4d78.103027",
     "LAT": 18.67178923,
     "LONG": 78.10311283,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 600,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "600. LIFE COVID CENTRE (LIFE HOSPITAL)",
     "CONTACT": 9908151515,
@@ -14983,24 +14384,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 16,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 11,
-    "OXYGEN_BEDS_OCCUPIED": 9,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_OCCUPIED": 10,
+    "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 6,
     "ICU_BEDS_OCCUPIED": 6,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 33,
-    "OCCUPIED": 31,
-    "VACANT": 2,
+    "OCCUPIED": 32,
+    "VACANT": 1,
     "DATE": "28/04/2021",
-    "TIME": "4:29:01 PM",
+    "TIME": "10:21:31 PM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 601,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "601. MAHESHWARI MULTI SPECIALITY HOSPITAL",
     "CONTACT": 8790332690,
@@ -15021,11 +14421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17391015705291813344",
     "LAT": 18.6707363,
     "LONG": 78.1019076,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 602,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "602. MANORAMA SUPERSPECIALITY HOSPITAL - NIZAMBAD",
     "CONTACT": 9000827770,
@@ -15046,11 +14445,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15820809571985114344",
     "LAT": 18.6738755,
     "LONG": 78.1067979,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 603,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "603. MAYUR HEALTH CARE CETRE",
     "CONTACT": "--",
@@ -15071,11 +14469,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 604,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "604. MEDICOVER HOSPITAL - NIZAMBAD",
     "CONTACT": 7702108108,
@@ -15096,11 +14493,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11362318307640265839",
     "LAT": 18.6745068,
     "LONG": 78.1092618,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 605,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "605. M.N.R.HOSPITAL",
     "CONTACT": 8309853983,
@@ -15121,11 +14517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16120212920096417618",
     "LAT": 18.672981,
     "LONG": 78.1040688,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 606,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "606. NISHKAL NEURO HOSPITAL",
     "CONTACT": "--",
@@ -15146,11 +14541,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14668813311881343862",
     "LAT": 18.6744323,
     "LONG": 78.1015491,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 607,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "607. NOVALIFE HOSPITALS LIMITED",
     "CONTACT": 6271290538,
@@ -15171,17 +14565,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13504047926997274265",
     "LAT": 18.673453,
     "LONG": 78.1064398,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 608,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "608. PRAGATHI HOSPITAL,",
     "CONTACT": "--",
     "REGULAR_BEDS_TOTAL": 20,
-    "REGULAR_BEDS_OCCUPIED": 12,
-    "REGULAR_BEDS_VACANT": 8,
+    "REGULAR_BEDS_OCCUPIED": 14,
+    "REGULAR_BEDS_VACANT": 6,
     "OXYGEN_BEDS_TOTAL": 9,
     "OXYGEN_BEDS_OCCUPIED": 9,
     "OXYGEN_BEDS_VACANT": 0,
@@ -15189,18 +14582,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 17,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 46,
-    "OCCUPIED": 38,
-    "VACANT": 8,
-    "DATE": "28/04/2021",
-    "TIME": "9:59:22 PM",
+    "OCCUPIED": 40,
+    "VACANT": 6,
+    "DATE": "29/04/2021",
+    "TIME": "6:42:08 AM",
     "LOCATION": "https://maps.google.com/?cid=6156803109724161596",
     "LAT": 18.6718604,
     "LONG": 78.1056717,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 609,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "609. PRATHIBHA SUPER SPECIALITY HOSPITAL - NIZAMBAD",
     "CONTACT": 9177150841,
@@ -15216,16 +14608,15 @@ telangana_data=[
     "TOTAL": 62,
     "OCCUPIED": 58,
     "VACANT": 4,
-    "DATE": "28/04/2021",
-    "TIME": "8:03:40 PM",
+    "DATE": "29/04/2021",
+    "TIME": "8:01:49 AM",
     "LOCATION": "https://maps.google.com/?cid=10043947066567220280",
     "LAT": 18.6684668,
     "LONG": 78.1044506,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 610,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "610. RUDRASAI HOSPITAL",
     "CONTACT": "--",
@@ -15246,11 +14637,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Rudra+Multi+Specality+Hospital/@18.3181826,78.334714,15z/data=!4m5!3m4!1s0x0:0x618ed44a8eb74397!8m2!3d18.3181826!4d78.334714",
     "LAT": 18.31905852,
     "LONG": 78.33479983,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 611,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "611. SAADHYA MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -15271,11 +14661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3730886391230769628",
     "LAT": 18.6725691,
     "LONG": 78.0915378,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 612,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "612. SAI ASHWINI HOSPITAL",
     "CONTACT": 9000483305,
@@ -15296,11 +14685,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sai+Ashwini+Hospital/@18.6736256,78.1016621,15z/data=!4m2!3m1!1s0x0:0x5052bbeba4e3c11e?sa=X&ved=2ahUKEwjTnpmL45jwAhWfxzgGHSy7DHAQ_BIwdnoECGsQBQ",
     "LAT": 18.67466233,
     "LONG": 78.10127586,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 613,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "613. SHASHANK MULTISPECIALITY HOSPITAL - NIZAMBAD",
     "CONTACT": 8500830921,
@@ -15321,11 +14709,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1283269936668611295",
     "LAT": 18.674831,
     "LONG": 78.1017302,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 614,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "614. SHIVA SAI EMERGENCY AND MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -15346,11 +14733,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Shiva+Sai+Multi+Speciality+Hospital/@18.6728307,78.1033308,15z/data=!4m2!3m1!1s0x0:0x28094b98aae5fdf4?sa=X&ved=2ahUKEwijw-Gh45jwAhU5wzgGHYrlAMMQ_BIwV3oECFEQAw",
     "LAT": 18.67329825,
     "LONG": 78.10337372,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 615,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "615. SILVER LINE HOSPITAL",
     "CONTACT": 7718094580,
@@ -15371,11 +14757,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 616,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "616. SRI BALAJI HOSPITAL",
     "CONTACT": "--",
@@ -15396,11 +14781,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 617,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "617. SRI GAYATRI LIFE CARE MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9542766000,
@@ -15421,36 +14805,34 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Gayatri+SuperSpeciality+Hospital/@16.5171049,80.636688,15z/data=!4m2!3m1!1s0x0:0x3ab642582014347b?sa=X&ved=2ahUKEwjX9OK045jwAhVWzjgGHa_cCG0Q_BIwbnoECFsQBQ",
     "LAT": 16.51745462,
     "LONG": 80.6383617,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 618,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "618. SRI KRISHNA NEURO HOSPITAL",
     "CONTACT": "--",
-    "REGULAR_BEDS_TOTAL": 20,
-    "REGULAR_BEDS_OCCUPIED": 19,
-    "REGULAR_BEDS_VACANT": 1,
-    "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 7,
-    "OXYGEN_BEDS_VACANT": 3,
+    "REGULAR_BEDS_TOTAL": 10,
+    "REGULAR_BEDS_OCCUPIED": 7,
+    "REGULAR_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_TOTAL": 20,
+    "OXYGEN_BEDS_OCCUPIED": 20,
+    "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 6,
-    "ICU_BEDS_VACANT": 4,
+    "ICU_BEDS_OCCUPIED": 8,
+    "ICU_BEDS_VACANT": 2,
     "TOTAL": 40,
-    "OCCUPIED": 32,
-    "VACANT": 8,
-    "DATE": "28/04/2021",
-    "TIME": "8:43:40 PM",
+    "OCCUPIED": 35,
+    "VACANT": 5,
+    "DATE": "29/04/2021",
+    "TIME": "12:08:53 AM",
     "LOCATION": "https://maps.google.com/?cid=3474746496099105013",
     "LAT": 18.6739908,
     "LONG": 78.1074225,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 619,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "619. SRI LAXMI MULTI SEPCIALITY HOSPITAL",
     "CONTACT": 9676044464,
@@ -15471,11 +14853,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2464942806443776002",
     "LAT": 18.6740269,
     "LONG": 78.1028386,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 620,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "620. SRINIVASA GASTRO & LVER CARE HOSPITAL",
     "CONTACT": 9441024679,
@@ -15496,11 +14877,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Srinivas+Gastro+%26+Liver+Care+Hospital/@18.6741451,78.1039239,15z/data=!4m5!3m4!1s0x0:0xfa9b242f478c9e91!8m2!3d18.6741451!4d78.1039239",
     "LAT": 18.6741451,
     "LONG": 78.1039239,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 621,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "621. SRI SAI HOSPITAL",
     "CONTACT": 9848353781,
@@ -15516,16 +14896,15 @@ telangana_data=[
     "TOTAL": 20,
     "OCCUPIED": 7,
     "VACANT": 13,
-    "DATE": "28/04/2021",
-    "TIME": "5:09:31 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:04:02 AM",
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 622,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "622. SRI SAI PRASAD CHILDRENS HOSPITAL",
     "CONTACT": 9032346000,
@@ -15546,11 +14925,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7460788250940280244",
     "LAT": 18.6734686,
     "LONG": 78.1049985,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 623,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "623. SRI SANJEEVANI HOSPITAL",
     "CONTACT": "--",
@@ -15571,11 +14949,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 624,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "624. SRI SHIVA SAI MULTI SPECIALITY HOSPITAL",
     "CONTACT": 8688788895,
@@ -15596,11 +14973,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2884920155381825012",
     "LAT": 18.6728307,
     "LONG": 78.1033308,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 625,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "625. SRI VENKATESHWARA SPECIALITY HOSPITAL",
     "CONTACT": 8309380396,
@@ -15621,11 +14997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6176923039329646853",
     "LAT": 18.672502,
     "LONG": 78.1048891,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 626,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "626. SRI VISHNU SUPER SEPCIALITY HOSPITAL",
     "CONTACT": 9542297720,
@@ -15646,11 +15021,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5438523229996273138",
     "LAT": 18.6743069,
     "LONG": 78.1037699,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 627,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "627. S.S. BALAJI HOSPITAL",
     "CONTACT": "--",
@@ -15671,11 +15045,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/SS+Balaji+Hospital/@18.6707323,78.1049103,17z/data=!4m5!3m4!1s0x3bcddb2c0015a545:0x246543e34b8e457f!8m2!3d18.6709!4d78.1052",
     "LAT": 18.6707323,
     "LONG": 78.1049103,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 628,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "628. SUNRISE SUPER SEPCIALITY HOSPITAL",
     "CONTACT": 9686158676,
@@ -15696,11 +15069,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1448465565801647589",
     "LAT": 18.6749802,
     "LONG": 78.102437,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 629,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "629. SURYA NURSING HOME",
     "CONTACT": "--",
@@ -15721,11 +15093,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15999805511378133857",
     "LAT": 18.6754639,
     "LONG": 78.1020531,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 630,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "630. S.V. ENT & MULTI SPECIALITY HOSPITAL,",
     "CONTACT": 9441540688,
@@ -15733,24 +15104,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 1,
     "REGULAR_BEDS_VACANT": 4,
     "OXYGEN_BEDS_TOTAL": 2,
-    "OXYGEN_BEDS_OCCUPIED": 1,
-    "OXYGEN_BEDS_VACANT": 1,
+    "OXYGEN_BEDS_OCCUPIED": 2,
+    "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 3,
-    "ICU_BEDS_OCCUPIED": 1,
-    "ICU_BEDS_VACANT": 2,
+    "ICU_BEDS_OCCUPIED": 2,
+    "ICU_BEDS_VACANT": 1,
     "TOTAL": 10,
-    "OCCUPIED": 3,
-    "VACANT": 7,
-    "DATE": "28/04/2021",
-    "TIME": "8:48:44 PM",
+    "OCCUPIED": 5,
+    "VACANT": 5,
+    "DATE": "29/04/2021",
+    "TIME": "7:19:00 AM",
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 631,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "631. S.V.M. COVID HOSPITAL (SVM MULTI SPECIALITY HOSPITAL)",
     "CONTACT": 9701976779,
@@ -15771,11 +15141,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 632,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "632. TIRUMALA HOSPITAL - NIZAMBAD",
     "CONTACT": 9849106734,
@@ -15796,11 +15165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13399015382528384274",
     "LAT": 18.6750421,
     "LONG": 78.1017745,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 633,
+    "SNO": 20,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "633. VEDANSH HOSPITAL",
     "CONTACT": 8111890769,
@@ -15821,11 +15189,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=684765650560628543",
     "LAT": 18.672226,
     "LONG": 78.1047501,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 634,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "634. ASHA GENERAL HOSPITAL",
     "CONTACT": "--",
@@ -15846,11 +15213,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15214666498500004642",
     "LAT": 18.6157662,
     "LONG": 79.3785966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 635,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "635. CHANAKYA HOSPITAL",
     "CONTACT": 9980780169,
@@ -15871,11 +15237,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Chanakya+Hospital/@18.6161756,79.3822168,17z/data=!4m12!1m6!3m5!1s0x3a32d388d2bb3423:0x74d40f21abeed543!2sChanakya+Hospital!8m2!3d18.6161756!4d79.3844055!3m4!1s0x3a32d388d2bb3423:0x74d40f21abeed543!8m2!3d18.6161756!4d79.3844055",
     "LAT": 18.6161756,
     "LONG": 79.3822168,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 636,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "636. FORTUNE SIGMA HOSPITAL - PEDDAPALLY",
     "CONTACT": 9951521677,
@@ -15896,11 +15261,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4099027643768466018",
     "LAT": 18.7507597,
     "LONG": 79.5098266,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 637,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "637. LEELAVATHI HOPSPITAL",
     "CONTACT": 9866269480,
@@ -15921,11 +15285,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12528732653342733694",
     "LAT": 18.6171586,
     "LONG": 79.3853804,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 638,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "638. LOTUS HOSPITAL",
     "CONTACT": 9652412413,
@@ -15946,11 +15309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15214666498500004642",
     "LAT": 18.6157662,
     "LONG": 79.3785966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 639,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "639. MAHALAXMI HOSPITAL",
     "CONTACT": 9642524524,
@@ -15971,11 +15333,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15214666498500004642",
     "LAT": 18.6157662,
     "LONG": 79.3785966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 640,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "640. RAJU ORTHOPEDIC HOSPITAL",
     "CONTACT": 9640713545,
@@ -15996,11 +15357,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7430201699446092781",
     "LAT": 18.6049268,
     "LONG": 79.3797025,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 641,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "641. RK HOSPITAL",
     "CONTACT": 9866666903,
@@ -16021,11 +15381,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3559416996489735184",
     "LAT": 18.6125149,
     "LONG": 79.3789392,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 642,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "642. SREE GANESH HOSPITAL",
     "CONTACT": 9959264684,
@@ -16046,11 +15405,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17560554395522152942",
     "LAT": 18.6101582,
     "LONG": 79.3732649,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 643,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "643. SREEJA HOSPITAL",
     "CONTACT": 9000945692,
@@ -16071,11 +15429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1630982685975428681",
     "LAT": 18.6189462,
     "LONG": 79.3926814,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 644,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "644. SREE MAMATHA HOSPITAL",
     "CONTACT": 9110500329,
@@ -16096,11 +15453,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8542220882668296818",
     "LAT": 18.6096675,
     "LONG": 79.3759259,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 645,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "645. SRI NIKA CHILDREN HOSPITAL",
     "CONTACT": 8498805500,
@@ -16116,16 +15472,15 @@ telangana_data=[
     "TOTAL": 5,
     "OCCUPIED": 0,
     "VACANT": 5,
-    "DATE": "28/04/2021",
-    "TIME": "9:38:54 PM",
+    "DATE": "29/04/2021",
+    "TIME": "8:01:01 AM",
     "LOCATION": "https://maps.google.com/?cid=1461697256656249589",
     "LAT": 18.6102056,
     "LONG": 79.3748002,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 646,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "646. SRI SAI HOSPITAL",
     "CONTACT": 7013010910,
@@ -16146,11 +15501,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 647,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "647. SRI SIDDARTHA CHILDREN HOSPITAL",
     "CONTACT": 9949948468,
@@ -16171,11 +15525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1461697256656249589",
     "LAT": 18.6102056,
     "LONG": 79.3748002,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 648,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "648. STAR MOUNT HOSPITAL",
     "CONTACT": 8309689439,
@@ -16196,11 +15549,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15214666498500004642",
     "LAT": 18.6157662,
     "LONG": 79.3785966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 649,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "649. THIRUMALA HOSPITAL",
     "CONTACT": 9849361799,
@@ -16221,11 +15573,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10970529882529774173",
     "LAT": 18.6120458,
     "LONG": 79.3728005,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 650,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "650. VIJAYA HOSPITAL",
     "CONTACT": 9849947308,
@@ -16246,11 +15597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10263674669058724996",
     "LAT": 17.718824,
     "LONG": 79.1605666,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 651,
+    "SNO": 21,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "651. VISION HOSPITAL- RAMAGUNDEM",
     "CONTACT": 9642088860,
@@ -16271,11 +15621,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15715111388007588122",
     "LAT": 18.7522334,
     "LONG": 79.5133071,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 652,
+    "SNO": 22,
     "DISTRICT": "Rajanna",
     "HOSPITAL_NAME": "652. AMRUTHA NARSING HOME",
     "CONTACT": 8317620255,
@@ -16296,11 +15645,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=309401070001566950",
     "LAT": 17.4138628,
     "LONG": 78.5125896,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 653,
+    "SNO": 22,
     "DISTRICT": "Rajanna",
     "HOSPITAL_NAME": "653. KARTHIKEYA HOSPITAL",
     "CONTACT": 9000302223,
@@ -16308,24 +15656,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 1,
     "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 4,
-    "OXYGEN_BEDS_OCCUPIED": 3,
-    "OXYGEN_BEDS_VACANT": 1,
+    "OXYGEN_BEDS_OCCUPIED": 1,
+    "OXYGEN_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 8,
-    "OCCUPIED": 4,
-    "VACANT": 4,
+    "OCCUPIED": 2,
+    "VACANT": 6,
     "DATE": "28/04/2021",
-    "TIME": "3:37:15 PM",
+    "TIME": "10:30:26 PM",
     "LOCATION": "https://maps.google.com/?cid=15976149618148889619",
     "LAT": 19.6692811,
     "LONG": 78.5319455,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 654,
+    "SNO": 22,
     "DISTRICT": "Rajanna",
     "HOSPITAL_NAME": "654. LAXMINARSIMHA HOSPITAL",
     "CONTACT": 9133526660,
@@ -16341,22 +15688,21 @@ telangana_data=[
     "TOTAL": 12,
     "OCCUPIED": 1,
     "VACANT": 11,
-    "DATE": "28/04/2021",
-    "TIME": "7:35:58 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:48:18 AM",
     "LOCATION": "https://maps.google.com/?cid=16463484581552245978",
     "LAT": 18.0137913,
     "LONG": 79.556213,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 655,
+    "SNO": 22,
     "DISTRICT": "Rajanna",
     "HOSPITAL_NAME": "655. MAHALAXMI HOSPITAL",
     "CONTACT": 9440009032,
     "REGULAR_BEDS_TOTAL": 6,
-    "REGULAR_BEDS_OCCUPIED": 2,
-    "REGULAR_BEDS_VACANT": 4,
+    "REGULAR_BEDS_OCCUPIED": 3,
+    "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 2,
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 2,
@@ -16364,18 +15710,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 8,
-    "OCCUPIED": 2,
-    "VACANT": 6,
-    "DATE": "28/04/2021",
-    "TIME": "4:04:46 PM",
+    "OCCUPIED": 3,
+    "VACANT": 5,
+    "DATE": "29/04/2021",
+    "TIME": "1:39:11 AM",
     "LOCATION": "https://maps.google.com/?cid=15214666498500004642",
     "LAT": 18.6157662,
     "LONG": 79.3785966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 656,
+    "SNO": 22,
     "DISTRICT": "Rajanna",
     "HOSPITAL_NAME": "656. RAJANNA MULTISPECIALITY HOSPITAL",
     "CONTACT": 9000302223,
@@ -16391,16 +15736,15 @@ telangana_data=[
     "TOTAL": 20,
     "OCCUPIED": 10,
     "VACANT": 10,
-    "DATE": "28/04/2021",
-    "TIME": "5:51:13 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:51:23 AM",
     "LOCATION": "https://maps.google.com/?cid=8929310451413441257",
     "LAT": 18.5842406,
     "LONG": 78.4706741,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 657,
+    "SNO": 22,
     "DISTRICT": "Rajanna",
     "HOSPITAL_NAME": "657. SRI SAI HOSPITAL",
     "CONTACT": "--",
@@ -16421,11 +15765,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 658,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "658. AARON HOSPITAL-NARSINGI",
     "CONTACT": "--",
@@ -16446,11 +15789,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Aaron+Hospital+24+Hrs/@17.3849273,78.3550233,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb944898793853:0xf9f5b85f517bd9df!8m2!3d17.3849273!4d78.357212",
     "LAT": 17.3849273,
     "LONG": 78.3550233,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 659,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "659. AIG HOSPITALS GACHIBOWLI",
     "CONTACT": 7299998262,
@@ -16458,24 +15800,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 250,
-    "OXYGEN_BEDS_OCCUPIED": 245,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_OCCUPIED": 246,
+    "OXYGEN_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 40,
     "ICU_BEDS_OCCUPIED": 40,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 290,
-    "OCCUPIED": 285,
-    "VACANT": 5,
-    "DATE": "28/04/2021",
-    "TIME": "7:26:01 AM",
+    "OCCUPIED": 286,
+    "VACANT": 4,
+    "DATE": "29/04/2021",
+    "TIME": "7:37:33 AM",
     "LOCATION": "https://maps.google.com/?cid=10049650800569619927",
     "LAT": 17.4433649,
     "LONG": 78.3659983,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 660,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "660. AMERICAN BRAIN AND SPINE HOSPITAL",
     "CONTACT": 9014784511,
@@ -16496,11 +15837,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16455401605902572101",
     "LAT": 17.401795,
     "LONG": 78.4121567,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 661,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "661. AMMA HOSPITAL - KOTHAPET",
     "CONTACT": 7337337320,
@@ -16521,36 +15861,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17445426951958560320",
     "LAT": 17.3571504,
     "LONG": 78.545737,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 662,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "662. ANKURA HOSPITAL FOR WOMEN & CHILDREN (A UNIT OF ANKURA HOSPITALS LB NAGAR PVT LTD",
     "CONTACT": 9100900279,
     "REGULAR_BEDS_TOTAL": 15,
-    "REGULAR_BEDS_OCCUPIED": 2,
-    "REGULAR_BEDS_VACANT": 13,
+    "REGULAR_BEDS_OCCUPIED": 3,
+    "REGULAR_BEDS_VACANT": 12,
     "OXYGEN_BEDS_TOTAL": 35,
     "OXYGEN_BEDS_OCCUPIED": 14,
     "OXYGEN_BEDS_VACANT": 21,
     "ICU_BEDS_TOTAL": 14,
-    "ICU_BEDS_OCCUPIED": 8,
-    "ICU_BEDS_VACANT": 6,
+    "ICU_BEDS_OCCUPIED": 9,
+    "ICU_BEDS_VACANT": 5,
     "TOTAL": 64,
-    "OCCUPIED": 24,
-    "VACANT": 40,
-    "DATE": "28/04/2021",
-    "TIME": "8:41:35 PM",
+    "OCCUPIED": 26,
+    "VACANT": 38,
+    "DATE": "29/04/2021",
+    "TIME": "1:06:02 AM",
     "LOCATION": "https://maps.google.com/?cid=15606760094829664228",
     "LAT": 17.4115979,
     "LONG": 78.4324306,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 663,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "663. ANKURA HOSPITALS-MADEENAGUDA",
     "CONTACT": "--",
@@ -16571,11 +15909,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 664,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "664. ARCHANA HOSPITAL - MADINAGUDA",
     "CONTACT": 9885355084,
@@ -16596,11 +15933,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11508779154061051425",
     "LAT": 17.4959661,
     "LONG": 78.3374356,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 665,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "665. ARK HEALTH CARE(ALWAYS RELIABEL KNOWLEDGE HEALTH CARE PVT LTD)-DILSUKNAGAR",
     "CONTACT": 9010098673,
@@ -16621,11 +15957,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16901029358602448602",
     "LAT": 17.3659177,
     "LONG": 78.5255574,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 666,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "666. ARUNA  HOSPITAL",
     "CONTACT": 9704505399,
@@ -16646,11 +15981,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11248876699574331364",
     "LAT": 17.344673,
     "LONG": 78.55465,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 667,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "667. ARUNA MULTI SPECIALITY HOSPITAL-HASTINAPURAM",
     "CONTACT": 9553879148,
@@ -16671,11 +16005,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7242882566453541685",
     "LAT": 17.3363547,
     "LONG": 78.5504802,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 668,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "668. ASIAN INSTITUTE OF NEPHROLOGY & UROLOGY",
     "CONTACT": "--",
@@ -16696,36 +16029,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10170581909598542895",
     "LAT": 17.4166719,
     "LONG": 78.453575,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 669,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "669. AVASA HOSPITAL (INDO-UK HOSPITALS PVT LTD)",
     "CONTACT": 7730012233,
     "REGULAR_BEDS_TOTAL": 9,
-    "REGULAR_BEDS_OCCUPIED": 3,
-    "REGULAR_BEDS_VACANT": 6,
+    "REGULAR_BEDS_OCCUPIED": 7,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 16,
-    "OXYGEN_BEDS_OCCUPIED": 11,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_OCCUPIED": 15,
+    "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 5,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_OCCUPIED": 4,
+    "ICU_BEDS_VACANT": 1,
     "TOTAL": 30,
-    "OCCUPIED": 14,
-    "VACANT": 16,
-    "DATE": "28/04/2021",
-    "TIME": "5:55:40 PM",
+    "OCCUPIED": 26,
+    "VACANT": 4,
+    "DATE": "29/04/2021",
+    "TIME": "7:16:22 AM",
     "LOCATION": "https://www.google.com/maps/place/Avasa+Hospitals/@17.4092574,78.3707985,15.86z/data=!4m5!3m4!1s0x3bcb9559aefc19d7:0xb25a772c14b6d939!8m2!3d17.4067602!4d78.3736954",
     "LAT": 17.40715108,
     "LONG": 78.37431613,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 670,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "670. AWARE GLENEAGLES HOSPITALS",
     "CONTACT": 9963451344,
@@ -16741,16 +16072,15 @@ telangana_data=[
     "TOTAL": 53,
     "OCCUPIED": 51,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "1:29:41 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:41:21 AM",
     "LOCATION": "https://maps.google.com/?cid=16657094065372801389",
     "LAT": 17.3459452,
     "LONG": 78.5399442,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 671,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "671. AYAAN INSTITUTE OF MEDICAL SCIENCES,KANAKA MAMIDI VILLAGE, MOINABAD",
     "CONTACT": 9849605553,
@@ -16771,11 +16101,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8015038150490287634",
     "LAT": 17.3158262,
     "LONG": 78.2565607,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 672,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "672. BHASKAR MEDICAL COLLEGE, YENKAPALLY (V), MOINA BAD (M), R.R. DIST.",
     "CONTACT": "--",
@@ -16796,11 +16125,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10161355507279088857",
     "LAT": 17.3318935,
     "LONG": 78.2990496,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 673,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "673. BHRUNGI HOSPITAL",
     "CONTACT": "--",
@@ -16821,11 +16149,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12712999272593013892",
     "LAT": 17.3137654,
     "LONG": 78.5609098,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 674,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "674. BRISTLECONE HOSPITAL - HAYATHNAGAR",
     "CONTACT": 8897294554,
@@ -16846,11 +16173,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14876657505364660290",
     "LAT": 17.3284584,
     "LONG": 78.5965347,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 675,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "675. CARE HOSPITAL - HITECH CITY",
     "CONTACT": 8374239865,
@@ -16871,11 +16197,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?q=CARE+Hospitals+Hi-tech+City,+Hyderabad&ftid=0x3bcb93fa7fd6b125:0x948f5250e54521b9",
     "LAT": 17.4305243,
     "LONG": 78.3722233,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 676,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "676. CBS MAAGNA HOSPITAL",
     "CONTACT": 9866212080,
@@ -16896,11 +16221,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Magna+hospital/@17.0702204,78.2059256,15z/data=!4m5!3m4!1s0x0:0x8a1f1b2b9278c269!8m2!3d17.0702204!4d78.2059256",
     "LAT": 17.07118448,
     "LONG": 78.20618309,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 677,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "677. CHAVAN OM SAI HOSPITAL",
     "CONTACT": 9160475750,
@@ -16921,11 +16245,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2989938910496547686",
     "LAT": 17.3138906,
     "LONG": 78.5087801,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 678,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "678. CITIZENS HOSPITALS A UNIT OF CYBERABAD CITIZENS HOSPITALS PVT LTD",
     "CONTACT": 7330801188,
@@ -16946,11 +16269,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Citizens+Speciality+Hospital/@17.4705903,78.3092111,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb92dc1b8176eb:0x37251fdef4c746cc!8m2!3d17.4705903!4d78.3113998",
     "LAT": 17.4705903,
     "LONG": 78.3092111,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 679,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "679. CONTINENTAL HOSPITALS LIMITED",
     "CONTACT": 9948903444,
@@ -16971,11 +16293,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=200983805608306591",
     "LAT": 17.417409,
     "LONG": 78.339437,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 680,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "680. DELTA HOSPITALS",
     "CONTACT": 7981844404,
@@ -16983,24 +16304,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 4,
     "OXYGEN_BEDS_TOTAL": 12,
-    "OXYGEN_BEDS_OCCUPIED": 7,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_OCCUPIED": 10,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 10,
     "ICU_BEDS_OCCUPIED": 8,
     "ICU_BEDS_VACANT": 2,
     "TOTAL": 26,
-    "OCCUPIED": 15,
-    "VACANT": 11,
-    "DATE": "28/04/2021",
-    "TIME": "7:54:11 PM",
+    "OCCUPIED": 18,
+    "VACANT": 8,
+    "DATE": "29/04/2021",
+    "TIME": "7:23:41 AM",
     "LOCATION": "https://maps.google.com/?cid=1831042906818907190",
     "LAT": 17.3253684,
     "LONG": 78.5576035,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 681,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "681. DIMS HOSPITALS",
     "CONTACT": 9949905624,
@@ -17021,11 +16341,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10964789893671682204",
     "LAT": 17.486134,
     "LONG": 78.3298012,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 682,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "682. Disha Childrens Hospital-LB Nagar",
     "CONTACT": 9849139127,
@@ -17046,11 +16365,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 683,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "683. DIYA HOSPITAL - BIRAMALGUDA",
     "CONTACT": 8985889585,
@@ -17071,11 +16389,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2703515370046243623",
     "LAT": 17.338064,
     "LONG": 78.5420787,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 684,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "684. DR. PATNAM MAHENDER REDDY, INSTITUTE OF MEDICAL SCIENCES, CHEVELLA (V & M), RANGAREDDY",
     "CONTACT": 7794992668,
@@ -17096,11 +16413,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Dr.+Patnam+Mahender+Reddy+General+Hospital/@17.3061748,78.1478759,17z/data=!4m5!3m4!1s0x3bcbc285169a89f5:0x28e89558ad64009f!8m2!3d17.3064872!4d78.1478223",
     "LAT": 17.3061748,
     "LONG": 78.1478759,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 685,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "685. DR. SHIVARAMNAYAK ORTHOPEDIC HOSPITAL",
     "CONTACT": 9949750777,
@@ -17121,11 +16437,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Dr+Shivaram+Naik+Orthopedic+Hospital/@17.0639272,78.2043588,13z/data=!4m5!3m4!1s0x3bcbcf175fca4f99:0x1879468cee3aff28!8m2!3d17.0680396!4d78.2018462",
     "LAT": 17.0639272,
     "LONG": 78.2043588,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 686,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "686. DR.V.R.K.WOMEN’S MEDICAL COLLEGE TEACHING HOSPITAL & RESEARCH CENTRE, OPP: DEER PARK, AZIZNAGAR, MOINABAD, RR DIST.",
     "CONTACT": 9985995093,
@@ -17146,11 +16461,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Dr.V+R+K+Hospital/@17.3520638,78.3341923,15z/data=!4m2!3m1!1s0x0:0x8c6965f3453d46f2?sa=X&ved=2ahUKEwidrOze9ZbwAhXzzjgGHY6tC2gQ_BIwI3oECDMQBQ",
     "LAT": 17.35269872,
     "LONG": 78.33423522,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 687,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "687. EVYA HOSPITAL - VANASTHALIPURAM",
     "CONTACT": 8555997934,
@@ -17171,11 +16485,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17483220094748364337",
     "LAT": 17.3391792,
     "LONG": 78.571253,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 688,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "688. FLEVA MEDICAL CENTRE",
     "CONTACT": 9908864143,
@@ -17196,11 +16509,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7905750860955732436",
     "LAT": 17.3571931,
     "LONG": 78.5428542,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 689,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "689. GAMAN HEALTH CENTRE",
     "CONTACT": 9494480369,
@@ -17221,11 +16533,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3357179963134915795",
     "LAT": 17.4144301,
     "LONG": 78.4383994,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 690,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "690. GERMANTEN HOSPITAL",
     "CONTACT": 9390101523,
@@ -17246,11 +16557,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13941084943991058349",
     "LAT": 17.3620804,
     "LONG": 78.4282366,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 691,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "691. HAPPY HOSPITAL - MADINAGUDA",
     "CONTACT": 9346145678,
@@ -17271,11 +16581,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13230444205909372747",
     "LAT": 17.4948176,
     "LONG": 78.3432561,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 692,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "692. HEALIX HOSPITAL - MADHINAGUDA",
     "CONTACT": 9703734997,
@@ -17296,11 +16605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6886904406113176399",
     "LAT": 17.4943509,
     "LONG": 78.346191,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 693,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "693. HEALTHCARE HOSPITAL",
     "CONTACT": 9553099942,
@@ -17321,11 +16629,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2364503392141129043",
     "LAT": 17.3453545,
     "LONG": 78.5492994,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 694,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "694. HEALTH VALLEY  HOSPITAL",
     "CONTACT": 9704913696,
@@ -17346,11 +16653,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11853123704371896675",
     "LAT": 17.4643828,
     "LONG": 78.3682561,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 695,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "695. HIMAGIRI HOSPITALS",
     "CONTACT": 8008503564,
@@ -17371,11 +16677,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12250375730960513372",
     "LAT": 17.4422051,
     "LONG": 78.3586659,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 696,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "696. HIRANYAA HOSPITAL - BALAPUR",
     "CONTACT": 7947422681,
@@ -17391,16 +16696,15 @@ telangana_data=[
     "TOTAL": 50,
     "OCCUPIED": 22,
     "VACANT": 28,
-    "DATE": "28/04/2021",
-    "TIME": "9:13:53 AM",
+    "DATE": "29/04/2021",
+    "TIME": "8:01:05 AM",
     "LOCATION": "https://maps.google.com/?cid=1737632664529459301",
     "LAT": 17.3201107,
     "LONG": 78.5199,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 697,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "697. HYDERABAD UROLOGY & ANDROLOGY HOSPITAL",
     "CONTACT": 9848237479,
@@ -17421,11 +16725,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12902374005998454094",
     "LAT": 17.483353,
     "LONG": 78.387067,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 698,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "698. IMAGE HOSPITALS - MADHAPUR",
     "CONTACT": 9160610000,
@@ -17446,11 +16749,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10310443451172821658",
     "LAT": 17.444422,
     "LONG": 78.3860732,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 699,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "699. IMAGE MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9705153496,
@@ -17471,11 +16773,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2864244901357192433",
     "LAT": 17.3525482,
     "LONG": 78.550509,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 700,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "700. INDUS HOSPITALS - KOTHAPET",
     "CONTACT": 9948578673,
@@ -17491,16 +16792,15 @@ telangana_data=[
     "TOTAL": 38,
     "OCCUPIED": 38,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "3:43:38 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:36:51 AM",
     "LOCATION": "https://maps.google.com/?cid=2583283483244761783",
     "LAT": 17.367405,
     "LONG": 78.5358869,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 701,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "701. JAIDHEV HOSPITAL",
     "CONTACT": 8142244333,
@@ -17521,11 +16821,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2387070199916038685",
     "LAT": 17.4023463,
     "LONG": 78.5669579,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 702,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "702. JEEVAN HOSPITAL - KARMANGHAT",
     "CONTACT": 9059073193,
@@ -17546,11 +16845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2749669381974623471",
     "LAT": 17.3446627,
     "LONG": 78.5268986,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 703,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "703. JEEVAN SAI HOSPITAL",
     "CONTACT": 9440407174,
@@ -17558,24 +16856,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 8,
     "REGULAR_BEDS_VACANT": 4,
     "OXYGEN_BEDS_TOTAL": 8,
-    "OXYGEN_BEDS_OCCUPIED": 3,
-    "OXYGEN_BEDS_VACANT": 5,
+    "OXYGEN_BEDS_OCCUPIED": 1,
+    "OXYGEN_BEDS_VACANT": 7,
     "ICU_BEDS_TOTAL": 3,
-    "ICU_BEDS_OCCUPIED": 1,
-    "ICU_BEDS_VACANT": 2,
+    "ICU_BEDS_OCCUPIED": 3,
+    "ICU_BEDS_VACANT": 0,
     "TOTAL": 23,
     "OCCUPIED": 12,
     "VACANT": 11,
     "DATE": "28/04/2021",
-    "TIME": "12:45:48 PM",
+    "TIME": "10:13:56 PM",
     "LOCATION": "https://maps.google.com/?cid=3067246299796330550",
     "LAT": 17.3314569,
     "LONG": 78.5721048,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 704,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "704. KAMINENI ACADEMY OF MEDICAL SCIENCES AND RESEARCH CENRE, LB NAGAR",
     "CONTACT": 9491061341,
@@ -17596,11 +16893,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3204783438853508718",
     "LAT": 17.3487684,
     "LONG": 78.5541959,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 705,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "705. KIMS HOSPITAL, KONDAPUR",
     "CONTACT": 9849554428,
@@ -17621,11 +16917,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9642323789808405846",
     "LAT": 17.4663354,
     "LONG": 78.3677028,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 706,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "706. KRISHNAVENI MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9177527173,
@@ -17633,24 +16928,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 10,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 10,
+    "OXYGEN_BEDS_OCCUPIED": 1,
+    "OXYGEN_BEDS_VACANT": 9,
     "ICU_BEDS_TOTAL": 10,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 10,
     "TOTAL": 30,
-    "OCCUPIED": 0,
-    "VACANT": 30,
-    "DATE": "27/04/2021",
-    "TIME": "6:08:05 PM",
+    "OCCUPIED": 1,
+    "VACANT": 29,
+    "DATE": "28/04/2021",
+    "TIME": "11:26:35 PM",
     "LOCATION": "https://maps.google.com/?cid=7346745219695126987",
     "LAT": 17.3286616,
     "LONG": 78.5994084,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 707,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "707. LEGEND HOSPITALS",
     "CONTACT": 9848999559,
@@ -17671,11 +16965,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6418677443805743581",
     "LAT": 17.335994,
     "LONG": 78.5762089,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 708,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "708. LIFE CARE HOSPITAL",
     "CONTACT": 9032003346,
@@ -17696,11 +16989,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2052282574602008989",
     "LAT": 17.4980666,
     "LONG": 78.3351163,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 709,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "709. LIMS HOSPITAL",
     "CONTACT": 9553569852,
@@ -17721,11 +17013,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14161926414551303924",
     "LAT": 17.2602591,
     "LONG": 78.384654,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 710,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "710. MAHAVIR INSTITUTE OF MEDICAL SCIENCES - VIKARABAD",
     "CONTACT": 8277016369,
@@ -17746,11 +17037,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13145926171612066768",
     "LAT": 17.3180584,
     "LONG": 77.9219696,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 711,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "711. MAXICURE HOSPITALS",
     "CONTACT": 9121444666,
@@ -17771,11 +17061,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10569223487621617487",
     "LAT": 17.3218749,
     "LONG": 78.5593605,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 712,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "712. MEDICITI INSTITUTE OF MEDICAL SCIENCES, GHANPUR, MEDCHAL (M), RR DIST.",
     "CONTACT": 9703732557,
@@ -17796,11 +17085,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13145053990670419534",
     "LAT": 17.617005,
     "LONG": 78.5476277,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 713,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "713. MEDICOVER HOSPITALS A UNIT OF SAHRUDAYA HEALTH CARE PRIVATE LIMITED MADHAPUR",
     "CONTACT": 9154706780,
@@ -17816,66 +17104,63 @@ telangana_data=[
     "TOTAL": 204,
     "OCCUPIED": 204,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "8:00:40 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:51:56 AM",
     "LOCATION": "https://maps.google.com/?cid=6037356888849475698",
     "LAT": 17.4466407,
     "LONG": 78.3800883,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 714,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "714. MEDICOVER WOMAN AND CHILD HOSPITAL-MADHAPUR",
     "CONTACT": "--",
     "REGULAR_BEDS_TOTAL": 3,
-    "REGULAR_BEDS_OCCUPIED": 1,
-    "REGULAR_BEDS_VACANT": 2,
+    "REGULAR_BEDS_OCCUPIED": 0,
+    "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 27,
-    "OXYGEN_BEDS_OCCUPIED": 26,
-    "OXYGEN_BEDS_VACANT": 1,
+    "OXYGEN_BEDS_OCCUPIED": 25,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 30,
-    "OCCUPIED": 27,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "9:09:44 PM",
+    "OCCUPIED": 25,
+    "VACANT": 5,
+    "DATE": "29/04/2021",
+    "TIME": "6:33:40 AM",
     "LOCATION": "https://maps.google.com/?cid=8154426542093118125",
     "LAT": 17.446614,
     "LONG": 78.378764,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 715,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "715. MEDISYS HOSPITAL - L B NAGAR",
     "CONTACT": 9100277716,
     "REGULAR_BEDS_TOTAL": 40,
-    "REGULAR_BEDS_OCCUPIED": 32,
-    "REGULAR_BEDS_VACANT": 8,
+    "REGULAR_BEDS_OCCUPIED": 30,
+    "REGULAR_BEDS_VACANT": 10,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 10,
-    "OXYGEN_BEDS_VACANT": 0,
+    "OXYGEN_BEDS_OCCUPIED": 8,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 40,
-    "ICU_BEDS_OCCUPIED": 26,
-    "ICU_BEDS_VACANT": 14,
+    "ICU_BEDS_OCCUPIED": 32,
+    "ICU_BEDS_VACANT": 8,
     "TOTAL": 90,
-    "OCCUPIED": 68,
-    "VACANT": 22,
-    "DATE": "28/04/2021",
-    "TIME": "6:49:34 AM",
+    "OCCUPIED": 70,
+    "VACANT": 20,
+    "DATE": "29/04/2021",
+    "TIME": "6:43:11 AM",
     "LOCATION": "https://maps.google.com/?cid=13691115139726962664",
     "LAT": 17.3412317,
     "LONG": 78.5578375,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 716,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "716. METRO HOSPITAL",
     "CONTACT": 90309446848,
@@ -17896,11 +17181,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17686093587302955323",
     "LAT": 17.3725967,
     "LONG": 78.5009906,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 717,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "717. MOHAN HOSPITAL - L B NAGAR",
     "CONTACT": 9396506070,
@@ -17921,11 +17205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11131986759270108110",
     "LAT": 17.3490565,
     "LONG": 78.548304,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 718,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "718. NAKSHATRA HOSPITAL - HYDERABAD",
     "CONTACT": 7337551103,
@@ -17946,11 +17229,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2467063715524484160",
     "LAT": 17.362389,
     "LONG": 78.557015,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 719,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "719. NAVEENA MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9849488885,
@@ -17971,11 +17253,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8232208391637829582",
     "LAT": 17.3271299,
     "LONG": 78.555739,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 720,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "720. Neo-Care Hospital-Bandlagudajagir",
     "CONTACT": 8686840521,
@@ -17996,11 +17277,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 721,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "721. NEW AMMA HOSPITALS",
     "CONTACT": 9100182021,
@@ -18021,11 +17301,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7881568406364296567",
     "LAT": 17.3267996,
     "LONG": 78.5562734,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 722,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "722. OMNI HOSPITAL - KOTHAPET",
     "CONTACT": 9491090024,
@@ -18046,11 +17325,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11369620307516432253",
     "LAT": 17.3684226,
     "LONG": 78.5386507,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 723,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "723. OZONE HOSPITALS",
     "CONTACT": 9515749108,
@@ -18071,11 +17349,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16717417214759799863",
     "LAT": 17.3594498,
     "LONG": 78.5452211,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 724,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "724. PACE HOSPITALS",
     "CONTACT": 9968876768,
@@ -18096,11 +17373,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16392861085529818279",
     "LAT": 17.4466868,
     "LONG": 78.3840743,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 725,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "725. PADMAVATHI GASTRO & LIVER HOSPITAL",
     "CONTACT": 9701034567,
@@ -18121,11 +17397,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4972404242660442271",
     "LAT": 17.4947488,
     "LONG": 78.3599908,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 726,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "726. PARAMITHA CHILDREN HOSPITAL",
     "CONTACT": 9553411594,
@@ -18146,11 +17421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3134825016669719906",
     "LAT": 17.3597274,
     "LONG": 78.5449109,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 727,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "727. PAVAN SAI HOSPITAL",
     "CONTACT": 8801719855,
@@ -18171,11 +17445,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6520883476159473163",
     "LAT": 17.360672,
     "LONG": 78.5583082,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 728,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "728. PEOPLES MULTISPECIALITY HOSPITAL-YACHARAM",
     "CONTACT": 7013397296,
@@ -18191,16 +17464,15 @@ telangana_data=[
     "TOTAL": 33,
     "OCCUPIED": 0,
     "VACANT": 33,
-    "DATE": "28/04/2021",
-    "TIME": "8:01:14 AM",
+    "DATE": "29/04/2021",
+    "TIME": "7:56:16 AM",
     "LOCATION": "https://maps.google.com/?cid=5644879465516424285",
     "LAT": 17.0433097,
     "LONG": 78.6617074,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 729,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "729. PLUTUS HOSPITAL",
     "CONTACT": 7675803975,
@@ -18221,11 +17493,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1631535421069935562",
     "LAT": 17.2649966,
     "LONG": 78.3889617,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 730,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "730. PRANAAM HOSPITALS PVT LTD-MIYAPUR",
     "CONTACT": "--",
@@ -18246,11 +17517,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 731,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "731. PRATYUSHA HOSPITAL",
     "CONTACT": 9652496230,
@@ -18258,24 +17528,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 8,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_OCCUPIED": 6,
+    "OXYGEN_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 6,
-    "ICU_BEDS_OCCUPIED": 4,
-    "ICU_BEDS_VACANT": 2,
+    "ICU_BEDS_OCCUPIED": 3,
+    "ICU_BEDS_VACANT": 3,
     "TOTAL": 16,
-    "OCCUPIED": 12,
-    "VACANT": 4,
-    "DATE": "28/04/2021",
-    "TIME": "4:48:03 PM",
+    "OCCUPIED": 9,
+    "VACANT": 7,
+    "DATE": "29/04/2021",
+    "TIME": "7:23:36 AM",
     "LOCATION": "https://maps.google.com/?cid=2170316039831223763",
     "LAT": 17.283862,
     "LONG": 78.5368196,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 732,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "732. PRK HOSPITAL - CHANDANAGAR",
     "CONTACT": 9182430583,
@@ -18291,16 +17560,15 @@ telangana_data=[
     "TOTAL": 86,
     "OCCUPIED": 86,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "4:41:34 PM",
+    "DATE": "29/04/2021",
+    "TIME": "6:50:20 AM",
     "LOCATION": "https://maps.google.com/?cid=11409383227408080528",
     "LAT": 17.4945051,
     "LONG": 78.3216326,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 733,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "733. RAKSHITHA HOSPITAL",
     "CONTACT": 9392584446,
@@ -18321,11 +17589,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13950191759077999307",
     "LAT": 17.3700586,
     "LONG": 78.5316865,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 734,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "734. RAVI HOSPITAL (TRAUMA AND CRITICAL CARE CENTRE)",
     "CONTACT": 9642380675,
@@ -18346,11 +17613,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6332920670202660894",
     "LAT": 17.4842866,
     "LONG": 78.3985691,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 735,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "735. RAVINDRA HOSPITAL",
     "CONTACT": 9866695958,
@@ -18371,11 +17637,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5131241910597760502",
     "LAT": 17.3679207,
     "LONG": 78.5309953,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 736,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "736. RISE CHILDRENS HOSPITALS (A UNIT OF RISE HOSPITALS PVT.LTD)",
     "CONTACT": 9849139127,
@@ -18396,11 +17661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6179739970723504783",
     "LAT": 17.3802943,
     "LONG": 78.4296974,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 737,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "737. RISHITHA HOSPITAL",
     "CONTACT": 8179898539,
@@ -18421,11 +17685,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15759648700964521099",
     "LAT": 17.3585431,
     "LONG": 78.3863855,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 738,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "738. RK HOSPITALS - CHAMPAPET",
     "CONTACT": 6301583600,
@@ -18446,11 +17709,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4276378270562206302",
     "LAT": 17.3390475,
     "LONG": 78.5233063,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 739,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "739. RUBY HOSPITAL",
     "CONTACT": 6303437096,
@@ -18471,11 +17733,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=588284262615948644",
     "LAT": 17.4995655,
     "LONG": 78.3372326,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 740,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "740. RVR-HAYAT NAGAR",
     "CONTACT": 9866243456,
@@ -18491,16 +17752,15 @@ telangana_data=[
     "TOTAL": 16,
     "OCCUPIED": 14,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "4:01:18 PM",
+    "DATE": "29/04/2021",
+    "TIME": "2:00:37 AM",
     "LOCATION": "https://maps.google.com/?cid=11071048626685202834",
     "LAT": 17.3290084,
     "LONG": 78.575381,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 741,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "741. SAI SANJEEVANI HOSPITAL",
     "CONTACT": "--",
@@ -18521,11 +17781,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 742,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "742. SAI SWAROOPA HSOPITAL",
     "CONTACT": 8106869505,
@@ -18546,11 +17805,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=106885894150539770",
     "LAT": 17.3206241,
     "LONG": 78.5619191,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 743,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "743. SAI TEJA HOSPITAL",
     "CONTACT": 9246538927,
@@ -18571,11 +17829,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14702236562727260764",
     "LAT": 17.3612306,
     "LONG": 78.5385718,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 744,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "744. SANGAMITHRA HOSPITAL - DILSUKNAGAR",
     "CONTACT": 9100879144,
@@ -18596,11 +17853,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11404349001871237779",
     "LAT": 17.3696952,
     "LONG": 78.5320115,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 745,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "745. SAPTAGIRI HOSPITAL (A UNIT OF PADMALAYA HOSPITAL PVT LTD)",
     "CONTACT": 9246335799,
@@ -18621,11 +17877,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17646494264648901971",
     "LAT": 17.3690898,
     "LONG": 78.5301983,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 746,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "746. SATYAM HOSPITAL-ATTAPUR",
     "CONTACT": 9000991908,
@@ -18646,11 +17901,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2881093262652658091",
     "LAT": 17.3668062,
     "LONG": 78.4287226,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 747,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "747. SHADAN INSTITUTE OF MEDICAL SCIENCES, RESEARCH & TEACHING HOSPITAL - HIMAYATSAGER ROAD",
     "CONTACT": 9848288697,
@@ -18671,11 +17925,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5183799720212957285",
     "LAT": 17.3520257,
     "LONG": 78.3728371,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 748,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "748. SHANMUKA VAISNAVI HOSPITAL - DILSUKNAGAR",
     "CONTACT": 9246200114,
@@ -18696,11 +17949,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7274013995875100044",
     "LAT": 17.3691573,
     "LONG": 78.5315403,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 749,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "749. SHANTHI MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -18721,11 +17973,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 750,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "750. SHREE SEVEN HILLS HOSPITAL",
     "CONTACT": 6305368269,
@@ -18746,11 +17997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18222746946724657458",
     "LAT": 17.3241295,
     "LONG": 78.5574712,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 751,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "751. SHREYA HOSPITALS",
     "CONTACT": 9912868878,
@@ -18771,11 +18021,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5835507253711406727",
     "LAT": 17.4508307,
     "LONG": 78.4235355,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 752,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "752. SHRI SIGMA METRO CARE HOSPITAL",
     "CONTACT": 9866768777,
@@ -18783,24 +18032,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 6,
     "REGULAR_BEDS_VACANT": 4,
     "OXYGEN_BEDS_TOTAL": 10,
-    "OXYGEN_BEDS_OCCUPIED": 6,
-    "OXYGEN_BEDS_VACANT": 4,
+    "OXYGEN_BEDS_OCCUPIED": 9,
+    "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 10,
-    "ICU_BEDS_OCCUPIED": 9,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_OCCUPIED": 10,
+    "ICU_BEDS_VACANT": 0,
     "TOTAL": 30,
-    "OCCUPIED": 21,
-    "VACANT": 9,
-    "DATE": "28/04/2021",
-    "TIME": "8:49:48 PM",
+    "OCCUPIED": 25,
+    "VACANT": 5,
+    "DATE": "29/04/2021",
+    "TIME": "7:58:48 AM",
     "LOCATION": "https://maps.google.com/?cid=8380500390432918743",
     "LAT": 17.4956673,
     "LONG": 78.3688568,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 753,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "753. SHYAM HOSPITAL",
     "CONTACT": 9000991908,
@@ -18821,17 +18069,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11519616581491127809",
     "LAT": 17.322977,
     "LONG": 78.557245,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 754,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "754. SIA LIFE HOSPITAL",
     "CONTACT": "--",
     "REGULAR_BEDS_TOTAL": 22,
-    "REGULAR_BEDS_OCCUPIED": 14,
-    "REGULAR_BEDS_VACANT": 8,
+    "REGULAR_BEDS_OCCUPIED": 20,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 35,
     "OXYGEN_BEDS_OCCUPIED": 35,
     "OXYGEN_BEDS_VACANT": 0,
@@ -18839,18 +18086,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 16,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 73,
-    "OCCUPIED": 65,
-    "VACANT": 8,
-    "DATE": "28/04/2021",
-    "TIME": "7:35:11 AM",
+    "OCCUPIED": 71,
+    "VACANT": 2,
+    "DATE": "29/04/2021",
+    "TIME": "8:01:11 AM",
     "LOCATION": "https://maps.google.com/?cid=16110440762916945337",
     "LAT": 17.4696241,
     "LONG": 78.3639125,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 755,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "755. SIREESHA NURSING HOME - CHANDANAGAR",
     "CONTACT": 9848356763,
@@ -18866,16 +18112,15 @@ telangana_data=[
     "TOTAL": 8,
     "OCCUPIED": 5,
     "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "8:36:33 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:45:31 AM",
     "LOCATION": "https://maps.google.com/?cid=11638562686373068945",
     "LAT": 17.4996284,
     "LONG": 78.3352552,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 756,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "756. SREESTA ORANGE HOSPITAL - L B NAGAR",
     "CONTACT": 9346028314,
@@ -18896,11 +18141,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1966616629255965063",
     "LAT": 17.3451831,
     "LONG": 78.5538645,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 757,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "757. SRI CHANDRA MULTI SPECIALITY HOSPITAL-SHIVARAMPALLY",
     "CONTACT": "--",
@@ -18921,11 +18165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10561900228656370297",
     "LAT": 17.3284701,
     "LONG": 78.4258966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 758,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "758. SRIHITHA HOSPITALS",
     "CONTACT": 9246538928,
@@ -18946,11 +18189,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13381747716048323013",
     "LAT": 17.3676409,
     "LONG": 78.5295841,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 759,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "759. SRI HOSPITALS - CHAITHANYAPURI",
     "CONTACT": 9848203262,
@@ -18971,11 +18213,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2175261924289268853",
     "LAT": 17.3761737,
     "LONG": 78.5374558,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 760,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "760. Sri Lakshmi Hospital-Aramghar X Road",
     "CONTACT": 9248019119,
@@ -18991,16 +18232,15 @@ telangana_data=[
     "TOTAL": 15,
     "OCCUPIED": 5,
     "VACANT": 10,
-    "DATE": "27/04/2021",
-    "TIME": "11:44:31 PM",
+    "DATE": "29/04/2021",
+    "TIME": "1:22:42 AM",
     "LOCATION": "https://www.google.com/maps/place/Sri+Lakshmi+Hospital+Dr+sheker+mbbs+physician%26+surgon/@17.3221876,78.4307849,15z/data=!4m5!3m4!1s0x0:0xbc29709c07698bb5!8m2!3d17.3221876!4d78.4307849",
     "LAT": 17.32269971,
     "LONG": 78.4313428,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 761,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "761. Srinivasa Hospital-Hayathnagar",
     "CONTACT": 8121419856,
@@ -19016,16 +18256,15 @@ telangana_data=[
     "TOTAL": 13,
     "OCCUPIED": 1,
     "VACANT": 12,
-    "DATE": "27/04/2021",
-    "TIME": "9:40:32 PM",
+    "DATE": "28/04/2021",
+    "TIME": "11:37:25 PM",
     "LOCATION": "https://www.google.com/maps/place/Srinivasa+Hospital/@17.3259942,78.6061625,17z/data=!4m5!3m4!1s0x3bcba1cc247fc983:0x1b26c118746efa1c!8m2!3d17.3260813!4d78.60642",
     "LAT": 17.3259942,
     "LONG": 78.6061625,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 762,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "762. SRI RADHIKA MULTI SPECIALITY HOSPITAL",
     "CONTACT": 8801111422,
@@ -19046,11 +18285,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7167721852514334041",
     "LAT": 17.3204067,
     "LONG": 78.5174283,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 763,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "763. SRI SANKALP MULTISPECIALITY HOSPITAL",
     "CONTACT": 9966695005,
@@ -19071,11 +18309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17447870712116939538",
     "LAT": 17.3446561,
     "LONG": 78.5166446,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 764,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "764. SRI SIDDESHWARA HOSPITAL - CHAMPAPET",
     "CONTACT": 7842091999,
@@ -19096,11 +18333,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18051973494763595819",
     "LAT": 17.3466204,
     "LONG": 78.5211727,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 765,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "765. SRI SIGMA HOSPITAL - MADHAPUR",
     "CONTACT": 8185898570,
@@ -19121,11 +18357,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10978652583346853230",
     "LAT": 17.5220912,
     "LONG": 78.4431942,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 766,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "766. SRI SRINIVASA MULTI SPECIALITY  HOSPITAL",
     "CONTACT": 8368603645,
@@ -19146,11 +18381,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18364884716062832140",
     "LAT": 17.3145931,
     "LONG": 78.4463292,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 767,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "767. SRI SRINIVASA MULTISPECIALITY HOSPITAL - MAILARDEVPALLY",
     "CONTACT": 7676998811,
@@ -19166,16 +18400,15 @@ telangana_data=[
     "TOTAL": 39,
     "OCCUPIED": 34,
     "VACANT": 5,
-    "DATE": "28/04/2021",
-    "TIME": "9:31:50 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:48:54 AM",
     "LOCATION": "https://maps.google.com/?cid=18364884716062832140",
     "LAT": 17.3145931,
     "LONG": 78.4463292,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 768,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "768. SRI VENKATESHWARA MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -19196,11 +18429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17447870712116939538",
     "LAT": 17.3446561,
     "LONG": 78.5166446,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 769,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "769. SUNCITY NURSING HOME",
     "CONTACT": 9849330213,
@@ -19221,11 +18453,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12178915572486914361",
     "LAT": 17.3651729,
     "LONG": 78.3969195,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 770,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "770. SUNRISE HOSPITAL - HAYATH NAGAR",
     "CONTACT": 4067451111,
@@ -19246,11 +18477,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12575664446428213441",
     "LAT": 17.327903,
     "LONG": 78.6017221,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 771,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "771. SUNSHINE HOSPITALS GACHIBOWLI",
     "CONTACT": 9014411223,
@@ -19271,11 +18501,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9609909567554437451",
     "LAT": 17.4200752,
     "LONG": 78.3850206,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 772,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "772. S.V.MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9347547775,
@@ -19296,11 +18525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4479722356956771327",
     "LAT": 17.3211553,
     "LONG": 78.520052,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 773,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "773. TIRUMALA MULTISPECIALITY HOSPITAL - OMKAR NAGAR, SAGAR ROAD",
     "CONTACT": 9666661159,
@@ -19316,16 +18544,15 @@ telangana_data=[
     "TOTAL": 50,
     "OCCUPIED": 14,
     "VACANT": 36,
-    "DATE": "28/04/2021",
-    "TIME": "9:48:39 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:20:02 AM",
     "LOCATION": "https://maps.google.com/?cid=16221160876586291711",
     "LAT": 17.3343379,
     "LONG": 78.5521947,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 774,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "774. TRIDENT HOSPITAL- SHAMSHABAD",
     "CONTACT": 9849389777,
@@ -19346,36 +18573,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6229872538282554806",
     "LAT": 17.2600045,
     "LONG": 78.3840005,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 775,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "775. UDBHAVA HOSPITALS - MIYAPUR",
     "CONTACT": 9966184423,
     "REGULAR_BEDS_TOTAL": 33,
-    "REGULAR_BEDS_OCCUPIED": 30,
-    "REGULAR_BEDS_VACANT": 3,
+    "REGULAR_BEDS_OCCUPIED": 33,
+    "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 30,
     "OXYGEN_BEDS_OCCUPIED": 30,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 37,
-    "ICU_BEDS_OCCUPIED": 32,
-    "ICU_BEDS_VACANT": 5,
+    "ICU_BEDS_OCCUPIED": 37,
+    "ICU_BEDS_VACANT": 0,
     "TOTAL": 100,
-    "OCCUPIED": 92,
-    "VACANT": 8,
-    "DATE": "27/04/2021",
-    "TIME": "9:20:51 AM",
+    "OCCUPIED": 100,
+    "VACANT": 0,
+    "DATE": "29/04/2021",
+    "TIME": "7:43:20 AM",
     "LOCATION": "https://maps.google.com/?cid=79783766777726540",
     "LAT": 17.4952201,
     "LONG": 78.3574077,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 776,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "776. Unicorpus Word and Deed Hospital-Peddaamberpet",
     "CONTACT": 8008204229,
@@ -19396,11 +18621,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Unicorpus+Word+and+Deed+Hospital/@17.3214781,78.625913,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcba168c571b03b:0x1e18cc102cb79552!8m2!3d17.3214781!4d78.6281017",
     "LAT": 17.3214781,
     "LONG": 78.625913,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 777,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "777. USHA MOHAN HOSPITAL-ATTAPUR",
     "CONTACT": "--",
@@ -19421,11 +18645,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5266825838870542705",
     "LAT": 17.3639861,
     "LONG": 78.4285876,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 778,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "778. VAMSI PRAGMA HOSPITAL",
     "CONTACT": 9985845145,
@@ -19446,11 +18669,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15199481324156393337",
     "LAT": 17.4947934,
     "LONG": 78.3996441,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 779,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "779. Vanaja Hospital-Chandanagar",
     "CONTACT": 9000788722,
@@ -19471,11 +18693,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 780,
+    "SNO": 23,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "780. ZOI, ATTAPUR",
     "CONTACT": 9059207482,
@@ -19496,11 +18717,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9712592404362320441",
     "LAT": 17.3630352,
     "LONG": 78.4284592,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 781,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "781. ASIL HOSPITAL",
     "CONTACT": 9908878622,
@@ -19521,11 +18741,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4634236758367475032",
     "LAT": 17.5897243,
     "LONG": 78.0841825,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 782,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "782. CITY SUPER SPECIALITY HOSPITAL",
     "CONTACT": 9963522885,
@@ -19546,11 +18765,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/City+Super+Speciality+Hospital/@17.6067963,78.0836776,15z/data=!4m2!3m1!1s0x0:0xcb69caca2447674d?sa=X&ved=2ahUKEwi3iO6I5ZjwAhVd3zgGHaIwCNkQ_BIwNHoECGAQBQ",
     "LAT": 17.60730761,
     "LONG": 78.08393509,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 783,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "783. GOKULA VENKATESHWERA MULTI SPECIALITY HOSP.",
     "CONTACT": 9440894477,
@@ -19571,11 +18789,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3890656732652667924",
     "LAT": 17.6072044,
     "LONG": 78.0836799,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 784,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "784. KAKATHIYA HOSPITAL",
     "CONTACT": 9866231944,
@@ -19596,11 +18813,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Kakatiya+Hospital/@17.4515654,78.3668431,15z/data=!4m2!3m1!1s0x0:0xc25e67831c43c54?sa=X&ved=2ahUKEwjt8ayz5ZjwAhUZwzgGHd-9B-MQ_BIwdXoECFsQBQ",
     "LAT": 17.45302476,
     "LONG": 78.36732812,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 785,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "785. KBR  LIFE CARE HOSPITAL",
     "CONTACT": 9100230296,
@@ -19621,11 +18837,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/KBR+LIFE+CARE+HOSPITALS/@17.5917633,78.0845814,15z/data=!4m2!3m1!1s0x0:0x495dd5df6a476bdb?sa=X&ved=2ahUKEwjQrvSU5pjwAhX-xTgGHW9gAGkQ_BIwVXoECF8QBQ",
     "LAT": 17.59272465,
     "LONG": 78.08445265,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 786,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "786. KETHANA MULTISPECIALITY HOSPITAL",
     "CONTACT": 9642128998,
@@ -19646,11 +18861,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9655853452511613473",
     "LAT": 17.5921988,
     "LONG": 78.0840379,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 787,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "787. Maheshwara medical college and  Hospital-Sangareddy",
     "CONTACT": 9848573333,
@@ -19671,11 +18885,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Maheshwara+Medical+College/@17.5624265,78.2017602,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcbf3d7795405d1:0x45bca6e114727657!8m2!3d17.5624265!4d78.2039489",
     "LAT": 17.5624265,
     "LONG": 78.2017602,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 788,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "788. MANJEERA HOSPITAL",
     "CONTACT": 9441782501,
@@ -19696,11 +18909,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=238204976658511780",
     "LAT": 17.5897845,
     "LONG": 78.0753904,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 789,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "789. MAXCARE HOSPTAL-PATANCHERU",
     "CONTACT": 8008123479,
@@ -19721,11 +18933,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11715429398831430648",
     "LAT": 17.5311735,
     "LONG": 78.2612746,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 790,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "790. MEDICOVER HOSPITAL - CHANDANAGAR",
     "CONTACT": 9000011453,
@@ -19746,11 +18957,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10233466179754528459",
     "LAT": 17.5868934,
     "LONG": 78.0935545,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 791,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "791. N CARE  HOSPITAL - R C PURAM",
     "CONTACT": 9908800900,
@@ -19771,11 +18981,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6313035200597355461",
     "LAT": 17.6264954,
     "LONG": 78.0803942,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 792,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "792. Ordnance Factory Hospital-Sangareddy",
     "CONTACT": 8500667189,
@@ -19796,11 +19005,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Ordnance+Factory+Medak+Office/@17.5029092,78.1161852,13.38z/data=!4m5!3m4!1s0x0:0x2fc520c8f8418b0b!8m2!3d17.506329!4d78.1341633",
     "LAT": 17.50861344,
     "LONG": 78.13511812,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 793,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "793. PADMAVATHI MULTI SPECIALTY HOSPITAL",
     "CONTACT": 7702270153,
@@ -19821,11 +19029,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8320461697832190307",
     "LAT": 17.603498,
     "LONG": 78.0840256,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 794,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "794. PANACEA MERIDIAN HOSPITAL",
     "CONTACT": 8008411414,
@@ -19846,11 +19053,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8658413279452120001",
     "LAT": 17.5088631,
     "LONG": 78.3001492,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 795,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "795. PREETI UROLOGY AND KIDNEY HOSPITAL",
     "CONTACT": 9248045473,
@@ -19871,11 +19077,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7316092533490501335",
     "LAT": 17.4943473,
     "LONG": 78.3168455,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 796,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "796. SAHASRA HOSPITAL",
     "CONTACT": 8374790990,
@@ -19896,11 +19101,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5662159872115539492",
     "LAT": 17.6070707,
     "LONG": 78.0833215,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 797,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "797. Sahithi Hospital-Sangareddy",
     "CONTACT": 9441179148,
@@ -19921,11 +19125,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sahithi+Hospital/@17.6184767,78.0794075,17z/data=!4m9!1m2!2m1!1sSahithi+Hospital-Sangareddy!3m5!1s0x3bcbf9c741c0f74b:0x5fee69f11cb92ac8!8m2!3d17.6175376!4d78.080884!15sChtTYWhpdGhpIEhvc3BpdGFsLVNhbmdhcmVkZHmSAQhob3NwaXRhbA",
     "LAT": 17.6184767,
     "LONG": 78.0794075,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 798,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "798. SAI RAM HOSPITAL",
     "CONTACT": 9985646565,
@@ -19946,11 +19149,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1874478268943092958",
     "LAT": 17.6198838,
     "LONG": 78.0811392,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 799,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "799. Sanrohi Hospital-Zaheerabad",
     "CONTACT": 7729009960,
@@ -19971,11 +19173,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 800,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "800. SHREE BALAJI MEDICOVER - SANGAREDDY",
     "CONTACT": 8374870887,
@@ -19983,24 +19184,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 32,
-    "OXYGEN_BEDS_OCCUPIED": 16,
-    "OXYGEN_BEDS_VACANT": 16,
+    "OXYGEN_BEDS_OCCUPIED": 15,
+    "OXYGEN_BEDS_VACANT": 17,
     "ICU_BEDS_TOTAL": 4,
     "ICU_BEDS_OCCUPIED": 4,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 36,
-    "OCCUPIED": 20,
-    "VACANT": 16,
+    "OCCUPIED": 19,
+    "VACANT": 17,
     "DATE": "28/04/2021",
-    "TIME": "5:10:52 PM",
+    "TIME": "11:37:12 PM",
     "LOCATION": "https://maps.google.com/?cid=10233466179754528459",
     "LAT": 17.5868934,
     "LONG": 78.0935545,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 801,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "801. Sishu Raksha Hospital-Sangareddy",
     "CONTACT": 9550570871,
@@ -20021,17 +19221,16 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Shishuraksha+hospital/@17.6000374,78.0756724,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcbf92af4d80ea9:0xbb760726b64ff532!8m2!3d17.6000374!4d78.0778611",
     "LAT": 17.6000374,
     "LONG": 78.0756724,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 802,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "802. SN HOSPITAL",
     "CONTACT": 9866786785,
     "REGULAR_BEDS_TOTAL": 4,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 4,
+    "REGULAR_BEDS_OCCUPIED": 1,
+    "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 8,
     "OXYGEN_BEDS_OCCUPIED": 8,
     "OXYGEN_BEDS_VACANT": 0,
@@ -20039,18 +19238,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 8,
     "TOTAL": 20,
-    "OCCUPIED": 8,
-    "VACANT": 12,
-    "DATE": "28/04/2021",
-    "TIME": "8:13:19 AM",
+    "OCCUPIED": 9,
+    "VACANT": 11,
+    "DATE": "29/04/2021",
+    "TIME": "1:02:19 AM",
     "LOCATION": "https://maps.google.com/?cid=12499523097435009752",
     "LAT": 17.6224702,
     "LONG": 78.0864711,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 803,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "803. SRI LAXMI VENKATESHWARA ORTHO AND MATERNITY NURSING HOME",
     "CONTACT": 9494423032,
@@ -20071,17 +19269,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1264150235611571885",
     "LAT": 17.591731,
     "LONG": 78.083808,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 804,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "804. SRI TIRUMALA HOSPITAL",
     "CONTACT": 8919190156,
     "REGULAR_BEDS_TOTAL": 8,
-    "REGULAR_BEDS_OCCUPIED": 3,
-    "REGULAR_BEDS_VACANT": 5,
+    "REGULAR_BEDS_OCCUPIED": 5,
+    "REGULAR_BEDS_VACANT": 3,
     "OXYGEN_BEDS_TOTAL": 3,
     "OXYGEN_BEDS_OCCUPIED": 3,
     "OXYGEN_BEDS_VACANT": 0,
@@ -20089,18 +19286,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 11,
-    "OCCUPIED": 6,
-    "VACANT": 5,
+    "OCCUPIED": 8,
+    "VACANT": 3,
     "DATE": "28/04/2021",
-    "TIME": "2:55:39 PM",
+    "TIME": "11:04:46 PM",
     "LOCATION": "https://maps.google.com/?cid=1264150235611571885",
     "LAT": 17.591731,
     "LONG": 78.083808,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 805,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "805. SUNRISE HOSPITAL",
     "CONTACT": 9885033304,
@@ -20108,24 +19304,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 0,
     "REGULAR_BEDS_VACANT": 1,
     "OXYGEN_BEDS_TOTAL": 21,
-    "OXYGEN_BEDS_OCCUPIED": 19,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_OCCUPIED": 21,
+    "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 7,
-    "ICU_BEDS_OCCUPIED": 4,
-    "ICU_BEDS_VACANT": 3,
+    "ICU_BEDS_OCCUPIED": 3,
+    "ICU_BEDS_VACANT": 4,
     "TOTAL": 29,
-    "OCCUPIED": 23,
-    "VACANT": 6,
+    "OCCUPIED": 24,
+    "VACANT": 5,
     "DATE": "28/04/2021",
-    "TIME": "12:08:24 PM",
+    "TIME": "10:59:22 PM",
     "LOCATION": "https://maps.google.com/?cid=17470794412144022441",
     "LAT": 17.595827,
     "LONG": 78.0821865,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 806,
+    "SNO": 24,
     "DISTRICT": "Sangareddy",
     "HOSPITAL_NAME": "806. TRR INSTITUTE OF MEDICAL SCIENCES",
     "CONTACT": 9885500242,
@@ -20146,17 +19341,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14628402805860353910",
     "LAT": 17.584411,
     "LONG": 78.264538,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 807,
+    "SNO": 25,
     "DISTRICT": "Siddipet",
     "HOSPITAL_NAME": "807. RVM CHARITABLE TRUST - SIDDIPET",
     "CONTACT": 9849521108,
     "REGULAR_BEDS_TOTAL": 500,
-    "REGULAR_BEDS_OCCUPIED": 43,
-    "REGULAR_BEDS_VACANT": 457,
+    "REGULAR_BEDS_OCCUPIED": 59,
+    "REGULAR_BEDS_VACANT": 441,
     "OXYGEN_BEDS_TOTAL": 40,
     "OXYGEN_BEDS_OCCUPIED": 40,
     "OXYGEN_BEDS_VACANT": 0,
@@ -20164,18 +19358,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 4,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 544,
-    "OCCUPIED": 87,
-    "VACANT": 457,
-    "DATE": "28/04/2021",
-    "TIME": "8:49:03 AM",
+    "OCCUPIED": 103,
+    "VACANT": 441,
+    "DATE": "29/04/2021",
+    "TIME": "7:49:43 AM",
     "LOCATION": "https://maps.google.com/?cid=875811889632086530",
     "LAT": 17.7191981,
     "LONG": 78.6124996,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 808,
+    "SNO": 25,
     "DISTRICT": "Siddipet",
     "HOSPITAL_NAME": "808. SURABHI, INSTITUTE OF MEDICAL SCIENCES - SIDDIPET",
     "CONTACT": 8123491717,
@@ -20196,11 +19389,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16233148286705333128",
     "LAT": 18.0901646,
     "LONG": 78.9171767,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 809,
+    "SNO": 26,
     "DISTRICT": "Suryapet",
     "HOSPITAL_NAME": "809. OM HOSPITAL",
     "CONTACT": "--",
@@ -20208,24 +19400,23 @@ telangana_data=[
     "REGULAR_BEDS_OCCUPIED": 5,
     "REGULAR_BEDS_VACANT": 0,
     "OXYGEN_BEDS_TOTAL": 8,
-    "OXYGEN_BEDS_OCCUPIED": 6,
-    "OXYGEN_BEDS_VACANT": 2,
+    "OXYGEN_BEDS_OCCUPIED": 5,
+    "OXYGEN_BEDS_VACANT": 3,
     "ICU_BEDS_TOTAL": 3,
-    "ICU_BEDS_OCCUPIED": 3,
-    "ICU_BEDS_VACANT": 0,
+    "ICU_BEDS_OCCUPIED": 2,
+    "ICU_BEDS_VACANT": 1,
     "TOTAL": 16,
-    "OCCUPIED": 14,
-    "VACANT": 2,
+    "OCCUPIED": 12,
+    "VACANT": 4,
     "DATE": "28/04/2021",
-    "TIME": "11:39:10 AM",
+    "TIME": "10:54:57 PM",
     "LOCATION": "https://www.google.com/maps/place/DR+ATUL+RAI/@17.1480628,79.6200764,17z/data=!3m1!4b1!4m5!3m4!1s0x3a34dbfb647c72df:0xeb959cf01511192b!8m2!3d17.1480031!4d79.6224452",
     "LAT": 17.1480628,
     "LONG": 79.6200764,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 810,
+    "SNO": 26,
     "DISTRICT": "Suryapet",
     "HOSPITAL_NAME": "810. SRI SAI SRINIVASA HOSPITAL, KODAD",
     "CONTACT": "--",
@@ -20246,11 +19437,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10960591723880742424",
     "LAT": 16.9999412,
     "LONG": 79.9584367,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 811,
+    "SNO": 26,
     "DISTRICT": "Suryapet",
     "HOSPITAL_NAME": "811. SRI SUDHA CHILDRENS HOSPITAL, SURYAPET",
     "CONTACT": "--",
@@ -20266,16 +19456,15 @@ telangana_data=[
     "TOTAL": 10,
     "OCCUPIED": 0,
     "VACANT": 10,
-    "DATE": "28/04/2021",
-    "TIME": "7:54:11 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:59:57 AM",
     "LOCATION": "https://www.google.com/maps/place/Sudha+Hospital/@17.1424761,79.6226114,16z/data=!4m9!1m2!2m1!1sSRI+SUDHA+CHILDRENS+HOSPITAL,+SURYAPET!3m5!1s0x3a34dbb9533839fb:0x66519fc6239730b0!8m2!3d17.1459379!4d79.6220887!15sCiZTUkkgU1VESEEgQ0hJTERSRU5TIEhPU1BJVEFMLCBTVVJZQVBFVJIBCGhvc3BpdGFs",
     "LAT": 17.1424761,
     "LONG": 79.6226114,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 812,
+    "SNO": 27,
     "DISTRICT": "Vikarabad",
     "HOSPITAL_NAME": "812. ADITHIYA CRITICAL CARE AND MULTI SPECIALITY HOSPITAL",
     "CONTACT": "--",
@@ -20296,11 +19485,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 813,
+    "SNO": 27,
     "DISTRICT": "Vikarabad",
     "HOSPITAL_NAME": "813. MUDDA VEERA MALLAPPA  HOSPITAL,",
     "CONTACT": "--",
@@ -20321,11 +19509,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Mudda+Veera+Mallappa+Hospital/@17.341821,77.9027958,17z/data=!3m1!4b1!4m9!1m2!2m1!1sMUDDA+VEERA+MALLAPPA++HOSPITAL+vikarabad!3m5!1s0x3bc95fa1e3674c35:0x5f8c29815a7091e4!8m2!3d17.341821!4d77.9049845!15sCihNVUREQSBWRUVSQSBNQUxMQVBQQSAgSE9TUElUQUwgdmlrYXJhYmFkkgEIaG9zcGl0YWw",
     "LAT": 17.341821,
     "LONG": 77.9027958,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 814,
+    "SNO": 27,
     "DISTRICT": "Vikarabad",
     "HOSPITAL_NAME": "814. SABITHA ANAND  HOSPITAL,",
     "CONTACT": "--",
@@ -20346,11 +19533,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sabita+Anand+Hospital/@17.337008,77.8984903,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc95fa36ddfecd3:0x53a0056302872d5c!8m2!3d17.337008!4d77.900679",
     "LAT": 17.337008,
     "LONG": 77.8984903,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 815,
+    "SNO": 27,
     "DISTRICT": "Vikarabad",
     "HOSPITAL_NAME": "815. SRI ANANTH MALTI SPECIALITY HOSPITAL,",
     "CONTACT": "--",
@@ -20371,11 +19557,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sri+Ananth+Multispeciality+Hospital/@17.3432803,77.9046643,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc95f9f129e8cdf:0x34914f671ef13eec!8m2!3d17.3432803!4d77.906853",
     "LAT": 17.3432803,
     "LONG": 77.9046643,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 816,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "816. DR. BRAMHA REDDY PRAJAVYDYA SHALA",
     "CONTACT": "--",
@@ -20396,11 +19581,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 817,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "817. DR. RAMESH BABU HOSPITAL",
     "CONTACT": "--",
@@ -20421,11 +19605,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Dr.+Ramesh+Babu+Hospital/@16.3616812,78.0629639,17z/data=!4m5!3m4!1s0x3bca04df0338376f:0xc6259cdd13beedad!8m2!3d16.3617996!4d78.0625991",
     "LAT": 16.3616812,
     "LONG": 78.0629639,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 818,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "818. PRAJA VAIDYASHALA",
     "CONTACT": "--",
@@ -20446,11 +19629,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Praja+Vaidya+Shala+and+vaccination+center/@16.3579292,78.0559168,17z/data=!3m1!4b1!4m5!3m4!1s0x3bca04e75ff7b98b:0xf568e54c8bedf27e!8m2!3d16.3579292!4d78.0581055",
     "LAT": 16.3579292,
     "LONG": 78.0559168,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 819,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "819. RAHUL HOSPITAL, KOTHAKOTA",
     "CONTACT": "--",
@@ -20471,11 +19653,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Wanaparthy,+Telangana+509103/@16.3629562,77.8517418,9.08z/data=!4m5!3m4!1s0x3bca0521c97f2409:0x4551d8fd6c7aeef!8m2!3d16.3623118!4d78.0621824",
     "LAT": 16.3629562,
     "LONG": 77.8517418,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 820,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "820. SRI LAXMI NURSING HOME",
     "CONTACT": "--",
@@ -20496,11 +19677,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9839052941254220525",
     "LAT": 16.3578803,
     "LONG": 78.0601432,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 821,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "821. SRI RAGHAVENDRA HOSPITAL, OPP : BSNL, OFFICE, PEBBAIR",
     "CONTACT": 9666995723,
@@ -20521,11 +19701,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/search/Dr.+Raghavendar+Reddy,+Sri+Raghavendra+Hospital,+Opp+:+BSNL,+Office,+Pebbair,+Wanaparthy(Dist)./@16.2481883,78.00059,13z/data=!3m1!4b1",
     "LAT": 16.20987,
     "LONG": 77.99458286,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 822,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "822. SRI SAI HOSPITAL",
     "CONTACT": 9908750673,
@@ -20546,11 +19725,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 823,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "823. SRI VENKATA SAI MATERNITY AND SURGICAL NURSING HOME",
     "CONTACT": "--",
@@ -20571,11 +19749,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 824,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "824. SRUSTI HOSPITAL",
     "CONTACT": "--",
@@ -20596,11 +19773,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 825,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "825. SUDHA NURSING HOME",
     "CONTACT": "--",
@@ -20621,11 +19797,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2651846627497294351",
     "LAT": 16.3542137,
     "LONG": 78.0596032,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 826,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "826. V- CARE HOSPITAL",
     "CONTACT": "--",
@@ -20646,11 +19821,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/V-+Care+Hospital+and+vaccination+center/@16.3604733,78.0592038,17z/data=!3m1!4b1!4m5!3m4!1s0x3bca04de5b0e349b:0x13af50aebb56204b!8m2!3d16.3604733!4d78.0613925",
     "LAT": 16.3604733,
     "LONG": 78.0592038,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 827,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "827. VIMOCHANA HOSPITAL, SURGICAL CARE AND MATERNITY HEALTH CARE",
     "CONTACT": 9966660363,
@@ -20671,11 +19845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17314389453941409934",
     "LAT": 17.5822381,
     "LONG": 79.6622534,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 828,
+    "SNO": 28,
     "DISTRICT": "Wanaparthy",
     "HOSPITAL_NAME": "828. WANAPARTHY MULTISPECILITY HOSPITAL",
     "CONTACT": "--",
@@ -20696,11 +19869,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Wanaparthy+Multispeciality+hospital+trauma+care+and+surgical+centre/@16.366599,78.0667131,17z/data=!3m1!4b1!4m5!3m4!1s0x3bca05c4a70d24b5:0x305925e68fce8730!8m2!3d16.366599!4d78.0689018",
     "LAT": 16.366599,
     "LONG": 78.0667131,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 829,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "829. AMMA HOSPITAL",
     "CONTACT": 9441882027,
@@ -20721,11 +19893,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2182110731643302060",
     "LAT": 19.6622689,
     "LONG": 78.5272371,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 830,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "830. AMRUTHA HOSPITAL",
     "CONTACT": 9440755158,
@@ -20746,11 +19917,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17450760565784980341",
     "LAT": 18.8819383,
     "LONG": 79.4433276,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 831,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "831. AMRUTHA MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9985111655,
@@ -20771,11 +19941,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Amrutha+Multi-Speciality+Hospital/@18.0040029,79.5690662,15z/data=!4m2!3m1!1s0x0:0x264935aa06dc4748?sa=X&ved=2ahUKEwi9v_jH5pjwAhXbxDgGHckIDI4Q_BIwN3oECFsQAw",
     "LAT": 18.0045947,
     "LONG": 79.56872288,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 832,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "832. KARUNASREE MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9866776874,
@@ -20796,11 +19965,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12861238957271327152",
     "LAT": 17.9822085,
     "LONG": 79.5988876,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 833,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "833. LALITHA NURSING HOME",
     "CONTACT": 9490855730,
@@ -20821,11 +19989,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17290068124745613766",
     "LAT": 18.1980371,
     "LONG": 79.6960847,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 834,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "834. LAXMI GANAPATHY HOSPITAL",
     "CONTACT": 9542767772,
@@ -20846,11 +20013,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9332994704698736666",
     "LAT": 18.6224434,
     "LONG": 79.9457804,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 835,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "835. LIFE CARE HOSPITAL",
     "CONTACT": 8790562200,
@@ -20871,11 +20037,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2052282574602008989",
     "LAT": 17.4980666,
     "LONG": 78.3351163,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 836,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "836. LITTLE STAR CHILDRENS HOSPITAL",
     "CONTACT": 9347649620,
@@ -20896,11 +20061,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Little+Stars+Children+Hospital/@18.1990728,79.6935673,17z/data=!4m8!1m2!11m1!2swuwHpW_fNzugkGhbG_e_zjM9bgzmnw!3m4!1s0x3a333f4593b2567f:0x3b6995d64331b231!8m2!3d18.1990677!4d79.695756",
     "LAT": 18.1991594,
     "LONG": 79.6961637,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 837,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "837. MADHAVI NURSING HOME",
     "CONTACT": 9440146523,
@@ -20921,11 +20085,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5330563274564498548",
     "LAT": 17.7429835,
     "LONG": 78.2826398,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 838,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "838. MALLIKA MATERNITY AND GENERAL NURSING HOME",
     "CONTACT": 9849333227,
@@ -20946,11 +20109,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14916424152038156088",
     "LAT": 17.9471108,
     "LONG": 79.5971874,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 839,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "839. MAMATHA MATERNITY AND CHILDREN NURSING HOME",
     "CONTACT": 9908998619,
@@ -20971,11 +20133,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14161487658525263027",
     "LAT": 17.6438,
     "LONG": 79.045,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 840,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "840. PAVAN HOSPITAL - NARSAMPET",
     "CONTACT": 9440093935,
@@ -20996,11 +20157,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17535722004487465591",
     "LAT": 17.9228327,
     "LONG": 79.8852688,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 841,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "841. PRIME CARE HOSPITAL",
     "CONTACT": 9640321201,
@@ -21021,11 +20181,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18297128321693687650",
     "LAT": 18.1979676,
     "LONG": 79.6993149,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 842,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "842. SAI SHREE MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9440724341,
@@ -21046,11 +20205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10021502744335637625",
     "LAT": 17.9846228,
     "LONG": 79.599713,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 843,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "843. SANTHOSH NURSING HOME",
     "CONTACT": 9848047787,
@@ -21071,11 +20229,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6842150158109031811",
     "LAT": 17.9859453,
     "LONG": 79.6028566,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 844,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "844. SRILATHA NURSING HOME",
     "CONTACT": 9885577155,
@@ -21096,11 +20253,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7486004797780917063",
     "LAT": 18.4413021,
     "LONG": 79.1295989,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 845,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "845. SRI SRINIVASA MATERNITY AND SURGICAL NURSING HOME",
     "CONTACT": 9949491548,
@@ -21121,11 +20277,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11067307522666916415",
     "LAT": 18.0049412,
     "LONG": 79.5752483,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 846,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "846. SRI VENKATESHWARA MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9966463333,
@@ -21146,11 +20301,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17447870712116939538",
     "LAT": 17.3446561,
     "LONG": 78.5166446,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 847,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "847. SRI VIJAYA HOSPITAL",
     "CONTACT": 9030122655,
@@ -21171,11 +20325,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1552624551401091648",
     "LAT": 18.004342,
     "LONG": 79.5709928,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 848,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "848. SRUJANA HOSPITAL",
     "CONTACT": 9866412022,
@@ -21196,11 +20349,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11582963712777673180",
     "LAT": 18.0013795,
     "LONG": 79.5648228,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 849,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "849. SUNAY MATERNITY AND SURGICAL NURSING HOME",
     "CONTACT": 9440107360,
@@ -21221,11 +20373,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 850,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "850. SURYA HOSPITAL",
     "CONTACT": 9666559811,
@@ -21246,11 +20397,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11009281395323734274",
     "LAT": 17.999898,
     "LONG": 79.5834338,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 851,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "851. SUSHRUTHA HOSPITAL",
     "CONTACT": 9010866609,
@@ -21271,11 +20421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4925101520179135273",
     "LAT": 18.1982067,
     "LONG": 79.6972367,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 852,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "852. VANDANA NURSING HOME",
     "CONTACT": 9440150354,
@@ -21296,11 +20445,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2086086848213443828",
     "LAT": 17.9239418,
     "LONG": 79.8879355,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 853,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "853. VENKATESHWARA HOSPITAL",
     "CONTACT": 9912452337,
@@ -21321,11 +20469,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12365720185366375368",
     "LAT": 17.9877645,
     "LONG": 79.5949669,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 854,
+    "SNO": 29,
     "DISTRICT": "Warangal Rural",
     "HOSPITAL_NAME": "854. VNR NURSING HOME",
     "CONTACT": 9949322022,
@@ -21346,11 +20493,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6842150158109031811",
     "LAT": 17.9859453,
     "LONG": 79.6028566,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 855,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "855. AARADHYA HOSPITAL",
     "CONTACT": 9849091196,
@@ -21371,11 +20517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1132374318143440494",
     "LAT": 17.9951081,
     "LONG": 79.5462624,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 856,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "856. ADHITYA HOSPITAL",
     "CONTACT": 9390103619,
@@ -21396,11 +20541,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Jambigadde,+Jambigadde+Rd,+Krishnanagar,+Jagtial,+Telangana+505327/@18.7961392,78.9222889,19.55z/data=!4m5!3m4!1s0x3bcd138f49705a59:0x551ea851b23d33e0!8m2!3d18.7961582!4d78.9227611",
     "LAT": 18.79618503,
     "LONG": 78.92276773,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 857,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "857. ADHYA KIDS CARE HOSPITAL",
     "CONTACT": 9390056663,
@@ -21421,11 +20565,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3007262228223997223",
     "LAT": 17.9986225,
     "LONG": 79.5604272,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 858,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "858. ADITHYA HOSPITAL - HANAMKONDA",
     "CONTACT": 9704983555,
@@ -21446,11 +20589,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3801475230991545319",
     "LAT": 18.0109012,
     "LONG": 79.5592339,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 859,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "859. A.K HOSPITALS",
     "CONTACT": 8978015293,
@@ -21471,11 +20613,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13475186947891677908",
     "LAT": 17.9941411,
     "LONG": 79.5545177,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 860,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "860. ALANJKAR PLASTIC SURGERY HOSPITALS",
     "CONTACT": 8179886523,
@@ -21496,11 +20637,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Heal+Well+Burns+%26+Plastic+Surgery+Clinic/@18.0030393,79.5790316,17z/data=!4m5!3m4!1s0x3a334f7ef9eeb7ef:0x80c55ecd10586478!8m2!3d18.0032281!4d79.5785488",
     "LAT": 18.0030393,
     "LONG": 79.5790316,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 861,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "861. AMRUTHA CHILDRENS HOME",
     "CONTACT": "--",
@@ -21521,11 +20661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1675778429273305809",
     "LAT": 18.0131394,
     "LONG": 79.5588845,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 862,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "862. AMRUTHA HOSPITAL - WARANGAL (U)",
     "CONTACT": 9494321598,
@@ -21541,16 +20680,15 @@ telangana_data=[
     "TOTAL": 31,
     "OCCUPIED": 31,
     "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "7:26:52 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:25:29 AM",
     "LOCATION": "https://maps.google.com/?cid=10727040037081142450",
     "LAT": 17.9248,
     "LONG": 79.8856,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 863,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "863. APARNA ENT HOSP.",
     "CONTACT": 9849105609,
@@ -21571,11 +20709,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8960087178679240861",
     "LAT": 17.995448,
     "LONG": 79.547538,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 864,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "864. APARNA NURSING HOME",
     "CONTACT": 9347057480,
@@ -21596,11 +20733,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7250915980505315314",
     "LAT": 18.0197348,
     "LONG": 79.5524075,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 865,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "865. ARAVINDA HOSPITAL",
     "CONTACT": 9849079419,
@@ -21621,11 +20757,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17417110926661111405",
     "LAT": 17.982744,
     "LONG": 79.599255,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 866,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "866. ARAVINDA SUPER SPECIALTY  HOSPITAL ENT AND NEURO CENTRE",
     "CONTACT": 9849079419,
@@ -21646,11 +20781,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8163633961970357036",
     "LAT": 17.9998643,
     "LONG": 79.5625856,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 867,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "867. ARAVINDHA SUPER SPECIALITY HOSPITAL - HANAMKONDA",
     "CONTACT": 9849079419,
@@ -21671,11 +20805,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8163633961970357036",
     "LAT": 17.9998643,
     "LONG": 79.5625856,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 868,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "868. ARKA HOSPITAL, METERNITY GENERAL NURSING HOME",
     "CONTACT": 9177620758,
@@ -21696,11 +20829,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14916424152038156088",
     "LAT": 17.9471108,
     "LONG": 79.5971874,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 869,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "869. ARPITHA NURSING HOME",
     "CONTACT": 9059866071,
@@ -21721,11 +20853,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15188555561145322565",
     "LAT": 17.9768643,
     "LONG": 79.5090524,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 870,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "870. ASWINI HOSPITAL",
     "CONTACT": 9989416823,
@@ -21746,11 +20877,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11433633536154872655",
     "LAT": 18.0041476,
     "LONG": 79.5567608,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 871,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "871. AVANI MULTISPECILAITY HOSPITAL",
     "CONTACT": 9440083333,
@@ -21766,16 +20896,15 @@ telangana_data=[
     "TOTAL": 2,
     "OCCUPIED": 0,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "9:29:41 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:50:34 AM",
     "LOCATION": "https://maps.google.com/?cid=5005176080057922126",
     "LAT": 17.9996023,
     "LONG": 79.5846695,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 872,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "872. AZARA HOSPITALS - HANAMKONDA",
     "CONTACT": 9989616097,
@@ -21796,11 +20925,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=650034057786304970",
     "LAT": 18.0043833,
     "LONG": 79.5835764,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 873,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "873. BABYS LIFE HOSPITAL",
     "CONTACT": 9440282760,
@@ -21821,11 +20949,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1367736895445803804",
     "LAT": 18.0052261,
     "LONG": 79.5675372,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 874,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "874. BALAJI HOSPITAL",
     "CONTACT": 9490125159,
@@ -21846,11 +20973,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14155852296761504794",
     "LAT": 19.6687,
     "LONG": 78.5285,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 875,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "875. BALAJI HOSPITAL",
     "CONTACT": 9490125159,
@@ -21871,11 +20997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14155852296761504794",
     "LAT": 19.6687,
     "LONG": 78.5285,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 876,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "876. BALAJI HOSPITAL AND GEN.MATERNITY",
     "CONTACT": 9849187928,
@@ -21896,11 +21021,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9084774993378269084",
     "LAT": 18.014674,
     "LONG": 79.5554511,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 877,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "877. BHARATHI NURSING HOME",
     "CONTACT": 9490300460,
@@ -21921,11 +21045,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9029801580266137444",
     "LAT": 17.9835954,
     "LONG": 79.520316,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 878,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "878. BHAVANA HOSPITAL",
     "CONTACT": 9985900646,
@@ -21946,11 +21069,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2454591682402618792",
     "LAT": 17.9925501,
     "LONG": 79.440808,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 879,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "879. BHAVANA NURSING HOME",
     "CONTACT": 9440519981,
@@ -21971,11 +21093,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6156718964828348579",
     "LAT": 17.9980768,
     "LONG": 79.5508412,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 880,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "880. BLUE LINE HOSPITAL",
     "CONTACT": 9989040636,
@@ -21996,11 +21117,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10975687524008602847",
     "LAT": 18.0039188,
     "LONG": 79.5612995,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 881,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "881. BYRAM SUPER SPECIALITY HOSPITAL",
     "CONTACT": 9848769956,
@@ -22021,11 +21141,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15892982506042332233",
     "LAT": 18.005011,
     "LONG": 79.567745,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 882,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "882. CARE CHILDRENS HOSPITAL AND DIAGNOSTICS",
     "CONTACT": 9949461658,
@@ -22046,11 +21165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7112349966336437168",
     "LAT": 17.9825786,
     "LONG": 79.5988689,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 883,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "883. CHAITANYA NURSING HOME",
     "CONTACT": 9490133661,
@@ -22071,11 +21189,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5158737510824361849",
     "LAT": 18.1990629,
     "LONG": 79.7006607,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 884,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "884. CHAKRAVARTHY HOSPITALS(SURGICAL AND LAPROSCOPIC CENTRE AMRUTHA COMPLEX",
     "CONTACT": 9985273030,
@@ -22096,11 +21213,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15900404350258781751",
     "LAT": 18.0051511,
     "LONG": 79.5635351,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 885,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "885. CUREWELL HOSPITAL",
     "CONTACT": "--",
@@ -22121,11 +21237,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14455133965319506917",
     "LAT": 17.9927908,
     "LONG": 79.5936754,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 886,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "886. DR. GOUDA RAMESH ENT CENTER",
     "CONTACT": 9849324977,
@@ -22146,11 +21261,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Dr+Gouda+Ramesh+ENT+Centre/@18.0051478,79.5627113,17z/data=!4m5!3m4!1s0x3a33458266f63b05:0xb46408204694d745!8m2!3d18.0052039!4d79.562722",
     "LAT": 18.0051478,
     "LONG": 79.5627113,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 887,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "887. DR.RAJU ENT HOSPITAL",
     "CONTACT": 7680950686,
@@ -22171,11 +21285,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8570880401356183457",
     "LAT": 18.0021688,
     "LONG": 79.5676459,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 888,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "888. DR.SHARAT MAXIVISION  EYE HOSPITAL",
     "CONTACT": 9849058355,
@@ -22196,11 +21309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7403705129811055808",
     "LAT": 18.0033512,
     "LONG": 79.5788243,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 889,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "889. DR.VASAVI HOSPITAL",
     "CONTACT": 9966320466,
@@ -22221,11 +21333,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13114600350017705592",
     "LAT": 18.0055935,
     "LONG": 79.5574683,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 890,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "890. G.R.HOSPITAL",
     "CONTACT": 9440264209,
@@ -22246,11 +21357,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4484355626613015868",
     "LAT": 17.9992178,
     "LONG": 79.5544749,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 891,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "891. GUARDIAN MULTI SPECIALITY HOSPITAL",
     "CONTACT": 8008802299,
@@ -22271,11 +21381,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5005176080057922126",
     "LAT": 17.9996023,
     "LONG": 79.5846695,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 892,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "892. HITAM CARDIAC CENTRE",
     "CONTACT": 9912799352,
@@ -22296,11 +21405,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11099877071993790331",
     "LAT": 18.0037543,
     "LONG": 79.5612762,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 893,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "893. HOPE HOSPITAL - HANAMKONDA",
     "CONTACT": 7337332240,
@@ -22321,11 +21429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1132374318143440494",
     "LAT": 17.9951081,
     "LONG": 79.5462624,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 894,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "894. HUMA NURSING HOME",
     "CONTACT": 9885011813,
@@ -22346,11 +21453,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6842150158109031811",
     "LAT": 17.9859453,
     "LONG": 79.6028566,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 895,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "895. JAGRUTHI HOSPITAL",
     "CONTACT": 9347725016,
@@ -22371,11 +21477,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14838118499305413851",
     "LAT": 18.005584,
     "LONG": 79.5676484,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 896,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "896. JANANI MATERNITY, INFERTILITY AND LAPAROSCOPIC CENTRE",
     "CONTACT": 9246890146,
@@ -22396,11 +21501,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9715586843333151616",
     "LAT": 18.0207362,
     "LONG": 79.5600208,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 897,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "897. JANATHA HOSPITAL",
     "CONTACT": 9307333555,
@@ -22421,11 +21525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12739697692028608220",
     "LAT": 18.00133,
     "LONG": 79.5648943,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 898,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "898. JAYA HOSPITAL - HANAMKONDA",
     "CONTACT": 9849162262,
@@ -22446,11 +21549,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12938440638898306554",
     "LAT": 18.0056122,
     "LONG": 79.5695734,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 899,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "899. JAYALAXMI HOSPITAL",
     "CONTACT": 9395505143,
@@ -22471,11 +21573,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13490549651816466964",
     "LAT": 17.9842408,
     "LONG": 79.5996247,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 900,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "900. JAYANTHI HOSPITAL",
     "CONTACT": 9885308909,
@@ -22496,11 +21597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12938440638898306554",
     "LAT": 18.0056122,
     "LONG": 79.5695734,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 901,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "901. JEEVAK HOSPTAL",
     "CONTACT": 9849195556,
@@ -22521,11 +21621,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=149651463170241244",
     "LAT": 18.052299,
     "LONG": 79.5324345,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 902,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "902. KALYANI HOSPITAL",
     "CONTACT": 9849024545,
@@ -22546,11 +21645,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15632693818212226427",
     "LAT": 18.0055802,
     "LONG": 79.562812,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 903,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "903. KARTHIKEYA CHILDRENS HOSPITAL",
     "CONTACT": 9885606507,
@@ -22571,11 +21669,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5650385678601209304",
     "LAT": 17.9455431,
     "LONG": 79.5989989,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 904,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "904. KARUNSREE HOSPITAL",
     "CONTACT": 9440146600,
@@ -22596,11 +21693,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1132374318143440494",
     "LAT": 17.9951081,
     "LONG": 79.5462624,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 905,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "905. KASTURI PULLAIA MEMORIAL METERNITY AND NURSING HOME",
     "CONTACT": 9397354545,
@@ -22621,11 +21717,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 906,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "906. KEERTHAN HOSPITAL",
     "CONTACT": 7386399964,
@@ -22646,11 +21741,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13943559543659178849",
     "LAT": 18.0051744,
     "LONG": 79.5672802,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 907,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "907. KEERTHI CHILDRENS HOSPITAL",
     "CONTACT": 9885308909,
@@ -22671,11 +21765,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4856809345829715742",
     "LAT": 18.0176141,
     "LONG": 79.5528955,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 908,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "908. KEERTHI HOSPITAL",
     "CONTACT": 9849424503,
@@ -22696,17 +21789,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4856809345829715742",
     "LAT": 18.0176141,
     "LONG": 79.5528955,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 909,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "909. KIDS CARE HOSPITAL",
     "CONTACT": 9949072938,
     "REGULAR_BEDS_TOTAL": 8,
-    "REGULAR_BEDS_OCCUPIED": 5,
-    "REGULAR_BEDS_VACANT": 3,
+    "REGULAR_BEDS_OCCUPIED": 6,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 15,
     "OXYGEN_BEDS_OCCUPIED": 15,
     "OXYGEN_BEDS_VACANT": 0,
@@ -22714,18 +21806,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 10,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 33,
-    "OCCUPIED": 30,
-    "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "9:29:29 PM",
+    "OCCUPIED": 31,
+    "VACANT": 2,
+    "DATE": "29/04/2021",
+    "TIME": "7:51:14 AM",
     "LOCATION": "https://maps.google.com/?cid=6496746629725565548",
     "LAT": 17.998917,
     "LONG": 79.554651,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 910,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "910. K.K.ARYA MEMORIAL SHIVA SREE HOSPITAL",
     "CONTACT": "--",
@@ -22746,11 +21837,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Shiva+Sree+Medical+Hospital/@17.9475178,79.5982294,15z/data=!4m5!3m4!1s0x0:0xdb95b76578b6d01!8m2!3d17.9474903!4d79.5981173",
     "LAT": 17.9482731,
     "LONG": 79.5990448,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 911,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "911. KOORAPATI LAPAROSCOPY AND FERTILTY CENTER",
     "CONTACT": 8897656456,
@@ -22771,11 +21861,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15900404350258781751",
     "LAT": 18.0051511,
     "LONG": 79.5635351,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 912,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "912. KSR CHILDREN AND WOMEN NURSING HOME",
     "CONTACT": 9949954438,
@@ -22796,11 +21885,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10904182700309749780",
     "LAT": 18.0054428,
     "LONG": 79.5719686,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 913,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "913. LAKSHMI MATERNITY AND EYE HOSPITAL",
     "CONTACT": 9700182000,
@@ -22821,11 +21909,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16463484581552245978",
     "LAT": 18.0137913,
     "LONG": 79.556213,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 914,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "914. LALITHA HOSPITAL - HANAMKONDA",
     "CONTACT": 9849192717,
@@ -22836,21 +21923,20 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 13,
     "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 5,
-    "ICU_BEDS_OCCUPIED": 3,
-    "ICU_BEDS_VACANT": 2,
+    "ICU_BEDS_OCCUPIED": 1,
+    "ICU_BEDS_VACANT": 4,
     "TOTAL": 20,
-    "OCCUPIED": 16,
-    "VACANT": 4,
-    "DATE": "27/04/2021",
-    "TIME": "2:01:44 PM",
+    "OCCUPIED": 14,
+    "VACANT": 6,
+    "DATE": "28/04/2021",
+    "TIME": "10:09:57 PM",
     "LOCATION": "https://maps.google.com/?cid=569589225773470859",
     "LAT": 18.0051311,
     "LONG": 79.5676222,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 915,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "915. LAVANYA HOSPITAL",
     "CONTACT": 9885068043,
@@ -22866,16 +21952,15 @@ telangana_data=[
     "TOTAL": 18,
     "OCCUPIED": 0,
     "VACANT": 18,
-    "DATE": "27/04/2021",
-    "TIME": "11:18:56 AM",
+    "DATE": "29/04/2021",
+    "TIME": "12:08:58 AM",
     "LOCATION": "https://maps.google.com/?cid=9050719406574115702",
     "LAT": 18.0041837,
     "LONG": 79.5684376,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 916,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "916. LAXMI NARASIMHA HOSPITAL",
     "CONTACT": 9550063366,
@@ -22896,11 +21981,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16463484581552245978",
     "LAT": 18.0137913,
     "LONG": 79.556213,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 917,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "917. LIFE LINE HOSPITAL - HANUMAKONDA",
     "CONTACT": 9848073020,
@@ -22916,16 +22000,15 @@ telangana_data=[
     "TOTAL": 21,
     "OCCUPIED": 7,
     "VACANT": 14,
-    "DATE": "28/04/2021",
-    "TIME": "6:23:34 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:30:57 AM",
     "LOCATION": "https://maps.google.com/?cid=12352386065978236870",
     "LAT": 18.0064797,
     "LONG": 79.5554392,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 918,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "918. LOTUS HOSPITAL",
     "CONTACT": 9849314754,
@@ -22946,11 +22029,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15214666498500004642",
     "LAT": 18.6157662,
     "LONG": 79.3785966,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 919,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "919. MADHU NEURO CARE MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9866529120,
@@ -22971,11 +22053,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17814291422817928122",
     "LAT": 18.0045788,
     "LONG": 79.5683164,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 920,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "920. MAHALAXMI NURSING HOME",
     "CONTACT": 9493319486,
@@ -22996,11 +22077,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13068210306910941861",
     "LAT": 18.0112559,
     "LONG": 79.5607845,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 921,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "921. MAHESHWAR NURSING HOME",
     "CONTACT": 9949814914,
@@ -23021,11 +22101,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6388851242970032105",
     "LAT": 18.0290342,
     "LONG": 79.6200639,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 922,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "922. MAHI HOSPITAL",
     "CONTACT": 9704983555,
@@ -23046,11 +22125,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10618528358304332093",
     "LAT": 18.0043134,
     "LONG": 79.5684263,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 923,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "923. MALLIKA CHILDRENS NURSING HOME",
     "CONTACT": 9849277362,
@@ -23071,11 +22149,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6344390019688496094",
     "LAT": 18.0001858,
     "LONG": 79.562856,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 924,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "924. MAXCARE HOSPTAL - HANAMKONDA",
     "CONTACT": 9866183307,
@@ -23096,11 +22173,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17469423365655636757",
     "LAT": 18.0073321,
     "LONG": 79.565415,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 925,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "925. MAX CARE SUPER SPECALITY CLINIC & HOSPITALS",
     "CONTACT": 9704439822,
@@ -23121,36 +22197,34 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Maxcare+Hospital/@18.0071943,79.5652219,17z/data=!4m5!3m4!1s0x3a334f8155555555:0xf26fdbfe7cd02b15!8m2!3d18.0073321!4d79.565415",
     "LAT": 18.0071943,
     "LONG": 79.5652219,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 926,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "926. MEDHA HOSPITAL",
     "CONTACT": 9849725350,
     "REGULAR_BEDS_TOTAL": 2,
-    "REGULAR_BEDS_OCCUPIED": 1,
-    "REGULAR_BEDS_VACANT": 1,
+    "REGULAR_BEDS_OCCUPIED": 0,
+    "REGULAR_BEDS_VACANT": 2,
     "OXYGEN_BEDS_TOTAL": 9,
-    "OXYGEN_BEDS_OCCUPIED": 8,
-    "OXYGEN_BEDS_VACANT": 1,
+    "OXYGEN_BEDS_OCCUPIED": 5,
+    "OXYGEN_BEDS_VACANT": 4,
     "ICU_BEDS_TOTAL": 8,
-    "ICU_BEDS_OCCUPIED": 7,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_OCCUPIED": 8,
+    "ICU_BEDS_VACANT": 0,
     "TOTAL": 19,
-    "OCCUPIED": 16,
-    "VACANT": 3,
+    "OCCUPIED": 13,
+    "VACANT": 6,
     "DATE": "28/04/2021",
-    "TIME": "2:08:24 AM",
+    "TIME": "10:48:06 PM",
     "LOCATION": "https://maps.google.com/?cid=10497369567983015582",
     "LAT": 18.0019691,
     "LONG": 79.5649291,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 927,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "927. MEDI LIFE HOSPITAL",
     "CONTACT": 9700686864,
@@ -23171,11 +22245,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5535983902718866959",
     "LAT": 18.0045095,
     "LONG": 79.5691667,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 928,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "928. MOURYA HOSPITAL",
     "CONTACT": 9849050121,
@@ -23196,11 +22269,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4049095309330291557",
     "LAT": 17.9902234,
     "LONG": 79.5955519,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 929,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "929. MULKANOOR NURSING HOME",
     "CONTACT": 9440378857,
@@ -23221,11 +22293,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14948557438695851086",
     "LAT": 17.5963526,
     "LONG": 79.998651,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 930,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "930. NANDINI HOSPITAL",
     "CONTACT": 9849074522,
@@ -23246,11 +22317,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16604858191663985960",
     "LAT": 17.38629,
     "LONG": 79.8951432,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 931,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "931. NARAYANADRI CHILDREN HOSPITAL",
     "CONTACT": 9849693939,
@@ -23271,11 +22341,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5171923141384405435",
     "LAT": 17.9922082,
     "LONG": 79.5938457,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 932,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "932. NEW DOLPHINS KIDS HOSPITAL",
     "CONTACT": 9666767677,
@@ -23296,11 +22365,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3741309183719540567",
     "LAT": 18.0063522,
     "LONG": 79.5692663,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 933,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "933. NIHIRA HOSPITALS-WARANGAL",
     "CONTACT": 9866575747,
@@ -23321,11 +22389,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13585246295003208024",
     "LAT": 17.9776224,
     "LONG": 79.6094432,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 934,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "934. NIKIL HOSPITAL",
     "CONTACT": 9346981604,
@@ -23346,11 +22413,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17764530722299107541",
     "LAT": 18.0044059,
     "LONG": 79.5691395,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 935,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "935. NIRMAL HOSPITAL",
     "CONTACT": 8121136426,
@@ -23371,11 +22437,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3529628214030222707",
     "LAT": 17.9934107,
     "LONG": 79.6052357,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 936,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "936. OASIS CENTRE FOR REPRODUCTIVE MEDICINE",
     "CONTACT": 9160339911,
@@ -23396,11 +22461,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15677331551256911607",
     "LAT": 17.973852,
     "LONG": 79.6219411,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 937,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "937. OMEGA BANNU HOSPITALS",
     "CONTACT": 8106033684,
@@ -23421,11 +22485,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10105302495423414661",
     "LAT": 18.0011645,
     "LONG": 79.5823942,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 938,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "938. ORUGALLU EYE CARE CENTRE",
     "CONTACT": 7989254646,
@@ -23446,11 +22509,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5174994615911795746",
     "LAT": 17.9834818,
     "LONG": 79.5992883,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 939,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "939. PALLAVI HOSPITAL",
     "CONTACT": 9849058820,
@@ -23471,11 +22533,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16792230484792351338",
     "LAT": 17.9721492,
     "LONG": 79.601312,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 940,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "940. PRAKASH METARNITY NURSING HOME",
     "CONTACT": 8008746507,
@@ -23496,11 +22557,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5008727034668629946",
     "LAT": 17.9878203,
     "LONG": 79.5920775,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 941,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "941. PRASAD HOSPITAL",
     "CONTACT": 9908337090,
@@ -23516,16 +22576,15 @@ telangana_data=[
     "TOTAL": 2,
     "OCCUPIED": 0,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "7:51:49 AM",
+    "DATE": "29/04/2021",
+    "TIME": "7:31:57 AM",
     "LOCATION": "https://maps.google.com/?cid=15605108886782885233",
     "LAT": 17.9664034,
     "LONG": 79.4878889,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 942,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "942. PRASHANTHI HOSPITAL",
     "CONTACT": 9908337090,
@@ -23546,11 +22605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12549175722104163162",
     "LAT": 18.001945,
     "LONG": 79.572897,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 943,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "943. PRASHANTHI HOSPITAL",
     "CONTACT": 9908337090,
@@ -23571,11 +22629,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12549175722104163162",
     "LAT": 18.001945,
     "LONG": 79.572897,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 944,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "944. PRITHVI HOSPITAL",
     "CONTACT": 8702511437,
@@ -23596,11 +22653,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4365135942626441855",
     "LAT": 17.995346,
     "LONG": 79.5503765,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 945,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "945. PULSE HOSPITAL",
     "CONTACT": 9866436376,
@@ -23621,11 +22677,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 946,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "946. RAIBNBOW SAI RAM HOSPITAL",
     "CONTACT": 9440264209,
@@ -23646,11 +22701,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10021502744335637625",
     "LAT": 17.9846228,
     "LONG": 79.599713,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 947,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "947. RAJAIAH MULTI SECIALITY  HOSPITAL",
     "CONTACT": 7702401250,
@@ -23671,11 +22725,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13585246295003208024",
     "LAT": 17.9776224,
     "LONG": 79.6094432,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 948,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "948. RAKSHITH SURGICAL AND CHEST CARE HOSPITAL",
     "CONTACT": 9704633887,
@@ -23696,11 +22749,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12150190245858421715",
     "LAT": 18.0051618,
     "LONG": 79.5691446,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 949,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "949. RAMESH HOSPITAL",
     "CONTACT": 9440037459,
@@ -23721,11 +22773,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13099019245530892635",
     "LAT": 18.0040489,
     "LONG": 79.5682609,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 950,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "950. RAVI MATERNITY NURSING HOME",
     "CONTACT": 9000577744,
@@ -23746,11 +22797,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5008727034668629946",
     "LAT": 17.9878203,
     "LONG": 79.5920775,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 951,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "951. RELIEF MULTISPECIALITY HOSPITAL - MULUGU ROAD, WARANGAL (U)",
     "CONTACT": 9658066666,
@@ -23771,11 +22821,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8595173411373837363",
     "LAT": 18.0024031,
     "LONG": 79.5833592,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 952,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "952. RIYA HOSPITAL",
     "CONTACT": 9849086003,
@@ -23796,11 +22845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3488674693251379615",
     "LAT": 17.9979248,
     "LONG": 79.5869867,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 953,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "953. R.K.HOSPITAL",
     "CONTACT": 9246890146,
@@ -23821,11 +22869,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15395617644871380439",
     "LAT": 17.9909783,
     "LONG": 79.547573,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 954,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "954. ROHINI SUPERSPECIALITY HOSPITAL - WARANGAL (U)",
     "CONTACT": 9849761111,
@@ -23846,11 +22893,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1132374318143440494",
     "LAT": 17.9951081,
     "LONG": 79.5462624,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 955,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "955. SAI SHREE HOSPITALS",
     "CONTACT": 9347483888,
@@ -23871,11 +22917,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10021502744335637625",
     "LAT": 17.9846228,
     "LONG": 79.599713,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 956,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "956. SAI SRINIDHI MATERNITY NUSING HOME",
     "CONTACT": 9849058484,
@@ -23896,11 +22941,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13063231510304054650",
     "LAT": 17.9869862,
     "LONG": 79.6032308,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 957,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "957. SAI VARALAXMI MEMORIAL SURGICAL MATERNITY HOSPITAL",
     "CONTACT": 9959711269,
@@ -23921,11 +22965,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17469423365655636757",
     "LAT": 18.0073321,
     "LONG": 79.565415,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 958,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "958. SAMALOCHANA SWATHIK HOSPITAL",
     "CONTACT": 9849058514,
@@ -23946,11 +22989,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14830573667283083790",
     "LAT": 17.9942774,
     "LONG": 79.6006807,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 959,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "959. SAMATHA NURSING HOME",
     "CONTACT": 9849191020,
@@ -23971,11 +23013,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4903876864540413191",
     "LAT": 17.718446,
     "LONG": 79.1624996,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 960,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "960. SAMRAKSHA HOSPITAL - HANAMKONDA",
     "CONTACT": 9949922888,
@@ -23991,16 +23032,15 @@ telangana_data=[
     "TOTAL": 46,
     "OCCUPIED": 43,
     "VACANT": 3,
-    "DATE": "28/04/2021",
-    "TIME": "8:10:23 AM",
+    "DATE": "29/04/2021",
+    "TIME": "7:00:26 AM",
     "LOCATION": "https://maps.google.com/?cid=11414921290821329867",
     "LAT": 18.0062242,
     "LONG": 79.5727671,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 961,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "961. SANDEEP EYE HOSPITAL",
     "CONTACT": 9849320863,
@@ -24021,11 +23061,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18348058104714905848",
     "LAT": 17.9924748,
     "LONG": 79.6014595,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 962,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "962. SANJEEVINI HOSPITAL",
     "CONTACT": 8978015293,
@@ -24046,11 +23085,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10985978923557487204",
     "LAT": 18.0047774,
     "LONG": 79.5671263,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 963,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "963. SANTHOSH MATERNITY GENERAL NURSING HOME",
     "CONTACT": 9177996414,
@@ -24071,11 +23109,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14916424152038156088",
     "LAT": 17.9471108,
     "LONG": 79.5971874,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 964,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "964. SATYA HOSPITAL",
     "CONTACT": 9704469222,
@@ -24096,11 +23133,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5803219252271538857",
     "LAT": 17.9819575,
     "LONG": 79.5990258,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 965,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "965. SEVEN HILLS HOSPITAL",
     "CONTACT": 9866461560,
@@ -24121,11 +23157,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13068997982039826169",
     "LAT": 18.0119038,
     "LONG": 79.5600218,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 966,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "966. SHAKHAMURY NARAYANA MEMORIAL HOSPITAL",
     "CONTACT": 9052591188,
@@ -24146,11 +23181,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11726396305985934285",
     "LAT": 17.9804312,
     "LONG": 79.6079634,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 967,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "967. SHIVAGANGA LASER ENT HOSPITAL",
     "CONTACT": 9849296750,
@@ -24171,11 +23205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13218014700239998056",
     "LAT": 17.9924918,
     "LONG": 79.5921729,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 968,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "968. SHIVA HOSPITAL",
     "CONTACT": 9246985511,
@@ -24196,11 +23229,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17811130107141870107",
     "LAT": 17.9848261,
     "LONG": 79.5939675,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 969,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "969. SHIVA HOSPITAL",
     "CONTACT": 9246985511,
@@ -24221,11 +23253,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17811130107141870107",
     "LAT": 17.9848261,
     "LONG": 79.5939675,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 970,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "970. SIGMA HOSPITAL",
     "CONTACT": 9849396048,
@@ -24246,11 +23277,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17649551637220102097",
     "LAT": 18.0022479,
     "LONG": 79.5669167,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 971,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "971. SINDHUJA NURSING HOME",
     "CONTACT": 9849392276,
@@ -24271,11 +23301,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2823451022345222793",
     "LAT": 17.9818468,
     "LONG": 79.6056748,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 972,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "972. SIRI SPECIALITY HOSPITAL - WARANGAL (U)",
     "CONTACT": 7907385064,
@@ -24296,11 +23325,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4240954579982000180",
     "LAT": 18.0045788,
     "LONG": 79.5629313,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 973,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "973. SMART VISION LASER EYE HOSPITAL",
     "CONTACT": 9849007499,
@@ -24321,11 +23349,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11060679781197329602",
     "LAT": 18.003397,
     "LONG": 79.579898,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 974,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "974. SREE BALAJI HOSPITAL",
     "CONTACT": 9704644275,
@@ -24346,11 +23373,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9084774993378269084",
     "LAT": 18.014674,
     "LONG": 79.5554511,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 975,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "975. SREEDHAR CHEST AND ALLERGY HOSPITAL AND DERMA CARE",
     "CONTACT": 9849692092,
@@ -24371,11 +23397,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4658972542895076724",
     "LAT": 18.0044731,
     "LONG": 79.5679593,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 976,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "976. SREELAXMI TEST TUBE BABY AND MULTI SPECIALTY HOSPITAL",
     "CONTACT": 9885452305,
@@ -24396,11 +23421,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2029686866594786608",
     "LAT": 18.0062945,
     "LONG": 79.5581744,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 977,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "977. SREENIVSA MEMORIAL NURSING HOME",
     "CONTACT": 9849014535,
@@ -24421,11 +23445,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11726396305985934285",
     "LAT": 17.9804312,
     "LONG": 79.6079634,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 978,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "978. SRI BADHRAKALI NURSING HOME",
     "CONTACT": 9849179178,
@@ -24446,11 +23469,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7374805789575604766",
     "LAT": 17.9892152,
     "LONG": 79.6112559,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 979,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "979. SRI BALA PEDIATRIC SURGERY CLINIC",
     "CONTACT": 9533666065,
@@ -24471,11 +23493,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12549175722104163162",
     "LAT": 18.001945,
     "LONG": 79.572897,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 980,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "980. SRI CHIRANJEEVA CHILDRENS HOSPITAL",
     "CONTACT": 9849058816,
@@ -24496,11 +23517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16812046606613027058",
     "LAT": 18.0052005,
     "LONG": 79.5602618,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 981,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "981. SRI DEVI HOSPITAL",
     "CONTACT": 9848708788,
@@ -24521,11 +23541,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=434647388822040199",
     "LAT": 18.0056228,
     "LONG": 79.5572463,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 982,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "982. SRI GANESHA ORTHOPEDIC HOSPITAL AND SURGICAL CENTER",
     "CONTACT": 9989765699,
@@ -24546,11 +23565,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7877974317010572778",
     "LAT": 18.0048835,
     "LONG": 79.5687382,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 983,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "983. SRI LALITHAMULTI SPECIALITY HOSPITAL",
     "CONTACT": 9440083333,
@@ -24566,16 +23584,15 @@ telangana_data=[
     "TOTAL": 2,
     "OCCUPIED": 0,
     "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "9:29:51 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:50:19 AM",
     "LOCATION": "https://maps.google.com/?cid=569589225773470859",
     "LAT": 18.0051311,
     "LONG": 79.5676222,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 984,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "984. SRI LAXMI NURSING HOME",
     "CONTACT": 9397021370,
@@ -24596,11 +23613,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9839052941254220525",
     "LAT": 16.3578803,
     "LONG": 78.0601432,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 985,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "985. SRI LAXMI NURSING HOME UPAKARI HEALTH CARE CENTRE",
     "CONTACT": 9848242524,
@@ -24621,11 +23637,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13068210306910941861",
     "LAT": 18.0112559,
     "LONG": 79.5607845,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 986,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "986. SRINIJA HOSPITAL",
     "CONTACT": 9989150426,
@@ -24646,11 +23661,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1509862879461437112",
     "LAT": 18.0120858,
     "LONG": 79.5755407,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 987,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "987. SRINIVASA HOSPITAL",
     "CONTACT": 9985000581,
@@ -24671,11 +23685,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 988,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "988. SRINIVASA KIDNEY MATERNITY HOSPITAL",
     "CONTACT": 9849465097,
@@ -24696,11 +23709,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11067307522666916415",
     "LAT": 18.0049412,
     "LONG": 79.5752483,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 989,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "989. SRINIVASA PINNACLE HOSPITAL",
     "CONTACT": 9550089900,
@@ -24721,11 +23733,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11224939156073571556",
     "LAT": 18.0055854,
     "LONG": 79.5638416,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 990,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "990. SRINIVAS HEART CENTRE",
     "CONTACT": 9000295370,
@@ -24746,11 +23757,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=18328183922058156677",
     "LAT": 18.0078049,
     "LONG": 79.5532183,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 991,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "991. SRI RADHAMMA MEMORIAL EYE HOSPITAL",
     "CONTACT": 9849950407,
@@ -24771,11 +23781,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12841317032351639633",
     "LAT": 17.9851471,
     "LONG": 79.52181,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 992,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "992. SRI RAMA HOSPITAL",
     "CONTACT": 9246896616,
@@ -24796,11 +23805,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13129177930294235192",
     "LAT": 17.9997569,
     "LONG": 79.5834141,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 993,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "993. SRI RAVI NURSING HOME",
     "CONTACT": 9849700003,
@@ -24821,11 +23829,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3521343064404271451",
     "LAT": 17.9780991,
     "LONG": 79.5114782,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 994,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "994. SRI SAI HOSPITAL",
     "CONTACT": 9811632386,
@@ -24846,11 +23853,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10118579168835653020",
     "LAT": 16.4851508,
     "LONG": 78.3129839,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 995,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "995. SRI SAI NURSING HOME,HANAMKONDA",
     "CONTACT": 9848409252,
@@ -24871,11 +23877,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=491879103621053441",
     "LAT": 17.9964187,
     "LONG": 79.5469564,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 996,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "996. SRI SAI SRINIVASA NURSING HOME",
     "CONTACT": 9849982905,
@@ -24896,11 +23901,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5439659758497681199",
     "LAT": 17.9714,
     "LONG": 79.5000888,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 997,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "997. SRI SHARANYA HOSPITAL - HANMAKONDA",
     "CONTACT": 9390672891,
@@ -24921,11 +23925,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3848634937299893250",
     "LAT": 18.01781,
     "LONG": 79.552669,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 998,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "998. SRI SRINIVASA SUNSHINE MULTI SPECIALTY HOSPITAL",
     "CONTACT": 9949079479,
@@ -24946,11 +23949,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2071864057884765532",
     "LAT": 17.9607449,
     "LONG": 79.6005718,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 999,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "999. SRI UDAY MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9000370330,
@@ -24971,11 +23973,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6838148559095414597",
     "LAT": 18.0066019,
     "LONG": 79.5587722,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1000,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1000. SRI UDAY MULTI SPECILAITY HOSPITAL",
     "CONTACT": 9000370330,
@@ -24996,11 +23997,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14285511401052652733",
     "LAT": 18.0053675,
     "LONG": 79.5588648,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1001,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1001. SRI VALLI GOOD LIFE HOSPITAL",
     "CONTACT": 9959795077,
@@ -25021,11 +24021,10 @@ telangana_data=[
     "LOCATION": "",
     "LAT": "",
     "LONG": "",
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1002,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1002. SRI VENKATESWHARA CHILDREN HOSPITAL",
     "CONTACT": 9849109564,
@@ -25046,11 +24045,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12365720185366375368",
     "LAT": 17.9877645,
     "LONG": 79.5949669,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1003,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1003. SRI VIDYA HOSPITAL",
     "CONTACT": 9959025733,
@@ -25071,11 +24069,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1552624551401091648",
     "LAT": 18.004342,
     "LONG": 79.5709928,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1004,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1004. SRUSTI ENT AND MATERNITY  HOSPITAL",
     "CONTACT": 9849024545,
@@ -25096,11 +24093,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2754793818665229088",
     "LAT": 18.0048072,
     "LONG": 79.5688192,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1005,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1005. ST.ANNS HOSPITAL",
     "CONTACT": 9494529528,
@@ -25121,11 +24117,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?q=St+Anns+Hospital+Rd,+National+Institute+of+Technology+Campus,+Hanamkonda,+Telangana+506004,+India&ftid=0x3a334fb75e03d027:0xf30cac66f0b6675b",
     "LAT": 17.981164,
     "LONG": 79.5262195,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1006,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1006. STAR HOSPITAL - HANAMKONDA",
     "CONTACT": 9912793936,
@@ -25146,11 +24141,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3120154623551276815",
     "LAT": 18.0249556,
     "LONG": 79.54671,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1007,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1007. SUJATHA HOSPITAL",
     "CONTACT": 9866069864,
@@ -25171,11 +24165,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5351100332648464900",
     "LAT": 18.0043112,
     "LONG": 79.5693159,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1008,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1008. SURYA FERTILITY IVF AND IUI CENTER",
     "CONTACT": 9000429911,
@@ -25196,11 +24189,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10079538049189525697",
     "LAT": 18.0036158,
     "LONG": 79.5696828,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1009,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1009. SURYA HOSPITAL",
     "CONTACT": 9052759393,
@@ -25221,11 +24213,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11009281395323734274",
     "LAT": 17.999898,
     "LONG": 79.5834338,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1010,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1010. SURY MATERNITY HOME",
     "CONTACT": 9849072025,
@@ -25246,36 +24237,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2940637232432906320",
     "LAT": 18.0044422,
     "LONG": 79.544379,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1011,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1011. S.V.MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9052599994,
     "REGULAR_BEDS_TOTAL": 8,
-    "REGULAR_BEDS_OCCUPIED": 2,
-    "REGULAR_BEDS_VACANT": 6,
+    "REGULAR_BEDS_OCCUPIED": 1,
+    "REGULAR_BEDS_VACANT": 7,
     "OXYGEN_BEDS_TOTAL": 6,
-    "OXYGEN_BEDS_OCCUPIED": 3,
-    "OXYGEN_BEDS_VACANT": 3,
+    "OXYGEN_BEDS_OCCUPIED": 4,
+    "OXYGEN_BEDS_VACANT": 2,
     "ICU_BEDS_TOTAL": 4,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 4,
     "TOTAL": 18,
     "OCCUPIED": 5,
     "VACANT": 13,
-    "DATE": "28/04/2021",
-    "TIME": "3:41:52 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:28:27 AM",
     "LOCATION": "https://maps.google.com/?cid=4479722356956771327",
     "LAT": 17.3211553,
     "LONG": 78.520052,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1012,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1012. S.V.R.MULTI SPECIALITY HOSPITAL",
     "CONTACT": 9701458585,
@@ -25296,11 +24285,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4760288865112879440",
     "LAT": 18.0070568,
     "LONG": 79.5648535,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1013,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1013. SWATHI NURSING HOME",
     "CONTACT": 9885749040,
@@ -25321,11 +24309,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3101242522854206143",
     "LAT": 17.9789129,
     "LONG": 79.5126965,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1014,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1014. SWETHA NURSING HOME",
     "CONTACT": 9949954438,
@@ -25346,11 +24333,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13063231510304054650",
     "LAT": 17.9869862,
     "LONG": 79.6032308,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1015,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1015. TEJASWI HOSPITAL",
     "CONTACT": 9394874107,
@@ -25371,11 +24357,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4522319514120935445",
     "LAT": 17.9923759,
     "LONG": 79.593902,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1016,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1016. TELANGANA BAPTIST COMMUNITY HEALTH CENTRE",
     "CONTACT": 9110793356,
@@ -25396,11 +24381,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2775681662922870620",
     "LAT": 17.9426297,
     "LONG": 79.5984841,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1017,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1017. TIRUMALA NURSING HOME",
     "CONTACT": 9849083385,
@@ -25421,11 +24405,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2823451022345222793",
     "LAT": 17.9818468,
     "LONG": 79.6056748,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1018,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1018. USHA RANI HOSPITAL",
     "CONTACT": 9491828567,
@@ -25446,11 +24429,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16367252223615709853",
     "LAT": 17.9837523,
     "LONG": 79.6124975,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1019,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1019. USHODAYA MULTI SPECIALTY HOSPITAL, EYE HOSPITAL LANE, SRINIVASA COLONY",
     "CONTACT": 8019109373,
@@ -25471,11 +24453,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Ushodaya+Multi+Speciality+Hospitals/@17.9942774,79.6006807,15z/data=!4m12!1m6!3m5!1s0x0:0xcdd0c82cb5aba20e!2sSwastik+Samaloch+Hospital!8m2!3d17.9942774!4d79.6006807!3m4!1s0x0:0x7add848055c94e8e!8m2!3d17.992397!4d79.5936948",
     "LAT": 17.99344062,
     "LONG": 79.59651793,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1020,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1020. VARMA CHEST HOSPITAL",
     "CONTACT": 9849981847,
@@ -25496,11 +24477,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8827007626065241692",
     "LAT": 17.9834091,
     "LONG": 79.5997757,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1021,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1021. VASAN EYE CARE HOSPITAL (A UNIT OF VASAN HEALTH CARE PVT. LTD.)",
     "CONTACT": 9849439474,
@@ -25521,11 +24501,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Vasan+Eye+Care/@18.0096142,79.5640885,17z/data=!4m5!3m4!1s0x3a334586ebb1ef2f:0xe83475e82d06afd3!8m2!3d18.0097009!4d79.5646357",
     "LAT": 18.0096142,
     "LONG": 79.5640885,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1022,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1022. VASAVI HOSPITAL",
     "CONTACT": 9848072606,
@@ -25546,11 +24525,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16743026142558957154",
     "LAT": 18.0054206,
     "LONG": 79.5611184,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1023,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1023. VASUNDHARA HOSPITAL",
     "CONTACT": 9848431027,
@@ -25571,11 +24549,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8012645833374333136",
     "LAT": 17.9870286,
     "LONG": 79.6017472,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1024,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1024. V.B.HOSPITAL",
     "CONTACT": 9849274774,
@@ -25596,11 +24573,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10422223339152597753",
     "LAT": 17.9708097,
     "LONG": 79.5985412,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1025,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1025. VEENA MEDICARE",
     "CONTACT": 9908865660,
@@ -25621,11 +24597,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11275504470286525351",
     "LAT": 18.0052745,
     "LONG": 79.5688492,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1026,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1026. VENKATESHWARA HOSPITAL",
     "CONTACT": 7386399964,
@@ -25646,11 +24621,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12365720185366375368",
     "LAT": 17.9877645,
     "LONG": 79.5949669,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1027,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1027. VENKATESWARA NURSING HOME",
     "CONTACT": 9440881214,
@@ -25671,11 +24645,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6842150158109031811",
     "LAT": 17.9859453,
     "LONG": 79.6028566,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1028,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1028. VIGNESH HOSPITAL",
     "CONTACT": 9573709197,
@@ -25696,11 +24669,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9254091739476226301",
     "LAT": 17.9924405,
     "LONG": 79.5936516,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1029,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1029. VINAYAKA HOSPITAL",
     "CONTACT": 9849007499,
@@ -25721,11 +24693,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14637524129577708513",
     "LAT": 17.9904182,
     "LONG": 79.595128,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1030,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1030. VINAY HOSPITALS",
     "CONTACT": 7337332241,
@@ -25746,11 +24717,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=9030600897716934718",
     "LAT": 17.9814472,
     "LONG": 79.6081859,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1031,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1031. VINEETHA MEMORIAL HOSPITAL",
     "CONTACT": 9490192526,
@@ -25771,11 +24741,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1132374318143440494",
     "LAT": 17.9951081,
     "LONG": 79.5462624,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1032,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1032. VISHWAS SUPER SPECIALTY  HOSPITAL AND DIALYSIS CENTRE",
     "CONTACT": 9885802390,
@@ -25796,11 +24765,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=13820284984307872946",
     "LAT": 18.0040514,
     "LONG": 79.5700253,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Private"
   },
   {
-    "SNO": 1033,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1033. V N R HOSPITAL",
     "CONTACT": 9949322022,
@@ -25821,11 +24789,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8673720073079240821",
     "LAT": 17.9307837,
     "LONG": 79.8923034,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1034,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1034. WARANGAL HOSPITAL, DIAGNOSTIC AND RESEARCH CENTRE LTD.",
     "CONTACT": 7330039999,
@@ -25846,11 +24813,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1953341499751002030",
     "LAT": 17.9848469,
     "LONG": 79.6038596,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1035,
+    "SNO": 30,
     "DISTRICT": "Warangal Urban",
     "HOSPITAL_NAME": "1035. WARANGAL KIDNEY CENTRE ANDCHILDRENS HOSPITAL",
     "CONTACT": 9849241117,
@@ -25871,11 +24837,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17523912637690910493",
     "LAT": 17.9849021,
     "LONG": 79.5997125,
-    "TYPE": "Private",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1036,
+    "SNO": 1,
     "DISTRICT": "Adilabad",
     "HOSPITAL_NAME": "1. DH UTNOOR",
     "CONTACT": 9100157771,
@@ -25896,11 +24861,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Govt.+Hospital+Utnoor/@19.3660547,78.7726421,16z/data=!4m13!1m7!3m6!1s0x3bd285afb4dc33b3:0xa615f08fe745a4f8!2sUtnur,+Telangana+504311!3b1!8m2!3d19.3718044!4d78.7787889!3m4!1s0x3bd285ca165ed92f:0x541218b07085df0f!8m2!3d19.3672779!4d78.7690381",
     "LAT": 19.367745,
     "LONG": 78.7688655,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1037,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "2. AH BHADRACHALAM",
     "CONTACT": 8008553204,
@@ -25921,11 +24885,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+General+Hospital/@17.6667718,80.8826244,15z/data=!4m12!1m6!3m5!1s0x0:0xcca66e387ceee206!2sBhadrachalam+Temple+-+Bhadradri+Sita+Ramachandraswamy+Devasthanam!8m2!3d17.6667718!4d80.8826244!3m4!1s0x3a36a8b6c1d4e1c1:0x16f0676b5df255ec!8m2!3d17.6662871!4d80.8915409",
     "LAT": 17.66748721,
     "LONG": 80.89129338,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1038,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "3. AH MANUGURU",
     "CONTACT": 9666552288,
@@ -25946,11 +24909,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@17.9373374,80.8077041,14.24z/data=!4m13!1m7!3m6!1s0x3a33fc8e9f29df01:0xf9436b27503f8db8!2sManuguru+(PT),+Telangana+507117!3b1!8m2!3d17.9312067!4d80.8266197!3m4!1s0x3a315608fb3bdc8d:0xf310655f25ea7450!8m2!3d17.9292194!4d80.8234817",
     "LAT": 17.93053955,
     "LONG": 80.82326612,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1039,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "4. AREA HOSPITAL SCCL- YELLANDU",
     "CONTACT": 9491145022,
@@ -25967,15 +24929,14 @@ telangana_data=[
     "OCCUPIED": 0,
     "VACANT": 20,
     "DATE": "28/04/2021",
-    "TIME": "5:47:15 PM",
+    "TIME": "10:11:09 PM",
     "LOCATION": "https://maps.google.com/?q=Indira+Nagar,+Yellandu,+Telangana+507123,+India&ftid=0x3a346e5aa222f1b9:0x8f3429d450f1cb4e",
     "LAT": 17.5840362,
     "LONG": 80.332756,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1040,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "5. DH KOTHAGUDEM",
     "CONTACT": 9505577088,
@@ -25992,21 +24953,20 @@ telangana_data=[
     "OCCUPIED": 115,
     "VACANT": 35,
     "DATE": "28/04/2021",
-    "TIME": "5:33:37 PM",
+    "TIME": "11:30:40 PM",
     "LOCATION": "https://maps.google.com/?cid=13458304844494316899",
     "LAT": 17.5506558,
     "LONG": 80.6219377,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1041,
+    "SNO": 2,
     "DISTRICT": "Badradri",
     "HOSPITAL_NAME": "6. MAIN HOSPITAL SCCL- KOTHAGUDEM",
     "CONTACT": 9491144722,
     "REGULAR_BEDS_TOTAL": 108,
-    "REGULAR_BEDS_OCCUPIED": 101,
-    "REGULAR_BEDS_VACANT": 7,
+    "REGULAR_BEDS_OCCUPIED": 99,
+    "REGULAR_BEDS_VACANT": 9,
     "OXYGEN_BEDS_TOTAL": 12,
     "OXYGEN_BEDS_OCCUPIED": 12,
     "OXYGEN_BEDS_VACANT": 0,
@@ -26014,18 +24974,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 15,
     "ICU_BEDS_VACANT": 3,
     "TOTAL": 138,
-    "OCCUPIED": 128,
-    "VACANT": 10,
-    "DATE": "28/04/2021",
-    "TIME": "7:01:58 AM",
+    "OCCUPIED": 126,
+    "VACANT": 12,
+    "DATE": "29/04/2021",
+    "TIME": "6:43:11 AM",
     "LOCATION": "https://maps.google.com/?cid=7968536391215971406",
     "LAT": 17.5411038,
     "LONG": 80.6333623,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1042,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "7. AH GOLKONDA",
     "CONTACT": 9440938674,
@@ -26046,11 +25005,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Area+Hospital+Golconda/@17.383309,78.3988641,17z/data=!4m12!1m6!3m5!1s0x0:0x6b76ecdfd65a335a!2sGolconda+Fort!8m2!3d17.383309!4d78.4010528!3m4!1s0x3bcb968c353c0cd3:0x87dd784a487737f!8m2!3d17.3852024!4d78.4025912",
     "LAT": 17.38542328,
     "LONG": 78.40260854,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1043,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "8. AH MALAKPET",
     "CONTACT": 9866244211,
@@ -26071,11 +25029,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Malakpet+Government+Hospital/@17.3710904,78.4976397,17z/data=!4m9!1m2!2m1!1sgovt+hospital+Malakpet,+Hyderabad,+Telangana+500024!3m5!1s0x0:0xb7ba044e88b004e6!8m2!3d17.37208!4d78.499493!15sCjNnb3Z0IGhvc3BpdGFsIE1hbGFrcGV0LCBIeWRlcmFiYWQsIFRlbGFuZ2FuYSA1MDAwMjSSAQhidXNfc3RvcA",
     "LAT": 17.37223207,
     "LONG": 78.49947432,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1044,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "9. AH NAMPALLY",
     "CONTACT": 8008553888,
@@ -26091,16 +25048,15 @@ telangana_data=[
     "TOTAL": 8,
     "OCCUPIED": 0,
     "VACANT": 8,
-    "DATE": "28/04/2021",
-    "TIME": "3:28:34 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:38:07 AM",
     "LOCATION": "https://www.google.com/maps/place/Nampally+Government+Hospital/@17.3903951,78.4627563,17.09z/data=!4m13!1m7!3m6!1s0x3bcb9779eb5e80b1:0x84968c3920404e5d!2sNampally,+Hyderabad,+Telangana!3b1!8m2!3d17.3861371!4d78.4638649!3m4!1s0x3bcb976e70000001:0xf396212512e5289c!8m2!3d17.3922731!4d78.4632945",
     "LAT": 17.39250898,
     "LONG": 78.46327098,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1045,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "10. CHEST HOSPITAL",
     "CONTACT": 9949912039,
@@ -26121,11 +25077,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=5117074890460443182",
     "LAT": 17.4452559,
     "LONG": 78.4349556,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1046,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "11. DISTRICT HOSPITAL -  KINGKOTI",
     "CONTACT": 9704175272,
@@ -26146,11 +25101,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17196380533100574687",
     "LAT": 17.3932318,
     "LONG": 78.481986,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1047,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "12. ESIC HOSPITAL(GOI)",
     "CONTACT": 7702985555,
@@ -26171,11 +25125,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14143148684245113469",
     "LAT": 17.4483599,
     "LONG": 78.4404221,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1048,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "13. GANDHI HOSPITALS",
     "CONTACT": 9966533327,
@@ -26196,11 +25149,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2396519165282551807",
     "LAT": 17.4236318,
     "LONG": 78.503858,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1049,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "14. GOVT ENT HOSPITAL (OSM)",
     "CONTACT": "--",
@@ -26221,11 +25173,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14700844853802970356",
     "LAT": 17.3844039,
     "LONG": 78.4820286,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1050,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "15. GOVT MENTAL CARE HOSPITAL (OSM)",
     "CONTACT": "--",
@@ -26246,11 +25197,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=16870333140429535287",
     "LAT": 17.4501837,
     "LONG": 78.435854,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1051,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "16. MILITARY HOSPITAL - TIRUMALGERRY",
     "CONTACT": 7889529724,
@@ -26271,11 +25221,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11728258719192346276",
     "LAT": 17.3724378,
     "LONG": 78.4738381,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1052,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "17. NILOUFER HOSPITAL",
     "CONTACT": 9100332881,
@@ -26296,11 +25245,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12847574448976403559",
     "LAT": 17.395964,
     "LONG": 78.5023902,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1053,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "18. NIMS HOSPITALS",
     "CONTACT": 9490296073,
@@ -26321,11 +25269,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=17089706694483368173",
     "LAT": 17.3355835,
     "LONG": 78.4675624,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1054,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "19. OSMANIA GENERAL HOSPITAL",
     "CONTACT": 8096099993,
@@ -26346,11 +25293,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8180266354548794576",
     "LAT": 17.3915334,
     "LONG": 78.5208902,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1055,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "20. RAILWAY HOSPITAL - LALAGUDA",
     "CONTACT": 9701370514,
@@ -26361,71 +25307,68 @@ telangana_data=[
     "OXYGEN_BEDS_OCCUPIED": 169,
     "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 32,
-    "ICU_BEDS_OCCUPIED": 31,
-    "ICU_BEDS_VACANT": 1,
+    "ICU_BEDS_OCCUPIED": 30,
+    "ICU_BEDS_VACANT": 2,
     "TOTAL": 202,
-    "OCCUPIED": 200,
-    "VACANT": 2,
-    "DATE": "28/04/2021",
-    "TIME": "8:24:11 AM",
+    "OCCUPIED": 199,
+    "VACANT": 3,
+    "DATE": "29/04/2021",
+    "TIME": "7:21:23 AM",
     "LOCATION": "https://maps.google.com/?cid=13921927414152870396",
     "LAT": 17.4331519,
     "LONG": 78.4877514,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1056,
+    "SNO": 3,
     "DISTRICT": "Hyderabad",
     "HOSPITAL_NAME": "21. S R R I T  C D GOVT FEVER HOSPITAL",
     "CONTACT": 9866349244,
     "REGULAR_BEDS_TOTAL": 36,
-    "REGULAR_BEDS_OCCUPIED": 19,
-    "REGULAR_BEDS_VACANT": 17,
+    "REGULAR_BEDS_OCCUPIED": 27,
+    "REGULAR_BEDS_VACANT": 9,
     "OXYGEN_BEDS_TOTAL": 36,
     "OXYGEN_BEDS_OCCUPIED": 0,
     "OXYGEN_BEDS_VACANT": 36,
     "ICU_BEDS_TOTAL": 100,
-    "ICU_BEDS_OCCUPIED": 64,
-    "ICU_BEDS_VACANT": 36,
+    "ICU_BEDS_OCCUPIED": 61,
+    "ICU_BEDS_VACANT": 39,
     "TOTAL": 172,
-    "OCCUPIED": 83,
-    "VACANT": 89,
-    "DATE": "28/04/2021",
-    "TIME": "5:48:46 PM",
+    "OCCUPIED": 88,
+    "VACANT": 84,
+    "DATE": "29/04/2021",
+    "TIME": "7:28:40 AM",
     "LOCATION": "https://www.google.com/maps/place/Government+Area+Hospital/@17.4626895,78.3522721,18.59z/data=!4m13!1m7!3m6!1s0x3bcb93b3c3b74b81:0x9503a2897533a74a!2sSri+Ram+Nagar,+Laxmi+Nagar,+Kondapur,+Telangana+500084!3b1!8m2!3d17.4618121!4d78.3550663!3m4!1s0x3bcb93b3b2a3b859:0x7753996c7a15141c!8m2!3d17.4631175!4d78.3530069",
     "LAT": 17.46315592,
     "LONG": 78.35301533,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1057,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "22. AH JAGITYAL",
     "CONTACT": 9849553737,
     "REGULAR_BEDS_TOTAL": 15,
-    "REGULAR_BEDS_OCCUPIED": 7,
-    "REGULAR_BEDS_VACANT": 8,
+    "REGULAR_BEDS_OCCUPIED": 0,
+    "REGULAR_BEDS_VACANT": 15,
     "OXYGEN_BEDS_TOTAL": 40,
-    "OXYGEN_BEDS_OCCUPIED": 30,
-    "OXYGEN_BEDS_VACANT": 10,
+    "OXYGEN_BEDS_OCCUPIED": 39,
+    "OXYGEN_BEDS_VACANT": 1,
     "ICU_BEDS_TOTAL": 10,
     "ICU_BEDS_OCCUPIED": 10,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 65,
-    "OCCUPIED": 47,
-    "VACANT": 18,
-    "DATE": "28/04/2021",
-    "TIME": "9:10:09 PM",
+    "OCCUPIED": 49,
+    "VACANT": 16,
+    "DATE": "29/04/2021",
+    "TIME": "7:46:46 AM",
     "LOCATION": "https://www.google.com/maps/place/Chityal,+Telangana/@18.330879,79.6735078,16.57z/data=!4m5!3m4!1s0x3a333cb5f29d9775:0xdb3300e5d741c473!8m2!3d18.3307198!4d79.6782755",
     "LAT": 18.33162712,
     "LONG": 79.67362346,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1058,
+    "SNO": 4,
     "DISTRICT": "Jagtial",
     "HOSPITAL_NAME": "23. CHC METPALLY",
     "CONTACT": 9948966077,
@@ -26446,17 +25389,16 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3021336011185096178",
     "LAT": 18.7293245,
     "LONG": 79.9791672,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1059,
+    "SNO": 5,
     "DISTRICT": "Jangaon",
     "HOSPITAL_NAME": "24. DH JANAGAM",
     "CONTACT": 9346349960,
     "REGULAR_BEDS_TOTAL": 38,
-    "REGULAR_BEDS_OCCUPIED": 21,
-    "REGULAR_BEDS_VACANT": 17,
+    "REGULAR_BEDS_OCCUPIED": 27,
+    "REGULAR_BEDS_VACANT": 11,
     "OXYGEN_BEDS_TOTAL": 30,
     "OXYGEN_BEDS_OCCUPIED": 30,
     "OXYGEN_BEDS_VACANT": 0,
@@ -26464,18 +25406,17 @@ telangana_data=[
     "ICU_BEDS_OCCUPIED": 4,
     "ICU_BEDS_VACANT": 12,
     "TOTAL": 84,
-    "OCCUPIED": 55,
-    "VACANT": 29,
-    "DATE": "28/04/2021",
-    "TIME": "8:05:12 PM",
+    "OCCUPIED": 61,
+    "VACANT": 23,
+    "DATE": "29/04/2021",
+    "TIME": "8:00:27 AM",
     "LOCATION": "https://www.google.com/maps/place/Govt+Hospital/@18.4335924,79.855865,14.51z/data=!4m13!1m7!3m6!1s0x3a331b90170ccb69:0x93b6712adb438fd1!2sBhupalpally,+Telangana+506169!3b1!8m2!3d18.4292622!4d79.8634855!3m4!1s0x0:0x23c75223ffe7ac74!8m2!3d18.4355359!4d79.8719301",
     "LAT": 18.43677357,
     "LONG": 79.87260298,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1060,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "25. AREA HOSPITAL SCCL- BHOOPALAPALLY",
     "CONTACT": 9491144793,
@@ -26496,11 +25437,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Govt+Hospital,+Alampur+(P),+Telangana+509152/@15.8814401,78.1276612,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x0:0x81281f8818d86e45!2sShri+Jogulamba+Temple!8m2!3d15.8769909!4d78.1346258!3m4!1s0x3bb5e88b8dd8553b:0xaa67c46d45575901!8m2!3d15.8814819!4d78.1295397",
     "LAT": 15.88164133,
     "LONG": 78.12981774,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1061,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "26. CHC CHITYAL",
     "CONTACT": 9705462662,
@@ -26521,11 +25461,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3599534006474215338",
     "LAT": 16.2370156,
     "LONG": 77.796989,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1062,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "27. CHC MAHADEVPUR",
     "CONTACT": 9491364812,
@@ -26546,11 +25485,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Area+Hospital/@18.3823706,77.8732551,16.27z/data=!4m13!1m7!3m6!1s0x3bce80f96a3da331:0xbf30b775a380655!2sBanswada,+Telangana+503187!3b1!8m2!3d18.3818488!4d77.8758114!3m4!1s0x3bce80fa227bf64d:0x3db6d4dc644a82fa!8m2!3d18.3804333!4d77.8761694",
     "LAT": 18.38072729,
     "LONG": 77.87614996,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1063,
+    "SNO": 6,
     "DISTRICT": "Jayashankar",
     "HOSPITAL_NAME": "28. DH BHUPALPALLY",
     "CONTACT": 8639942099,
@@ -26571,11 +25509,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+hospital/@18.2525913,78.4324314,16.78z/data=!4m13!1m7!3m6!1s0x3bcc457a0b309f2f:0x791c9c3270655f00!2sDomakonda,+Telangana!3b1!8m2!3d18.2505062!4d78.4382469!3m4!1s0x3bcc45895f65ad37:0x91c2373a8ef63020!8m2!3d18.2511634!4d78.4347643",
     "LAT": 18.25127642,
     "LONG": 78.43473115,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1064,
+    "SNO": 7,
     "DISTRICT": "Jogulamba",
     "HOSPITAL_NAME": "29. AH ALAMPUR",
     "CONTACT": 9640949141,
@@ -26596,11 +25533,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Madnoor+Govt.+Hospital/@18.5056665,77.6164555,15z/data=!4m13!1m7!3m6!1s0x3bce66c6013b9913:0xa1fd0b07e9586a94!2sMadnoor,+Telangana+503309!3b1!8m2!3d18.5067137!4d77.6235413!3m4!1s0x3bce66c5ddcfd42d:0xf27df0326a08ce00!8m2!3d18.5071494!4d77.6251385",
     "LAT": 18.50776203,
     "LONG": 77.62795709,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1065,
+    "SNO": 7,
     "DISTRICT": "Jogulamba",
     "HOSPITAL_NAME": "30. DH GADWAL",
     "CONTACT": 6305439971,
@@ -26621,11 +25557,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Super+Speciality+Hospital/@18.1910124,78.0171447,17.28z/data=!4m13!1m7!3m6!1s0x3bcc242b17e7f2c7:0xcc8edc0614b8218c!2sYellareddy,+Telangana+503122!3b1!8m2!3d18.1952243!4d78.0166847!3m4!1s0x3bcc242ac4158251:0x6a90fbb30b467924!8m2!3d18.1917445!4d78.0215999",
     "LAT": 18.19185559,
     "LONG": 78.02168427,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1066,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "31. AH BANSWADA",
     "CONTACT": 9985708151,
@@ -26646,11 +25581,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Govt+Hospital+Rajiv+Colony+Kamareddy/@18.3224037,78.3203099,14z/data=!4m13!1m7!3m6!1s0x3bcc4905804135f1:0xa2c7ddb16b831743!2sKamareddy,+Telangana+503111!3b1!8m2!3d18.3204832!4d78.3369523!3m4!1s0x3bcc496c4c0377b1:0x20a4f8a7b044a40c!8m2!3d18.3339821!4d78.3532693",
     "LAT": 18.335316,
     "LONG": 78.35275766,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1067,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "32. AH DOMAKONDA",
     "CONTACT": 9440135380,
@@ -26671,11 +25605,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1756679162464109213",
     "LAT": 18.442318,
     "LONG": 79.1317081,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1068,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "33. CHC MADHNOOR",
     "CONTACT": 9422173492,
@@ -26696,11 +25629,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=14891742064740571070",
     "LAT": 18.203578,
     "LONG": 79.3997175,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1069,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "34. CHC YELLAREDDY",
     "CONTACT": 9848090968,
@@ -26721,11 +25653,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=2173679821308805994",
     "LAT": 17.2071724,
     "LONG": 80.660457,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1070,
+    "SNO": 8,
     "DISTRICT": "Kamareddy",
     "HOSPITAL_NAME": "35. DH KAMAREDDY",
     "CONTACT": 9848346657,
@@ -26746,11 +25677,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@17.2130262,80.8250795,16.42z/data=!4m12!1m6!3m5!1s0x0:0x3ae90b262cf73816!2sSatyavathi+Super+Speciality+Eye+Hospital!8m2!3d17.2103305!4d80.834351!3m4!1s0x3a368265b5522def:0x8c4b7f48310daefe!8m2!3d17.2136527!4d80.8252432",
     "LAT": 17.21390842,
     "LONG": 80.8253365,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1071,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "36. DISTRICT HOSPITAL - KARIMNAGAR",
     "CONTACT": 9441701979,
@@ -26771,11 +25701,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6755322188503029443",
     "LAT": 17.249359,
     "LONG": 80.1520135,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1072,
+    "SNO": 9,
     "DISTRICT": "Karimnagar",
     "HOSPITAL_NAME": "37. HUZURABAD CHC",
     "CONTACT": 7013873200,
@@ -26796,11 +25725,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1656254547648770771",
     "LAT": 17.2506999,
     "LONG": 80.1524463,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1073,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "38. CHC PENUBALLI",
     "CONTACT": 9494601892,
@@ -26821,11 +25749,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/CHC/@19.3654852,79.2741142,14z/data=!4m13!1m7!3m6!1s0x3bd2ac1e80629d71:0x7e0782d04d31da11!2sAsifabad+(CT),+Telangana+504293!3b1!8m2!3d19.361899!4d79.2930312!3m4!1s0x3bd2afe111e7a883:0xc3ba60b2c42b7512!8m2!3d19.356005!4d79.283344",
     "LAT": 19.35807572,
     "LONG": 79.28329769,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1074,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "39. CHC SATHUPALLY",
     "CONTACT": 9848506271,
@@ -26846,11 +25773,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sirpur+Government+Hospital/@19.3573323,79.2318788,10z/data=!4m16!1m9!2m8!1shospital!3m6!1shospital!2sSirpur,+Telangana+504299!3s0x3a2d453f48b9922d:0xb16e7549c333b4b2!4m2!1d79.5711655!2d19.4769446!3m5!1s0x0:0xfba5c5412d02c2ce!8m2!3d19.4816232!4d79.5774293!15sCghob3NwaXRhbJIBCGhvc3BpdGFs",
     "LAT": 19.48258441,
     "LONG": 79.57735138,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1075,
+    "SNO": 10,
     "DISTRICT": "Khammam",
     "HOSPITAL_NAME": "40. DISTRICT HOSPITAL-KHAMMAM",
     "CONTACT": 8008553209,
@@ -26871,11 +25797,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/CHC/@19.3617366,79.2858565,15.76z/data=!4m13!1m7!3m6!1s0x3bd2ac1e80629d71:0x7e0782d04d31da11!2sAsifabad+(CT),+Telangana+504293!3b1!8m2!3d19.361899!4d79.2930312!3m4!1s0x3bd2afe111e7a883:0xc3ba60b2c42b7512!8m2!3d19.356005!4d79.283344",
     "LAT": 19.35643667,
     "LONG": 79.28344725,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1076,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "41. CHC ASIFABAD",
     "CONTACT": 9618234484,
@@ -26896,11 +25821,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@17.5968394,79.9920256,14.87z/data=!4m13!1m7!3m6!1s0x3a348f572f1cb08d:0xa87314932e9bdd95!2sMahabubabad,+Telangana+506101!3b1!8m2!3d17.602625!4d80.0036199!3m4!1s0x3a348f5190e4349b:0x799451617946b14e!8m2!3d17.5945657!4d80.0021855",
     "LAT": 17.59551568,
     "LONG": 80.00205027,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1077,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "42. CHC SIRPUR(T)",
     "CONTACT": 7671029978,
@@ -26921,11 +25845,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=729525474251942230",
     "LAT": 16.7547015,
     "LONG": 78.1437195,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1078,
+    "SNO": 11,
     "DISTRICT": "Komaram Bheem",
     "HOSPITAL_NAME": "43. DH ASIFABAD",
     "CONTACT": 9618234484,
@@ -26946,11 +25869,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=10978830380256725137",
     "LAT": 16.7507263,
     "LONG": 78.0084681,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1079,
+    "SNO": 12,
     "DISTRICT": "Mahabubabad",
     "HOSPITAL_NAME": "44. CHC-GUDUR",
     "CONTACT": 9652759857,
@@ -26971,11 +25893,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Singareni+Area+Hospital,+Ramakrishnapur,,+Mancherial,+Telangana+504301/@18.9259716,79.4765341,16.49z/data=!4m13!1m7!3m6!1s0x3a32b680047359ed:0x62618cd2484d49c4!2sRamakrishnapur,+Telangana!3b1!8m2!3d18.9293632!4d79.4760133!3m4!1s0x3a32b6709c53c579:0xef80a650f057384b!8m2!3d18.9228822!4d79.4781232",
     "LAT": 18.92344691,
     "LONG": 79.47797967,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1080,
+    "SNO": 12,
     "DISTRICT": "Mahabubabad",
     "HOSPITAL_NAME": "45. DH MAHABUBABAD",
     "CONTACT": 8008553175,
@@ -26996,11 +25917,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Area+Hospital+,+Bellampalli/@19.0657124,79.4798992,15.09z/data=!4m13!1m7!3m6!1s0x3a32b1c027d8d56f:0xc2e5f9f687946fa4!2sBellampalle,+Telangana+504251!3b1!8m2!3d19.0715462!4d79.4911571!3m4!1s0x3a32b1ef4b85e045:0x4a89d4d4d9143332!8m2!3d19.0639327!4d79.4868699",
     "LAT": 19.0645527,
     "LONG": 79.48693887,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1081,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "46. CHC BADEPALLY / JADCHERLA",
     "CONTACT": 9946637152,
@@ -27021,11 +25941,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@18.8718736,79.4440977,18.15z/data=!4m13!1m7!3m6!1s0x3a32ca16cc2d0dcb:0xd28119d532d5d0dc!2sMancherial,+Telangana!3b1!8m2!3d18.8713826!4d79.4443099!3m4!1s0x3a32ca6dae956cc3:0xe939b18e0e7e6399!8m2!3d18.8722766!4d79.4448383",
     "LAT": 18.87236683,
     "LONG": 79.44486389,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1082,
+    "SNO": 13,
     "DISTRICT": "Mahabubnagar",
     "HOSPITAL_NAME": "47. GOVT GENERAL HOSPITAL- MAHABUBNAGAR",
     "CONTACT": 9292307228,
@@ -27046,11 +25965,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?q=Ramakrishnapur,,+Mancherial,+Telangana+504301,+India&ftid=0x3a32b6709c53c579:0xef80a650f057384b",
     "LAT": 18.9228821,
     "LONG": 79.4781225,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1083,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "48. AREA HOSPITAL SCCL- RAMAKRISHNAPUR",
     "CONTACT": 9491145017,
@@ -27071,11 +25989,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Community+Health+Centre,+Government+Area+Hospital,+Narsapur/@17.7367672,78.279177,16.66z/data=!4m13!1m7!3m6!1s0x3bcc0ad9c6c8fb63:0x590cffd2f163adf6!2sNarsapur,+Telangana+502313!3b1!8m2!3d17.7394297!4d78.2846303!3m4!1s0x0:0x9d94f61a5ff572ff!8m2!3d17.7358729!4d78.283029",
     "LAT": 17.73594843,
     "LONG": 78.283035,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1084,
+    "SNO": 14,
     "DISTRICT": "Mancherial",
     "HOSPITAL_NAME": "49. CHC BELLAMPALLY",
     "CONTACT": 8019364366,
@@ -27096,11 +26013,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@17.832183,78.4739867,17.22z/data=!4m13!1m7!3m6!1s0x3bcc7a7f20afa74d:0x822f28efd5d00bf0!2sTupran,+Telangana+502334!3b1!8m2!3d17.8411095!4d78.4771627!3m4!1s0x3bcc7a7660558439:0x7bfc34ceb1fec828!8m2!3d17.8309879!4d78.4778601",
     "LAT": 17.83115392,
     "LONG": 78.47792411,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1085,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "50. AH NARSAPUR",
     "CONTACT": 9989800907,
@@ -27121,11 +26037,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@18.0506063,78.2485317,14z/data=!4m13!1m7!3m6!1s0x3bcc1543603bbad5:0xd54ecd729feff53c!2sMedak+U,+Telangana+502110!3b1!8m2!3d18.0529357!4d78.261853!3m4!1s0x3bcc1541b09c26db:0xef0bdff685edc627!8m2!3d18.0484536!4d78.2722866",
     "LAT": 18.04783039,
     "LONG": 78.27266716,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1086,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "51. CHC TOOPRAN",
     "CONTACT": 9542273116,
@@ -27146,11 +26061,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@17.4509409,78.6656274,14z/data=!4m13!1m7!3m6!1s0x3bcb7672754ba215:0x6ec61e6af526ab8f!2sGhatkesar,+Telangana+501301!3b1!8m2!3d17.4531346!4d78.6851105!3m4!1s0x3bcb76726f55dbbb:0x1f34978c61250ad9!8m2!3d17.4499409!4d78.6830951",
     "LAT": 17.45052115,
     "LONG": 78.68323324,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1087,
+    "SNO": 15,
     "DISTRICT": "Medak",
     "HOSPITAL_NAME": "52. DH MEDAK",
     "CONTACT": 9440006739,
@@ -27171,11 +26085,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@17.4529487,78.5121329,14z/data=!4m13!1m7!3m6!1s0x3bcb9bcbae0e1275:0x3de1a899ac941fd3!2sMalkajgiri,+Secunderabad,+Telangana!3b1!8m2!3d17.4503375!4d78.5322481!3m4!1s0x0:0xb28bb4193ffdbede!8m2!3d17.4509652!4d78.5340297",
     "LAT": 17.452579,
     "LONG": 78.53462087,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1088,
+    "SNO": 16,
     "DISTRICT": "Medchal",
     "HOSPITAL_NAME": "53. CHC GHATKESAR",
     "CONTACT": 8008553861,
@@ -27191,16 +26104,15 @@ telangana_data=[
     "TOTAL": 32,
     "OCCUPIED": 0,
     "VACANT": 32,
-    "DATE": "28/04/2021",
-    "TIME": "3:58:47 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:12:12 AM",
     "LOCATION": "https://maps.google.com/?cid=1078278505738649973",
     "LAT": 18.1909309,
     "LONG": 79.9423095,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1089,
+    "SNO": 17,
     "DISTRICT": "Mulugu",
     "HOSPITAL_NAME": "54. CHC ETURNAGARAM",
     "CONTACT": 9949789769,
@@ -27221,11 +26133,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=1078278505738649973",
     "LAT": 18.1909309,
     "LONG": 79.9423095,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1090,
+    "SNO": 17,
     "DISTRICT": "Mulugu",
     "HOSPITAL_NAME": "55. DH MULUGU",
     "CONTACT": 9963701614,
@@ -27246,11 +26157,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Govt+District+Hospital/@16.4889326,78.3077498,15.83z/data=!4m13!1m7!3m6!1s0x3bca6ca77bc9f42b:0x8c17013f3c9cb057!2sNagarkurnool,+Telangana!3b1!8m2!3d16.4939417!4d78.3102489!3m4!1s0x3bca6c9f6df1c8f5:0xae94833df494305c!8m2!3d16.4848646!4d78.3170663",
     "LAT": 16.48489801,
     "LONG": 78.3170084,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1091,
+    "SNO": 18,
     "DISTRICT": "Nagarkurnool",
     "HOSPITAL_NAME": "56. DH NAGARKURNOOL",
     "CONTACT": 9959554285,
@@ -27266,16 +26176,15 @@ telangana_data=[
     "TOTAL": 50,
     "OCCUPIED": 37,
     "VACANT": 13,
-    "DATE": "28/04/2021",
-    "TIME": "2:07:43 PM",
+    "DATE": "29/04/2021",
+    "TIME": "5:57:47 AM",
     "LOCATION": "https://maps.google.com/?q=Nagarjuna+Sagar&ftid=0x3bcab9d98ff9f8ab:0x716c3a50ef72c37f",
     "LAT": 16.5462089,
     "LONG": 79.1661407,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1092,
+    "SNO": 19,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "57. AH NAGARJUNA SAGAR",
     "CONTACT": 9912384037,
@@ -27296,11 +26205,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=15957115646274129045",
     "LAT": 16.8692451,
     "LONG": 79.5608489,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1093,
+    "SNO": 19,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "58. AREA HOSPITAL - MIRYALGUDA",
     "CONTACT": 9848170330,
@@ -27321,11 +26229,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@16.6894462,78.9164322,17z/data=!4m12!1m6!3m5!1s0x0:0xbb1a25115cd5d247!2sJyothi+Hospital.!8m2!3d16.6894462!4d78.9186209!3m4!1s0x0:0x654b95faf87bb147!8m2!3d16.6920584!4d78.9212702",
     "LAT": 16.69231855,
     "LONG": 78.92122812,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1094,
+    "SNO": 19,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "59. CHC DEVERAKONDA",
     "CONTACT": 9440525406,
@@ -27346,11 +26253,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@17.1648369,79.4263468,17.24z/data=!4m13!1m7!3m6!1s0x3a34d25160e230df:0x675c3aee8c27d6a7!2sNakrekal,+Telangana+508211!3b1!8m2!3d17.1647223!4d79.4274672!3m4!1s0x3a34d25741fc0f9b:0x227a911177a34feb!8m2!3d17.1644204!4d79.4296181",
     "LAT": 17.16459826,
     "LONG": 79.42957086,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1095,
+    "SNO": 19,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "60. CHC NAKKREKAL",
     "CONTACT": 8142292229,
@@ -27371,11 +26277,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=12957762415254500699",
     "LAT": 17.0558638,
     "LONG": 79.2778839,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1096,
+    "SNO": 19,
     "DISTRICT": "Nalgonda",
     "HOSPITAL_NAME": "61. GOVT GENERAL HOSPTIAL, NALGONDA",
     "CONTACT": 9440152233,
@@ -27396,11 +26301,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Narayan+Pet+District+Government+Hospital/@16.7442935,77.4880099,15z/data=!4m13!1m7!3m6!1s0x3bc9a314f37c750b:0x72bfb68c2e4cea6d!2sNarayanpet,+Telangana+509210!3b1!8m2!3d16.7445112!4d77.4960078!3m4!1s0x3bc9a3d06a857ca3:0x5fa264a09b98d6b0!8m2!3d16.7443589!4d77.4933351",
     "LAT": 16.74479392,
     "LONG": 77.49325393,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1097,
+    "SNO": 20,
     "DISTRICT": "Narayanpet",
     "HOSPITAL_NAME": "62. DH NARAYANPET",
     "CONTACT": 9848491330,
@@ -27421,11 +26325,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Govt+Area+Hospital+AHB/@19.1062528,77.9591814,17.19z/data=!4m13!1m7!3m6!1s0x3bcdfe46060ca9f5:0x9d7bdc7255ecaf09!2sBhainsa,+Telangana+504103!3b1!8m2!3d19.1030659!4d77.965299!3m4!1s0x3bcdfe5ca1fdbced:0xb67b2f54c2665fce!8m2!3d19.1055605!4d77.9638647",
     "LAT": 19.10562416,
     "LONG": 77.96386152,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1098,
+    "SNO": 21,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "63. AH BHAINSA",
     "CONTACT": 9959154158,
@@ -27446,11 +26349,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Khanapur,+Telangana+504203/@19.0399642,78.65236,16.43z/data=!4m5!3m4!1s0x3bcd82a481c7d92d:0x6680ca5510e37f6c!8m2!3d19.0413819!4d78.6483843",
     "LAT": 19.04056037,
     "LONG": 78.65253559,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1099,
+    "SNO": 21,
     "DISTRICT": "Nirmal",
     "HOSPITAL_NAME": "64. DH NIRMAL",
     "CONTACT": 9059745569,
@@ -27471,36 +26373,34 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=4060515126009672786",
     "LAT": 19.0896481,
     "LONG": 78.3450592,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1100,
+    "SNO": 22,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "65. AH BODHAN",
     "CONTACT": 9000957775,
-    "REGULAR_BEDS_TOTAL": 111,
-    "REGULAR_BEDS_OCCUPIED": 7,
-    "REGULAR_BEDS_VACANT": 104,
-    "OXYGEN_BEDS_TOTAL": 21,
-    "OXYGEN_BEDS_OCCUPIED": 21,
+    "REGULAR_BEDS_TOTAL": 109,
+    "REGULAR_BEDS_OCCUPIED": 10,
+    "REGULAR_BEDS_VACANT": 99,
+    "OXYGEN_BEDS_TOTAL": 23,
+    "OXYGEN_BEDS_OCCUPIED": 23,
     "OXYGEN_BEDS_VACANT": 0,
     "ICU_BEDS_TOTAL": 0,
     "ICU_BEDS_OCCUPIED": 0,
     "ICU_BEDS_VACANT": 0,
     "TOTAL": 132,
-    "OCCUPIED": 28,
-    "VACANT": 104,
-    "DATE": "28/04/2021",
-    "TIME": "7:52:55 PM",
+    "OCCUPIED": 33,
+    "VACANT": 99,
+    "DATE": "29/04/2021",
+    "TIME": "7:38:41 AM",
     "LOCATION": "https://www.google.com/maps/place/Government+Hospital/@18.6617668,77.8873203,16.22z/data=!4m13!1m7!3m6!1s0x3bce766285c01467:0xcf03db98408b4712!2sBellal+Tarafa+(Bodhan+Rural),+Telangana!3b1!8m2!3d18.6794407!4d77.8767442!3m4!1s0x3bce7656cdcdb633:0xbdfab3bdfc37e74!8m2!3d18.6589456!4d77.8879203",
     "LAT": 18.65930368,
     "LONG": 77.88790819,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1101,
+    "SNO": 22,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "66. ARMOOR CHC",
     "CONTACT": 7660019852,
@@ -27521,11 +26421,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Armur+Government+Hospital/@18.7901506,78.2868616,16.69z/data=!4m13!1m7!3m6!1s0x3bcdbf8ed1959617:0x19a4e109a4d8b358!2sArmur,+Telangana+503224!3b1!8m2!3d18.7899627!4d78.2881271!3m4!1s0x3bcdc00d2bcfd7b1:0x62bd15564b720ecd!8m2!3d18.7927678!4d78.2873679",
     "LAT": 18.79288532,
     "LONG": 78.28771163,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1102,
+    "SNO": 22,
     "DISTRICT": "Nizamabad",
     "HOSPITAL_NAME": "67. GOVERNMENT GENERAL HOSPTIAL - NIZAMABAD",
     "CONTACT": 9989240172,
@@ -27546,11 +26445,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=8598775782241820511",
     "LAT": 18.6756649,
     "LONG": 78.0990829,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1103,
+    "SNO": 23,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "68. AH GODAVARIKHANI / RAMAGUNDAM",
     "CONTACT": 9849126140,
@@ -27571,11 +26469,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Govt+Hospital/@18.747427,79.4734743,13z/data=!4m13!1m7!3m6!1s0x3a32ce5561dc5733:0x72ecde4d0c9308cd!2sGodavarikhani,+Ramagundam,+Telangana!3b1!8m2!3d18.7449386!4d79.5064573!3m4!1s0x3a32cef0379e322d:0x9fc8a54d80395b62!8m2!3d18.7591616!4d79.5024056",
     "LAT": 18.76294896,
     "LONG": 79.50214491,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1104,
+    "SNO": 23,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "69. AREA HOSPITAL SCCL- RAMAGUNDAM",
     "CONTACT": 9491144960,
@@ -27596,11 +26493,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=3775815144326124149",
     "LAT": 18.7463685,
     "LONG": 79.5190594,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1105,
+    "SNO": 23,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "70. CHC MANTHANI",
     "CONTACT": 9494853905,
@@ -27621,11 +26517,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=7735083434920420732",
     "LAT": 18.612614,
     "LONG": 79.3796623,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1106,
+    "SNO": 23,
     "DISTRICT": "Peddapalli",
     "HOSPITAL_NAME": "71. DH PEDDAPALLY",
     "CONTACT": 9949016111,
@@ -27646,11 +26541,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Peddapalli+District+Govt.+Hospital/@18.6114897,79.3765454,15.71z/data=!4m13!1m7!3m6!1s0x3a32d352a7ac1da3:0x8ef7e8c34edc4037!2sPeddapalli,+Telangana!3b1!8m2!3d18.6151461!4d79.3826826!3m4!1s0x3bcd2cad50a158d5:0x6b588966de70a57c!8m2!3d18.612614!4d79.3796623",
     "LAT": 18.61304625,
     "LONG": 79.37964649,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1107,
+    "SNO": 24,
     "DISTRICT": "Rajanna",
     "HOSPITAL_NAME": "72. DH SIRCILLA",
     "CONTACT": 9985003080,
@@ -27671,11 +26565,10 @@ telangana_data=[
     "LOCATION": "https://www.google.com/maps/place/Sircilla,+Telangana+505301/@18.3896891,78.8062372,16.48z/data=!4m5!3m4!1s0x3bccfc9bdc36d9bd:0xaf1432e16c9e5309!8m2!3d18.3892197!4d78.8014505",
     "LAT": 18.38937525,
     "LONG": 78.80819103,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1108,
+    "SNO": 25,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "73. AH VANASTHALIPURAM",
     "CONTACT": 8008553912,
@@ -27691,16 +26584,15 @@ telangana_data=[
     "TOTAL": 50,
     "OCCUPIED": 6,
     "VACANT": 44,
-    "DATE": "28/04/2021",
-    "TIME": "8:49:35 PM",
+    "DATE": "29/04/2021",
+    "TIME": "7:09:38 AM",
     "LOCATION": "https://www.google.com/maps/place/Government+Area+Hospital,+Vanasthalipuram/@17.3260927,78.55631,14z/data=!4m13!1m7!3m6!1s0x3bcba1f9d7af434b:0xba06876a217693a0!2sVanasthalipuram,+Telangana!3b1!8m2!3d17.3317096!4d78.5753592!3m4!1s0x3bcba202c2107ea9:0xb721b5de5915f6c5!8m2!3d17.3286369!4d78.563849",
     "LAT": 17.32965682,
     "LONG": 78.56412079,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1109,
+    "SNO": 25,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "74. CHC CHEVELLA",
     "CONTACT": 8008553862,
@@ -27721,11 +26613,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11524758902074813092",
     "LAT": 17.3134521,
     "LONG": 78.1367709,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1110,
+    "SNO": 25,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "75. CHC HAYATHNAGAR",
     "CONTACT": 8008553863,
@@ -27746,11 +26637,10 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=6627717786388950085",
     "LAT": 17.6269241,
     "LONG": 78.401286,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
+    "TYPE": "Government"
   },
   {
-    "SNO": 1111,
+    "SNO": 25,
     "DISTRICT": "Rangareddy",
     "HOSPITAL_NAME": "76. CHC MAHESHWARAM",
     "CONTACT": 9966803676,
@@ -27771,807 +26661,6 @@ telangana_data=[
     "LOCATION": "https://maps.google.com/?cid=11322046210207059990",
     "LAT": 17.3289925,
     "LONG": 78.6054602,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1112,
-    "DISTRICT": "Rangareddy",
-    "HOSPITAL_NAME": "77. CHC RAJENDERNAGAR",
-    "CONTACT": 8008553865,
-    "REGULAR_BEDS_TOTAL": 4,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 4,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 4,
-    "OCCUPIED": 0,
-    "VACANT": 4,
-    "DATE": "28/04/2021",
-    "TIME": "5:49:26 PM",
-    "LOCATION": "https://maps.google.com/?cid=9100027403194598762",
-    "LAT": 17.3362058,
-    "LONG": 78.4116714,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1113,
-    "DISTRICT": "Rangareddy",
-    "HOSPITAL_NAME": "78. CHC SHADNAGAR",
-    "CONTACT": 8328167440,
-    "REGULAR_BEDS_TOTAL": 6,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 6,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 6,
-    "OCCUPIED": 0,
-    "VACANT": 6,
-    "DATE": "28/04/2021",
-    "TIME": "10:59:05 AM",
-    "LOCATION": "https://www.google.com/maps/place/Government+Hospital,+Shadnagar/@17.0703725,78.1998444,15z/data=!4m13!1m7!3m6!1s0x3bcbc934102693f9:0x948b8fef28df62ec!2sShadnagar,+Telangana+509216!3b1!8m2!3d17.0712949!4d78.2058966!3m4!1s0x3bcbc92dcf9e67f9:0x9d442a46fcd4953e!8m2!3d17.0765435!4d78.2069794",
-    "LAT": 17.07736715,
-    "LONG": 78.20731198,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1114,
-    "DISTRICT": "Rangareddy",
-    "HOSPITAL_NAME": "79. DH KONDAPUR",
-    "CONTACT": 9440061197,
-    "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 10,
-    "OXYGEN_BEDS_TOTAL": 62,
-    "OXYGEN_BEDS_OCCUPIED": 8,
-    "OXYGEN_BEDS_VACANT": 54,
-    "ICU_BEDS_TOTAL": 38,
-    "ICU_BEDS_OCCUPIED": 25,
-    "ICU_BEDS_VACANT": 13,
-    "TOTAL": 110,
-    "OCCUPIED": 33,
-    "VACANT": 77,
-    "DATE": "28/04/2021",
-    "TIME": "6:21:37 PM",
-    "LOCATION": "https://www.google.com/maps/place/Government+Area+Hospital/@17.4630184,78.3476803,15z/data=!4m13!1m7!3m6!1s0x3bcb93c92849a36b:0xde0dc034905512fa!2sKondapur,+Telangana!3b1!8m2!3d17.4698577!4d78.3578246!3m4!1s0x3bcb93b3b2a3b859:0x7753996c7a15141c!8m2!3d17.4631175!4d78.3530069",
-    "LAT": 17.46365281,
-    "LONG": 78.3540747,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1115,
-    "DISTRICT": "Rangareddy",
-    "HOSPITAL_NAME": "80. TIMS, GACHIBOWLI FACILITY",
-    "CONTACT": 9494902900,
-    "REGULAR_BEDS_TOTAL": 281,
-    "REGULAR_BEDS_OCCUPIED": 120,
-    "REGULAR_BEDS_VACANT": 161,
-    "OXYGEN_BEDS_TOTAL": 843,
-    "OXYGEN_BEDS_OCCUPIED": 355,
-    "OXYGEN_BEDS_VACANT": 488,
-    "ICU_BEDS_TOTAL": 137,
-    "ICU_BEDS_OCCUPIED": 137,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 1261,
-    "OCCUPIED": 612,
-    "VACANT": 649,
-    "DATE": "28/04/2021",
-    "TIME": "8:51:35 AM",
-    "LOCATION": "https://maps.google.com/?cid=11848602110703609551",
-    "LAT": 17.4427385,
-    "LONG": 78.3437097,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1116,
-    "DISTRICT": "Sangareddy",
-    "HOSPITAL_NAME": "81. AH JOGIPET",
-    "CONTACT": 6281391780,
-    "REGULAR_BEDS_TOTAL": 48,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 48,
-    "OXYGEN_BEDS_TOTAL": 20,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 20,
-    "ICU_BEDS_TOTAL": 2,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 2,
-    "TOTAL": 70,
-    "OCCUPIED": 0,
-    "VACANT": 70,
-    "DATE": "28/04/2021",
-    "TIME": "4:41:13 PM",
-    "LOCATION": "https://www.google.com/maps/place/Satyanarayana+Hospital/@17.8359767,78.0649507,15.7z/data=!4m13!1m7!3m6!1s0x3bcc051067a8f0bd:0x3d46f0420bfb8c2d!2sJogipet,+Telangana+502270!3b1!8m2!3d17.8369622!4d78.0680458!3m4!1s0x3bcc051b8b8c0889:0x36982fd1aa99f7a6!8m2!3d17.8383175!4d78.0712757",
-    "LAT": 17.83851954,
-    "LONG": 78.07128055,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1117,
-    "DISTRICT": "Sangareddy",
-    "HOSPITAL_NAME": "82. AH NARAYANKHED",
-    "CONTACT": 9346440041,
-    "REGULAR_BEDS_TOTAL": 50,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 50,
-    "OXYGEN_BEDS_TOTAL": 13,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 13,
-    "ICU_BEDS_TOTAL": 7,
-    "ICU_BEDS_OCCUPIED": 5,
-    "ICU_BEDS_VACANT": 2,
-    "TOTAL": 70,
-    "OCCUPIED": 5,
-    "VACANT": 65,
-    "DATE": "28/04/2021",
-    "TIME": "1:25:35 PM",
-    "LOCATION": "https://www.google.com/maps/place/Government+Hospital,+Turkapally,+Narayankhed+(CT),+Telangana+502286/@18.0357993,77.7626599,14z/data=!4m13!1m7!3m6!1s0x3bcea29b697b022f:0x608cf8677b26febb!2sNarayankhed+(CT),+Telangana+502286!3b1!8m2!3d18.0327937!4d77.7732287!3m4!1s0x3bcea29e6c7014ab:0x6fcb8bda89597004!8m2!3d18.0349904!4d77.7736384",
-    "LAT": 18.0327937,
-    "LONG": 77.7732287,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1118,
-    "DISTRICT": "Sangareddy",
-    "HOSPITAL_NAME": "83. AH PATANCHERU",
-    "CONTACT": 9908663194,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 69,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 69,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 69,
-    "OCCUPIED": 0,
-    "VACANT": 69,
-    "DATE": "28/04/2021",
-    "TIME": "3:39:12 PM",
-    "LOCATION": "https://www.google.com/maps/place/Government+Hospital+Patancheru/@17.5314756,78.2599628,15.76z/data=!4m13!1m7!3m6!1s0x3bcbf2be555df18f:0x4a330a55cb7e37bd!2sPatancheruvu,+Telangana!3b1!8m2!3d17.5287427!4d78.266725!3m4!1s0x3bcbf3d3ae89cd13:0xbc8780fc37d83ae8!8m2!3d17.530297!4d78.2667241",
-    "LAT": 17.53081078,
-    "LONG": 78.26683251,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1119,
-    "DISTRICT": "Sangareddy",
-    "HOSPITAL_NAME": "84. AH ZAHEERABAD",
-    "CONTACT": 9948095881,
-    "REGULAR_BEDS_TOTAL": 8,
-    "REGULAR_BEDS_OCCUPIED": 1,
-    "REGULAR_BEDS_VACANT": 7,
-    "OXYGEN_BEDS_TOTAL": 60,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 60,
-    "ICU_BEDS_TOTAL": 9,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 9,
-    "TOTAL": 77,
-    "OCCUPIED": 1,
-    "VACANT": 76,
-    "DATE": "28/04/2021",
-    "TIME": "9:20:33 PM",
-    "LOCATION": "https://www.google.com/maps/place/Area+Hospital/@17.6797284,77.6133969,17.32z/data=!4m13!1m7!3m6!1s0x3bceb4e08a27604b:0x806a9d66be8a0abb!2sZahirabad,+Telangana!3b1!8m2!3d17.6795276!4d77.6050959!3m4!1s0x0:0x2136e2fa792e36d5!8m2!3d17.6801607!4d77.6133895",
-    "LAT": 17.68029664,
-    "LONG": 77.61363722,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1120,
-    "DISTRICT": "Sangareddy",
-    "HOSPITAL_NAME": "85. CHC SADASHIVPET",
-    "CONTACT": 9849077415,
-    "REGULAR_BEDS_TOTAL": 50,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 50,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 50,
-    "OCCUPIED": 0,
-    "VACANT": 50,
-    "DATE": "28/04/2021",
-    "TIME": "12:21:13 PM",
-    "LOCATION": "https://maps.google.com/?cid=16140648326112843862",
-    "LAT": 17.6205251,
-    "LONG": 77.9510709,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1121,
-    "DISTRICT": "Sangareddy",
-    "HOSPITAL_NAME": "86. D.H. SANGAREDDY",
-    "CONTACT": 9542099858,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 180,
-    "OXYGEN_BEDS_OCCUPIED": 66,
-    "OXYGEN_BEDS_VACANT": 114,
-    "ICU_BEDS_TOTAL": 20,
-    "ICU_BEDS_OCCUPIED": 5,
-    "ICU_BEDS_VACANT": 15,
-    "TOTAL": 200,
-    "OCCUPIED": 71,
-    "VACANT": 129,
-    "DATE": "28/04/2021",
-    "TIME": "8:55:35 PM",
-    "LOCATION": "https://www.google.com/maps/place/District+Hospital,+Tadlapalle,+Sangareddy,+Telangana+502001/@17.6261289,78.0822265,18z/data=!4m5!3m4!1s0x3bcbf9b0ba4a8c87:0x9c2ef614491d6e94!8m2!3d17.6263081!4d78.0819519",
-    "LAT": 17.6261289,
-    "LONG": 78.0822265,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1122,
-    "DISTRICT": "Siddipet",
-    "HOSPITAL_NAME": "87. AH GAJWEL",
-    "CONTACT": 9246969139,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 0,
-    "OCCUPIED": 0,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "7:05:22 PM",
-    "LOCATION": "https://www.google.com/maps/place/NEW+GOVT.+100+BEDDED+AREA+HOSPITAL/@17.8427134,78.6810721,16.24z/data=!4m13!1m7!3m6!1s0x3bcc870db0fdc745:0xd2748297974c575b!2sGajwel,+Telangana!3b1!8m2!3d17.8451586!4d78.681832!3m4!1s0x3bcc8713e9b1c0dd:0xf8238092a1196c4!8m2!3d17.8431858!4d78.6843402",
-    "LAT": 17.84346531,
-    "LONG": 78.68446791,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1123,
-    "DISTRICT": "Siddipet",
-    "HOSPITAL_NAME": "88. CHC CHERIYAL",
-    "CONTACT": 8919663625,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 0,
-    "OCCUPIED": 0,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "11:01:56 AM",
-    "LOCATION": "https://www.google.com/maps/place/Cherial+Government+Hospital/@17.9211148,78.9701492,16.39z/data=!4m13!1m7!3m6!1s0x3bcc977e668daa23:0xc5c3eced3573cf12!2sCherial,+Telangana!3b1!8m2!3d17.9283338!4d78.9684177!3m4!1s0x3bcc977fb2b126a1:0x2f41ceda43074145!8m2!3d17.9248378!4d78.9711653",
-    "LAT": 17.92493198,
-    "LONG": 78.97165876,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1124,
-    "DISTRICT": "Siddipet",
-    "HOSPITAL_NAME": "89. CHC DUBBAK",
-    "CONTACT": 8328158006,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 0,
-    "OCCUPIED": 0,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "4:57:17 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1125,
-    "DISTRICT": "Siddipet",
-    "HOSPITAL_NAME": "90. CHC NANGUNOOR",
-    "CONTACT": 9959715715,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 0,
-    "OCCUPIED": 0,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "7:19:36 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1126,
-    "DISTRICT": "Siddipet",
-    "HOSPITAL_NAME": "91. GOVERNMENT MEDICAL COLLEGE AND GENERAL HOSPITAL SIDDIPET",
-    "CONTACT": 9848334447,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 325,
-    "OXYGEN_BEDS_OCCUPIED": 78,
-    "OXYGEN_BEDS_VACANT": 247,
-    "ICU_BEDS_TOTAL": 35,
-    "ICU_BEDS_OCCUPIED": 35,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 360,
-    "OCCUPIED": 113,
-    "VACANT": 247,
-    "DATE": "28/04/2021",
-    "TIME": "5:55:15 PM",
-    "LOCATION": "https://www.google.com/maps/place/Government+Medical+College,Siddipet.%2FGMC+Siddipet./@18.0957456,78.8286258,16.03z/data=!4m9!1m2!2m1!1sGOVERNMENT+MEDICAL+COLLEGE+AND+GENERAL+HOSPITAL+SIDDIPET!3m5!1s0x3bcc8d51c6bc416f:0x167a65be26a00159!8m2!3d18.0926235!4d78.8244611!15sCjhHT1ZFUk5NRU5UIE1FRElDQUwgQ09MTEVHRSBBTkQgR0VORVJBTCBIT1NQSVRBTCBTSURESVBFVFprCi9nb3Zlcm5tZW50IG1lZGljYWwgY29sbGVnZSBhbmQgZ2VuZXJhbCBob3NwaXRhbCI4Z292ZXJubWVudCBtZWRpY2FsIGNvbGxlZ2UgYW5kIGdlbmVyYWwgaG9zcGl0YWwgc2lkZGlwZXSSAQdjb2xsZWdlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJuWjNRdFVtdG5SUkFCsAEA",
-    "LAT": 18.0957456,
-    "LONG": 78.8286258,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1127,
-    "DISTRICT": "Suryapet",
-    "HOSPITAL_NAME": "92. AH HUZURNAGAR",
-    "CONTACT": 9666904145,
-    "REGULAR_BEDS_TOTAL": 67,
-    "REGULAR_BEDS_OCCUPIED": 11,
-    "REGULAR_BEDS_VACANT": 56,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 67,
-    "OCCUPIED": 11,
-    "VACANT": 56,
-    "DATE": "28/04/2021",
-    "TIME": "4:51:49 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1128,
-    "DISTRICT": "Suryapet",
-    "HOSPITAL_NAME": "93. CHC KODADA",
-    "CONTACT": 8309972445,
-    "REGULAR_BEDS_TOTAL": 15,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 15,
-    "OXYGEN_BEDS_TOTAL": 5,
-    "OXYGEN_BEDS_OCCUPIED": 1,
-    "OXYGEN_BEDS_VACANT": 4,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 20,
-    "OCCUPIED": 1,
-    "VACANT": 19,
-    "DATE": "28/04/2021",
-    "TIME": "5:31:51 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1129,
-    "DISTRICT": "Suryapet",
-    "HOSPITAL_NAME": "94. GOVERNMENT GENERAL HOSPTIAL - SURYAPET",
-    "CONTACT": 9866430995,
-    "REGULAR_BEDS_TOTAL": 80,
-    "REGULAR_BEDS_OCCUPIED": 52,
-    "REGULAR_BEDS_VACANT": 28,
-    "OXYGEN_BEDS_TOTAL": 130,
-    "OXYGEN_BEDS_OCCUPIED": 86,
-    "OXYGEN_BEDS_VACANT": 44,
-    "ICU_BEDS_TOTAL": 30,
-    "ICU_BEDS_OCCUPIED": 5,
-    "ICU_BEDS_VACANT": 25,
-    "TOTAL": 240,
-    "OCCUPIED": 143,
-    "VACANT": 97,
-    "DATE": "28/04/2021",
-    "TIME": "5:51:36 PM",
-    "LOCATION": "https://www.google.com/maps/place/Government+General+Hospital,+Suryapet/@17.1417515,79.6047804,17z/data=!3m1!4b1!4m5!3m4!1s0x3a34dbb516dcdb61:0x263c5617ba4caf9a!8m2!3d17.1417515!4d79.6069691",
-    "LAT": 17.1417515,
-    "LONG": 79.6047804,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1130,
-    "DISTRICT": "Vikarabad",
-    "HOSPITAL_NAME": "95. CHC MARPALLY",
-    "CONTACT": 8143626911,
-    "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 10,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 10,
-    "OCCUPIED": 0,
-    "VACANT": 10,
-    "DATE": "28/04/2021",
-    "TIME": "12:14:05 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1131,
-    "DISTRICT": "Vikarabad",
-    "HOSPITAL_NAME": "96. CHC VIKARABAD",
-    "CONTACT": 6309371036,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 0,
-    "OCCUPIED": 0,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "12:56:51 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1132,
-    "DISTRICT": "Vikarabad",
-    "HOSPITAL_NAME": "97. D.H. TANDUR",
-    "CONTACT": 8197973685,
-    "REGULAR_BEDS_TOTAL": 50,
-    "REGULAR_BEDS_OCCUPIED": 33,
-    "REGULAR_BEDS_VACANT": 17,
-    "OXYGEN_BEDS_TOTAL": 50,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 50,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 100,
-    "OCCUPIED": 33,
-    "VACANT": 67,
-    "DATE": "28/04/2021",
-    "TIME": "4:59:21 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1133,
-    "DISTRICT": "Wanaparthy",
-    "HOSPITAL_NAME": "98. AH WANAPARTHY",
-    "CONTACT": 8555923516,
-    "REGULAR_BEDS_TOTAL": 12,
-    "REGULAR_BEDS_OCCUPIED": 12,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 46,
-    "OXYGEN_BEDS_OCCUPIED": 10,
-    "OXYGEN_BEDS_VACANT": 36,
-    "ICU_BEDS_TOTAL": 4,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 4,
-    "TOTAL": 62,
-    "OCCUPIED": 22,
-    "VACANT": 40,
-    "DATE": "28/04/2021",
-    "TIME": "3:13:52 PM",
-    "LOCATION": "https://www.google.com/maps/search/AH+WANAPARTHY/@16.3547311,78.0464457,14z",
-    "LAT": 16.3547311,
-    "LONG": 78.0464457,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1134,
-    "DISTRICT": "Wanaparthy",
-    "HOSPITAL_NAME": "99. CHC REVALLY",
-    "CONTACT": 9866878558,
-    "REGULAR_BEDS_TOTAL": 0,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 0,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 0,
-    "OCCUPIED": 0,
-    "VACANT": 0,
-    "DATE": "28/04/2021",
-    "TIME": "12:59:03 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1135,
-    "DISTRICT": "Warangal Rural",
-    "HOSPITAL_NAME": "100. CHC PARKAL",
-    "CONTACT": 9866412022,
-    "REGULAR_BEDS_TOTAL": 24,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 24,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 24,
-    "OCCUPIED": 0,
-    "VACANT": 24,
-    "DATE": "27/04/2021",
-    "TIME": "3:13:21 PM",
-    "LOCATION": "https://www.google.com/maps/place/Govt+Hospital/@18.1229211,78.8500023,9z/data=!4m9!1m2!2m1!1s+PARKAL+chc!3m5!1s0x0:0x8f15e49569285f25!8m2!3d18.2008223!4d79.7020162!15sCgpQQVJLQUwgY2hjWhEKA2NoYyIKcGFya2FsIGNoY5IBCGhvc3BpdGFs",
-    "LAT": 18.1229211,
-    "LONG": 78.8500023,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1136,
-    "DISTRICT": "Warangal Rural",
-    "HOSPITAL_NAME": "101. CHC WARDHANNAPET",
-    "CONTACT": 9849391090,
-    "REGULAR_BEDS_TOTAL": 24,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 24,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 24,
-    "OCCUPIED": 0,
-    "VACANT": 24,
-    "DATE": "28/04/2021",
-    "TIME": "7:35:13 PM",
-    "LOCATION": "https://www.google.com/maps/place/CHC/@17.7737635,79.5698856,17z/data=!3m1!4b1!4m5!3m4!1s0x3a335808a5add197:0x2a493375724b1163!8m2!3d17.7737635!4d79.5720743",
-    "LAT": 17.7737635,
-    "LONG": 79.5698856,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1137,
-    "DISTRICT": "Warangal Rural",
-    "HOSPITAL_NAME": "102. DH NARSAMPET",
-    "CONTACT": 9440170371,
-    "REGULAR_BEDS_TOTAL": 10,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 10,
-    "OXYGEN_BEDS_TOTAL": 20,
-    "OXYGEN_BEDS_OCCUPIED": 4,
-    "OXYGEN_BEDS_VACANT": 16,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 30,
-    "OCCUPIED": 4,
-    "VACANT": 26,
-    "DATE": "28/04/2021",
-    "TIME": "2:51:44 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1138,
-    "DISTRICT": "Warangal Urban",
-    "HOSPITAL_NAME": "103. GOVT T.B C.D. HOSPITAL",
-    "CONTACT": 9849881883,
-    "REGULAR_BEDS_TOTAL": 96,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 96,
-    "OXYGEN_BEDS_TOTAL": 4,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 4,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 100,
-    "OCCUPIED": 0,
-    "VACANT": 100,
-    "DATE": "28/04/2021",
-    "TIME": "12:55:51 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1139,
-    "DISTRICT": "Warangal Urban",
-    "HOSPITAL_NAME": "104. MAHATMA GANDHI MEMORIAL HOSPITAL",
-    "CONTACT": 9848409171,
-    "REGULAR_BEDS_TOTAL": 410,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 410,
-    "OXYGEN_BEDS_TOTAL": 680,
-    "OXYGEN_BEDS_OCCUPIED": 278,
-    "OXYGEN_BEDS_VACANT": 402,
-    "ICU_BEDS_TOTAL": 80,
-    "ICU_BEDS_OCCUPIED": 14,
-    "ICU_BEDS_VACANT": 66,
-    "TOTAL": 1170,
-    "OCCUPIED": 292,
-    "VACANT": 878,
-    "DATE": "28/04/2021",
-    "TIME": "2:55:18 PM",
-    "LOCATION": "https://www.google.com/maps/place/Metro+ambulance/@17.9903134,79.5928432,14z/data=!4m12!1m6!3m5!1s0x3a334510048fe451:0x67ea2b4c8aba762f!2sMetro+ambulance!8m2!3d17.9903134!4d79.5928432!3m4!1s0x3a334510048fe451:0x67ea2b4c8aba762f!8m2!3d17.9903134!4d79.5928432",
-    "LAT": 17.9903134,
-    "LONG": 79.5928432,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
-  },
-  {
-    "SNO": 1140,
-    "DISTRICT": "Yadadri",
-    "HOSPITAL_NAME": "105. CHC ALAIR",
-    "CONTACT": 9705767499,
-    "REGULAR_BEDS_TOTAL": 21,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 21,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 21,
-    "OCCUPIED": 0,
-    "VACANT": 21,
-    "DATE": "28/04/2021",
-    "TIME": "1:32:23 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1141,
-    "DISTRICT": "Yadadri",
-    "HOSPITAL_NAME": "106. CHC CHOUTUPPAL",
-    "CONTACT": 9948595220,
-    "REGULAR_BEDS_TOTAL": 11,
-    "REGULAR_BEDS_OCCUPIED": 1,
-    "REGULAR_BEDS_VACANT": 10,
-    "OXYGEN_BEDS_TOTAL": 5,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 5,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 16,
-    "OCCUPIED": 1,
-    "VACANT": 15,
-    "DATE": "28/04/2021",
-    "TIME": "6:21:46 PM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1142,
-    "DISTRICT": "Yadadri",
-    "HOSPITAL_NAME": "107. CHC RAMANNAPET",
-    "CONTACT": 8008553205,
-    "REGULAR_BEDS_TOTAL": 24,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 24,
-    "OXYGEN_BEDS_TOTAL": 0,
-    "OXYGEN_BEDS_OCCUPIED": 0,
-    "OXYGEN_BEDS_VACANT": 0,
-    "ICU_BEDS_TOTAL": 0,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 0,
-    "TOTAL": 24,
-    "OCCUPIED": 0,
-    "VACANT": 24,
-    "DATE": "28/04/2021",
-    "TIME": "9:50:35 AM",
-    "LOCATION": "",
-    "LAT": "",
-    "LONG": "",
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "FALSE"
-  },
-  {
-    "SNO": 1143,
-    "DISTRICT": "Yadadri",
-    "HOSPITAL_NAME": "108. DH BHONGIR",
-    "CONTACT": 7702544000,
-    "REGULAR_BEDS_TOTAL": 40,
-    "REGULAR_BEDS_OCCUPIED": 0,
-    "REGULAR_BEDS_VACANT": 40,
-    "OXYGEN_BEDS_TOTAL": 49,
-    "OXYGEN_BEDS_OCCUPIED": 13,
-    "OXYGEN_BEDS_VACANT": 36,
-    "ICU_BEDS_TOTAL": 1,
-    "ICU_BEDS_OCCUPIED": 0,
-    "ICU_BEDS_VACANT": 1,
-    "TOTAL": 90,
-    "OCCUPIED": 13,
-    "VACANT": 77,
-    "DATE": "28/04/2021",
-    "TIME": "12:12:08 PM",
-    "LOCATION": "https://www.google.com/maps/place/Government+Hospital+Bhongir/@17.5046847,78.8751204,14z/data=!4m9!1m2!2m1!1sBHONGIR+dh!3m5!1s0x0:0x383d97a294a618a5!8m2!3d17.5118989!4d78.8826637!15sCgpCSE9OR0lSIGRoWhgKCmJob25naXIgZGgiCmJob25naXIgZGiSAQhob3NwaXRhbA",
-    "LAT": 17.5046847,
-    "LONG": 78.8751204,
-    "TYPE": "Government",
-    "HAS_ICU_BEDS": "TRUE"
+    "TYPE": "Government"
   }
 ]
