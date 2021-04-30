@@ -4670,7 +4670,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 06:54:12",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=27.2046000,77.4977000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -10218,7 +10218,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 09:26:00",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10294,7 +10294,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 06:58:36",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "https://www.google.co.in/maps/place/Man+Mohan+Nagar+Hospital/@23.1937283,79.91949,18z/data=!4m5!3m4!1s0x3981af76df09dead:0xf3bf9aaf006cc446!8m2!3d23.1938085!4d79.9206129",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10370,7 +10370,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 09:23:09",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10503,7 +10503,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 06:22:49",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10636,7 +10636,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 09:23:43",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -10674,7 +10674,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "29-04-2021, 21:36:04",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "https://www.google.co.in/maps/place/Shalby+Hospital,+Jabalpur/@23.184904,79.9084487,19z/data=!4m12!1m6!3m5!1s0x3981b1ceffffffff:0x1896beef8f76d90f!2sShalby+Hospital,+Jabalpur!8m2!3d23.1851185!4d79.9089208!3m4!1s0x3981b1ceffffffff:0x1896beef8f76d90f!8m2!3d23.1851185!4d79.9089208",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -10807,7 +10807,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 09:24:18",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -11168,7 +11168,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 09:24:50",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -11225,7 +11225,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 08:01:54",
     "PACKAGE": "View",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "https://www.google.co.in/maps/place/Laxmi+Narayan+Hospital/@23.1563352,79.9165524,17z/data=!3m1!4b1!4m5!3m4!1s0x3981b2036aaaaaad:0xd7c6eaf22fb425ac!8m2!3d23.1563352!4d79.9187411",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -11472,7 +11472,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 09:25:28",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=73.0000000,72.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -13144,7 +13144,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 08:39:11",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=18.2220000,3.2200000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {
@@ -15348,7 +15348,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 5,
     "LAST_UPDATED": "30-04-2021, 07:39:27",
     "PACKAGE": "View",
-    "LOCATION": "https://www.google.com/maps/place/Shri+shyam+care+hospital/@23.3151492,81.3574055,17z/data=!4m5!3m4!1s0x0:0x5472a2f73ea89ed5!8m2!3d23.3153463!4d81.3572446",
+    "LOCATION": "https://www.google.com/maps/place/Shri+shyam+care+hospital/@23.3153262,81.3571311,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO3WWYCtzHK4Ty0V-V9WNLfJw_5zBUirLbYxS5B!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO3WWYCtzHK4Ty0V-V9WNLfJw_5zBUirLbYxS5B%3Dw408-h306-k-no!7i4160!8i3120!4m5!3m4!1s0x3986fab837ad763f:0x5472a2f73ea89ed5!8m2!3d23.3153463!4d81.3572446",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
@@ -16982,7 +16982,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 0,
     "LAST_UPDATED": "30-04-2021, 09:27:54",
     "PACKAGE": "--",
-    "LOCATION": "https://maps.google.com/?q=27.0000000,78.0000000",
+    "LOCATION": "",
     "HAS_ICU_BEDS": "FALSE"
   },
   {

@@ -11,7 +11,7 @@ class Tamil_Nadu {
         var flag = 0;
 
         try {
-          if((i["LAT"] != "") && (i["LONG"] != "")) {
+          if(i["LAT"] && i["LONG"]) {
             if(bedtype == "icu") {
               if(tamil_nadu_data[i]["HAS_ICU_BEDS"] == "TRUE" || i["HAS_VENTILATORS"] == "TRUE") {
                 flag = 1;
