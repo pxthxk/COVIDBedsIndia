@@ -15348,7 +15348,7 @@ madhya_pradesh_data=[
     "ICU_BEDS_AVAILABLE": 5,
     "LAST_UPDATED": "30-04-2021, 07:39:27",
     "PACKAGE": "View",
-    "LOCATION": "https://www.google.com/maps/place/Shri+shyam+care+hospital/@23.3153262,81.3571311,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO3WWYCtzHK4Ty0V-V9WNLfJw_5zBUirLbYxS5B!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO3WWYCtzHK4Ty0V-V9WNLfJw_5zBUirLbYxS5B%3Dw408-h306-k-no!7i4160!8i3120!4m5!3m4!1s0x3986fab837ad763f:0x5472a2f73ea89ed5!8m2!3d23.3153463!4d81.3572446",
+    "LOCATION": "https://www.google.com/maps/place/Shri+shyam+care+hospital/@23.3151492,81.3574055,17z/data=!4m5!3m4!1s0x0:0x5472a2f73ea89ed5!8m2!3d23.3153463!4d81.3572446",
     "HAS_ICU_BEDS": "TRUE"
   },
   {
