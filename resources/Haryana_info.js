@@ -1,28 +1,28 @@
 haryana_data=[
   {
-    "HOSPITAL_INFO": "Facility Name: District Civil Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 73,\nICU Beds: Beds Over Utilized 4,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712553703",
-    "LAST_UPDATED": "Updated On: 1:46 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: District Civil Hospital \nAvailability of Beds: Yes (30), Isolation Beds: 20,\nICU Beds: 10,\nVentilators: 6\n\n\n\nAllocated Beds: Isolation Beds: 93, ICU: 14, Ventilators: 7 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712553703",
+    "LAST_UPDATED": "Updated On: 11:47 AM 30th Apr,21",
     "CITY": "Ambala",
     "LAT": 30.379285,
     "LONG": 76.779574
   },
   {
-    "HOSPITAL_INFO": "Facility Name: District Civil Hospital Ambala Cantt \nAvailability of Beds: Yes (2), Isolation Beds: Beds Over Utilized 54,\nICU Beds: 2,\nVentilators: Beds Over Utilized 2\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 6, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712634006",
-    "LAST_UPDATED": "Updated On: 1:47 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: District Civil Hospital Ambala Cantt \nAvailability of Beds: Yes (12), Isolation Beds: 2,\nICU Beds: 10,\nVentilators: 5\n\n\n\nAllocated Beds: Isolation Beds: 56, ICU: 14, Ventilators: 7 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712634006",
+    "LAST_UPDATED": "Updated On: 10:42 AM 30th Apr,21",
     "CITY": "Ambala",
     "LAT": 30.385286,
     "LONG": 76.780349
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Guardian Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 12,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712698611",
-    "LAST_UPDATED": "Updated On: 2:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Guardian Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: Beds Over Utilized 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 5, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712698611",
+    "LAST_UPDATED": "Updated On: 11:45 AM 30th Apr,21",
     "CITY": "Ambala",
     "LAT": 30.3343,
     "LONG": 76.8753
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Mehandiratta Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 19,\nICU Beds: 0,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712553240",
-    "LAST_UPDATED": "Updated On: 2:09 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Mehandiratta Hospital \nAvailability of Beds: Yes (12), Isolation Beds: 10,\nICU Beds: 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 29, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712553240",
+    "LAST_UPDATED": "Updated On: 10:40 AM 30th Apr,21",
     "CITY": "Ambala",
     "LAT": 30.370719,
     "LONG": 76.788047
@@ -35,22 +35,22 @@ haryana_data=[
     "LONG": 77.049544
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Park Healing Touch Hospital \nAvailability of Beds: Yes (10), Isolation Beds: Beds Over Utilized 30,\nICU Beds: 10,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 20, Ventilators: 9 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9896773125",
-    "LAST_UPDATED": "Updated On: 1:46 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Park Healing Touch Hospital \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 32, ICU: 10, Ventilators: 10 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9896773125",
+    "LAST_UPDATED": "Updated On: 11:43 AM 30th Apr,21",
     "CITY": "Ambala",
     "LAT": 30.401971,
     "LONG": 76.786542
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Philedelphia mission Hospital pvt \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 95, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712553295",
-    "LAST_UPDATED": "Updated On: 1:43 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Philedelphia mission Hospital pvt \nAvailability of Beds: Yes (9), Isolation Beds: 5,\nICU Beds: 4,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 96, ICU: 4, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01712553295",
+    "LAST_UPDATED": "Updated On: 11:41 AM 30th Apr,21",
     "CITY": "Ambala",
     "LAT": 30.382059,
     "LONG": 76.782997
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Rotary Hospital Ambala cantt Pvt \nAvailability of Beds: Yes (18), Isolation Beds: 17,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 2, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9467975194",
-    "LAST_UPDATED": "Updated On: 1:44 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Rotary Hospital Ambala cantt Pvt \nAvailability of Beds: Yes (16), Isolation Beds: 15,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 2, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9467975194",
+    "LAST_UPDATED": "Updated On: 8:25 AM 30th Apr,21",
     "CITY": "Ambala",
     "LAT": 30.3318,
     "LONG": 76.847184
@@ -190,14 +190,14 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Ganpatrai Hospital \nAvailability of Beds: Yes (9), Isolation Beds: 8,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 1, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01664242130",
-    "LAST_UPDATED": "Updated On: 5:26 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:39 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.79848,
     "LONG": 76.133474
   },
   {
     "HOSPITAL_INFO": "Facility Name: Jangra Multispecilaity Hospital \nAvailability of Beds: Yes (9), Isolation Beds: 7,\nICU Beds: 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 7, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01664242130",
-    "LAST_UPDATED": "Updated On: 5:26 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:40 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.795435,
     "LONG": 76.163249
@@ -225,10 +225,10 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: RPS HOSPITAL \nAvailability of Beds: Yes (20), Isolation Beds: 18,\nICU Beds: 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 21, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01664242130",
-    "LAST_UPDATED": "Updated On: 5:51 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Bhiwani",
-    "LAT": 0,
-    "LONG": 0
+    "LAT": 28.828055,
+    "LONG": 76.360225
   },
   {
     "HOSPITAL_INFO": "Facility Name: Spes Hospital \nAvailability of Beds: Yes (15), Isolation Beds: 13,\nICU Beds: 2,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 5, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01664242130",
@@ -238,130 +238,88 @@ haryana_data=[
     "LONG": 76.141396
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Aarohi School \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:26 PM 29th Apr,21",
-    "CITY": "Bhiwani",
-    "LAT": 28.900856,
-    "LONG": 75.647045
-  },
-  {
-    "HOSPITAL_INFO": "Facility Name: Baba Yogi Neta Nath Medical Research Center \nAvailability of Beds: Yes (100), Isolation Beds: 100,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 100, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:25 PM 29th Apr,21",
-    "CITY": "Bhiwani",
-    "LAT": 28.710359,
-    "LONG": 76.048931
-  },
-  {
-    "HOSPITAL_INFO": "Facility Name: CHC Dhanana \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 6, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Dhanana \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 6, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:38 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.930865,
     "LONG": 76.163028
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Jamalpur \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Jamalpur \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:38 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.966843,
     "LONG": 75.953413
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Kairu \nAvailability of Beds: Yes (12), Isolation Beds: 12,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 12, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Kairu \nAvailability of Beds: Yes (12), Isolation Beds: 12,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 12, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:38 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.698915,
     "LONG": 75.877676
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Loharu \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Loharu \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:38 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.427876,
     "LONG": 75.811207
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Manheru \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:24 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Manheru \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:37 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.706537,
     "LONG": 76.214017
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Miran \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:24 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Miran \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:37 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.842192,
     "LONG": 75.738383
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Tosham \nAvailability of Beds: Yes (25), Isolation Beds: 25,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:24 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Tosham \nAvailability of Beds: Yes (25), Isolation Beds: 25,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:37 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.875064,
     "LONG": 75.914611
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Daksh International School, Dhigawa \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:23 PM 29th Apr,21",
-    "CITY": "Bhiwani",
-    "LAT": 28.585723,
-    "LONG": 75.823033
-  },
-  {
-    "HOSPITAL_INFO": "Facility Name: ITI Bhiwani \nAvailability of Beds: Yes (13), Isolation Beds: 13,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 13, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:20 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: ITI Bhiwani \nAvailability of Beds: Yes (13), Isolation Beds: 13,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 13, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.811291,
     "LONG": 76.129002
   },
   {
-    "HOSPITAL_INFO": "Facility Name: ITI Tosham, \nAvailability of Beds: Yes (80), Isolation Beds: 80,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 80, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:22 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: ITI Tosham, \nAvailability of Beds: Yes (80), Isolation Beds: 80,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 80, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:37 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.880451,
     "LONG": 75.913803
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Jawahar Navodya Vidyalaya \nAvailability of Beds: Yes (400), Isolation Beds: 400,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 400, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:21 PM 29th Apr,21",
-    "CITY": "Bhiwani",
-    "LAT": 28.671021,
-    "LONG": 75.808443
-  },
-  {
-    "HOSPITAL_INFO": "Facility Name: Manav Kalyan Hospital \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:21 PM 29th Apr,21",
-    "CITY": "Bhiwani",
-    "LAT": 28.624447,
-    "LONG": 75.616625
-  },
-  {
-    "HOSPITAL_INFO": "Facility Name: Panchayati Raj Institute \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:21 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Panchayati Raj Institute \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.80089,
     "LONG": 76.120366
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SDH Bawani Khera \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:20 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SDH Bawani Khera \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.944053,
     "LONG": 76.033793
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SDH Siwani \nAvailability of Beds: Yes (25), Isolation Beds: 25,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:20 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SDH Siwani \nAvailability of Beds: Yes (25), Isolation Beds: 25,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01664242130",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Bhiwani",
     "LAT": 28.936492,
     "LONG": 75.604501
-  },
-  {
-    "HOSPITAL_INFO": "Facility Name: TIT college \nAvailability of Beds: Yes (100), Isolation Beds: 100,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 100, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 5:20 PM 29th Apr,21",
-    "CITY": "Bhiwani",
-    "LAT": 28.806903,
-    "LONG": 76.11896
   },
   {
     "HOSPITAL_INFO": "Facility Name: Civil Surgeon Bhiwani",
@@ -392,14 +350,14 @@ haryana_data=[
     "LONG": 76.281267
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Imlota \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: PHC Imlota \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 7:06 PM 29th Apr,21",
     "CITY": "Charki Dadri",
     "LAT": 28.61491,
     "LONG": 76.446204
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sarvodaya School \nAvailability of Beds: Yes (57), Isolation Beds: 57,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 57, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Sarvodaya School \nAvailability of Beds: Yes (57), Isolation Beds: 57,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 57, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01250222333",
     "LAST_UPDATED": "Updated On: 7:06 PM 29th Apr,21",
     "CITY": "Charki Dadri",
     "LAT": 28.625872,
@@ -427,8 +385,8 @@ haryana_data=[
     "LONG": 77.207959
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Anshu Hospital \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 10:43 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Anshu Hospital \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 10:00 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.473097,
     "LONG": 77.321441
@@ -441,22 +399,22 @@ haryana_data=[
     "LONG": 77.367447
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Asian Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 25,\nICU Beds: Beds Over Utilized 15,\nVentilators: Beds Over Utilized 5\n\n\n\nAllocated Beds: Isolation Beds: 78, ICU: 36, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01294253000",
-    "LAST_UPDATED": "Updated On: 4:02 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Asian Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 15,\nICU Beds: Beds Over Utilized 15,\nVentilators: Beds Over Utilized 5\n\n\n\nAllocated Beds: Isolation Beds: 78, ICU: 36, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01294253000",
+    "LAST_UPDATED": "Updated On: 11:23 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.426034,
     "LONG": 77.299987
   },
   {
-    "HOSPITAL_INFO": "Facility Name: B.K. Hospital Faridabad \nAvailability of Beds: Yes (19), Isolation Beds: 19,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 6, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 1:26 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: B.K. Hospital Faridabad \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 6, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 11:17 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.392623,
     "LONG": 77.299259
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Chugh Hospital \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: Beds Over Utilized 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 11:39 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Chugh Hospital \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 11:35 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.401721,
     "LONG": 77.298678
@@ -483,15 +441,15 @@ haryana_data=[
     "LONG": 77.33007
   },
   {
-    "HOSPITAL_INFO": "Facility Name: ESIC Medical College, Faridabad \nAvailability of Beds: Yes (195), Isolation Beds: 195,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 440, ICU: 60, Ventilators: 40 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 4:11 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: ESIC Medical College, Faridabad \nAvailability of Beds: Yes (214), Isolation Beds: 214,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 440, ICU: 60, Ventilators: 40 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 8:46 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.3944,
     "LONG": 77.293687
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Fortis Escort Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 4,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 55, ICU: 14, Ventilators: 7 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 11:04 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Fortis Escort Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 9,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 55, ICU: 14, Ventilators: 7 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 10:42 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.390988,
     "LONG": 77.306702
@@ -567,22 +525,22 @@ haryana_data=[
     "LONG": 77.331148
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Medicheck Hospital \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 55, ICU: 7, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 2:31 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Medicheck Hospital \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 52, ICU: 7, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 10:15 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.38105,
     "LONG": 77.301969
   },
   {
     "HOSPITAL_INFO": "Facility Name: Medicheck Ortho Hospital \nAvailability of Beds: Yes (13), Isolation Beds: 13,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 12:00 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:33 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.438755,
     "LONG": 77.299574
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Medstar Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 4:01 PM 28th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Medstar Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 8:25 PM 29th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.48971,
     "LONG": 77.33306
@@ -602,29 +560,29 @@ haryana_data=[
     "LONG": 77.29649
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Park Hospital \nAvailability of Beds: Yes (26), Isolation Beds: 26,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 50, ICU: 25, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 11:25 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Park Hospital \nAvailability of Beds: Yes (33), Isolation Beds: 33,\nICU Beds: 0,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 50, ICU: 25, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 11:43 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.377263,
     "LONG": 77.32607
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Pawan Hospital Unit-1 \nAvailability of Beds: Yes (9), Isolation Beds: 9,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 31, ICU: 14, Ventilators: 7 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01292442001",
-    "LAST_UPDATED": "Updated On: 9:49 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Pawan Hospital Unit-1 \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 31, ICU: 14, Ventilators: 7 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01292442001",
+    "LAST_UPDATED": "Updated On: 10:12 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.321991,
     "LONG": 77.283538
   },
   {
     "HOSPITAL_INFO": "Facility Name: Pawan Hospital Unit-2 \nAvailability of Beds: Yes (9), Isolation Beds: Beds Over Utilized 2,\nICU Beds: 9,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 11, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01292230522",
-    "LAST_UPDATED": "Updated On: 9:48 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:10 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.321978,
     "LONG": 77.283619
   },
   {
-    "HOSPITAL_INFO": "Facility Name: QRG Central \nAvailability of Beds: Yes (9), Isolation Beds: 9,\nICU Beds: Beds Over Utilized 8,\nVentilators: Beds Over Utilized 2\n\n\n\nAllocated Beds: Isolation Beds: 105, ICU: 27, Ventilators: 9 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 10:55 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: QRG Central \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: Beds Over Utilized 12,\nVentilators: Beds Over Utilized 2\n\n\n\nAllocated Beds: Isolation Beds: 105, ICU: 27, Ventilators: 9 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 11:49 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.393515,
     "LONG": 77.310065
@@ -680,7 +638,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sarvodya Sector 19 \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 26, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 11:21 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:21 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.422239,
     "LONG": 77.316789
@@ -701,7 +659,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: SKG Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 12:12 PM 28th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:59 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.33848,
     "LONG": 77.321135
@@ -722,7 +680,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Supreme Hospital \nAvailability of Beds: Yes (12), Isolation Beds: 10,\nICU Beds: 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 3:32 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:53 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.490978,
     "LONG": 77.291177
@@ -763,63 +721,63 @@ haryana_data=[
     "LONG": 77.291308
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Zenith Hospital (P) Ltd. \nAvailability of Beds: Yes (11), Isolation Beds: 11,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 24, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 10:39 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Zenith Hospital (P) Ltd. \nAvailability of Beds: Yes (7), Isolation Beds: 6,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 24, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:28 AM 30th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.33158,
     "LONG": 77.32801
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Kheri Kalan \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 28, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: CHC Kheri Kalan \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 28, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 3:06 PM 29th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.408961,
     "LONG": 77.373393
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Kurali \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: CHC Kurali \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 3:51 PM 29th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.323868,
     "LONG": 77.431104
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Pali \nAvailability of Beds: Yes (32), Isolation Beds: 32,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: CHC Pali \nAvailability of Beds: Yes (32), Isolation Beds: 32,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 5:46 PM 28th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.382559,
     "LONG": 77.244054
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Tigaon \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: CHC Tigaon \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 5:02 PM 28th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.349493,
     "LONG": 77.388087
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Community Center Sec-3 \nAvailability of Beds: Yes (31), Isolation Beds: 31,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Community Center Sec-3 \nAvailability of Beds: Yes (31), Isolation Beds: 31,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 3:49 PM 29th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.351316,
     "LONG": 77.336148
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Corona Seva Kendra \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Corona Seva Kendra \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 4:48 PM 29th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.39169,
     "LONG": 77.34874
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Ghai Hospital \nAvailability of Beds: Yes (17), Isolation Beds: 17,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 17, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Ghai Hospital \nAvailability of Beds: Yes (17), Isolation Beds: 17,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 17, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 4:55 PM 28th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.37694,
     "LONG": 77.32947
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sharma Nursing Home \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Sharma Nursing Home \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 4:52 PM 28th Apr,21",
     "CITY": "Faridabad",
     "LAT": 28.40139,
@@ -1183,483 +1141,483 @@ haryana_data=[
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Civil Hospital Fatehabad \nAvailability of Beds: Yes (4), Isolation Beds: Beds Over Utilized 10,\nICU Beds: 4,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 9, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01667225898",
-    "LAST_UPDATED": "Updated On: 6:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Civil Hospital Fatehabad \nAvailability of Beds: Yes (3), Isolation Beds: Beds Over Utilized 11,\nICU Beds: 3,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 9, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01667225898",
+    "LAST_UPDATED": "Updated On: 8:37 AM 30th Apr,21",
     "CITY": "Fatehabad",
     "LAT": 29.516862,
     "LONG": 75.449332
   },
   {
     "HOSPITAL_INFO": "Facility Name: Civil Hospital Ratia \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 9, ICU: 0, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01697250288",
-    "LAST_UPDATED": "Updated On: 4:40 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:37 AM 30th Apr,21",
     "CITY": "Fatehabad",
     "LAT": 29.6851,
     "LONG": 75.5702
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Civil Hospital, Tohana \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 14, ICU: 0, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01692220061",
-    "LAST_UPDATED": "Updated On: 4:33 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Civil Hospital, Tohana \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 0, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01692220061",
+    "LAST_UPDATED": "Updated On: 11:15 AM 30th Apr,21",
     "CITY": "Fatehabad",
     "LAT": 29.704982,
     "LONG": 75.906908
   },
   {
     "HOSPITAL_INFO": "Facility Name: Manav Sewa Sangam Hospital, Tohana \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:1692231630",
-    "LAST_UPDATED": "Updated On: 5:43 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:43 AM 30th Apr,21",
     "CITY": "Fatehabad",
     "LAT": 29.720213,
     "LONG": 75.90563
   },
   {
     "HOSPITAL_INFO": "Facility Name: Miglani Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 7, Ventilators: 6 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01697250710",
-    "LAST_UPDATED": "Updated On: 4:25 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:41 AM 30th Apr,21",
     "CITY": "Fatehabad",
     "LAT": 29.6767,
     "LONG": 75.5695
   },
   {
     "HOSPITAL_INFO": "Facility Name: Rajasthan Medical Centre (RMC) Hospital Tohana \nAvailability of Beds: Yes (2), Isolation Beds: Beds Over Utilized 5,\nICU Beds: 2,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01692230840",
-    "LAST_UPDATED": "Updated On: 5:19 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:32 AM 30th Apr,21",
     "CITY": "Fatehabad",
     "LAT": 29.711305,
     "LONG": 75.908113
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sadhbhawdna Hospital Fatehabad \nAvailability of Beds: Yes (12), Isolation Beds: 12,\nICU Beds: Beds Over Utilized 3,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 18, ICU: 7, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01667221132",
-    "LAST_UPDATED": "Updated On: 4:57 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Sadhbhawdna Hospital Fatehabad \nAvailability of Beds: Yes (2), Isolation Beds: Beds Over Utilized 3,\nICU Beds: 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 7, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01667221132",
+    "LAST_UPDATED": "Updated On: 11:22 AM 30th Apr,21",
     "CITY": "Fatehabad",
     "LAT": 29.502589,
     "LONG": 75.469079
   },
   {
     "HOSPITAL_INFO": "Facility Name: Aarvy Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 4, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244222270",
-    "LAST_UPDATED": "Updated On: 4:30 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:51 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.457623,
     "LONG": 77.030153
   },
   {
     "HOSPITAL_INFO": "Facility Name: Artemis Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 12,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 86, ICU: 42, Ventilators: 21 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244511111",
-    "LAST_UPDATED": "Updated On: 10:08 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4315,
     "LONG": 77.0724
   },
   {
     "HOSPITAL_INFO": "Facility Name: Aryan Hospital Gurugram \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 14,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 14, ICU: 7, Ventilators: 3 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244910020",
-    "LAST_UPDATED": "Updated On: 10:09 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4696,
     "LONG": 77.0196
   },
   {
     "HOSPITAL_INFO": "Facility Name: C K Birla Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 18, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244882200",
-    "LAST_UPDATED": "Updated On: 4:31 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:51 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.423842,
     "LONG": 77.06151
   },
   {
     "HOSPITAL_INFO": "Facility Name: Center of Diabetes & Allied Science \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 3, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244232805",
-    "LAST_UPDATED": "Updated On: 10:12 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:52 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.40583,
     "LONG": 77.043762
   },
   {
     "HOSPITAL_INFO": "Facility Name: Chirag Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 19, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242468848",
-    "LAST_UPDATED": "Updated On: 10:10 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.495357,
     "LONG": 77.011474
   },
   {
     "HOSPITAL_INFO": "Facility Name: Civil Hospital gurugram \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242333100",
-    "LAST_UPDATED": "Updated On: 10:07 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.456455,
     "LONG": 76.997418
   },
   {
     "HOSPITAL_INFO": "Facility Name: Cloudnine Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9972899728",
-    "LAST_UPDATED": "Updated On: 10:10 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.42763,
     "LONG": 77.057393
   },
   {
     "HOSPITAL_INFO": "Facility Name: Colombia Asia Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 53, ICU: 6, Ventilators: 6 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:012439898969",
-    "LAST_UPDATED": "Updated On: 10:08 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.5091,
     "LONG": 77.0416
   },
   {
-    "HOSPITAL_INFO": "Facility Name: ESI Hospital Gurugram \nAvailability of Beds: Yes (16), Isolation Beds: 16,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 72, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242252001",
-    "LAST_UPDATED": "Updated On: 7:03 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: ESI Hospital Gurugram \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 72, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242252001",
+    "LAST_UPDATED": "Updated On: 11:09 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4675,
     "LONG": 77.00086
   },
   {
     "HOSPITAL_INFO": "Facility Name: Fortis Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 78, ICU: 43, Ventilators: 22 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01247162200",
-    "LAST_UPDATED": "Updated On: 10:08 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4574,
     "LONG": 77.0728
   },
   {
     "HOSPITAL_INFO": "Facility Name: K.K Health Care Centre \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 18, ICU: 4, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9625529114",
-    "LAST_UPDATED": "Updated On: 10:10 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.483059,
     "LONG": 77.017855
   },
   {
     "HOSPITAL_INFO": "Facility Name: Kalyani Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 7,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244666999",
-    "LAST_UPDATED": "Updated On: 10:09 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.467776,
     "LONG": 77.042534
   },
   {
     "HOSPITAL_INFO": "Facility Name: Kamla Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 5, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:09910926116",
-    "LAST_UPDATED": "Updated On: 4:36 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:50 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.446375,
     "LONG": 76.991562
   },
   {
     "HOSPITAL_INFO": "Facility Name: Kathuria Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 5,\nICU Beds: Beds Over Utilized 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 5, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244119992",
-    "LAST_UPDATED": "Updated On: 10:10 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.453421,
     "LONG": 77.019988
   },
   {
     "HOSPITAL_INFO": "Facility Name: Life Aid Medical Centre \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 4, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244212342",
-    "LAST_UPDATED": "Updated On: 10:11 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:50 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.444877,
     "LONG": 77.057643
   },
   {
     "HOSPITAL_INFO": "Facility Name: Mamta Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: Beds Over Utilized 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 17, ICU: 6, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244795600",
-    "LAST_UPDATED": "Updated On: 10:11 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:50 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.469865,
     "LONG": 77.033908
   },
   {
     "HOSPITAL_INFO": "Facility Name: Max Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 19,\nICU Beds: 0,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 43, ICU: 17, Ventilators: 5 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01246623000",
-    "LAST_UPDATED": "Updated On: 10:08 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4614,
     "LONG": 77.0746
   },
   {
     "HOSPITAL_INFO": "Facility Name: Mayom Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 29,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 9, Ventilators: 3 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244111880",
-    "LAST_UPDATED": "Updated On: 10:09 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.458,
     "LONG": 77.0634
   },
   {
     "HOSPITAL_INFO": "Facility Name: Medanta the Medicity \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 315, ICU: 140, Ventilators: 104 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244141414",
-    "LAST_UPDATED": "Updated On: 10:07 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.439923,
     "LONG": 77.04078
   },
   {
     "HOSPITAL_INFO": "Facility Name: Medeor Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 8, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244755555",
-    "LAST_UPDATED": "Updated On: 10:09 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.366724,
     "LONG": 76.933045
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Metro Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 10,\nICU Beds: 0, \nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 15, Ventilators: 3 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244777000",
-    "LAST_UPDATED": "Updated On: 10:08 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Metro Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 15, Ventilators: 3 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244777000",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.5182,
     "LONG": 77.0388
   },
   {
     "HOSPITAL_INFO": "Facility Name: Naryana Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 10,\nICU Beds: Beds Over Utilized 4,\nVentilators: Beds Over Utilized 2\n\n\n\nAllocated Beds: Isolation Beds: 32, ICU: 10, Ventilators: 4 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:08067506880",
-    "LAST_UPDATED": "Updated On: 10:09 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4979,
     "LONG": 77.1019
   },
   {
     "HOSPITAL_INFO": "Facility Name: Orbit Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244732200",
-    "LAST_UPDATED": "Updated On: 10:11 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:50 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.449498,
     "LONG": 77.044177
   },
   {
     "HOSPITAL_INFO": "Facility Name: Paras Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 53,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 66, ICU: 53, Ventilators: 18 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244585555",
-    "LAST_UPDATED": "Updated On: 10:32 PM 28th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4511,
     "LONG": 77.0877
   },
   {
     "HOSPITAL_INFO": "Facility Name: Park Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: Beds Over Utilized 10,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 24, ICU: 18, Ventilators: 10 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244900000",
-    "LAST_UPDATED": "Updated On: 10:08 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.42,
     "LONG": 77.0484
   },
   {
     "HOSPITAL_INFO": "Facility Name: Polaris Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01247178890",
-    "LAST_UPDATED": "Updated On: 10:10 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.421416,
     "LONG": 77.037706
   },
   {
     "HOSPITAL_INFO": "Facility Name: Poly Clinic Sector 31, Gurugram \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 22, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242380575",
-    "LAST_UPDATED": "Updated On: 10:07 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.453789,
     "LONG": 77.04955
   },
   {
     "HOSPITAL_INFO": "Facility Name: Pushpanjali Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 7, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244770000",
-    "LAST_UPDATED": "Updated On: 10:11 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:50 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.450312,
     "LONG": 77.032855
   },
   {
     "HOSPITAL_INFO": "Facility Name: Samvit Health Care \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 6, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9540057569",
-    "LAST_UPDATED": "Updated On: 10:12 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:52 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.435013,
     "LONG": 77.035136
   },
   {
     "HOSPITAL_INFO": "Facility Name: Satyam Medicare Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 17, ICU: 4, Ventilators: 2 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244003435",
-    "LAST_UPDATED": "Updated On: 10:12 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:52 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.466668,
     "LONG": 77.100855
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sethi Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 17, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244118001",
-    "LAST_UPDATED": "Updated On: 4:32 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:52 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.456771,
     "LONG": 77.020799
   },
   {
     "HOSPITAL_INFO": "Facility Name: SGT Medical College & Research Institute, Budhera \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 275, ICU: 14, Ventilators: 8 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242278183",
-    "LAST_UPDATED": "Updated On: 10:07 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.4784,
     "LONG": 76.9027
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sheetla Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 7, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242875800",
-    "LAST_UPDATED": "Updated On: 10:11 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:51 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.468286,
     "LONG": 77.025557
   },
   {
     "HOSPITAL_INFO": "Facility Name: Shri Govind Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 9, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242305550",
-    "LAST_UPDATED": "Updated On: 4:36 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:50 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.458095,
     "LONG": 77.016431
   },
   {
     "HOSPITAL_INFO": "Facility Name: Signature Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 42, ICU: 23, Ventilators: 4 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01246034444",
-    "LAST_UPDATED": "Updated On: 10:10 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.45429,
     "LONG": 76.973184
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sunrise Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 20,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 4, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01246410841",
-    "LAST_UPDATED": "Updated On: 10:11 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:52 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.44282,
     "LONG": 77.010624
   },
   {
     "HOSPITAL_INFO": "Facility Name: Umkal Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244666555",
-    "LAST_UPDATED": "Updated On: 10:11 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:51 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.471664,
     "LONG": 77.073296
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Vardan Hospital \nAvailability of Beds: Yes (1), Isolation Beds: 0,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 11, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:918199984102",
-    "LAST_UPDATED": "Updated On: 1:01 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Vardan Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 11, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:918199984102",
+    "LAST_UPDATED": "Updated On: 10:17 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.247051,
     "LONG": 77.072866
   },
   {
     "HOSPITAL_INFO": "Facility Name: W.Pratiksha Hospital \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 14, Ventilators: 2 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01244131036",
-    "LAST_UPDATED": "Updated On: 1:02 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:48 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.41854,
     "LONG": 77.09718
   },
   {
     "HOSPITAL_INFO": "Facility Name: Yashroop Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01242256333",
-    "LAST_UPDATED": "Updated On: 4:37 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:51 AM 30th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.463996,
     "LONG": 76.991398
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Ahuja Residency DLF Phase ll \nAvailability of Beds: Yes (19), Isolation Beds: 19,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 19, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Ahuja Residency DLF Phase ll \nAvailability of Beds: Yes (19), Isolation Beds: 19,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 19, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8527311229",
     "LAST_UPDATED": "Updated On: 12:50 PM 29th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.490853,
     "LONG": 77.085856
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Ahuja Residency DLF Phase-1 \nAvailability of Beds: Yes (18), Isolation Beds: 18,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 18, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Ahuja Residency DLF Phase-1 \nAvailability of Beds: Yes (18), Isolation Beds: 18,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 18, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8800696274",
     "LAST_UPDATED": "Updated On: 12:49 PM 29th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.466543,
     "LONG": 77.1021
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Co-Rooms \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Co-Rooms \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:09319097979",
     "LAST_UPDATED": "Updated On: 11:56 AM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.445526,
     "LONG": 77.0568
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Comfort Inn \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Comfort Inn \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01246201166",
     "LAST_UPDATED": "Updated On: 11:55 AM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.492387,
     "LONG": 77.086808
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Hotel Devi Palace \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Hotel Devi Palace \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01246201166",
     "LAST_UPDATED": "Updated On: 11:57 AM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.466964,
     "LONG": 77.036166
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Hotel Diamond \nAvailability of Beds: Yes (18), Isolation Beds: 18,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 18, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Hotel Diamond \nAvailability of Beds: Yes (18), Isolation Beds: 18,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 18, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01246201166",
     "LAST_UPDATED": "Updated On: 11:57 AM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.437048,
     "LONG": 77.038905
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Hotel Dolphin \nAvailability of Beds: Yes (33), Isolation Beds: 33,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 33, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Hotel Dolphin \nAvailability of Beds: Yes (33), Isolation Beds: 33,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 33, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:7042435051",
     "LAST_UPDATED": "Updated On: 11:58 AM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.468166,
     "LONG": 77.033948
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Hotel Imperial Residency \nAvailability of Beds: Yes (22), Isolation Beds: 22,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 22, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Hotel Imperial Residency \nAvailability of Beds: Yes (22), Isolation Beds: 22,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 22, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9873863201",
     "LAST_UPDATED": "Updated On: 11:59 AM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.480217,
     "LONG": 77.047703
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Hotel LS 21 \nAvailability of Beds: Yes (22), Isolation Beds: 22,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 22, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Hotel LS 21 \nAvailability of Beds: Yes (22), Isolation Beds: 22,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 22, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:09084211967",
     "LAST_UPDATED": "Updated On: 11:59 AM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.429617,
     "LONG": 77.058926
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Hotel New Destination \nAvailability of Beds: Yes (30), Isolation Beds: 30,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 30, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Hotel New Destination \nAvailability of Beds: Yes (30), Isolation Beds: 30,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 30, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9810795357",
     "LAST_UPDATED": "Updated On: 12:00 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.451068,
     "LONG": 77.03289
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Moms PG-1 \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Moms PG-1 \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9911330447",
     "LAST_UPDATED": "Updated On: 12:00 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.49971,
     "LONG": 77.060397
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Moms PG-2 \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Moms PG-2 \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9911330447",
     "LAST_UPDATED": "Updated On: 12:00 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.499691,
     "LONG": 77.060437
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Moms PG-3 \nAvailability of Beds: Yes (17), Isolation Beds: 17,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 17, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Moms PG-3 \nAvailability of Beds: Yes (17), Isolation Beds: 17,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 17, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9911330447",
     "LAST_UPDATED": "Updated On: 12:00 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.499685,
     "LONG": 77.060547
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Moon Light by Rumani Hospitality \nAvailability of Beds: Yes (30), Isolation Beds: 30,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 30, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Moon Light by Rumani Hospitality \nAvailability of Beds: Yes (30), Isolation Beds: 30,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 30, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01246201166",
     "LAST_UPDATED": "Updated On: 12:01 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.509663,
     "LONG": 77.020226
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Red Fox \nAvailability of Beds: Yes (150), Isolation Beds: 150,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 150, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Red Fox \nAvailability of Beds: Yes (150), Isolation Beds: 150,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 150, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9654992021",
     "LAST_UPDATED": "Updated On: 12:01 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.402257,
     "LONG": 77.099779
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Royal Stay \nAvailability of Beds: Yes (25), Isolation Beds: 25,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Royal Stay \nAvailability of Beds: Yes (25), Isolation Beds: 25,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8860281534",
     "LAST_UPDATED": "Updated On: 12:02 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.487908,
     "LONG": 77.107981
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Rumani Hospitality LLP Prem nagar \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Rumani Hospitality LLP Prem nagar \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8800620664",
     "LAST_UPDATED": "Updated On: 12:57 PM 29th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.46909,
     "LONG": 77.03531
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Rumani Hospitality LLP South City 1 \nAvailability of Beds: Yes (11), Isolation Beds: 11,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 11, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Rumani Hospitality LLP South City 1 \nAvailability of Beds: Yes (11), Isolation Beds: 11,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 11, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:7895507268",
     "LAST_UPDATED": "Updated On: 12:56 PM 29th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.469071,
     "LONG": 77.035304
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Rumania Hospitality \nAvailability of Beds: Yes (16), Isolation Beds: 16,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 16, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Rumania Hospitality \nAvailability of Beds: Yes (16), Isolation Beds: 16,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 16, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9717954487",
     "LAST_UPDATED": "Updated On: 12:02 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.509766,
     "LONG": 77.044419
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sky City Hotel \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Sky City Hotel \nAvailability of Beds: Yes (40), Isolation Beds: 40,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 40, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:09711400286",
     "LAST_UPDATED": "Updated On: 12:03 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.458388,
     "LONG": 77.035077
   },
   {
-    "HOSPITAL_INFO": "Facility Name: The Royal \nAvailability of Beds: Yes (14), Isolation Beds: 14,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 14, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: The Royal \nAvailability of Beds: Yes (14), Isolation Beds: 14,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 14, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:01246201166",
     "LAST_UPDATED": "Updated On: 12:03 PM 26th Apr,21",
     "CITY": "Gurugram",
     "LAT": 28.460892,
@@ -1863,77 +1821,77 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: AADHAR Hospital, Hisar \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 12, Ventilators: 6 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09729913333",
-    "LAST_UPDATED": "Updated On: 9:53 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 7:34 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.118925,
     "LONG": 75.745778
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Bharat Multispeciality Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 2, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:08862820000",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Bharat Multispeciality Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 2, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:08862820000",
+    "LAST_UPDATED": "Updated On: 11:55 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.138949,
     "LONG": 75.738254
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Central Medical Centre (CMC) \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 8,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 30, ICU: 8, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09996166233",
-    "LAST_UPDATED": "Updated On: 6:49 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Central Medical Centre (CMC) \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 38, ICU: 10, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09996166233",
+    "LAST_UPDATED": "Updated On: 11:54 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.14092,
     "LONG": 75.734177
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Churamani Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 27, ICU: 12, Ventilators: 9 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01162231914",
-    "LAST_UPDATED": "Updated On: 11:17 AM 28th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Churamani Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 4\n\n\n\nAllocated Beds: Isolation Beds: 27, ICU: 12, Ventilators: 9 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01162231914",
+    "LAST_UPDATED": "Updated On: 11:59 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.146499,
     "LONG": 75.727283
   },
   {
-    "HOSPITAL_INFO": "Facility Name: District Civil Hospital Hisar \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 55, ICU: 3, Ventilators: 7 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01662278102",
-    "LAST_UPDATED": "Updated On: 4:57 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: District Civil Hospital Hisar \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 5,\nICU Beds: Beds Over Utilized 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 53, ICU: 0, Ventilators: 7 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01662278102",
+    "LAST_UPDATED": "Updated On: 10:50 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.1698,
     "LONG": 75.718685
   },
   {
-    "HOSPITAL_INFO": "Facility Name: DR. ANANTRAM JANTA HOSPITAL PVT LTD BARWALA \nAvailability of Beds: Yes (10), Isolation Beds: 9,\nICU Beds: 1,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 3, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01693242096",
-    "LAST_UPDATED": "Updated On: 12:12 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: DR. ANANTRAM JANTA HOSPITAL PVT LTD BARWALA \nAvailability of Beds: Yes (8), Isolation Beds: 7,\nICU Beds: 1,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 3, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01693242096",
+    "LAST_UPDATED": "Updated On: 11:57 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.363243,
     "LONG": 75.901797
   },
   {
     "HOSPITAL_INFO": "Facility Name: Geetanjali Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 7, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812560633",
-    "LAST_UPDATED": "Updated On: 5:27 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:59 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.1322,
     "LONG": 75.7434
   },
   {
     "HOSPITAL_INFO": "Facility Name: Goswami Hospital \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 1, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:08929156789",
-    "LAST_UPDATED": "Updated On: 10:09 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:15 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.163265,
     "LONG": 75.718232
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Gupta Hospital Hisar \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 41, ICU: 13, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09254378993",
-    "LAST_UPDATED": "Updated On: 1:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Gupta Hospital Hisar \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 13, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09254378993",
+    "LAST_UPDATED": "Updated On: 11:25 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.173929,
     "LONG": 75.713541
   },
   {
-    "HOSPITAL_INFO": "Facility Name: GURU JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812591693",
-    "LAST_UPDATED": "Updated On: 3:40 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: GURU JAMBHESHWAR MULTISPECIALITY HOSPITAL, AGROHA \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812591693",
+    "LAST_UPDATED": "Updated On: 8:59 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.319597,
     "LONG": 75.63503
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Holy Help Hospital \nAvailability of Beds: Yes (7), Isolation Beds: 7,\nICU Beds: Beds Over Utilized 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 29, ICU: 9, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:0162247727",
-    "LAST_UPDATED": "Updated On: 6:11 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Holy Help Hospital \nAvailability of Beds: Yes (11), Isolation Beds: 10,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 29, ICU: 9, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:0162247727",
+    "LAST_UPDATED": "Updated On: 11:56 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.130709,
     "LONG": 75.742226
@@ -1946,29 +1904,29 @@ haryana_data=[
     "LONG": 75.741794
   },
   {
-    "HOSPITAL_INFO": "Facility Name: MAMC Agroha \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 49,\nICU Beds: 0,\nVentilators: 15\n\n\n\nAllocated Beds: Isolation Beds: 50, ICU: 100, Ventilators: 60 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01669281193",
-    "LAST_UPDATED": "Updated On: 6:52 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: MAMC Agroha \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 36,\nICU Beds: 0,\nVentilators: 14\n\n\n\nAllocated Beds: Isolation Beds: 50, ICU: 100, Ventilators: 60 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01669281193",
+    "LAST_UPDATED": "Updated On: 9:05 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.336744,
     "LONG": 75.622597
   },
   {
     "HOSPITAL_INFO": "Facility Name: Medi City Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 9, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:9416044519",
-    "LAST_UPDATED": "Updated On: 9:14 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:38 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.128162,
     "LONG": 75.733853
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Military Hospital Hisar \nAvailability of Beds: Yes (16), Isolation Beds: 16,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 56, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09896768373",
-    "LAST_UPDATED": "Updated On: 3:34 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Military Hospital Hisar \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 56, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09896768373",
+    "LAST_UPDATED": "Updated On: 8:19 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.119293,
     "LONG": 75.819124
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Noble Super Specialty Hospital \nAvailability of Beds: Yes (12), Isolation Beds: 6,\nICU Beds: 6,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 7, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: To Be Updated,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09315655000",
-    "LAST_UPDATED": "Updated On: 5:21 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Noble Super Specialty Hospital \nAvailability of Beds: Yes (7), Isolation Beds: 5,\nICU Beds: 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 7, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: To Be Updated,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09315655000",
+    "LAST_UPDATED": "Updated On: 10:56 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.130288,
     "LONG": 75.741729
@@ -1981,15 +1939,15 @@ haryana_data=[
     "LONG": 75.746513
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PARDEEP KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN \nAvailability of Beds: Yes (19), Isolation Beds: 10,\nICU Beds: 9,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 10, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8168093957",
-    "LAST_UPDATED": "Updated On: 10:20 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PARDEEP KANSAL MULTISPECIALITY HOSPITAL FOR CHILDREN \nAvailability of Beds: Yes (13), Isolation Beds: 6,\nICU Beds: 7,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 8, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8168093957",
+    "LAST_UPDATED": "Updated On: 11:40 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.166963,
     "LONG": 75.718787
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Parnami Hospital \nAvailability of Beds: Yes (11), Isolation Beds: 11,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 2, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9654210700",
-    "LAST_UPDATED": "Updated On: 3:23 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Parnami Hospital \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 2, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9654210700",
+    "LAST_UPDATED": "Updated On: 8:00 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.118821,
     "LONG": 75.719688
@@ -2009,71 +1967,64 @@ haryana_data=[
     "LONG": 75.714979
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sarvodya Hospital, Hisar \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 23, ICU: 4, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8059969960",
-    "LAST_UPDATED": "Updated On: 4:21 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Sarvodya Hospital, Hisar \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 23, ICU: 4, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8059969960",
+    "LAST_UPDATED": "Updated On: 10:35 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.141123,
     "LONG": 75.733566
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sewak Sabha Hospital \nAvailability of Beds: Yes (7), Isolation Beds: 3,\nICU Beds: 4,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 21, ICU: 8, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812742254",
-    "LAST_UPDATED": "Updated On: 10:31 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Sewak Sabha Hospital \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 21, ICU: 8, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812742254",
+    "LAST_UPDATED": "Updated On: 11:53 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.163572,
     "LONG": 75.719788
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shanti Devi Hospital \nAvailability of Beds: Yes (9), Isolation Beds: 9,\nICU Beds: Beds Over Utilized 6,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09034013081",
-    "LAST_UPDATED": "Updated On: 5:08 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shanti Devi Hospital \nAvailability of Beds: Yes (3), Isolation Beds: 2,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09034013081",
+    "LAST_UPDATED": "Updated On: 11:53 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.140046,
     "LONG": 75.735021
   },
   {
     "HOSPITAL_INFO": "Facility Name: Shri Kali Devi Hospital Hansi \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: Beds Over Utilized 4,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 1, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01663259870",
-    "LAST_UPDATED": "Updated On: 12:11 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:56 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.092797,
     "LONG": 75.971179
   },
   {
     "HOSPITAL_INFO": "Facility Name: SINGLA MULTISPECIALITY HOSPITAL \nAvailability of Beds: Yes (4), Isolation Beds: 3,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09996357571",
-    "LAST_UPDATED": "Updated On: 7:08 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:55 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.163959,
     "LONG": 75.718912
   },
   {
     "HOSPITAL_INFO": "Facility Name: SL Minda Hospital \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 11, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7082984604",
-    "LAST_UPDATED": "Updated On: 5:12 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:13 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.189605,
     "LONG": 75.496515
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sonakshi Children Hospital Hansi \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 11, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8168024495",
-    "LAST_UPDATED": "Updated On: 10:53 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Sonakshi Children Hospital Hansi \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 11, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8168024495",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.130043,
     "LONG": 75.744235
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Soni Burn Hospital Hisar \nAvailability of Beds: Yes (9), Isolation Beds: 8,\nICU Beds: 1,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 2, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09986780443",
-    "LAST_UPDATED": "Updated On: 9:30 AM 28th Apr,21",
-    "CITY": "Hisar",
-    "LAT": 29.150316,
-    "LONG": 75.725658
-  },
-  {
     "HOSPITAL_INFO": "Facility Name: Sukhda Multispeciality Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 24,\nICU Beds: 0,\nVentilators: Beds Over Utilized 3\n\n\n\nAllocated Beds: Isolation Beds: 26, ICU: 18, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09996544005",
-    "LAST_UPDATED": "Updated On: 3:50 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:42 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.137332,
     "LONG": 75.741018
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Vardaan Hospital \nAvailability of Beds: Yes (2), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 7, ICU: 13, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416178766",
-    "LAST_UPDATED": "Updated On: 5:18 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Vardaan Hospital \nAvailability of Beds: Yes (2), Isolation Beds: Beds Over Utilized 3,\nICU Beds: 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 7, ICU: 13, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416178766",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Hisar",
     "LAT": 29.132455,
     "LONG": 75.741049
@@ -2206,7 +2157,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Delhi Hospital, Bahadurgarh \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 30,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 10, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9991109566",
-    "LAST_UPDATED": "Updated On: 6:15 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:11 AM 30th Apr,21",
     "CITY": "Jhajjar",
     "LAT": 28.69037,
     "LONG": 76.941613
@@ -2240,8 +2191,8 @@ haryana_data=[
     "LONG": 76.642887
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Mission Hospital, Bahadurgarh \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 18,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 9, ICU: 6, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:9817257384",
-    "LAST_UPDATED": "Updated On: 10:51 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Mission Hospital, Bahadurgarh \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 22,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 9, ICU: 6, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:9817257384",
+    "LAST_UPDATED": "Updated On: 10:16 AM 30th Apr,21",
     "CITY": "Jhajjar",
     "LAT": 28.690441,
     "LONG": 76.934247
@@ -2261,15 +2212,15 @@ haryana_data=[
     "LONG": 76.942821
   },
   {
-    "HOSPITAL_INFO": "Facility Name: RS GAUR GLOBAL MULTISPECIALITY HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 6,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 4, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9015149136",
-    "LAST_UPDATED": "Updated On: 1:11 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: RS GAUR GLOBAL MULTISPECIALITY HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 6,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 4, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: To Be Updated,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:9015149136",
+    "LAST_UPDATED": "Updated On: 10:08 AM 30th Apr,21",
     "CITY": "Jhajjar",
     "LAT": 28.606117,
     "LONG": 76.645255
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SDH, Bahadurgarh \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: To Be Updated,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01276230294",
-    "LAST_UPDATED": "Updated On: 1:57 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SDH, Bahadurgarh \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: To Be Updated,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01276230294",
+    "LAST_UPDATED": "Updated On: 7:44 PM 29th Apr,21",
     "CITY": "Jhajjar",
     "LAT": 28.69648,
     "LONG": 76.923735
@@ -2282,123 +2233,123 @@ haryana_data=[
     "LONG": 76.577557
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shivam Hospital, B.garh \nAvailability of Beds: Yes (1), Isolation Beds: Beds Over Utilized 28,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 10, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9050686970",
-    "LAST_UPDATED": "Updated On: 3:02 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shivam Hospital, B.garh \nAvailability of Beds: Yes (2), Isolation Beds: Beds Over Utilized 27,\nICU Beds: 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 10, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9050686970",
+    "LAST_UPDATED": "Updated On: 10:01 AM 30th Apr,21",
     "CITY": "Jhajjar",
     "LAT": 28.702419,
     "LONG": 76.936863
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Swastik Hospital, Bahadurgarh \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 30,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 10, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:917494940917",
-    "LAST_UPDATED": "Updated On: 3:13 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Swastik Hospital, Bahadurgarh \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 28,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 10, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:917494940917",
+    "LAST_UPDATED": "Updated On: 9:47 AM 30th Apr,21",
     "CITY": "Jhajjar",
     "LAT": 28.684582,
     "LONG": 76.921088
   },
   {
-    "HOSPITAL_INFO": "Facility Name: World College Of Medical Sciences And Hospital \nAvailability of Beds: Yes (185), Isolation Beds: 185,\nICU Beds: 0,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 235, ICU: 15, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7668918219",
-    "LAST_UPDATED": "Updated On: 5:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: World College Of Medical Sciences And Hospital \nAvailability of Beds: Yes (190), Isolation Beds: 190,\nICU Beds: 0,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 235, ICU: 15, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7668918219",
+    "LAST_UPDATED": "Updated On: 10:17 AM 30th Apr,21",
     "CITY": "Jhajjar",
     "LAT": 28.661533,
     "LONG": 76.68469
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Balaji Hospital \nAvailability of Beds: Yes (8), Isolation Beds: Beds Over Utilized 8,\nICU Beds: 8,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 40, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681253020",
-    "LAST_UPDATED": "Updated On: 3:58 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Balaji Hospital \nAvailability of Beds: Yes (8), Isolation Beds: Beds Over Utilized 7,\nICU Beds: 8,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 40, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681253020",
+    "LAST_UPDATED": "Updated On: 11:11 AM 30th Apr,21",
     "CITY": "Jind",
     "LAT": 29.306661,
-    "LONG": 76.316862
+    "LONG": 76.316865
   },
   {
     "HOSPITAL_INFO": "Facility Name: CH Uchana (New Building) \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 3, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01684230273",
-    "LAST_UPDATED": "Updated On: 3:16 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:57 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.4888,
-    "LONG": 76.13535
+    "LAT": 29.470366,
+    "LONG": 76.181134
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Alewa \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681239083",
-    "LAST_UPDATED": "Updated On: 9:35 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:16 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.4753,
-    "LONG": 76.44766
+    "LAT": 29.464875,
+    "LONG": 76.454461
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Julana \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01683297740",
-    "LAST_UPDATED": "Updated On: 3:32 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Julana \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01683297740",
+    "LAST_UPDATED": "Updated On: 10:58 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.13629,
-    "LONG": 76.40749
+    "LAT": 29.123033,
+    "LONG": 76.401422
   },
   {
     "HOSPITAL_INFO": "Facility Name: District Civil Hospital Jind 1 \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 50,\nICU Beds: Beds Over Utilized 6,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 50, ICU: 14, Ventilators: 11 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681245455",
-    "LAST_UPDATED": "Updated On: 3:58 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:55 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.30623,
-    "LONG": 76.34218
+    "LAT": 29.311563,
+    "LONG": 76.330322
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Gangaputra Ayurvedic Medical College Jind \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01681237238",
-    "LAST_UPDATED": "Updated On: 7:06 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Gangaputra Ayurvedic Medical College Jind \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01681237238",
+    "LAST_UPDATED": "Updated On: 11:58 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.378294,
-    "LONG": 76.33652
+    "LAT": 29.378259,
+    "LONG": 76.336611
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Jain Dharmarth Hospital \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681246410",
-    "LAST_UPDATED": "Updated On: 3:51 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Jain Dharmarth Hospital \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681246410",
+    "LAST_UPDATED": "Updated On: 11:09 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.319892,
-    "LONG": 76.311372
+    "LAT": 29.312886,
+    "LONG": 76.326328
   },
   {
-    "HOSPITAL_INFO": "Facility Name: JIND HEART HOSPITAL \nAvailability of Beds: Yes (5), Isolation Beds: 2,\nICU Beds: 3,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8950377699",
-    "LAST_UPDATED": "Updated On: 4:06 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: JIND HEART HOSPITAL \nAvailability of Beds: Yes (4), Isolation Beds: 3,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8950377699",
+    "LAST_UPDATED": "Updated On: 11:17 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.308289,
-    "LONG": 76.349511
+    "LAT": 29.308426,
+    "LONG": 76.349439
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Malik Hospital \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416378709",
-    "LAST_UPDATED": "Updated On: 3:57 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Malik Hospital \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: 0,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416378709",
+    "LAST_UPDATED": "Updated On: 11:11 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.304569,
-    "LONG": 76.317965
+    "LAT": 29.304636,
+    "LONG": 76.318007
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Meenakashi Jain Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 4,\nICU Beds: Beds Over Utilized 5,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 1, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681253020",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Meenakashi Jain Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 3,\nICU Beds: Beds Over Utilized 5,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 1, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681253020",
+    "LAST_UPDATED": "Updated On: 11:13 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.312682,
-    "LONG": 76.315203
+    "LAT": 29.312727,
+    "LONG": 76.315266
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sarvodhya Hospital Jind \nAvailability of Beds: Yes (10), Isolation Beds: 2,\nICU Beds: 8,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 2, ICU: 20, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812006186",
-    "LAST_UPDATED": "Updated On: 3:38 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Sarvodhya Hospital Jind \nAvailability of Beds: Yes (17), Isolation Beds: 2,\nICU Beds: 15,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 2, ICU: 20, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812006186",
+    "LAST_UPDATED": "Updated On: 11:05 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.30623,
-    "LONG": 76.34218
+    "LAT": 29.321178,
+    "LONG": 76.335262
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SDH Narwana \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01684240455",
-    "LAST_UPDATED": "Updated On: 3:37 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SDH Narwana \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01684240455",
+    "LAST_UPDATED": "Updated On: 11:02 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.348798,
-    "LONG": 76.293617
+    "LAT": 29.602195,
+    "LONG": 76.12815
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SDH Safidon \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01686265739",
-    "LAST_UPDATED": "Updated On: 3:35 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SDH Safidon \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01686265739",
+    "LAST_UPDATED": "Updated On: 11:18 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.41499,
-    "LONG": 76.68049
+    "LAT": 29.404625,
+    "LONG": 76.665283
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shri Gyani Ram Mamorial Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: Beds Over Utilized 7,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 3, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681264627",
-    "LAST_UPDATED": "Updated On: 3:36 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shri Gyani Ram Mamorial Hospital \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: Beds Over Utilized 8,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 3, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01681264627",
+    "LAST_UPDATED": "Updated On: 10:56 AM 30th Apr,21",
     "CITY": "Jind",
-    "LAT": 29.41499,
-    "LONG": 76.68049
+    "LAT": 29.406568,
+    "LONG": 76.666199
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Julana",
@@ -2443,22 +2394,22 @@ haryana_data=[
     "LONG": 76.420545
   },
   {
-    "HOSPITAL_INFO": "Facility Name: District Hospital Kaithal \nAvailability of Beds: Yes (18), Isolation Beds: 10,\nICU Beds: 8,\nVentilators: 5\n\n\n\nAllocated Beds: Isolation Beds: 77, ICU: 8, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8059917795",
-    "LAST_UPDATED": "Updated On: 2:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: District Hospital Kaithal \nAvailability of Beds: Yes (20), Isolation Beds: 12,\nICU Beds: 8,\nVentilators: 5\n\n\n\nAllocated Beds: Isolation Beds: 77, ICU: 8, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8059917795",
+    "LAST_UPDATED": "Updated On: 9:06 AM 30th Apr,21",
     "CITY": "Kaithal",
     "LAT": 29.793613,
     "LONG": 76.422342
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SDH Guhla \nAvailability of Beds: Yes (68), Isolation Beds: 68,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 70, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9417129573",
-    "LAST_UPDATED": "Updated On: 10:52 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SDH Guhla \nAvailability of Beds: Yes (70), Isolation Beds: 70,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 70, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9417129573",
+    "LAST_UPDATED": "Updated On: 10:16 PM 29th Apr,21",
     "CITY": "Kaithal",
     "LAT": 30.037658,
     "LONG": 76.309499
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shah Multispecialty Hospital Kaithal \nAvailability of Beds: Yes (19), Isolation Beds: 19,\nICU Beds: 0,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 15, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9255527200",
-    "LAST_UPDATED": "Updated On: 2:01 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shah Multispecialty Hospital Kaithal \nAvailability of Beds: Yes (20), Isolation Beds: 18,\nICU Beds: 2,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 15, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9255527200",
+    "LAST_UPDATED": "Updated On: 10:33 AM 30th Apr,21",
     "CITY": "Kaithal",
     "LAT": 29.800578,
     "LONG": 76.403008
@@ -2541,8 +2492,8 @@ haryana_data=[
     "LONG": 76.98837
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Arpana Hospital \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 2, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:911842380801",
-    "LAST_UPDATED": "Updated On: 5:50 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Arpana Hospital \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 2, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:911842380801",
+    "LAST_UPDATED": "Updated On: 10:54 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.606357,
     "LONG": 76.979676
@@ -2556,21 +2507,21 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Gharaunda \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416181909",
-    "LAST_UPDATED": "Updated On: 5:49 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:58 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.534688,
     "LONG": 76.973829
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Nissing \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9813718636",
-    "LAST_UPDATED": "Updated On: 5:49 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:58 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.691117,
     "LONG": 76.760373
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Taraori \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416294236",
-    "LAST_UPDATED": "Updated On: 5:51 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:59 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.801777,
     "LONG": 76.929871
@@ -2583,8 +2534,8 @@ haryana_data=[
     "LONG": 76.993581
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Dua Multi-speciality Hospital \nAvailability of Beds: Yes (6), Isolation Beds: 3,\nICU Beds: 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 6, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8950122651",
-    "LAST_UPDATED": "Updated On: 5:45 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Dua Multi-speciality Hospital \nAvailability of Beds: Yes (3), Isolation Beds: 0,\nICU Beds: 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 6, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8950122651",
+    "LAST_UPDATED": "Updated On: 10:24 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.693937,
     "LONG": 76.989495
@@ -2597,43 +2548,43 @@ haryana_data=[
     "LONG": 76.998695
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Kalpana Chawla Government Medical College, Karnal \nAvailability of Beds: Yes (35), Isolation Beds: 35,\nICU Beds: 0,\nVentilators: 86\n\n\n\nAllocated Beds: Isolation Beds: 224, ICU: 60, Ventilators: 100 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:1842266252",
-    "LAST_UPDATED": "Updated On: 5:50 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Kalpana Chawla Government Medical College, Karnal \nAvailability of Beds: Yes (35), Isolation Beds: 35,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 224, ICU: 60, Ventilators: 60 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:1842266252",
+    "LAST_UPDATED": "Updated On: 6:38 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.697152,
     "LONG": 76.989204
   },
   {
     "HOSPITAL_INFO": "Facility Name: Karnal Nursing Home \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 10, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9138102092",
-    "LAST_UPDATED": "Updated On: 5:51 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:50 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.695382,
     "LONG": 76.991317
   },
   {
     "HOSPITAL_INFO": "Facility Name: Park Hospital \nAvailability of Beds: Yes (3), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 3,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 25, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9643000000",
-    "LAST_UPDATED": "Updated On: 5:49 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:52 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.744236,
     "LONG": 76.959946
   },
   {
     "HOSPITAL_INFO": "Facility Name: Rama Superspeciality Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 6, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9996325799",
-    "LAST_UPDATED": "Updated On: 5:52 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:28 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.695462,
     "LONG": 76.995151
   },
   {
-    "HOSPITAL_INFO": "Facility Name: RP Welltar Hospital \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9896341961",
-    "LAST_UPDATED": "Updated On: 5:14 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: RP Welltar Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9896341961",
+    "LAST_UPDATED": "Updated On: 10:33 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.571993,
     "LONG": 76.981202
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sanjiv Bansal Cygnus Hospital , Karnal \nAvailability of Beds: Yes (2), Isolation Beds: 0,\nICU Beds: 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 5, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:918397979081",
-    "LAST_UPDATED": "Updated On: 6:26 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:58 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.692068,
     "LONG": 76.976713
@@ -2647,7 +2598,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: SDH Nilokheri \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416484425",
-    "LAST_UPDATED": "Updated On: 5:50 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:59 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.843705,
     "LONG": 76.933108
@@ -2661,7 +2612,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Shri Sanatan Dharam Mahabir Dal \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7780858779",
-    "LAST_UPDATED": "Updated On: 5:50 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 12:57 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.697525,
     "LONG": 76.964904
@@ -2674,21 +2625,21 @@ haryana_data=[
     "LONG": 76.998047
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Swastik Hospital \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 9, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7988655917",
-    "LAST_UPDATED": "Updated On: 5:51 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Swastik Hospital \nAvailability of Beds: Yes (4), Isolation Beds: 2,\nICU Beds: 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 9, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7988655917",
+    "LAST_UPDATED": "Updated On: 10:05 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.695628,
     "LONG": 76.993024
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Virk Hospital Karnal \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 45, ICU: 8, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:917027370332",
-    "LAST_UPDATED": "Updated On: 5:50 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Virk Hospital Karnal \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 45, ICU: 8, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:917027370332",
+    "LAST_UPDATED": "Updated On: 10:34 AM 30th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.693993,
     "LONG": 76.989168
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Ballah \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: CHC Ballah \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9813136966",
     "LAST_UPDATED": "Updated On: 5:52 PM 29th Apr,21",
     "CITY": "Karnal",
     "LAT": 29.503768,
@@ -2724,7 +2675,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: ADESH MEDICAL COLLEGE, SHAHBAD MOHRI KURUKSHETRA. \nAvailability of Beds: Yes (91), Isolation Beds: 91,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 110, ICU: 0, Ventilators: 10 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8708649738",
-    "LAST_UPDATED": "Updated On: 5:32 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:55 AM 30th Apr,21",
     "CITY": "Kurukshetra",
     "LAT": 30.247653,
     "LONG": 76.853957
@@ -2745,7 +2696,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: B.S. HEART CARE \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 1, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 5:22 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:12 AM 30th Apr,21",
     "CITY": "Kurukshetra",
     "LAT": 29.97459,
     "LONG": 76.865648
@@ -2779,15 +2730,15 @@ haryana_data=[
     "LONG": 76.867427
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Nirogi Hospital \nAvailability of Beds: Yes (1), Isolation Beds: Beds Over Utilized 2,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 2, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:80599334",
-    "LAST_UPDATED": "Updated On: 5:36 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Nirogi Hospital \nAvailability of Beds: Yes (1), Isolation Beds: Beds Over Utilized 2,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 2, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:80599334",
+    "LAST_UPDATED": "Updated On: 11:52 AM 30th Apr,21",
     "CITY": "Kurukshetra",
     "LAT": 30.161551,
     "LONG": 76.869298
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Saraswati Mission Hospital \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 6, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416037939",
-    "LAST_UPDATED": "Updated On: 5:26 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Saraswati Mission Hospital \nAvailability of Beds: Yes (14), Isolation Beds: 14,\nICU Beds: 0,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 36, ICU: 6, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416037939",
+    "LAST_UPDATED": "Updated On: 11:13 AM 30th Apr,21",
     "CITY": "Kurukshetra",
     "LAT": 29.966493,
     "LONG": 76.830075
@@ -2807,8 +2758,8 @@ haryana_data=[
     "LONG": 76.904918
   },
   {
-    "HOSPITAL_INFO": "Facility Name: VERMA HOSPITAL \nAvailability of Beds: Yes (1), Isolation Beds: 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 5:30 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: VERMA HOSPITAL \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:51 AM 30th Apr,21",
     "CITY": "Kurukshetra",
     "LAT": 29.99527,
     "LONG": 77.03708
@@ -2885,154 +2836,154 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Ayurvedic Medical College, Patikara \nAvailability of Beds: Yes (174), Isolation Beds: 174,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 200, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9416264997",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:19 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.059182,
     "LONG": 76.142889
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC ATELI \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01282275054",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:19 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.101638,
     "LONG": 76.26037
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Kanina \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01285235112",
-    "LAST_UPDATED": "Updated On: 4:04 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:19 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.330059,
     "LONG": 76.305182
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Nangal Chaudhary \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9468135294",
-    "LAST_UPDATED": "Updated On: 4:04 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 27.892185,
     "LONG": 76.114779
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Sehlang \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01285234100",
-    "LAST_UPDATED": "Updated On: 4:04 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.410707,
     "LONG": 76.21731
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Civil Hospital Narnaul \nAvailability of Beds: Yes (30), Isolation Beds: 21,\nICU Beds: 9,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 26, ICU: 9, Ventilators: 9 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9812486022",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Civil Hospital Narnaul \nAvailability of Beds: Yes (13), Isolation Beds: 4,\nICU Beds: 9,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 26, ICU: 9, Ventilators: 9 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9812486022",
+    "LAST_UPDATED": "Updated On: 9:46 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.04251,
     "LONG": 76.114026
   },
   {
     "HOSPITAL_INFO": "Facility Name: Jaipur Heart & Multi Speciality Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 6, ICU: 9, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9673458398",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:56 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.0455,
     "LONG": 76.1153
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sanwedna Hospital Narnaul \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 10, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9728811884",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:06 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.05765,
     "LONG": 76.10528
   },
   {
     "HOSPITAL_INFO": "Facility Name: SDH Mahendergarh \nAvailability of Beds: Yes (15), Isolation Beds: 15,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01285221292",
-    "LAST_UPDATED": "Updated On: 4:04 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.272333,
     "LONG": 76.149317
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shanti Hospital Narnaul \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 9, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9355011220",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shanti Hospital Narnaul \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 9, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9355011220",
+    "LAST_UPDATED": "Updated On: 9:22 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.05429,
     "LONG": 76.10191
   },
   {
     "HOSPITAL_INFO": "Facility Name: Singhal Hospital Narnaul \nAvailability of Beds: Yes (4), Isolation Beds: 1,\nICU Beds: 3,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 1, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9812204951",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:19 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.04785,
     "LONG": 76.10975
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Vijay Hospital Narnaul \nAvailability of Beds: Yes (2), Isolation Beds: 0,\nICU Beds: 2,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 17, Ventilators: 2 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9467499202",
-    "LAST_UPDATED": "Updated On: 4:03 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Vijay Hospital Narnaul \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 17, Ventilators: 2 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9467499202",
+    "LAST_UPDATED": "Updated On: 10:02 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.05302,
     "LONG": 76.11349
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Nangal Sirohi \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:04 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Nangal Sirohi \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8222822997",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.194673,
     "LONG": 76.132933
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC SATNALI \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:04 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC SATNALI \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8171717170",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.378094,
     "LONG": 75.96399
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Bachhod \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:04 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Bachhod \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9812104141",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.092127,
     "LONG": 76.1936
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Bhojawas \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Bhojawas \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9992249991",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.2331,
     "LONG": 76.296231
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Chhilaro \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Chhilaro \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8685936618",
+    "LAST_UPDATED": "Updated On: 9:20 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 27.970851,
     "LONG": 76.008146
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Madhogarh \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Madhogarh \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9416976899",
+    "LAST_UPDATED": "Updated On: 9:21 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.308321,
     "LONG": 76.034815
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Mandhana \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Mandhana \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9467642586",
+    "LAST_UPDATED": "Updated On: 9:21 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.011297,
     "LONG": 76.161235
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Mundia khera \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Mundia khera \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:7023643921",
+    "LAST_UPDATED": "Updated On: 9:21 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.196324,
     "LONG": 76.233884
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Rampura \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Rampura \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9466883854",
+    "LAST_UPDATED": "Updated On: 9:21 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.136577,
     "LONG": 76.122951
   },
   {
-    "HOSPITAL_INFO": "Facility Name: PHC Sihma \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: PHC Sihma \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8607666699",
+    "LAST_UPDATED": "Updated On: 9:21 AM 30th Apr,21",
     "CITY": "Mahendragarh",
     "LAT": 28.150288,
     "LONG": 76.161074
@@ -3088,28 +3039,28 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Apex Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 10, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8930300800",
-    "LAST_UPDATED": "Updated On: 6:41 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:30 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.153086,
     "LONG": 77.33324
   },
   {
     "HOSPITAL_INFO": "Facility Name: BANSAL NURSING HOME \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 6:41 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:30 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.140571,
     "LONG": 77.335817
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Alawalpur \nAvailability of Beds: Yes (9), Isolation Beds: 9,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 6:41 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:31 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.185221,
     "LONG": 77.392166
   },
   {
     "HOSPITAL_INFO": "Facility Name: Civil Hospital Palwal \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 70, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01275252102",
-    "LAST_UPDATED": "Updated On: 6:42 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:32 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.136025,
     "LONG": 77.327127
@@ -3123,70 +3074,70 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: GALAXY HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 2, ICU: 16, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8755836493",
-    "LAST_UPDATED": "Updated On: 6:40 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:28 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.15276,
     "LONG": 77.31578
   },
   {
     "HOSPITAL_INFO": "Facility Name: GOLDEN HOSPITAL \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 3, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01275251847",
-    "LAST_UPDATED": "Updated On: 6:42 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:33 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.139733,
     "LONG": 77.323857
   },
   {
     "HOSPITAL_INFO": "Facility Name: Gurunanak Hospital, Palwal \nAvailability of Beds: Yes (35), Isolation Beds: 35,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 57, ICU: 18, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01275256660",
-    "LAST_UPDATED": "Updated On: 6:40 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:27 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.148738,
     "LONG": 77.335327
   },
   {
     "HOSPITAL_INFO": "Facility Name: KISHAN SINGH HOSPITAL \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 6:42 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:42 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 27.887725,
     "LONG": 77.382215
   },
   {
     "HOSPITAL_INFO": "Facility Name: LIFE CARE HOSPITAL \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:9355561000",
-    "LAST_UPDATED": "Updated On: 6:43 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:42 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 27.887087,
     "LONG": 77.381105
   },
   {
     "HOSPITAL_INFO": "Facility Name: Palwal Hospital \nAvailability of Beds: Yes (3), Isolation Beds: 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 3, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01275250069",
-    "LAST_UPDATED": "Updated On: 6:40 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:28 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.137103,
     "LONG": 77.328921
   },
   {
     "HOSPITAL_INFO": "Facility Name: RAHUL HOSPITAL \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01275252338",
-    "LAST_UPDATED": "Updated On: 6:43 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:43 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.144568,
     "LONG": 77.335547
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sachin Hospital \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 7, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9215566950",
-    "LAST_UPDATED": "Updated On: 6:41 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:29 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.13634,
     "LONG": 77.321472
   },
   {
     "HOSPITAL_INFO": "Facility Name: SDH Hodal \nAvailability of Beds: Yes (16), Isolation Beds: 16,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 6:43 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:44 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 27.895164,
     "LONG": 77.36653
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shri. Satya Sai Sanjivani Hospital Palwal \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:918010119000",
-    "LAST_UPDATED": "Updated On: 6:40 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shri. Satya Sai Sanjivani Hospital Palwal \nAvailability of Beds: Yes (4), Isolation Beds: 4,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:918010119000",
+    "LAST_UPDATED": "Updated On: 8:26 AM 30th Apr,21",
     "CITY": "Palwal",
     "LAT": 28.192768,
     "LONG": 77.313141
@@ -3318,148 +3269,155 @@ haryana_data=[
     "LONG": 76.837545
   },
   {
-    "HOSPITAL_INFO": "Facility Name: APEX HOSPITAL & TRAUMA CENTRE \nAvailability of Beds: Yes (16), Isolation Beds: 11,\nICU Beds: 5,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 27, ICU: 13, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8868000007",
-    "LAST_UPDATED": "Updated On: 4:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: APEX HOSPITAL & TRAUMA CENTRE \nAvailability of Beds: Yes (13), Isolation Beds: 13,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 23, ICU: 17, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8868000007",
+    "LAST_UPDATED": "Updated On: 9:37 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Dadlana \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8814896471",
-    "LAST_UPDATED": "Updated On: 4:30 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:33 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Khotpura \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:8059625656",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:33 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Civil Hospital panipat \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 29,\nICU Beds: Beds Over Utilized 6,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 4, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8059625656",
-    "LAST_UPDATED": "Updated On: 4:30 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Civil Hospital panipat \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 31,\nICU Beds: Beds Over Utilized 6,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 4, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8059625656",
+    "LAST_UPDATED": "Updated On: 9:53 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
     "HOSPITAL_INFO": "Facility Name: Cygnus Hospital \nAvailability of Beds: Yes (3), Isolation Beds: 0,\nICU Beds: 3,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8059010390",
-    "LAST_UPDATED": "Updated On: 4:30 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:51 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: GALAXY HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 5,\nICU Beds: Beds Over Utilized 5,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 5, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7027768001",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: GALAXY HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 3,\nICU Beds: Beds Over Utilized 5,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 5, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7027768001",
+    "LAST_UPDATED": "Updated On: 11:52 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
     "HOSPITAL_INFO": "Facility Name: IBM HOSPITAL & TRAUMA CENTRE \nAvailability of Beds: Yes (6), Isolation Beds: 4,\nICU Beds: 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 14, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9838400809",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:39 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 29.39,
     "LONG": 76.97
   },
   {
-    "HOSPITAL_INFO": "Facility Name: LHDM & Prem Hospital \nAvailability of Beds: Yes (28), Isolation Beds: 28,\nICU Beds: 0,\nVentilators: Beds Over Utilized 6\n\n\n\nAllocated Beds: Isolation Beds: 95, ICU: 17, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8685047942",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: LHDM & Prem Hospital \nAvailability of Beds: Yes (36), Isolation Beds: 35,\nICU Beds: 1,\nVentilators: Beds Over Utilized 6\n\n\n\nAllocated Beds: Isolation Beds: 95, ICU: 17, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8685047942",
+    "LAST_UPDATED": "Updated On: 9:41 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 29.39,
     "LONG": 76.96
   },
   {
-    "HOSPITAL_INFO": "Facility Name: MAX PLUS HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 7,\nICU Beds: Beds Over Utilized 4,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 2, ICU: 5, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9466533099",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: MAX PLUS HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 7,\nICU Beds: Beds Over Utilized 4,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 2, ICU: 5, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9466533099",
+    "LAST_UPDATED": "Updated On: 9:40 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 29.39,
     "LONG": 76.97
   },
   {
     "HOSPITAL_INFO": "Facility Name: NC Medical College \nAvailability of Beds: Yes (524), Isolation Beds: 524,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 593, ICU: 5, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9568056246",
-    "LAST_UPDATED": "Updated On: 4:30 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:42 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 29.286805,
     "LONG": 76.878955
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Park Hospital GT road panipat \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 3,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 45, ICU: 16, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416369866",
-    "LAST_UPDATED": "Updated On: 5:37 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Park Hospital GT road panipat \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 45, ICU: 16, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416369866",
+    "LAST_UPDATED": "Updated On: 10:32 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 29.332805,
     "LONG": 76.986878
   },
   {
+    "HOSPITAL_INFO": "Facility Name: Prime Hospital Health Leaders \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 8,\nICU Beds: Beds Over Utilized 4,\nVentilators: Beds Over Utilized 2\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 10:44 AM 30th Apr,21",
+    "CITY": "Panipat",
+    "LAT": 29.38,
+    "LONG": 76.97
+  },
+  {
     "HOSPITAL_INFO": "Facility Name: SDH Samalkha \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9813077233",
-    "LAST_UPDATED": "Updated On: 4:30 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:40 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: shobhit Hospital \nAvailability of Beds: Yes (1), Isolation Beds: 0,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 6, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9466365570",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: shobhit Hospital \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 9, ICU: 7, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9466365570",
+    "LAST_UPDATED": "Updated On: 9:57 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shree Badri Das Hospital and ICU Care Centre \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 8,\nICU Beds: Beds Over Utilized 3,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
-    "LAST_UPDATED": "Updated On: 4:25 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shree Badri Das Hospital and ICU Care Centre \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 8,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:31 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 29.39,
     "LONG": 76.95
   },
   {
-    "HOSPITAL_INFO": "Facility Name: APIIT College \nAvailability of Beds: Yes (18), Isolation Beds: 18,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 18, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:27 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: APIIT College \nAvailability of Beds: Yes (18), Isolation Beds: 18,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 18, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:33 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: DPS Panipat \nAvailability of Beds: Yes (100), Isolation Beds: 100,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 100, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: DPS Panipat \nAvailability of Beds: Yes (100), Isolation Beds: 100,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 100, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:34 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: ESI Hospital \nAvailability of Beds: Yes (24), Isolation Beds: 24,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 24, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: ESI Hospital \nAvailability of Beds: Yes (24), Isolation Beds: 24,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 24, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:34 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Geeta College of Law \nAvailability of Beds: Yes (88), Isolation Beds: 88,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 88, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:27 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Geeta College of Law \nAvailability of Beds: Yes (88), Isolation Beds: 88,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 88, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:33 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Hostel of Geeta College \nAvailability of Beds: Yes (150), Isolation Beds: 150,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 150, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Hostel of Geeta College \nAvailability of Beds: Yes (150), Isolation Beds: 150,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 150, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:33 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: New Building NC Medical college Israna \nAvailability of Beds: Yes (120), Isolation Beds: 120,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 120, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: New Building NC Medical college Israna \nAvailability of Beds: Yes (120), Isolation Beds: 120,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 120, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:34 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
   },
   {
-    "HOSPITAL_INFO": "Facility Name: NSTI \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
-    "LAST_UPDATED": "Updated On: 4:28 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: NSTI \nAvailability of Beds: Yes (50), Isolation Beds: 50,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
+    "LAST_UPDATED": "Updated On: 9:34 AM 30th Apr,21",
     "CITY": "Panipat",
     "LAT": 0,
     "LONG": 0
@@ -3479,8 +3437,8 @@ haryana_data=[
     "LONG": 76.62082
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Civil Hospital rewari \nAvailability of Beds: Yes (21), Isolation Beds: 21,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 67, ICU: 3, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01274254743",
-    "LAST_UPDATED": "Updated On: 4:33 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Civil Hospital rewari \nAvailability of Beds: Yes (22), Isolation Beds: 22,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 67, ICU: 3, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01274254743",
+    "LAST_UPDATED": "Updated On: 11:01 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.202254,
     "LONG": 76.619527
@@ -3521,8 +3479,8 @@ haryana_data=[
     "LONG": 76.617987
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Maars Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:1274255556",
-    "LAST_UPDATED": "Updated On: 5:21 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Maars Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 5, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:1274255556",
+    "LAST_UPDATED": "Updated On: 11:05 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.186196,
     "LONG": 76.621021
@@ -3549,8 +3507,8 @@ haryana_data=[
     "LONG": 76.791331
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Pushpanjli Hospital Rewari \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 30, ICU: 5, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01274263300",
-    "LAST_UPDATED": "Updated On: 6:55 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Pushpanjli Hospital Rewari \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 31,\nICU Beds: Beds Over Utilized 10,\nVentilators: Beds Over Utilized 1\n\n\n\nAllocated Beds: Isolation Beds: 30, ICU: 5, Ventilators: 2 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01274263300",
+    "LAST_UPDATED": "Updated On: 9:54 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.179411,
     "LONG": 76.62411
@@ -3563,15 +3521,15 @@ haryana_data=[
     "LONG": 76.624207
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SDH Kosli \nAvailability of Beds: Yes (31), Isolation Beds: 31,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 35, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01259275102",
-    "LAST_UPDATED": "Updated On: 5:15 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SDH Kosli \nAvailability of Beds: Yes (27), Isolation Beds: 27,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 35, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01259275102",
+    "LAST_UPDATED": "Updated On: 9:14 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.40588,
     "LONG": 76.482092
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shanti Yadav Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 11,\nICU Beds: Beds Over Utilized 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01274222209",
-    "LAST_UPDATED": "Updated On: 4:10 PM 28th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shanti Yadav Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 12,\nICU Beds: Beds Over Utilized 2,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: No\n Helpline: 108, 1075 BoardLine Number:01274222209",
+    "LAST_UPDATED": "Updated On: 11:22 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.187502,
     "LONG": 76.614166
@@ -3584,15 +3542,15 @@ haryana_data=[
     "LONG": 76.620695
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SMCC Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 11, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9372621585",
-    "LAST_UPDATED": "Updated On: 6:21 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SMCC Hospital \nAvailability of Beds: Yes (1), Isolation Beds: 0,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 11, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9372621585",
+    "LAST_UPDATED": "Updated On: 9:33 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.194461,
     "LONG": 76.621658
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Sushma Devi Hospital, Bawal \nAvailability of Beds: Yes (12), Isolation Beds: 9,\nICU Beds: 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 3, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:1284260052",
-    "LAST_UPDATED": "Updated On: 5:17 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Sushma Devi Hospital, Bawal \nAvailability of Beds: Yes (13), Isolation Beds: 10,\nICU Beds: 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 3, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:1284260052",
+    "LAST_UPDATED": "Updated On: 9:06 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.07704,
     "LONG": 76.58495
@@ -3605,15 +3563,15 @@ haryana_data=[
     "LONG": 76.62444
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Virat Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 28,\nICU Beds: Beds Over Utilized 12,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 45, ICU: 15, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:07082213311",
-    "LAST_UPDATED": "Updated On: 5:19 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Virat Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 16,\nICU Beds: Beds Over Utilized 12,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 45, ICU: 15, Ventilators: 3 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:07082213311",
+    "LAST_UPDATED": "Updated On: 11:08 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.198233,
     "LONG": 76.624288
   },
   {
     "HOSPITAL_INFO": "Facility Name: Yaduvanshi Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 4, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01274225281",
-    "LAST_UPDATED": "Updated On: 7:11 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:31 AM 30th Apr,21",
     "CITY": "Rewari",
     "LAT": 28.189442,
     "LONG": 76.614152
@@ -3725,7 +3683,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Advanta Super Speciality Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: Beds Over Utilized 4,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 25, ICU: 10, Ventilators: 4 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01262266111",
-    "LAST_UPDATED": "Updated On: 3:13 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:49 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.885569,
     "LONG": 76.61383
@@ -3759,22 +3717,22 @@ haryana_data=[
     "LONG": 76.71817
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Madina \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8950273667",
-    "LAST_UPDATED": "Updated On: 12:57 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Madina \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8950273667",
+    "LAST_UPDATED": "Updated On: 9:04 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.940886,
     "LONG": 76.432044
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Meham \nAvailability of Beds: Yes (8), Isolation Beds: 8,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 8, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8053105216",
-    "LAST_UPDATED": "Updated On: 3:17 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:41 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.96259,
     "LONG": 76.29585
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Sampla \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9254241241",
-    "LAST_UPDATED": "Updated On: 4:58 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:10 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.76834,
     "LONG": 76.766624
@@ -3795,7 +3753,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Hridaya Nilayam Heart, Lung & vascular Institute \nAvailability of Beds: Yes (5), Isolation Beds: 0,\nICU Beds: 5,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 0, ICU: 25, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9215510279",
-    "LAST_UPDATED": "Updated On: 4:35 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:06 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.88165,
     "LONG": 76.6276
@@ -3808,8 +3766,8 @@ haryana_data=[
     "LONG": 76.666109
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Life Care Hospital \nAvailability of Beds: Yes (16), Isolation Beds: 16,\nICU Beds: Beds Over Utilized 6,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 30, ICU: 14, Ventilators: 6 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9254392542",
-    "LAST_UPDATED": "Updated On: 2:59 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Life Care Hospital \nAvailability of Beds: Yes (21), Isolation Beds: 21,\nICU Beds: Beds Over Utilized 4,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 30, ICU: 14, Ventilators: 6 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9254392542",
+    "LAST_UPDATED": "Updated On: 11:42 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.89312,
     "LONG": 76.60836
@@ -3822,8 +3780,8 @@ haryana_data=[
     "LONG": 76.589667
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Mansarover Hospital \nAvailability of Beds: Yes (8), Isolation Beds: Beds Over Utilized 9,\nICU Beds: 8,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 10, Ventilators: 8 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01262655355",
-    "LAST_UPDATED": "Updated On: 4:49 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Mansarover Hospital \nAvailability of Beds: Yes (7), Isolation Beds: Beds Over Utilized 8,\nICU Beds: 7,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 10, Ventilators: 8 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01262655355",
+    "LAST_UPDATED": "Updated On: 9:39 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.896077,
     "LONG": 76.599239
@@ -3843,7 +3801,7 @@ haryana_data=[
     "LONG": 76.627761
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Oscar Super Speciality Trauma Center \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 10,\nICU Beds: 0,\nVentilators: Beds Over Utilized 3\n\n\n\nAllocated Beds: Isolation Beds: 34, ICU: 1, Ventilators: 4 \n \nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9992193331",
+    "HOSPITAL_INFO": "Facility Name: Oscar Super Speciality Trauma Center \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 10,\nICU Beds: 0,\nVentilators: Beds Over Utilized 3\n\n\n\nAllocated Beds: Isolation Beds: 34, ICU: 1, Ventilators: 4 \n\n Availability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9992193331",
     "LAST_UPDATED": "Updated On: 12:56 PM 29th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.887179,
@@ -3851,7 +3809,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Oxygen Hospital \nAvailability of Beds: Yes (28), Isolation Beds: 28,\nICU Beds: Beds Over Utilized 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 47, ICU: 2, Ventilators: 3 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:06262747495",
-    "LAST_UPDATED": "Updated On: 5:08 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:25 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.897955,
     "LONG": 76.577104
@@ -3864,8 +3822,8 @@ haryana_data=[
     "LONG": 76.608251
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Positron Hospital \nAvailability of Beds: Yes (12), Isolation Beds: 7,\nICU Beds: 5,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 12, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01262663000",
-    "LAST_UPDATED": "Updated On: 6:05 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Positron Hospital \nAvailability of Beds: Yes (13), Isolation Beds: 8,\nICU Beds: 5,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 16, ICU: 12, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01262663000",
+    "LAST_UPDATED": "Updated On: 9:15 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.91316,
     "LONG": 76.624027
@@ -3885,15 +3843,15 @@ haryana_data=[
     "LONG": 76.586558
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Shivam Liver & Gastro Super Speciality Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 2,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 3, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01262254254",
-    "LAST_UPDATED": "Updated On: 12:59 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Shivam Liver & Gastro Super Speciality Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 2,\nICU Beds: Beds Over Utilized 2,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 3, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01262254254",
+    "LAST_UPDATED": "Updated On: 7:25 PM 29th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.89776,
     "LONG": 76.582732
   },
   {
     "HOSPITAL_INFO": "Facility Name: Sunflag Global Hospital \nAvailability of Beds: No (0), Isolation Beds: Beds Over Utilized 2,\nICU Beds: Beds Over Utilized 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 48, ICU: 2, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9254308880",
-    "LAST_UPDATED": "Updated On: 5:36 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:00 AM 30th Apr,21",
     "CITY": "Rohtak",
     "LAT": 28.895614,
     "LONG": 76.609037
@@ -4026,21 +3984,21 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: SPS Hospital, Sirsa \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 14, ICU: 1, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:07504512345",
-    "LAST_UPDATED": "Updated On: 4:29 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:24 AM 30th Apr,21",
     "CITY": "Sirsa",
     "LAT": 29.537247,
     "LONG": 75.03261
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Suraksha Hospital, Sirsa \nAvailability of Beds: Yes (7), Isolation Beds: Beds Over Utilized 3,\nICU Beds: 7,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 10, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01666220020",
-    "LAST_UPDATED": "Updated On: 6:35 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Suraksha Hospital, Sirsa \nAvailability of Beds: Yes (7), Isolation Beds: Beds Over Utilized 1,\nICU Beds: 7,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 10, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:01666220020",
+    "LAST_UPDATED": "Updated On: 10:10 AM 30th Apr,21",
     "CITY": "Sirsa",
     "LAT": 29.544207,
     "LONG": 75.028628
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Swastik Hospital, Sirsa \nAvailability of Beds: Yes (8), Isolation Beds: 5,\nICU Beds: 3,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09991330216",
-    "LAST_UPDATED": "Updated On: 4:16 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Swastik Hospital, Sirsa \nAvailability of Beds: Yes (7), Isolation Beds: 7,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 12, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:09991330216",
+    "LAST_UPDATED": "Updated On: 11:10 AM 30th Apr,21",
     "CITY": "Sirsa",
     "LAT": 29.531441,
     "LONG": 75.035122
@@ -4067,7 +4025,7 @@ haryana_data=[
     "LONG": 75.033364
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Facility Center, Sirsa \nAvailability of Beds: Yes (22), Isolation Beds: 22,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Facility Center, Sirsa \nAvailability of Beds: Yes (22), Isolation Beds: 22,\nICU Beds: 0,\nVentilators: 0\n\n\nType: - \n\nAllocated Beds: Isolation Beds: 50, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:",
     "LAST_UPDATED": "Updated On: 4:19 PM 29th Apr,21",
     "CITY": "Sirsa",
     "LAT": 29.550293,
@@ -4124,14 +4082,14 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: ASHIRWAD BHAGAT HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 1, Ventilators: 2 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416012508",
-    "LAST_UPDATED": "Updated On: 4:09 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:37 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.985899,
     "LONG": 77.026664
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Bhagwan Dass Hospital \nAvailability of Beds: Yes (13), Isolation Beds: 13,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 54, ICU: 4, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9899151927",
-    "LAST_UPDATED": "Updated On: 12:31 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Bhagwan Dass Hospital \nAvailability of Beds: Yes (24), Isolation Beds: 24,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 54, ICU: 4, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9899151927",
+    "LAST_UPDATED": "Updated On: 10:54 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.004135,
     "LONG": 77.069093
@@ -4165,15 +4123,15 @@ haryana_data=[
     "LONG": 77.036602
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CYGNUS HOSPITAL, Sonipat \nAvailability of Beds: Yes (9), Isolation Beds: 9,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 22, ICU: 0, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8800252638",
-    "LAST_UPDATED": "Updated On: 5:47 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CYGNUS HOSPITAL, Sonipat \nAvailability of Beds: Yes (9), Isolation Beds: 9,\nICU Beds: 0,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 22, ICU: 0, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8800252638",
+    "LAST_UPDATED": "Updated On: 11:11 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.981386,
     "LONG": 77.01892
   },
   {
     "HOSPITAL_INFO": "Facility Name: Dayanand Hospital-Sonepat \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 13, ICU: 4, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9467575442",
-    "LAST_UPDATED": "Updated On: 4:54 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 9:30 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.987723,
     "LONG": 77.006455
@@ -4187,21 +4145,21 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: DRM HOSPITAL \nAvailability of Beds: Yes (7), Isolation Beds: 6,\nICU Beds: 1,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 9, ICU: 1, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8698823433",
-    "LAST_UPDATED": "Updated On: 11:17 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:11 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.002224,
     "LONG": 77.002889
   },
   {
-    "HOSPITAL_INFO": "Facility Name: FIIMS Hospital \nAvailability of Beds: Yes (17), Isolation Beds: 17,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 29, ICU: 11, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9996667001",
-    "LAST_UPDATED": "Updated On: 5:54 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: FIIMS Hospital \nAvailability of Beds: Yes (16), Isolation Beds: 16,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 29, ICU: 11, Ventilators: 5 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9996667001",
+    "LAST_UPDATED": "Updated On: 10:40 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.972626,
     "LONG": 77.068693
   },
   {
     "HOSPITAL_INFO": "Facility Name: GAJRAJ HOSPITAL \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:919416015377",
-    "LAST_UPDATED": "Updated On: 10:39 AM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 11:03 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.132423,
     "LONG": 76.701269
@@ -4221,8 +4179,8 @@ haryana_data=[
     "LONG": 77.016112
   },
   {
-    "HOSPITAL_INFO": "Facility Name: HARYANA HOSPITAL \nAvailability of Beds: Yes (40), Isolation Beds: 30,\nICU Beds: 10,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 20, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:7082086975",
-    "LAST_UPDATED": "Updated On: 4:12 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: HARYANA HOSPITAL \nAvailability of Beds: Yes (31), Isolation Beds: 31,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 20, Ventilators: 2 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:7082086975",
+    "LAST_UPDATED": "Updated On: 8:06 PM 29th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.991997,
     "LONG": 77.032742
@@ -4242,8 +4200,8 @@ haryana_data=[
     "LONG": 77.059319
   },
   {
-    "HOSPITAL_INFO": "Facility Name: OSCAR HOSPITAL \nAvailability of Beds: Yes (7), Isolation Beds: 5,\nICU Beds: 2,\nVentilators: 2\n\n\n\nAllocated Beds: Isolation Beds: 23, ICU: 10, Ventilators: 2 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9992300019",
-    "LAST_UPDATED": "Updated On: 11:47 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: OSCAR HOSPITAL \nAvailability of Beds: Yes (16), Isolation Beds: 12,\nICU Beds: 4,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 23, ICU: 10, Ventilators: 2 \n\nAvailability of Oxygen: No\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9992300019",
+    "LAST_UPDATED": "Updated On: 11:46 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.990551,
     "LONG": 77.034695
@@ -4264,7 +4222,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: RAMA HOSPITAL \nAvailability of Beds: Yes (22), Isolation Beds: 8,\nICU Beds: 14,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 33, ICU: 16, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416011508",
-    "LAST_UPDATED": "Updated On: 4:06 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 8:41 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.964184,
     "LONG": 77.088157
@@ -4298,29 +4256,29 @@ haryana_data=[
     "LONG": 77.03547
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SIDDHIVINAYAK HOSPITAL \nAvailability of Beds: Yes (6), Isolation Beds: 6,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 17, ICU: 3, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7015984871",
-    "LAST_UPDATED": "Updated On: 8:05 AM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SIDDHIVINAYAK HOSPITAL \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 17, ICU: 3, Ventilators: 0 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7015984871",
+    "LAST_UPDATED": "Updated On: 11:50 PM 29th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.130534,
     "LONG": 76.701771
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SITA HOSPITAL SONIPAT \nAvailability of Beds: Yes (5), Isolation Beds: 4,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 17, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812600847",
-    "LAST_UPDATED": "Updated On: 4:37 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SITA HOSPITAL SONIPAT \nAvailability of Beds: Yes (2), Isolation Beds: 1,\nICU Beds: 1,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 17, ICU: 3, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812600847",
+    "LAST_UPDATED": "Updated On: 10:00 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.134251,
     "LONG": 77.017386
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SMT JAIDEVI MEMORIAL NURSING HOME \nAvailability of Beds: Yes (9), Isolation Beds: 5,\nICU Beds: 4,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 9, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8395917744",
-    "LAST_UPDATED": "Updated On: 4:39 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SMT JAIDEVI MEMORIAL NURSING HOME \nAvailability of Beds: Yes (9), Isolation Beds: 5,\nICU Beds: 4,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 9, Ventilators: 1 \n\nAvailability of Oxygen: To Be Updated\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: To Be Updated,\nAnticoagulant: To Be Updated,\nAntipyretic: To Be Updated\n Helpline: 108, 1075 BoardLine Number:8395917744",
+    "LAST_UPDATED": "Updated On: 10:26 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.000146,
     "LONG": 77.040615
   },
   {
-    "HOSPITAL_INFO": "Facility Name: SUNHERI DEVI HOSPITAL \nAvailability of Beds: Yes (5), Isolation Beds: 5,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): To Be Updated,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812303197",
-    "LAST_UPDATED": "Updated On: 4:41 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: SUNHERI DEVI HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 5, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9812303197",
+    "LAST_UPDATED": "Updated On: 12:23 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.989592,
     "LONG": 77.014849
@@ -4341,34 +4299,34 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: TULIP HOSPITAL \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 15, ICU: 8, Ventilators: 2 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9729042823",
-    "LAST_UPDATED": "Updated On: 12:24 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:48 AM 30th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.991686,
     "LONG": 77.034259
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Anant Raj Hotel \nAvailability of Beds: Yes (250), Isolation Beds: 250,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 250, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: Anant Raj Hotel \nAvailability of Beds: Yes (250), Isolation Beds: 250,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Paid \n\nAllocated Beds: Isolation Beds: 250, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9812078027",
     "LAST_UPDATED": "Updated On: 4:45 PM 29th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.930784,
     "LONG": 77.096691
   },
   {
-    "HOSPITAL_INFO": "Facility Name: BPS UNIVERSITY HOSTEL KHANPUR \nAvailability of Beds: Yes (898), Isolation Beds: 897,\nICU Beds: 1,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 898, ICU: 1, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: BPS UNIVERSITY HOSTEL KHANPUR \nAvailability of Beds: Yes (898), Isolation Beds: 897,\nICU Beds: 1,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 898, ICU: 1, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9812208111",
     "LAST_UPDATED": "Updated On: 4:27 PM 29th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.155165,
     "LONG": 76.81049
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC FIROZPUR BANGAR \nAvailability of Beds: Yes (27), Isolation Beds: 27,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 27, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: CHC FIROZPUR BANGAR \nAvailability of Beds: Yes (27), Isolation Beds: 27,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 27, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:9812027219",
     "LAST_UPDATED": "Updated On: 4:43 PM 29th Apr,21",
     "CITY": "Sonipat",
     "LAT": 28.830001,
     "LONG": 76.982654
   },
   {
-    "HOSPITAL_INFO": "Facility Name: DCRUST UNIVERSITY HOSTEL \nAvailability of Beds: Yes (974), Isolation Beds: 974,\nICU Beds: 0,\nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 1000, ICU: 0, Ventilators: 0",
+    "HOSPITAL_INFO": "Facility Name: DCRUST UNIVERSITY HOSTEL \nAvailability of Beds: Yes (974), Isolation Beds: 974,\nICU Beds: 0, \nVentilators: 0\n\n\nType: Free \n\nAllocated Beds: Isolation Beds: 1000, ICU: 0, Ventilators: 0 \n\n Helpline: 108, 1075 BoardLine Number:8059557905",
     "LAST_UPDATED": "Updated On: 4:28 PM 29th Apr,21",
     "CITY": "Sonipat",
     "LAT": 29.027484,
@@ -4382,43 +4340,43 @@ haryana_data=[
     "LONG": 77.29844
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Bilaspur \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 24, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9388000013",
-    "LAST_UPDATED": "Updated On: 5:08 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Bilaspur \nAvailability of Beds: Yes (7), Isolation Beds: 7,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 24, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9388000013",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.30128,
     "LONG": 77.3022
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Chhachharuli \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 30, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7988462198",
-    "LAST_UPDATED": "Updated On: 5:08 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.240834,
     "LONG": 77.359062
   },
   {
-    "HOSPITAL_INFO": "Facility Name: CHC Naharpur \nAvailability of Beds: Yes (2), Isolation Beds: 2,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9896508006",
-    "LAST_UPDATED": "Updated On: 5:26 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: CHC Naharpur \nAvailability of Beds: Yes (7), Isolation Beds: 7,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9896508006",
+    "LAST_UPDATED": "Updated On: 10:41 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30,
     "LONG": 77.2755
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Partap Nagar \nAvailability of Beds: Yes (20), Isolation Beds: 20,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 20, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9466718860",
-    "LAST_UPDATED": "Updated On: 5:09 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:37 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.286893,
     "LONG": 77.497876
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Radaur \nAvailability of Beds: Yes (10), Isolation Beds: 10,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 10, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9802228229",
-    "LAST_UPDATED": "Updated On: 5:09 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:40 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.03233,
     "LONG": 77.15265
   },
   {
     "HOSPITAL_INFO": "Facility Name: CHC Saraswati Nagar \nAvailability of Beds: Yes (32), Isolation Beds: 32,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 34, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416801156",
-    "LAST_UPDATED": "Updated On: 5:10 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:40 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.199872,
     "LONG": 77.14402
@@ -4431,15 +4389,15 @@ haryana_data=[
     "LONG": 77.274949
   },
   {
-    "HOSPITAL_INFO": "Facility Name: ESI Hospital \nAvailability of Beds: Yes (1), Isolation Beds: 0,\nICU Beds: 1,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 56, ICU: 10, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9355688124",
-    "LAST_UPDATED": "Updated On: 5:03 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: ESI Hospital \nAvailability of Beds: Yes (26), Isolation Beds: 21,\nICU Beds: 5,\nVentilators: 3\n\n\n\nAllocated Beds: Isolation Beds: 71, ICU: 10, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9355688124",
+    "LAST_UPDATED": "Updated On: 10:33 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.143989,
     "LONG": 77.303459
   },
   {
     "HOSPITAL_INFO": "Facility Name: Gaba Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 40, ICU: 10, Ventilators: 4 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:01732222194",
-    "LAST_UPDATED": "Updated On: 5:04 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:34 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.14712,
     "LONG": 77.290023
@@ -4452,8 +4410,8 @@ haryana_data=[
     "LONG": 77.277861
   },
   {
-    "HOSPITAL_INFO": "Facility Name: Heart Care Center Hospital \nAvailability of Beds: Yes (13), Isolation Beds: 3,\nICU Beds: 10,\nVentilators: 1\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 20, Ventilators: 8 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8222933422",
-    "LAST_UPDATED": "Updated On: 5:07 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: Heart Care Center Hospital \nAvailability of Beds: Yes (11), Isolation Beds: 3,\nICU Beds: 8,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 4, ICU: 20, Ventilators: 8 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:8222933422",
+    "LAST_UPDATED": "Updated On: 10:35 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.141541,
     "LONG": 77.300955
@@ -4502,7 +4460,7 @@ haryana_data=[
   },
   {
     "HOSPITAL_INFO": "Facility Name: Santosh Hospital \nAvailability of Beds: No (0), Isolation Beds: 0,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 26, ICU: 2, Ventilators: 1 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:9416158466",
-    "LAST_UPDATED": "Updated On: 5:03 PM 29th Apr,21",
+    "LAST_UPDATED": "Updated On: 10:34 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.14331,
     "LONG": 77.287009
@@ -4536,8 +4494,8 @@ haryana_data=[
     "LONG": 77.304776
   },
   {
-    "HOSPITAL_INFO": "Facility Name: tejli stadium \nAvailability of Beds: Yes (51), Isolation Beds: 51,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 100, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7042131032",
-    "LAST_UPDATED": "Updated On: 5:09 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: tejli stadium \nAvailability of Beds: Yes (58), Isolation Beds: 58,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 100, ICU: 0, Ventilators: 0 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): No,\nSteroids: No,\nAnticoagulant: No,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:7042131032",
+    "LAST_UPDATED": "Updated On: 10:36 AM 30th Apr,21",
     "CITY": "Yamunanagar",
     "LAT": 30.133381,
     "LONG": 77.305656
@@ -4564,8 +4522,8 @@ haryana_data=[
     "LONG": 77.299984
   },
   {
-    "HOSPITAL_INFO": "Facility Name: DCH SHKM GMC Nalhar \nAvailability of Beds: Yes (79), Isolation Beds: 79,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 165, ICU: 31, Ventilators: 31 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:282007",
-    "LAST_UPDATED": "Updated On: 4:37 PM 29th Apr,21",
+    "HOSPITAL_INFO": "Facility Name: DCH SHKM GMC Nalhar \nAvailability of Beds: Yes (83), Isolation Beds: 83,\nICU Beds: 0,\nVentilators: 0\n\n\n\nAllocated Beds: Isolation Beds: 165, ICU: 31, Ventilators: 31 \n\nAvailability of Oxygen: Yes\n Availability of Drugs\nAntiviral (Remdesivir etc ): Yes,\nSteroids: Yes,\nAnticoagulant: Yes,\nAntipyretic: Yes\n Helpline: 108, 1075 BoardLine Number:282007",
+    "LAST_UPDATED": "Updated On: 10:39 AM 30th Apr,21",
     "CITY": "Nuh",
     "LAT": 28.090384,
     "LONG": 76.973701
