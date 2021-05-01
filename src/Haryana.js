@@ -11,7 +11,7 @@ class Haryana {
         var  ven_tot = (i["HOSPITAL_INFO"].split("Availability of Oxygen:")[0].split("Allocated Beds:")[1] ? parseInt(i["HOSPITAL_INFO"].split("Availability of Oxygen:")[0].split("Allocated Beds:")[1].split(", Ventilators: ")[1]) : null);
 
         try {
-          if(i["LAT"] && i["LONG"]) {
+          if(i["LAT"] != 0 && i["LONG"] != 0) {
             if(bedtype == "icu") {
               if(icu_tot || ven_tot) {
                 flag = 1;
