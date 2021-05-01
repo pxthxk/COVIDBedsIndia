@@ -224,18 +224,19 @@
 		<script src="resources/Delhi_missing_hospital_locations.js"></script>
 		<script src="resources/Ahmedabad_info.js"></script>
 		<!-- <script src="resources/Bengaluru_info.js"></script> -->
-		<script src="resources/Pune_info.js"></script>
-		<script src="resources/Andhra_Pradesh_info.js"></script>
-		<script src="resources/Chhattisgarh_info.js"></script>
-		<script src="resources/Haryana_info.js"></script>
+		<!-- <script src="resources/Pune_info.js"></script> -->
+		<!-- <script src="resources/Andhra_Pradesh_info.js"></script> -->
+		<!-- <script src="resources/Chhattisgarh_info.js"></script> -->
+		<!-- <script src="resources/Haryana_info.js"></script> -->
 		<script src="resources/Madhya_Pradesh_info.js"></script>
-		<script src="resources/Rajasthan_info.js"></script>
+		<!-- <script src="resources/Rajasthan_info.js"></script> -->
 		<!-- <script src="resources/Tamil_Nadu_info.js"></script> -->
-		<script src="resources/Telangana_info.js"></script>
+		<!-- <script src="resources/Telangana_info.js"></script> -->
 		<script src="resources/West_Bengal_info.js"></script>
 		<script src="src/Delhi.js"></script>
 		<script src="src/Ahmedabad.js"></script>
 		<script src="src/Bengaluru.js"></script>
+		<script src="src/Gandhinagar.js"></script>
 		<script src="src/Pune.js"></script>
 		<script src="src/Andhra_Pradesh.js"></script>
 		<script src="src/Chhattisgarh.js"></script>
@@ -244,6 +245,7 @@
 		<script src="src/Rajasthan.js"></script>
 		<script src="src/Tamil_Nadu.js"></script>
 		<script src="src/Telangana.js"></script>
+		<script src="src/Uttarakhand.js"></script>
 		<script src="src/West_Bengal.js"></script>
 		<script type="text/javascript">
 			var bedtype = null;
@@ -295,6 +297,9 @@
 				
 				var bengaluru = new Bengaluru();
 				bengaluru.populate(mcg, bedtype);
+
+				var gandhinagar = new Gandhinagar();
+				gandhinagar.populate(mcg, bedtype);
 				
 				var pune = new Pune();
 				pune.populate(mcg, bedtype);
@@ -319,6 +324,9 @@
 				
 				var telangana = new Telangana();
 				telangana.populate(mcg, bedtype);
+
+				var uttarakhand = new Uttarakhand();
+				uttarakhand.populate(mcg, bedtype);
 				
 				var westbengal = new West_Bengal();
 				westbengal.populate(mcg, bedtype);
