@@ -2,7 +2,7 @@ andhra_pradesh_data=[
   {
     "SNO": 1,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "823ce111-a2b4-4a17-931c-4f4201cc7672",
+    "UID": "90cd19a5-a05d-4200-aae9-1ca20bfce087",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Super Speciality Hospital, ATP",
@@ -27,7 +27,7 @@ andhra_pradesh_data=[
   {
     "SNO": 2,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ad69d0b3-b2a7-443c-ae07-bc9abc412cca",
+    "UID": "d5d21834-e627-4fa0-ba0e-ec69324abc5c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Amaravathi Multi Speciality Hospital, Ananthapuramu",
@@ -52,7 +52,7 @@ andhra_pradesh_data=[
   {
     "SNO": 3,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6d8f608f-8292-4066-aab3-a45a064c46a1",
+    "UID": "d8522402-aa36-4b88-b9f9-943f60a4f49e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Divyasree Hospital, Ananthapuramu",
@@ -77,7 +77,7 @@ andhra_pradesh_data=[
   {
     "SNO": 4,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "08000a97-9ff8-461a-a07a-67bce37152dd",
+    "UID": "31f7222b-7e63-4197-bd30-42469edca02b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Care & Cure Hospital",
@@ -102,7 +102,7 @@ andhra_pradesh_data=[
   {
     "SNO": 5,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4ade7734-b039-4186-aad5-b2cbe0ac4691",
+    "UID": "af774085-827b-4ff6-bb47-b45f69b5e947",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "GGH, Anantapuram",
@@ -127,7 +127,7 @@ andhra_pradesh_data=[
   {
     "SNO": 6,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "09a94452-c338-4305-8c5d-e4bff7442a9b",
+    "UID": "dfc80b32-9d11-4c06-bee9-0aa177104aaf",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "DH, Hindupur",
@@ -140,8 +140,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 88,
     "OXYGEN_GENERAL_AVAILABLE": 2,
     "GENERAL_TOTAL": 53,
-    "GENERAL_OCCUPIED": 37,
-    "GENERAL_AVAILABLE": 16,
+    "GENERAL_OCCUPIED": 51,
+    "GENERAL_AVAILABLE": 2,
     "VENTILATOR": 30,
     "LOCATION": "https://maps.google.com/?q=Hindupuram,+Andhra+Pradesh,+India&ftid=0x3bb1a37558eb49ab:0x5af44b8c44a25d7b",
     "LAT": 13.8222599,
@@ -152,7 +152,7 @@ andhra_pradesh_data=[
   {
     "SNO": 7,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f77d335d-b5c8-420c-a8bc-a3375918ef06",
+    "UID": "26bc3e0a-521d-4472-9e54-9de5bcf0d275",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "AH, Guntakal",
@@ -162,8 +162,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 80,
-    "OXYGEN_GENERAL_OCCUPIED": 33,
-    "OXYGEN_GENERAL_AVAILABLE": 47,
+    "OXYGEN_GENERAL_OCCUPIED": 34,
+    "OXYGEN_GENERAL_AVAILABLE": 46,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -177,7 +177,7 @@ andhra_pradesh_data=[
   {
     "SNO": 8,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "30390792-59dc-4071-ad47-de489941dec8",
+    "UID": "8bc583b2-54da-426f-af11-b6a2297c06c9",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Saveera Hospital, Ananthapuram",
@@ -202,7 +202,7 @@ andhra_pradesh_data=[
   {
     "SNO": 9,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1acaf7dc-02ea-445f-8ae8-703118351e4a",
+    "UID": "f4481fd9-ab2d-4110-8877-ec9d24220a65",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "RDT Hospital, Ananthapuram",
@@ -212,8 +212,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 6,
     "ICU_AVAILABLE": 1,
     "OXYGEN_GENERAL_TOTAL": 213,
-    "OXYGEN_GENERAL_OCCUPIED": 148,
-    "OXYGEN_GENERAL_AVAILABLE": 65,
+    "OXYGEN_GENERAL_OCCUPIED": 150,
+    "OXYGEN_GENERAL_AVAILABLE": 63,
     "GENERAL_TOTAL": 20,
     "GENERAL_OCCUPIED": 7,
     "GENERAL_AVAILABLE": 13,
@@ -227,7 +227,7 @@ andhra_pradesh_data=[
   {
     "SNO": 10,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "438e342f-01bf-412c-af56-c2ac205c2e46",
+    "UID": "cf8f7e96-f716-4deb-9c61-495c707ba42c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Satya Sai Hospital, Puttaparthi",
@@ -252,7 +252,7 @@ andhra_pradesh_data=[
   {
     "SNO": 11,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6d0a82a5-3638-491c-af9e-baa55edf1c4d",
+    "UID": "2eabeb74-5e0d-4824-9937-2fc87ddd2701",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Chandra Super Speciality Hospital, Ananthapuram",
@@ -265,8 +265,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 8,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 24,
-    "GENERAL_OCCUPIED": 6,
-    "GENERAL_AVAILABLE": 18,
+    "GENERAL_OCCUPIED": 7,
+    "GENERAL_AVAILABLE": 17,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=3967243537040202828",
     "LAT": 14.6878284,
@@ -277,7 +277,7 @@ andhra_pradesh_data=[
   {
     "SNO": 12,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2a6439ed-b6c0-407e-be4e-e364db1fee28",
+    "UID": "94d3d1e3-d381-4bb3-b7af-f2c7da37e1bd",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "S R Multiple Super Speciality Hospital, Ananthapuramu",
@@ -302,7 +302,7 @@ andhra_pradesh_data=[
   {
     "SNO": 13,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2b45842d-2da5-4321-861c-32061255883f",
+    "UID": "f4f4eb3e-3b4b-4039-880b-f5ac8fb49878",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Govt., Cancer Hospital, Oncology Anantapur",
@@ -327,7 +327,7 @@ andhra_pradesh_data=[
   {
     "SNO": 14,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f96f79a2-28b3-42fb-b46b-0adf51a322b7",
+    "UID": "ef2c98d4-018a-4a64-a6f1-83175d5ff916",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "K.K NURSING HOME, ANANTHAPURAMU",
@@ -352,7 +352,7 @@ andhra_pradesh_data=[
   {
     "SNO": 15,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6cc8c6d8-be20-4a57-96b7-92aa0a084e15",
+    "UID": "b3e48128-29d0-49d0-8d87-f4aeb7058b14",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Asha Hospital, Ananthauramu",
@@ -377,7 +377,7 @@ andhra_pradesh_data=[
   {
     "SNO": 16,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5762305d-4e9f-43a7-9ed6-5f76f0c4ec24",
+    "UID": "2bc572ce-8880-450c-878f-007d567edb8b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Pavani Multi Specility  Hospital, Ananthapuramu",
@@ -402,7 +402,7 @@ andhra_pradesh_data=[
   {
     "SNO": 17,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ce230dfa-8f0d-48e0-b120-672f4a9fdd75",
+    "UID": "c49fa316-a137-4766-ac7b-817bc6c7dd20",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Dr.YSR memorial hospital",
@@ -427,7 +427,7 @@ andhra_pradesh_data=[
   {
     "SNO": 18,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d65f5fbd-3980-4fee-b7c2-558e2cab5f7d",
+    "UID": "1c7aee88-d8d1-4806-93c1-87570bea7078",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Mythri Hospital,  Anantapuramu",
@@ -452,7 +452,7 @@ andhra_pradesh_data=[
   {
     "SNO": 19,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c462f9ba-b5a9-4c63-99d1-98466ce2dd29",
+    "UID": "0ba2dd9c-6d16-47a4-90bd-17d390b6e7ac",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Kranthi Hospital, ATP  (Non Arogyasree)",
@@ -477,7 +477,7 @@ andhra_pradesh_data=[
   {
     "SNO": 20,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7ca5c8bc-b53c-4340-a4a7-1ef57b69da58",
+    "UID": "c5aad9e7-50ec-43f3-8751-2007c1c1aeac",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "SV Hospital ,  Ananthauramu",
@@ -502,7 +502,7 @@ andhra_pradesh_data=[
   {
     "SNO": 21,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1f866b29-7049-46f4-88e0-fc9fef732e72",
+    "UID": "3d5114be-94c7-4fd7-9eb2-3ba0430ff082",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Devi Nursing Home Dharmavaram",
@@ -512,8 +512,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 1,
     "ICU_AVAILABLE": 5,
     "OXYGEN_GENERAL_TOTAL": 31,
-    "OXYGEN_GENERAL_OCCUPIED": 8,
-    "OXYGEN_GENERAL_AVAILABLE": 23,
+    "OXYGEN_GENERAL_OCCUPIED": 13,
+    "OXYGEN_GENERAL_AVAILABLE": 18,
     "GENERAL_TOTAL": 14,
     "GENERAL_OCCUPIED": 8,
     "GENERAL_AVAILABLE": 6,
@@ -527,7 +527,7 @@ andhra_pradesh_data=[
   {
     "SNO": 22,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b3f6cf6b-f21e-4ba1-8506-4e4c0b383df0",
+    "UID": "deca413d-f9b2-4398-952f-4804883fd287",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "AH, Kadiri",
@@ -552,7 +552,7 @@ andhra_pradesh_data=[
   {
     "SNO": 23,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b5f39d80-91af-4cf5-8833-7138c9ba490d",
+    "UID": "522bdc95-da9a-4a18-948a-c94dd3ddad2a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "K.S.A.R.  Gaffoor Hospital, Ananthapuramu (Non Arogyasree)",
@@ -562,8 +562,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 6,
     "OXYGEN_GENERAL_TOTAL": 13,
-    "OXYGEN_GENERAL_OCCUPIED": 1,
-    "OXYGEN_GENERAL_AVAILABLE": 12,
+    "OXYGEN_GENERAL_OCCUPIED": 3,
+    "OXYGEN_GENERAL_AVAILABLE": 10,
     "GENERAL_TOTAL": 12,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 12,
@@ -577,15 +577,15 @@ andhra_pradesh_data=[
   {
     "SNO": 24,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fad24e91-c53d-4ba5-be17-e598944d6e14",
+    "UID": "ea531f7b-50f1-4675-a091-89f75e2c6d0a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Harshitha Multispeciality Hospital",
     "CONTACT": "08554243422",
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 12,
-    "ICU_OCCUPIED": 12,
-    "ICU_AVAILABLE": 0,
+    "ICU_OCCUPIED": 10,
+    "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 8,
     "OXYGEN_GENERAL_OCCUPIED": 7,
     "OXYGEN_GENERAL_AVAILABLE": 1,
@@ -602,7 +602,7 @@ andhra_pradesh_data=[
   {
     "SNO": 25,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ee4732c7-358c-4c30-8252-41235d7ad827",
+    "UID": "2de75915-47c7-4a5c-94b5-75b4d61b4535",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sree Pragna Hospital, Ananthauramu",
@@ -627,7 +627,7 @@ andhra_pradesh_data=[
   {
     "SNO": 26,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "858ed156-8096-4353-9f3a-f6511c35b0e5",
+    "UID": "817e04e1-f100-4d28-8f81-e590d3a52fc9",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Teja Nursing Home Hindupuram",
@@ -652,7 +652,7 @@ andhra_pradesh_data=[
   {
     "SNO": 27,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a62e8543-18a9-4530-af53-172cc1e5b1ff",
+    "UID": "d2d2d9f3-c2ae-4c93-96cc-124fa2157a9a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sri Anand Hospital,  Ananthapuramu",
@@ -677,7 +677,7 @@ andhra_pradesh_data=[
   {
     "SNO": 28,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "338d1967-47ff-4610-bc6d-0d0574af7ec2",
+    "UID": "ff8e9222-ceff-4e96-a011-f0479b04a066",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sreenivasa Multi Speciality Hospital, Ananthapuram",
@@ -702,7 +702,7 @@ andhra_pradesh_data=[
   {
     "SNO": 29,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "85fbc76c-7dbf-4ce1-8d3f-496fc977feb3",
+    "UID": "d54e5a80-1e7a-47ca-ae8b-de943947bb54",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sri Padmavathi Sreenivasa Multi Speciality Hospital, Guntakal",
@@ -727,7 +727,7 @@ andhra_pradesh_data=[
   {
     "SNO": 30,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "47ee64c5-f361-4da6-b101-02aacdbb9dac",
+    "UID": "578ee8fa-caa3-47c1-86a8-0408635a9e92",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sudarshan Hospital, Ananthapuram",
@@ -752,7 +752,7 @@ andhra_pradesh_data=[
   {
     "SNO": 31,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a1367174-8b96-4729-80f4-f9ce56472722",
+    "UID": "bda6eee2-188d-419b-ba2f-584794c5d027",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sanjeevani Hospital, Ananthapuram",
@@ -777,7 +777,7 @@ andhra_pradesh_data=[
   {
     "SNO": 32,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4e248ba7-e15d-4ee8-964d-6b0eee0a1d0a",
+    "UID": "663e98e4-7a93-4368-bd41-85fec11fde00",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Ananthapuram Orthopedic Centre, Ananthapuram",
@@ -802,7 +802,7 @@ andhra_pradesh_data=[
   {
     "SNO": 33,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "56aa2c6b-6926-4228-8ba8-31398943c7c7",
+    "UID": "528d3930-d3ba-44f4-a5e2-5fb29a768d3f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sai Ratna Multi Speciality Hospital, Ananthapuram",
@@ -827,7 +827,7 @@ andhra_pradesh_data=[
   {
     "SNO": 34,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9a9e5d1d-344c-48dc-8c66-5cab5fc75f66",
+    "UID": "5dd40446-0df6-434d-9ade-42538e13e18f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sri Sai Krupa Nursing Home, Ananthapuram",
@@ -852,7 +852,7 @@ andhra_pradesh_data=[
   {
     "SNO": 35,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c06a28d9-cfd1-4862-9430-2ce58f6e38c4",
+    "UID": "5785e49a-0929-4f90-8508-e45e6095d8ca",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Triveni Hospital, Kadiri",
@@ -877,7 +877,7 @@ andhra_pradesh_data=[
   {
     "SNO": 36,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a76b4b9f-8a2d-4860-95e2-c9a49dc6fb3c",
+    "UID": "3286078a-7e6c-4b92-a583-e59aad9f0919",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Ameer Nursing Home, Kadiri",
@@ -902,7 +902,7 @@ andhra_pradesh_data=[
   {
     "SNO": 37,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1aa62745-98a1-46eb-9bd3-54a2dd98a001",
+    "UID": "db6081e0-e420-46d0-8f6d-1dafdf66ebe6",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Balaji Super Speciality Hospital, Hindupur",
@@ -927,7 +927,7 @@ andhra_pradesh_data=[
   {
     "SNO": 38,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b6086b76-fcb5-4fa0-8c1f-9dac6eac3578",
+    "UID": "36b9cf9e-2cd7-4467-849f-ecc065013b5d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Preethi Nursing Home Guntakal",
@@ -952,7 +952,7 @@ andhra_pradesh_data=[
   {
     "SNO": 39,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6c77815d-1257-4123-b6e2-64a8c79c0333",
+    "UID": "51325592-f8fe-4acf-9f58-0eaced04cf3d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Balaji Eye Care, Laser Centre, Anantapur",
@@ -977,7 +977,7 @@ andhra_pradesh_data=[
   {
     "SNO": 40,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "70614cb0-52bd-4001-b99d-49928c9faa40",
+    "UID": "95f3d0be-fad2-4402-916b-c5e84b3e9f58",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "SWAPNA NURSING HOME , Guntakal",
@@ -1002,7 +1002,7 @@ andhra_pradesh_data=[
   {
     "SNO": 41,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8d8ea3ec-bfd3-44b9-9c84-3b508fd2f14b",
+    "UID": "88068aaf-bdb9-4646-b045-dbbefc7ad52d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sree Raghavendra Multispeciality Hospital, Hindupur",
@@ -1027,7 +1027,7 @@ andhra_pradesh_data=[
   {
     "SNO": 42,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8d869323-56e6-4b64-ae82-c32146dcd816",
+    "UID": "bc3bcb0f-8fa8-495a-8b08-520f82dc3ef9",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sri Gayathri Hospitl  Anantapur",
@@ -1052,7 +1052,7 @@ andhra_pradesh_data=[
   {
     "SNO": 43,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "41b82f90-9f47-4c0b-89cb-854fdeb9312f",
+    "UID": "d797f968-e00d-408a-bebb-7c69d756d73d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sai Krishna Nethralaya",
@@ -1077,7 +1077,7 @@ andhra_pradesh_data=[
   {
     "SNO": 44,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fe44fe1c-c5ae-4dea-ab93-32542edf4d51",
+    "UID": "c55978c5-730b-4063-bc40-3452bdb69564",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Apple Eye Care,  Anantapuramu",
@@ -1102,7 +1102,7 @@ andhra_pradesh_data=[
   {
     "SNO": 45,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a42f27ed-d67a-4759-8478-8f24cd75ee39",
+    "UID": "5ec96431-3b1f-4dd0-a383-cddb19f460a4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Snehalatha Hospitals Anantapuramu",
@@ -1127,7 +1127,7 @@ andhra_pradesh_data=[
   {
     "SNO": 46,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "898b403f-124e-403a-82ea-4639b31b0284",
+    "UID": "c190c208-1a90-418e-b58d-e5003b701d86",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "AASHA HOSPITAL,TADIPATRI",
@@ -1152,7 +1152,7 @@ andhra_pradesh_data=[
   {
     "SNO": 47,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3c2626b3-0de3-4de1-9885-d9c792bc8a41",
+    "UID": "49298934-a5f2-4b61-847c-07810b697039",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Lifeline Hospital Guntakal",
@@ -1177,7 +1177,7 @@ andhra_pradesh_data=[
   {
     "SNO": 48,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "321e9169-7e8a-4c58-b26c-bebf7e59e40d",
+    "UID": "e3a38567-4fd1-4236-9564-734abe8d46c5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Malvina Hospital And Eye Centre  Anantapuramu",
@@ -1202,7 +1202,7 @@ andhra_pradesh_data=[
   {
     "SNO": 49,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d1424da1-9d79-413a-aaed-f9b3f7fb23dc",
+    "UID": "c28a8ea0-c392-4878-bdf4-8b62848c4736",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "SIRI HOSPITAL",
@@ -1227,7 +1227,7 @@ andhra_pradesh_data=[
   {
     "SNO": 50,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4b9a0b5e-a6b2-42ce-982f-6e27bc4381b9",
+    "UID": "4e92520a-1897-4172-aded-068924491fc5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sree Nethra Ent And Eye Care Hospital Anantapuramu",
@@ -1252,7 +1252,7 @@ andhra_pradesh_data=[
   {
     "SNO": 51,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "33cacc60-640d-4cf9-9e55-e4ac5afba9a0",
+    "UID": "57378c14-dd20-4437-a6ad-6a9442aea35e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Medicure Hospitals, Anantapur",
@@ -1277,7 +1277,7 @@ andhra_pradesh_data=[
   {
     "SNO": 52,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b9a08025-e409-411c-9b00-2ba8b8a6f1c7",
+    "UID": "52b389b2-986a-4b26-a644-3b8dbc28595f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "Sri Prakash Eye Hospital  Anantapuramu",
@@ -1302,7 +1302,7 @@ andhra_pradesh_data=[
   {
     "SNO": 53,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "eaf61191-d5d2-4eaf-b721-ef0edc8c47d6",
+    "UID": "8d309310-0dd6-416c-a40e-e976cde1f801",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "SHANTHI HOSPITAL",
@@ -1327,7 +1327,7 @@ andhra_pradesh_data=[
   {
     "SNO": 54,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "19359ade-6561-415d-8ef5-77aa20d286c4",
+    "UID": "7155c34f-5e36-48db-88fd-77983b3adf14",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "CSR Hosptial",
@@ -1352,7 +1352,7 @@ andhra_pradesh_data=[
   {
     "SNO": 55,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d4930bb1-c250-4f49-aa23-4a44b94ee2d3",
+    "UID": "8d973824-1ec8-46b1-96d3-b415f49e1e17",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "PRIYA MULTI SPECIALITY HOSPITAL",
@@ -1377,7 +1377,7 @@ andhra_pradesh_data=[
   {
     "SNO": 56,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d2cbdcac-18b5-4168-a5de-320eb994b818",
+    "UID": "43857a98-fb59-466d-bf2a-de52e0e751e0",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Anantapur",
     "HOSPITAL_NAME": "RAKSHA HOSPITAL",
@@ -1402,15 +1402,15 @@ andhra_pradesh_data=[
   {
     "SNO": 57,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "50c1d4d8-78d7-4185-89d9-a378914ada71",
+    "UID": "7317c9a8-1169-47d2-8bfa-86eb39d06e62",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SVRRGG Hospital",
     "CONTACT": 8772286002,
     "AAROGYASRI_EMPANELMENT_STATUS": "Government",
     "ICU_TOTAL": 135,
-    "ICU_OCCUPIED": 132,
-    "ICU_AVAILABLE": 3,
+    "ICU_OCCUPIED": 134,
+    "ICU_AVAILABLE": 1,
     "OXYGEN_GENERAL_TOTAL": 502,
     "OXYGEN_GENERAL_OCCUPIED": 411,
     "OXYGEN_GENERAL_AVAILABLE": 91,
@@ -1427,7 +1427,7 @@ andhra_pradesh_data=[
   {
     "SNO": 58,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e333b676-4ae6-4b57-a408-fdea48cb003e",
+    "UID": "56ff2c3f-e2fe-460c-9d10-8f191dd1f6a2",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "Sr Padmavathi Hospital Tirupati",
@@ -1452,7 +1452,7 @@ andhra_pradesh_data=[
   {
     "SNO": 59,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "49ca6354-62a5-4c1e-b48e-a1bf1c46ac56",
+    "UID": "d71b9f2a-6d9a-423b-b59c-a2a6313876c1",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "ESI Hospital Tirupati",
@@ -1477,7 +1477,7 @@ andhra_pradesh_data=[
   {
     "SNO": 60,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "92627b26-eb04-49f4-aee4-f7d02d9bc291",
+    "UID": "4e4a1994-9c08-4e4e-87ea-2bd4ecee9c4c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "Lotus Hospital",
@@ -1487,11 +1487,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 10,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 35,
-    "OXYGEN_GENERAL_OCCUPIED": 34,
-    "OXYGEN_GENERAL_AVAILABLE": 1,
+    "OXYGEN_GENERAL_OCCUPIED": 33,
+    "OXYGEN_GENERAL_AVAILABLE": 2,
     "GENERAL_TOTAL": 25,
-    "GENERAL_OCCUPIED": 16,
-    "GENERAL_AVAILABLE": 9,
+    "GENERAL_OCCUPIED": 17,
+    "GENERAL_AVAILABLE": 8,
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=6734619863608269851",
     "LAT": 17.7474368,
@@ -1502,7 +1502,7 @@ andhra_pradesh_data=[
   {
     "SNO": 61,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e12f50f6-3e67-4226-9ad6-89f2efae9299",
+    "UID": "039d6425-9a03-4e83-a1b0-c7c7e8dd3d2f",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "Madhuri Remdey Hospital",
@@ -1512,11 +1512,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 3,
     "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 23,
-    "OXYGEN_GENERAL_OCCUPIED": 10,
-    "OXYGEN_GENERAL_AVAILABLE": 13,
+    "OXYGEN_GENERAL_OCCUPIED": 9,
+    "OXYGEN_GENERAL_AVAILABLE": 14,
     "GENERAL_TOTAL": 14,
-    "GENERAL_OCCUPIED": 14,
-    "GENERAL_AVAILABLE": 0,
+    "GENERAL_OCCUPIED": 12,
+    "GENERAL_AVAILABLE": 2,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=7837890198366571177",
     "LAT": 13.2171968,
@@ -1527,7 +1527,7 @@ andhra_pradesh_data=[
   {
     "SNO": 62,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "eb5f6ee2-0f56-496f-82db-9c7b3d4c1d50",
+    "UID": "25e9c2d2-744b-401f-b823-cb9d840daccd",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SHUBHASHINIHOSPITAL",
@@ -1537,8 +1537,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 5,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 25,
-    "OXYGEN_GENERAL_OCCUPIED": 12,
-    "OXYGEN_GENERAL_AVAILABLE": 13,
+    "OXYGEN_GENERAL_OCCUPIED": 16,
+    "OXYGEN_GENERAL_AVAILABLE": 9,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -1552,7 +1552,7 @@ andhra_pradesh_data=[
   {
     "SNO": 63,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "747235b5-5650-4288-9ebb-1db86c630c7d",
+    "UID": "8477f0d1-5327-45f0-82b9-eddb3ed38354",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "Amara Hospital",
@@ -1562,8 +1562,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 2,
     "ICU_AVAILABLE": 19,
     "OXYGEN_GENERAL_TOTAL": 68,
-    "OXYGEN_GENERAL_OCCUPIED": 34,
-    "OXYGEN_GENERAL_AVAILABLE": 34,
+    "OXYGEN_GENERAL_OCCUPIED": 44,
+    "OXYGEN_GENERAL_AVAILABLE": 24,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -1577,7 +1577,7 @@ andhra_pradesh_data=[
   {
     "SNO": 64,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "faeb2e0d-1362-49c6-b75c-36d515ddd01d",
+    "UID": "748adc91-4c5b-4584-ab0a-579003848aaa",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "PES Institute of Medical Sceinces",
@@ -1587,11 +1587,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 12,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 60,
-    "OXYGEN_GENERAL_OCCUPIED": 49,
-    "OXYGEN_GENERAL_AVAILABLE": 11,
+    "OXYGEN_GENERAL_OCCUPIED": 50,
+    "OXYGEN_GENERAL_AVAILABLE": 10,
     "GENERAL_TOTAL": 230,
-    "GENERAL_OCCUPIED": 89,
-    "GENERAL_AVAILABLE": 141,
+    "GENERAL_OCCUPIED": 91,
+    "GENERAL_AVAILABLE": 139,
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=13102162026938293495",
     "LAT": 12.790709,
@@ -1602,7 +1602,7 @@ andhra_pradesh_data=[
   {
     "SNO": 65,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0a944513-ad2a-44f2-afa8-5e284cb0a844",
+    "UID": "be4a5109-a69b-4847-adab-a6166712d647",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "Narayanadri Hospitals and Research Institute Private Ltd",
@@ -1627,7 +1627,7 @@ andhra_pradesh_data=[
   {
     "SNO": 66,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6a2e784d-d257-4687-ba2c-ed6f8203ae3f",
+    "UID": "80d0b926-f871-42f9-92cf-9021b248e565",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SREE RAMADEVI MULTI SUPER SPECIALITY HOSPITAL",
@@ -1652,7 +1652,7 @@ andhra_pradesh_data=[
   {
     "SNO": 67,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "43bee1e9-cf3b-4620-91eb-f0a00b1b67c4",
+    "UID": "2e7dff77-9a05-477f-ac94-cb04b0d62ab6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "DBR",
@@ -1677,7 +1677,7 @@ andhra_pradesh_data=[
   {
     "SNO": 68,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "edb20bf3-ed0a-4bb6-9e6f-fb75f93f9bbe",
+    "UID": "51d809a3-d688-4ec5-9b86-d22bb253093c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SANKALPA SUPER SPECIALITY HOSPITAL",
@@ -1702,21 +1702,21 @@ andhra_pradesh_data=[
   {
     "SNO": 69,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "281c9c65-63fa-4f56-8b85-23f667d75ae5",
+    "UID": "c3c1f010-d2b0-4413-8c7d-21714bec02d8",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "DIST HQ HOSPITAL AIMSR",
     "CONTACT": "08572-295911",
     "AAROGYASRI_EMPANELMENT_STATUS": "Government",
     "ICU_TOTAL": 50,
-    "ICU_OCCUPIED": 47,
-    "ICU_AVAILABLE": 3,
+    "ICU_OCCUPIED": 48,
+    "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 260,
-    "OXYGEN_GENERAL_OCCUPIED": 224,
-    "OXYGEN_GENERAL_AVAILABLE": 36,
+    "OXYGEN_GENERAL_OCCUPIED": 232,
+    "OXYGEN_GENERAL_AVAILABLE": 28,
     "GENERAL_TOTAL": 220,
-    "GENERAL_OCCUPIED": 27,
-    "GENERAL_AVAILABLE": 193,
+    "GENERAL_OCCUPIED": 39,
+    "GENERAL_AVAILABLE": 181,
     "VENTILATOR": 50,
     "LOCATION": "https://maps.google.com/?cid=10483573088973520991",
     "LAT": 13.2512003,
@@ -1727,7 +1727,7 @@ andhra_pradesh_data=[
   {
     "SNO": 70,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b7fe3bb8-4ace-4125-a6ab-0f6c234e81ff",
+    "UID": "82248bf6-f3a0-49ff-b497-8f8c778a9cdf",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "DH MADANAPALLI",
@@ -1752,7 +1752,7 @@ andhra_pradesh_data=[
   {
     "SNO": 71,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d595af26-8efd-442c-8548-aad3391934ec",
+    "UID": "8b8b530c-a601-46e5-8dde-d79869bf4fd6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "AH SRI KALAHASTHI",
@@ -1777,7 +1777,7 @@ andhra_pradesh_data=[
   {
     "SNO": 72,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8659a37a-ca2b-48eb-860c-140118827207",
+    "UID": "daf34037-21bd-4f12-9c33-34aa13d57b2d",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "AH KUPPAM",
@@ -1787,8 +1787,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 10,
-    "OXYGEN_GENERAL_OCCUPIED": 6,
-    "OXYGEN_GENERAL_AVAILABLE": 4,
+    "OXYGEN_GENERAL_OCCUPIED": 9,
+    "OXYGEN_GENERAL_AVAILABLE": 1,
     "GENERAL_TOTAL": 50,
     "GENERAL_OCCUPIED": 35,
     "GENERAL_AVAILABLE": 15,
@@ -1802,7 +1802,7 @@ andhra_pradesh_data=[
   {
     "SNO": 73,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d7b1bfe0-0620-4aa6-8f80-4857af4c89e0",
+    "UID": "42fd63c9-910a-4c98-ae92-2e6c5616f143",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "Sub divisional railway hospital,Renigunta",
@@ -1827,7 +1827,7 @@ andhra_pradesh_data=[
   {
     "SNO": 74,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3cfdfbb3-d567-4e6d-95b5-df1e192566d4",
+    "UID": "b43b26b0-a6a5-409b-ad47-88c1fe388955",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "MGM HOSPITAL",
@@ -1852,7 +1852,7 @@ andhra_pradesh_data=[
   {
     "SNO": 75,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8737b5d1-b481-4d73-88f3-5b7603a63a49",
+    "UID": "da299741-93dd-4ff3-936d-98cd5f49d7ee",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "ANKURA HOSPITAL",
@@ -1877,7 +1877,7 @@ andhra_pradesh_data=[
   {
     "SNO": 76,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c1f98318-ba73-4fc2-80db-7cb26dfb44f4",
+    "UID": "325306fd-a1da-4e94-81b0-b6384e3a7a0d",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "Mary Lott Lyles Hospital",
@@ -1902,7 +1902,7 @@ andhra_pradesh_data=[
   {
     "SNO": 77,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e8e0b91c-45dd-474d-9bb1-1b88af9d7b0d",
+    "UID": "c621894a-5266-409f-8e3d-71ea83178070",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "PRASAD HOSPITAL",
@@ -1912,8 +1912,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 4,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 11,
-    "OXYGEN_GENERAL_OCCUPIED": 8,
-    "OXYGEN_GENERAL_AVAILABLE": 3,
+    "OXYGEN_GENERAL_OCCUPIED": 10,
+    "OXYGEN_GENERAL_AVAILABLE": 1,
     "GENERAL_TOTAL": 25,
     "GENERAL_OCCUPIED": 8,
     "GENERAL_AVAILABLE": 17,
@@ -1927,7 +1927,7 @@ andhra_pradesh_data=[
   {
     "SNO": 78,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e97e429d-52df-4a4b-be3e-276477b8a693",
+    "UID": "3d7589fb-a0f8-4f3d-a75d-d1129cd6642c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SRI MARUTH SPECIALITY HOSPITAL",
@@ -1952,7 +1952,7 @@ andhra_pradesh_data=[
   {
     "SNO": 79,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1e0778f8-c566-41c4-a95b-7fb5afec28d5",
+    "UID": "41090303-12ac-4fe9-a2e4-9ba132c3ba50",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "RVS Hospital",
@@ -1977,7 +1977,7 @@ andhra_pradesh_data=[
   {
     "SNO": 80,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5072ea7f-df20-49a3-a4ba-99de1aab70ba",
+    "UID": "0dc2b534-e6e0-4694-b6e5-3ddcb8d73489",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SREE HOSPITAL",
@@ -1990,8 +1990,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 24,
     "OXYGEN_GENERAL_AVAILABLE": 1,
     "GENERAL_TOTAL": 20,
-    "GENERAL_OCCUPIED": 9,
-    "GENERAL_AVAILABLE": 11,
+    "GENERAL_OCCUPIED": 10,
+    "GENERAL_AVAILABLE": 10,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=12876966017358617350",
     "LAT": 13.2145135,
@@ -2002,7 +2002,7 @@ andhra_pradesh_data=[
   {
     "SNO": 81,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "aa35d072-fe48-4d23-9174-711dd9b70ef8",
+    "UID": "6c5eb1e5-d332-493d-999c-2203165cce69",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SRI CHAKRA HOSPITAL",
@@ -2015,8 +2015,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 10,
     "OXYGEN_GENERAL_AVAILABLE": 2,
     "GENERAL_TOTAL": 10,
-    "GENERAL_OCCUPIED": 9,
-    "GENERAL_AVAILABLE": 1,
+    "GENERAL_OCCUPIED": 10,
+    "GENERAL_AVAILABLE": 0,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=12876966017358617350",
     "LAT": 13.2145135,
@@ -2027,7 +2027,7 @@ andhra_pradesh_data=[
   {
     "SNO": 82,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "22a3474d-9e6e-43f7-80ce-dc9634192c39",
+    "UID": "5698e8d5-2c06-4e1a-a56b-8f441060d008",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "ELITE HOSPITAL",
@@ -2052,7 +2052,7 @@ andhra_pradesh_data=[
   {
     "SNO": 83,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b8e40a6a-2fe6-489f-99a6-73e397096f58",
+    "UID": "880f86f6-2515-4344-b1c5-428dbf929984",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "BALAJI ORTHOPAEDIC",
@@ -2077,7 +2077,7 @@ andhra_pradesh_data=[
   {
     "SNO": 84,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4721e92a-9b12-4334-b646-291abc466324",
+    "UID": "766a511f-ca36-42bc-a0ef-b3259eb0d1ed",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "RUSSH HOSPITALS PRIVATE LIMITED",
@@ -2102,7 +2102,7 @@ andhra_pradesh_data=[
   {
     "SNO": 85,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7bd5d17a-5333-4055-b59b-e84f32ac2bcd",
+    "UID": "883b2335-282d-4bce-93ac-2a0fc5d883f7",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SURYA MULTISPECIALITY AND EMERGENCY HOSPITAL",
@@ -2127,18 +2127,18 @@ andhra_pradesh_data=[
   {
     "SNO": 86,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1cbec270-5bce-46e8-adea-03d93af66d95",
+    "UID": "0a04d9ce-8205-4d43-9a16-a96b0f80d1cf",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "VISHNU SRI HOSPITAL",
     "CONTACT": 9676462233,
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 16,
-    "ICU_OCCUPIED": 7,
-    "ICU_AVAILABLE": 9,
+    "ICU_OCCUPIED": 10,
+    "ICU_AVAILABLE": 6,
     "OXYGEN_GENERAL_TOTAL": 39,
-    "OXYGEN_GENERAL_OCCUPIED": 18,
-    "OXYGEN_GENERAL_AVAILABLE": 21,
+    "OXYGEN_GENERAL_OCCUPIED": 22,
+    "OXYGEN_GENERAL_AVAILABLE": 17,
     "GENERAL_TOTAL": 5,
     "GENERAL_OCCUPIED": 5,
     "GENERAL_AVAILABLE": 0,
@@ -2152,7 +2152,7 @@ andhra_pradesh_data=[
   {
     "SNO": 87,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e1c6229d-57b6-498c-b551-3f40be029c29",
+    "UID": "1491d43f-96d6-471c-90f2-53a196e2655c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "KR HOSPITAL",
@@ -2177,7 +2177,7 @@ andhra_pradesh_data=[
   {
     "SNO": 88,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "27641805-5740-4582-ac60-bc2dd139413b",
+    "UID": "87759e3c-12a0-44f7-9828-d5cbcef6c7c8",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SURAKSHA HOSPITAL",
@@ -2202,7 +2202,7 @@ andhra_pradesh_data=[
   {
     "SNO": 89,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7286977b-c5e3-46b1-957c-5d8937bd9de1",
+    "UID": "275f21d1-0dd1-4ca9-a819-b617e7d8e8c6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "CHANDRAMOHANS NURSING HOME",
@@ -2227,7 +2227,7 @@ andhra_pradesh_data=[
   {
     "SNO": 90,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "65355d07-4392-4654-b355-d95226f27a5a",
+    "UID": "6146ad23-59ab-487b-9a20-afa02b9ccca2",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "DR KRISHNAS LIFE HOSPITAL",
@@ -2252,7 +2252,7 @@ andhra_pradesh_data=[
   {
     "SNO": 91,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a6feb57d-5d21-4423-ba9d-6bfe7ce8f17a",
+    "UID": "13f99628-38c1-48d6-811b-7d5513c86cc8",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "OBULAM HOSPITAL",
@@ -2277,7 +2277,7 @@ andhra_pradesh_data=[
   {
     "SNO": 92,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b8b5c2b3-0864-40d4-9210-d265ecf2ac7c",
+    "UID": "37bb34d1-7b15-408b-8357-155be05988b1",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "CITY CARE HOSPITAL",
@@ -2302,7 +2302,7 @@ andhra_pradesh_data=[
   {
     "SNO": 93,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c7b3b3ca-2266-49ba-85fe-42d6c9093a0f",
+    "UID": "58d71304-6257-4d36-8bcd-2ac8ffb344d8",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "MODERN HOSPITAL",
@@ -2327,15 +2327,15 @@ andhra_pradesh_data=[
   {
     "SNO": 94,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "333c8488-8b5b-4030-a128-33afc48d2762",
+    "UID": "1050d464-7181-4c11-a79e-e1de8383b3d5",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "SURAKSHA SPECIALITY HOSPITAL",
     "CONTACT": "08571220345",
     "AAROGYASRI_EMPANELMENT_STATUS": "Partially Empanelled",
     "ICU_TOTAL": 10,
-    "ICU_OCCUPIED": 6,
-    "ICU_AVAILABLE": 4,
+    "ICU_OCCUPIED": 10,
+    "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
@@ -2352,7 +2352,7 @@ andhra_pradesh_data=[
   {
     "SNO": 95,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f664a5b3-b038-454f-9245-899cc9040f9d",
+    "UID": "a564fd64-7c2f-4ee0-ad53-2c1970028589",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "S.V.AYURVEDA HOSPITAL",
@@ -2362,11 +2362,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 197,
-    "OXYGEN_GENERAL_OCCUPIED": 114,
-    "OXYGEN_GENERAL_AVAILABLE": 83,
+    "OXYGEN_GENERAL_OCCUPIED": 122,
+    "OXYGEN_GENERAL_AVAILABLE": 75,
     "GENERAL_TOTAL": 13,
-    "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 13,
+    "GENERAL_OCCUPIED": 1,
+    "GENERAL_AVAILABLE": 12,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=1000842141746726859",
     "LAT": 13.6373868,
@@ -2377,7 +2377,7 @@ andhra_pradesh_data=[
   {
     "SNO": 96,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5a4d67d0-ceb7-4308-9aa1-151ad258d9d6",
+    "UID": "7ea7ebf8-2bc2-4f80-8b4b-d34182cb46bf",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Chittoor",
     "HOSPITAL_NAME": "CMC Vellore Chittoor Campus",
@@ -2402,7 +2402,7 @@ andhra_pradesh_data=[
   {
     "SNO": 97,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fa02adfe-f81a-4f8c-b913-957cccca939e",
+    "UID": "4e7d12fd-1622-48da-8900-12e3a89ab342",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "HOPE HOSPITAL KAKINADA",
@@ -2412,8 +2412,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 12,
     "ICU_AVAILABLE": 3,
     "OXYGEN_GENERAL_TOTAL": 85,
-    "OXYGEN_GENERAL_OCCUPIED": 71,
-    "OXYGEN_GENERAL_AVAILABLE": 14,
+    "OXYGEN_GENERAL_OCCUPIED": 77,
+    "OXYGEN_GENERAL_AVAILABLE": 8,
     "GENERAL_TOTAL": 1,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 1,
@@ -2427,7 +2427,7 @@ andhra_pradesh_data=[
   {
     "SNO": 98,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f0ce4b03-7da2-4aab-b408-a498a3ed9560",
+    "UID": "10c0af70-2d5c-4d42-ac3b-801d1110d49f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Laxmi Hospital Kakinada",
@@ -2452,7 +2452,7 @@ andhra_pradesh_data=[
   {
     "SNO": 99,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a78947d0-b47e-435a-8768-e0105b4ab08c",
+    "UID": "24cae724-9666-40f0-b32d-7d868721d934",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "7 star Hospital Kakinada",
@@ -2477,7 +2477,7 @@ andhra_pradesh_data=[
   {
     "SNO": 100,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7435d7af-b9ab-4e0d-9d97-6a97dafd877d",
+    "UID": "79c5d61e-143f-43ff-b8b7-edd19a462785",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Inodaya Hospital Kakinada",
@@ -2502,7 +2502,7 @@ andhra_pradesh_data=[
   {
     "SNO": 101,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "892e8c6c-5aa5-4f7d-9d8b-20dfaef537ad",
+    "UID": "705db36e-5947-40fa-a9ad-6bd35dfafa14",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Sri Akshara Hospital Kakinada",
@@ -2527,7 +2527,7 @@ andhra_pradesh_data=[
   {
     "SNO": 102,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "cb497d32-dbab-44c4-bfff-872c1a89b81a",
+    "UID": "d2cc318a-0a7f-4b68-bf3c-65d96f9ba106",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "District Hospital Rajahmundry",
@@ -2552,7 +2552,7 @@ andhra_pradesh_data=[
   {
     "SNO": 103,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "70883311-f30d-4658-949c-3dd65b02c4fb",
+    "UID": "3a27db48-e98a-4b45-a64d-15d0b8d6112c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Raju Neuro Hospital Rajahmundry",
@@ -2562,11 +2562,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 14,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 30,
-    "OXYGEN_GENERAL_OCCUPIED": 29,
-    "OXYGEN_GENERAL_AVAILABLE": 1,
+    "OXYGEN_GENERAL_OCCUPIED": 30,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 6,
-    "GENERAL_OCCUPIED": 3,
-    "GENERAL_AVAILABLE": 3,
+    "GENERAL_OCCUPIED": 6,
+    "GENERAL_AVAILABLE": 0,
     "VENTILATOR": 5,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJJRGxtYyjNzoRAvN0foa9wvs",
     "LAT": 17.005954,
@@ -2577,7 +2577,7 @@ andhra_pradesh_data=[
   {
     "SNO": 104,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8740aec7-596c-45af-997d-799b9af447da",
+    "UID": "6d41cf7e-d5a1-4e6e-b326-2810adcdd0f3",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Universal Hospital rajahmundry",
@@ -2602,7 +2602,7 @@ andhra_pradesh_data=[
   {
     "SNO": 105,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8e9147b8-e159-408e-ad61-2b6864c23595",
+    "UID": "9255e513-3029-4caa-9a9e-9ab1be098eb9",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "SRINIDHI HOSPITAL",
@@ -2612,11 +2612,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 8,
     "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 40,
-    "OXYGEN_GENERAL_OCCUPIED": 38,
-    "OXYGEN_GENERAL_AVAILABLE": 2,
+    "OXYGEN_GENERAL_OCCUPIED": 40,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 10,
-    "GENERAL_OCCUPIED": 9,
-    "GENERAL_AVAILABLE": 1,
+    "GENERAL_OCCUPIED": 10,
+    "GENERAL_AVAILABLE": 0,
     "VENTILATOR": 2,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJQQQsNoHvNzoR4vMyyN_1EN0",
     "LAT": 16.5742365,
@@ -2627,7 +2627,7 @@ andhra_pradesh_data=[
   {
     "SNO": 106,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b4e557de-3eba-406a-965d-a480dec17639",
+    "UID": "9d6057b6-ff14-48e6-ae62-fe6d7938c5a6",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "sunrise hospital",
@@ -2652,7 +2652,7 @@ andhra_pradesh_data=[
   {
     "SNO": 107,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "cbdbd5f8-22b3-483e-94ef-7cd44af2f59e",
+    "UID": "47cf4b81-79a9-4013-b181-0b0115b4ee9c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "TEAM HOSPITAL",
@@ -2677,7 +2677,7 @@ andhra_pradesh_data=[
   {
     "SNO": 108,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0cde85c1-2abb-4992-8597-2d3187a7d81b",
+    "UID": "703d2871-33e4-4573-a053-6f32a26a1869",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "GGH KAKINADA",
@@ -2702,21 +2702,21 @@ andhra_pradesh_data=[
   {
     "SNO": 109,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "36b85c28-e540-43f1-bacd-89dbbc81439a",
+    "UID": "8fd41cf5-73fc-412d-8e05-e5e0fec2ba53",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "GSL MEDICAL COLLEGE",
     "CONTACT": "0883669999",
     "AAROGYASRI_EMPANELMENT_STATUS": "Arogyasri",
     "ICU_TOTAL": 30,
-    "ICU_OCCUPIED": 22,
-    "ICU_AVAILABLE": 8,
+    "ICU_OCCUPIED": 30,
+    "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 60,
-    "OXYGEN_GENERAL_OCCUPIED": 56,
-    "OXYGEN_GENERAL_AVAILABLE": 4,
+    "OXYGEN_GENERAL_OCCUPIED": 60,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 60,
-    "GENERAL_OCCUPIED": 52,
-    "GENERAL_AVAILABLE": 8,
+    "GENERAL_OCCUPIED": 60,
+    "GENERAL_AVAILABLE": 0,
     "VENTILATOR": 5,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJpYm1lm2fNzoRffd6T2YfgvI",
     "LAT": 17.067489,
@@ -2727,7 +2727,7 @@ andhra_pradesh_data=[
   {
     "SNO": 110,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b15cf00a-e08d-4d67-88fd-4fabdb00d98a",
+    "UID": "633ffada-e943-4473-a661-328b89eba471",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "DELTA HOSPITAL",
@@ -2752,7 +2752,7 @@ andhra_pradesh_data=[
   {
     "SNO": 111,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "924bb59a-0776-4ced-98ab-4c64e58b970a",
+    "UID": "dc95fcba-fbfc-460e-ba8f-e095d3412bce",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "KIMS AMALAPURAM",
@@ -2777,7 +2777,7 @@ andhra_pradesh_data=[
   {
     "SNO": 112,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9651dcb8-4453-4597-bb45-a5009b67c68b",
+    "UID": "6b4433d8-b273-463b-a1be-30702b7e4efd",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "ANNAPURNA HOSPITAL",
@@ -2802,7 +2802,7 @@ andhra_pradesh_data=[
   {
     "SNO": 113,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "eb90da5e-4e69-4768-a01d-8ffeee9fbd20",
+    "UID": "6a8c2ad4-91ab-4ca6-987b-f43428f15ddc",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "GANDHI HOSPITAL",
@@ -2827,7 +2827,7 @@ andhra_pradesh_data=[
   {
     "SNO": 114,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ac48f62a-0c58-4945-87f8-5a3a05853cd5",
+    "UID": "b2f1be20-e721-45b7-a2cd-9a975429b745",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "RS NEURO HOSPITAL",
@@ -2852,15 +2852,15 @@ andhra_pradesh_data=[
   {
     "SNO": 115,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "32c3405e-80fa-4fa2-bb84-c236f8b00efb",
+    "UID": "0cdc8f53-0bed-4d45-83c7-af505dab1e10",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "SUNSTAR HOSPITAL",
     "CONTACT": 8832020555,
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 10,
-    "ICU_OCCUPIED": 8,
-    "ICU_AVAILABLE": 2,
+    "ICU_OCCUPIED": 9,
+    "ICU_AVAILABLE": 1,
     "OXYGEN_GENERAL_TOTAL": 40,
     "OXYGEN_GENERAL_OCCUPIED": 36,
     "OXYGEN_GENERAL_AVAILABLE": 4,
@@ -2877,7 +2877,7 @@ andhra_pradesh_data=[
   {
     "SNO": 116,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "73e895ef-ec69-4cb1-99db-7219648e5c2e",
+    "UID": "f5cd2cb0-bff1-4f0b-af5d-c7a42db35a93",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Siddartha Hospital KKD",
@@ -2902,7 +2902,7 @@ andhra_pradesh_data=[
   {
     "SNO": 117,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9e38c670-7dab-41c8-a4cc-bdaa51ceb623",
+    "UID": "794f8f38-8997-4769-ad61-369ab67ad8f6",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "SANJIVI INISTITUTE OF ORTHOPAEDICS AND SUPER SPECIALITIES PVT LTD",
@@ -2927,7 +2927,7 @@ andhra_pradesh_data=[
   {
     "SNO": 118,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e3ede7c0-59d9-4459-beaf-eeb44e9c0d77",
+    "UID": "476630ce-59f2-461d-85d0-31674aecd781",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "DR BRM CAREWELL HOSPITAL",
@@ -2952,7 +2952,7 @@ andhra_pradesh_data=[
   {
     "SNO": 119,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f1ef4261-a11d-4385-9384-eb4f015b17da",
+    "UID": "8b88a7ca-db49-45fd-ad41-99f2e50e87fc",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Trust Hospital A Unit Of Sarvottam Health Care Pvt Ltd",
@@ -2977,7 +2977,7 @@ andhra_pradesh_data=[
   {
     "SNO": 120,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "102b4be4-d1ca-48bb-a9cd-60d5773dfc5c",
+    "UID": "5c979713-e184-4a9b-9ab7-1edbaf0d7ae9",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Safe Emergency Hospital",
@@ -3002,7 +3002,7 @@ andhra_pradesh_data=[
   {
     "SNO": 121,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b071ec66-2f22-49ac-8df7-42a24e2cf1d3",
+    "UID": "bcc5d6c8-044f-4652-81ee-9faf9cf6acf9",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "FOUNDATION HOSPITAL",
@@ -3027,7 +3027,7 @@ andhra_pradesh_data=[
   {
     "SNO": 122,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1bc8e9e2-8d59-4124-affd-a685c9df4e18",
+    "UID": "32463811-27cf-4e8a-99a0-93672fc5cdcb",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Sri Ravi Hospitals",
@@ -3052,7 +3052,7 @@ andhra_pradesh_data=[
   {
     "SNO": 123,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c30be59a-4b41-4e2f-b0db-70dc2206d205",
+    "UID": "0c138ea3-1b03-4304-b3d4-a5da4a0d4f77",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "PRIME HOSPITALS",
@@ -3077,7 +3077,7 @@ andhra_pradesh_data=[
   {
     "SNO": 124,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "bf8d3292-0b30-4e4c-874d-21cf8607ca87",
+    "UID": "8ab6d8b1-1617-4933-8210-e4eccc5da11a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Sai Sudha Hospital",
@@ -3102,7 +3102,7 @@ andhra_pradesh_data=[
   {
     "SNO": 125,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2ef30f3a-abfe-460e-ae60-b9f415e0ad8d",
+    "UID": "f1f70cd4-b2a3-400d-bdcb-8bdff18401ed",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Tholath Memorial Multispeciality Hospital",
@@ -3127,7 +3127,7 @@ andhra_pradesh_data=[
   {
     "SNO": 126,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4cb80f53-05e8-4356-85b2-4cc2ebb9a729",
+    "UID": "8cb946eb-050a-496f-879f-356e828bb2b9",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Sri Lalitha Hospitals Insitute Of Laparoscopic Surgery And Training",
@@ -3152,7 +3152,7 @@ andhra_pradesh_data=[
   {
     "SNO": 127,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fdfb4017-cb7e-43a3-97a2-cdf912c55849",
+    "UID": "a2361946-c9a4-453b-9255-b3174b8a8b43",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "RAJAHMUNDRY ORTHOPEDIC HOSPITAL",
@@ -3177,7 +3177,7 @@ andhra_pradesh_data=[
   {
     "SNO": 128,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "00d5dff7-97b4-42ab-a7b4-c187cda66b5d",
+    "UID": "2cca6208-1381-4463-8e8f-cc4f48255516",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "CEM HOSPITAL",
@@ -3202,7 +3202,7 @@ andhra_pradesh_data=[
   {
     "SNO": 129,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "218b8348-e2c2-4271-b50b-037639387ee8",
+    "UID": "6e811a19-4bd9-4845-9b03-28e857b28b19",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "SAI HOSPITALS",
@@ -3227,7 +3227,7 @@ andhra_pradesh_data=[
   {
     "SNO": 130,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c1f1dbca-f064-49b7-9367-198dfb374a54",
+    "UID": "f24db5f1-ef29-4bb9-9ef6-fd8b90408f08",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "PANDURANGA PRAJA VYDYASALA",
@@ -3252,7 +3252,7 @@ andhra_pradesh_data=[
   {
     "SNO": 131,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "50b9f2a7-a318-4743-912f-44771ec9ebd1",
+    "UID": "bfc29ce3-21d4-4397-849f-f75b0ea25ca7",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "CITY HOSPITAL",
@@ -3277,7 +3277,7 @@ andhra_pradesh_data=[
   {
     "SNO": 132,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b670d5f1-7601-4df0-a9b3-9805a0a8b2fe",
+    "UID": "1183990d-ca17-4875-b3cb-56699ad56423",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "BHAVANI MULTISPECIALITY",
@@ -3302,32 +3302,32 @@ andhra_pradesh_data=[
   {
     "SNO": 133,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8afb493b-ff1f-41bf-a6a7-3df18eb7b2d6",
+    "UID": "8dab213b-dea9-439c-bdb1-e0257c9ee30c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "AAROGYA HOSPITAL",
     "CONTACT": "08837964908",
     "AAROGYASRI_EMPANELMENT_STATUS": "-",
-    "ICU_TOTAL": 0,
+    "ICU_TOTAL": 23,
     "ICU_OCCUPIED": 0,
-    "ICU_AVAILABLE": 0,
-    "OXYGEN_GENERAL_TOTAL": 0,
+    "ICU_AVAILABLE": 23,
+    "OXYGEN_GENERAL_TOTAL": 13,
     "OXYGEN_GENERAL_OCCUPIED": 0,
-    "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 13,
+    "GENERAL_TOTAL": 14,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 0,
-    "VENTILATOR": 0,
+    "GENERAL_AVAILABLE": 14,
+    "VENTILATOR": 5,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJkbD2e4alNzoRCi3uNx80_1c",
     "LAT": 17.0045863,
     "LONG": 81.7751265,
-    "HAS_ICU_BEDS": "FALSE",
-    "HAS_VENTILATORS": "FALSE"
+    "HAS_ICU_BEDS": "TRUE",
+    "HAS_VENTILATORS": "TRUE"
   },
   {
     "SNO": 134,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d68899d6-24cb-4bc9-83a8-5eda5a5d0321",
+    "UID": "e2b60241-1a31-4f1e-94d0-ee0d78699cdc",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "PULSE EMERGENCY HOSPITAL",
@@ -3352,7 +3352,7 @@ andhra_pradesh_data=[
   {
     "SNO": 135,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ba925ab6-72d7-4f9b-bb1d-cb9492f3937e",
+    "UID": "64bf1f34-8178-4e0f-87c2-292527bec280",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Dr.KVR HOSPITAL",
@@ -3377,7 +3377,7 @@ andhra_pradesh_data=[
   {
     "SNO": 136,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "94c3c72e-3800-4564-8061-f98d44a59f6a",
+    "UID": "14d283be-07f0-405d-b013-81daa21abd43",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Haritha Hospitals",
@@ -3402,7 +3402,7 @@ andhra_pradesh_data=[
   {
     "SNO": 137,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8a5efe8e-bda1-4bfd-aab9-d8ed2da4f1c8",
+    "UID": "06d2a4fc-4e53-47f1-a7f1-632cf813aa91",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "SRI VIJAYA MULTI SPECIALTY HOSPITAL",
@@ -3427,7 +3427,7 @@ andhra_pradesh_data=[
   {
     "SNO": 138,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "276e3945-060c-45b1-8ff1-63f231d7013c",
+    "UID": "62c2d44c-361e-4b1e-803c-085c1eeb6a9b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "BEST HOSPITAL",
@@ -3452,7 +3452,7 @@ andhra_pradesh_data=[
   {
     "SNO": 139,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a679039f-103c-4563-959a-c329f922fd4f",
+    "UID": "791b392c-6304-438c-a1a4-85eb0d1e546c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Aravindam Orthopdeics  And Physiotherapy Centre",
@@ -3477,7 +3477,7 @@ andhra_pradesh_data=[
   {
     "SNO": 140,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "14c5d990-b2c3-4468-8d2d-928f56775ef7",
+    "UID": "16bf4b41-a1f4-49eb-9953-c3ca6240e06c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Sri Bikkina Nursing Home",
@@ -3502,7 +3502,7 @@ andhra_pradesh_data=[
   {
     "SNO": 141,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7e3676fc-5c53-488e-88af-732b55832ff5",
+    "UID": "75e1c2c5-dfb0-45b9-b371-a1ae6cc31bf8",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Life Line Emergency Neuro and Trauma Hospital",
@@ -3527,7 +3527,7 @@ andhra_pradesh_data=[
   {
     "SNO": 142,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "50ccd138-79e9-496e-82f8-1d46c3a4997f",
+    "UID": "ec143199-36fe-46e5-86f7-c96b9e7530c4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "CHANAKYA HOSPITAL",
@@ -3552,7 +3552,7 @@ andhra_pradesh_data=[
   {
     "SNO": 143,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "40adbd26-b7cc-43a5-924f-7efe88780901",
+    "UID": "58131455-6ff4-4bea-9abe-5dcf379cddb5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "ASCENT HOSPITALS A UNIT OF ASCENT MEDI EXCELLENCE PRIVATE LIMITED",
@@ -3577,7 +3577,7 @@ andhra_pradesh_data=[
   {
     "SNO": 144,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0f0d26f2-1cfa-4a83-b08d-b21897bd319e",
+    "UID": "41e2411f-9612-4fea-91b9-05ed65fbc653",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "REVATHI HOSPITAL",
@@ -3602,7 +3602,7 @@ andhra_pradesh_data=[
   {
     "SNO": 145,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6bf6752e-d733-4a78-ac41-83b382063730",
+    "UID": "54cb37aa-0c55-4678-9784-d3151e13d7c4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "KAR HOSPITAL ORTHPAEDICS AND MULTI SPECIALITY",
@@ -3627,7 +3627,7 @@ andhra_pradesh_data=[
   {
     "SNO": 146,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d9033935-0be1-456a-9c87-ea4be187de31",
+    "UID": "6b2cd2db-d4b9-4f73-9e82-13fdabd5dab7",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Raghava 24 Hours Hospital",
@@ -3652,7 +3652,7 @@ andhra_pradesh_data=[
   {
     "SNO": 147,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2264c8c3-3e88-4efa-af6c-109da6534211",
+    "UID": "09e62266-e87d-4111-b21f-4f957fbaa35f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Swatantra HospitalsM.S Pvt Ltd",
@@ -3677,7 +3677,7 @@ andhra_pradesh_data=[
   {
     "SNO": 148,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "21181ec2-ac12-4f7e-b8ed-592e7b8b84df",
+    "UID": "7bcda700-5020-442d-9f3d-9ffb467fde0f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "VIJAY HOSPITAL",
@@ -3702,7 +3702,7 @@ andhra_pradesh_data=[
   {
     "SNO": 149,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4c3d2c52-bccb-4973-b7a9-e7cafceb6b18",
+    "UID": "efc66c36-f2db-4549-aac5-f2136b840b01",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "TAPANI HOSPITAL",
@@ -3727,7 +3727,7 @@ andhra_pradesh_data=[
   {
     "SNO": 150,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "da3d99fa-131c-4001-8813-3edfa08e71eb",
+    "UID": "cbbb7042-0fba-40eb-abaa-53e5f420b941",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "NARAYANA REDDY EYE HOSPITAL",
@@ -3752,7 +3752,7 @@ andhra_pradesh_data=[
   {
     "SNO": 151,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f8125f39-d356-4670-9aa1-0842eef02c61",
+    "UID": "f21107e4-0e78-42ed-909d-60cfbf69d3de",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "GSL TRUST CANCER HOSPITAL",
@@ -3777,7 +3777,7 @@ andhra_pradesh_data=[
   {
     "SNO": 152,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "00b054a5-6abe-4497-8f8a-aff199715fbd",
+    "UID": "4a76d1e1-b8e3-48a7-9645-0cdff6919c9e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "NARAYANAREDDY HOSPITALS",
@@ -3802,7 +3802,7 @@ andhra_pradesh_data=[
   {
     "SNO": 153,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "13d397ce-f51e-4b99-93b8-61b14b214179",
+    "UID": "9b3e2587-5f8c-48bf-9714-76365d1e3ef5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "GANDHI HOSPITAL - RCPM",
@@ -3827,7 +3827,7 @@ andhra_pradesh_data=[
   {
     "SNO": 154,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2542c0f1-551e-4a2d-8d49-2d7c2d7c9aff",
+    "UID": "2aec84ca-ccf1-433e-a191-d91c3857882b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "Chakradhar Hospitals",
@@ -3852,7 +3852,7 @@ andhra_pradesh_data=[
   {
     "SNO": 155,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f2d4f0ca-06e8-459f-8ee7-b8cdcef1a922",
+    "UID": "f551075d-c929-41dc-b419-3d61c8c2d62e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "SURAREDDY NURSING HOME",
@@ -3877,7 +3877,7 @@ andhra_pradesh_data=[
   {
     "SNO": 156,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "cc1d8c76-52de-4234-bfaa-072f0c55b834",
+    "UID": "8f04dffd-d25f-4cb9-821a-8b112edd8590",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "YASHVEDHHEALTHCARESERVICES",
@@ -3902,7 +3902,7 @@ andhra_pradesh_data=[
   {
     "SNO": 157,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9548b6f5-ecda-4e21-a0d6-b895abf61573",
+    "UID": "37c4b225-6a70-438d-905c-514704734270",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "KAMALAKAR HOSPITAL",
@@ -3927,7 +3927,7 @@ andhra_pradesh_data=[
   {
     "SNO": 158,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "bd2cf4a5-3eb5-4ff6-b630-a02eda95e848",
+    "UID": "c61ac9f3-b74c-4350-bd5e-69b6e9d24f31",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "East godavari",
     "HOSPITAL_NAME": "SRI SANTHI ENT HOSPITAL",
@@ -3952,7 +3952,57 @@ andhra_pradesh_data=[
   {
     "SNO": 159,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "dc09e46e-0c80-43c1-b962-b2ad93d334f6",
+    "UID": "9148db65-915f-4977-a001-963d3490c9df",
+    "IS_NEW_HOSPITAL": "TRUE",
+    "DISTRICT": "East godavari",
+    "HOSPITAL_NAME": "Sri Kiran Institute Of  Ophthalmology",
+    "CONTACT": 8842306301,
+    "AAROGYASRI_EMPANELMENT_STATUS": "-",
+    "ICU_TOTAL": 0,
+    "ICU_OCCUPIED": 0,
+    "ICU_AVAILABLE": 0,
+    "OXYGEN_GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_OCCUPIED": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
+    "GENERAL_TOTAL": 0,
+    "GENERAL_OCCUPIED": 0,
+    "GENERAL_AVAILABLE": 0,
+    "VENTILATOR": 0,
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
+  },
+  {
+    "SNO": 160,
+    "STEIN_ID": "AndhraPradesh",
+    "UID": "e58a5806-8391-486e-8507-90b0f7014e82",
+    "IS_NEW_HOSPITAL": "TRUE",
+    "DISTRICT": "East godavari",
+    "HOSPITAL_NAME": "Surya Global Multi Speciality Hospitals And Cancer Research Centre",
+    "CONTACT": 9848124080,
+    "AAROGYASRI_EMPANELMENT_STATUS": "-",
+    "ICU_TOTAL": 0,
+    "ICU_OCCUPIED": 0,
+    "ICU_AVAILABLE": 0,
+    "OXYGEN_GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_OCCUPIED": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
+    "GENERAL_TOTAL": 0,
+    "GENERAL_OCCUPIED": 0,
+    "GENERAL_AVAILABLE": 0,
+    "VENTILATOR": 0,
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
+  },
+  {
+    "SNO": 161,
+    "STEIN_ID": "AndhraPradesh",
+    "UID": "42e25359-1ecc-4647-ab0f-c2d0a8e3ee28",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "NRI Hospital",
@@ -3975,9 +4025,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 160,
+    "SNO": 162,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9027f34d-1eb2-498b-b04d-d8fa656fb67f",
+    "UID": "fbe07cf6-c2ea-425a-9d1f-50649237e588",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "AIIMS",
@@ -4000,9 +4050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 161,
+    "SNO": 163,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "96f899ca-8dad-4b15-b573-63fd957bedca",
+    "UID": "601361be-35f3-4782-ad9a-f83ba0381451",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "GGH",
@@ -4025,9 +4075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 162,
+    "SNO": 164,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2dacefbb-d3c5-4534-af3c-2c281cbf9d6f",
+    "UID": "f019df60-642e-4380-9365-409cf4706403",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "District hospital Tenali",
@@ -4050,9 +4100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 163,
+    "SNO": 165,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d5f695cd-e1db-4914-8aa6-d0dceb54e672",
+    "UID": "7e3e9419-e514-411a-be37-8424c6e130b6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "MANIPAL HOSPITAL",
@@ -4075,23 +4125,23 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 164,
+    "SNO": 166,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5ae8d6c6-6588-4c9b-a01d-bcad64674730",
+    "UID": "e85e7f58-e8af-4cfc-8605-a9795cf05707",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Katuri medical college",
     "CONTACT": "0863-2288555",
     "AAROGYASRI_EMPANELMENT_STATUS": "Arogyasri",
     "ICU_TOTAL": 30,
-    "ICU_OCCUPIED": 26,
-    "ICU_AVAILABLE": 4,
+    "ICU_OCCUPIED": 30,
+    "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 100,
-    "OXYGEN_GENERAL_OCCUPIED": 93,
-    "OXYGEN_GENERAL_AVAILABLE": 7,
+    "OXYGEN_GENERAL_OCCUPIED": 100,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 141,
-    "GENERAL_OCCUPIED": 129,
-    "GENERAL_AVAILABLE": 12,
+    "GENERAL_OCCUPIED": 127,
+    "GENERAL_AVAILABLE": 14,
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=12529393078224765044",
     "LAT": 16.2256199,
@@ -4100,9 +4150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 165,
+    "SNO": 167,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9e1e712a-0803-4142-ae3c-b8bcc5abbba7",
+    "UID": "8bc955d9-6884-47cd-80c8-3a29a02d56c9",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Amrutha Hospitals, Guntur",
@@ -4125,9 +4175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 166,
+    "SNO": 168,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d4018c94-c873-4c04-866e-a472c54c0786",
+    "UID": "099aca93-f7ed-4d79-be0c-87c7b191b20e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Ahalya Nursing Home, Guntur",
@@ -4150,9 +4200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 167,
+    "SNO": 169,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2bc30a20-f97d-4161-ba46-c4f78eb253ad",
+    "UID": "99e95557-200e-4685-a4e5-f47651f494f5",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Star Hospital, Guntur",
@@ -4175,9 +4225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 168,
+    "SNO": 170,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "89669c74-2f5f-4425-8846-52af3921dd6a",
+    "UID": "d984dcbb-6d2a-4e2f-8193-47dc9fbc7413",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Lalitha Super Specialty, Guntur",
@@ -4200,9 +4250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 169,
+    "SNO": 171,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1aa4ffe1-7618-4235-8911-029e247af452",
+    "UID": "46caaf84-04ec-4b9a-affd-39f4ff1ee231",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Vedanta Hospitals,Guntur",
@@ -4212,8 +4262,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 4,
     "ICU_AVAILABLE": 6,
     "OXYGEN_GENERAL_TOTAL": 65,
-    "OXYGEN_GENERAL_OCCUPIED": 58,
-    "OXYGEN_GENERAL_AVAILABLE": 7,
+    "OXYGEN_GENERAL_OCCUPIED": 61,
+    "OXYGEN_GENERAL_AVAILABLE": 4,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -4225,9 +4275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 170,
+    "SNO": 172,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "44766313-5b13-4338-b569-7c4c5891bbf9",
+    "UID": "37df0d39-7cbf-4457-b2b5-dfa16a38e076",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Amma Childrens Hospital, Guntur",
@@ -4250,9 +4300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 171,
+    "SNO": 173,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3c7696a8-a0ad-427f-8b42-7d71dc6efc7f",
+    "UID": "3d23de97-c5a3-4bc0-89e3-4fe705c38f83",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Viswas Hospital, Kothapet, Guntur",
@@ -4275,9 +4325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 172,
+    "SNO": 174,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "22bf9e84-8cb5-4523-94cd-f49f7186485c",
+    "UID": "1f4e3045-6474-4f03-823c-71c989b9d670",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Aswini Hospitals, Guntur",
@@ -4300,9 +4350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 173,
+    "SNO": 175,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ffcf2c10-5bcc-4ea7-85cd-ae0a4a616739",
+    "UID": "524b5316-134c-40bb-94af-81ac85adf7cb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "BMR Hospitals, Guntur",
@@ -4325,9 +4375,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 174,
+    "SNO": 176,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "331a4c92-f95b-462f-a22b-253e8fc622e3",
+    "UID": "feec9334-38e7-4896-bae1-c67e639fc264",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Andhra Prime Hospitals, Guntur",
@@ -4350,9 +4400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 175,
+    "SNO": 177,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "283b37bf-23c0-41a5-b5cb-3b00ab4cd4a3",
+    "UID": "8a0a62cc-d7ce-428c-bdc7-34e18422675b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "People's Trauma Hospital, Guntur",
@@ -4375,9 +4425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 176,
+    "SNO": 178,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f078d8d7-3385-440d-bd7c-acd9e7707406",
+    "UID": "b23ae92f-b8cd-48ce-9e4e-b8e3fe073bbd",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sree Prathima super Speciality Hospital, Guntur",
@@ -4400,9 +4450,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 177,
+    "SNO": 179,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "78a3f0dd-b7c4-42d2-831f-900b2e249bc7",
+    "UID": "1e68c47b-ed25-49a7-9387-e27fcd77bc93",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sri Balaji Hospitals, Guntur",
@@ -4425,9 +4475,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 178,
+    "SNO": 180,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e6b60d54-03b6-47d0-b951-d03749bb1eb0",
+    "UID": "56992378-6f81-48f4-b3c2-54d728547e8c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Suraksha Hospital, Guntur",
@@ -4450,9 +4500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 179,
+    "SNO": 181,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5e5f9346-df75-4c28-b9f2-c6d4c36ea598",
+    "UID": "4dc1d129-3741-4364-a52c-74b4fdb5941c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Palnadu Hospitals, Piduguralla",
@@ -4475,9 +4525,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 180,
+    "SNO": 182,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b78be209-5a5c-45ff-80ab-cade35249583",
+    "UID": "b52e7453-cd8b-4a0f-9736-f5110a2a0b20",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Tulasi Multi Speciality Hospital, Kothapeta, Guntur",
@@ -4500,9 +4550,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 181,
+    "SNO": 183,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "eab8a5a8-7b03-4d11-9dc5-5e0ab9357f23",
+    "UID": "1df5a472-1f7f-4a37-a28f-5333ae868f27",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sri Rama Hospital, Guntur",
@@ -4525,9 +4575,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 182,
+    "SNO": 184,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0b1b6eea-0498-4dab-85a5-14abc3a5d062",
+    "UID": "fe87faea-e4eb-4d06-be55-ace327c9593e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sravani Hospital, Guntur",
@@ -4550,9 +4600,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 183,
+    "SNO": 185,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3541597d-8431-43c1-ad81-eb5357e90280",
+    "UID": "09509e99-1792-4eb5-9135-d324d2cf8c49",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sri Sai Hospital",
@@ -4575,23 +4625,23 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 184,
+    "SNO": 186,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "99a52f28-bcf6-43b2-8730-de5ff4748cbb",
+    "UID": "8c127782-a09d-41b1-8e13-b0c65d5405ad",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Anjireddy Hospital, Piduguralla",
     "CONTACT": "08649-254001",
     "AAROGYASRI_EMPANELMENT_STATUS": "Arogyasri",
     "ICU_TOTAL": 15,
-    "ICU_OCCUPIED": 13,
-    "ICU_AVAILABLE": 2,
+    "ICU_OCCUPIED": 15,
+    "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 25,
     "OXYGEN_GENERAL_OCCUPIED": 25,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 10,
-    "GENERAL_OCCUPIED": 7,
-    "GENERAL_AVAILABLE": 3,
+    "GENERAL_OCCUPIED": 8,
+    "GENERAL_AVAILABLE": 2,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?q=Anjireddy+Hospital+Rd,+Piduguralla,+Andhra+Pradesh+522413,+India&ftid=0x3a356f8a8023fac1:0xa609e12f82233ec1",
     "LAT": 16.4779676,
@@ -4600,9 +4650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 185,
+    "SNO": 187,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b7221c43-1a8d-43dc-a611-0da55863eff5",
+    "UID": "5933808e-ec0c-4cb8-b92e-2574170f7f45",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sri Datta Hospital, Narasaraopet",
@@ -4625,9 +4675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 186,
+    "SNO": 188,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7d4f0e6a-c079-4830-98fd-970bd94b8701",
+    "UID": "07744646-1f22-4385-9574-8de39f440585",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "GUNTUR KIDNEY",
@@ -4650,9 +4700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 187,
+    "SNO": 189,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d5a15336-b6ad-43f6-9a98-7a135d3f21ed",
+    "UID": "ce23748a-ca5e-47a5-94eb-a78d46cf3a0b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Mahathama Gandhi Hospital",
@@ -4675,9 +4725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 188,
+    "SNO": 190,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f4387df9-f170-459d-bb70-5b767729316b",
+    "UID": "66d6cc3b-7c6d-4554-97d4-ddd599cff7f3",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Coastal Care Hospital",
@@ -4687,11 +4737,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 12,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 20,
-    "OXYGEN_GENERAL_OCCUPIED": 14,
-    "OXYGEN_GENERAL_AVAILABLE": 6,
+    "OXYGEN_GENERAL_OCCUPIED": 17,
+    "OXYGEN_GENERAL_AVAILABLE": 3,
     "GENERAL_TOTAL": 18,
-    "GENERAL_OCCUPIED": 16,
-    "GENERAL_AVAILABLE": 2,
+    "GENERAL_OCCUPIED": 18,
+    "GENERAL_AVAILABLE": 0,
     "VENTILATOR": 3,
     "LOCATION": "https://maps.google.com/?cid=5715008467888136085",
     "LAT": 16.2977206,
@@ -4700,9 +4750,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 189,
+    "SNO": 191,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "81fed6e0-29e2-42bb-bc6b-61b50f00e1a2",
+    "UID": "df9af79f-585c-44b4-9e18-f95c62f43ba8",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Guntur City Hospitals",
@@ -4712,11 +4762,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 10,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 40,
-    "OXYGEN_GENERAL_OCCUPIED": 29,
-    "OXYGEN_GENERAL_AVAILABLE": 11,
+    "OXYGEN_GENERAL_OCCUPIED": 28,
+    "OXYGEN_GENERAL_AVAILABLE": 12,
     "GENERAL_TOTAL": 25,
-    "GENERAL_OCCUPIED": 11,
-    "GENERAL_AVAILABLE": 14,
+    "GENERAL_OCCUPIED": 10,
+    "GENERAL_AVAILABLE": 15,
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=10158619745676420039",
     "LAT": 16.2991481,
@@ -4725,9 +4775,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 190,
+    "SNO": 192,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "57a2c812-b065-4057-a480-7064aef9295c",
+    "UID": "6b8b7a1a-7231-4df5-b2c4-ce401846d19b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sajja Chandramouli Hospital",
@@ -4750,9 +4800,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 191,
+    "SNO": 193,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "337c6adc-32af-45d3-b870-528b93989139",
+    "UID": "865ecf76-b358-4042-8cf5-89ffb7c3d6a6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Siri Hospital",
@@ -4762,8 +4812,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 3,
     "ICU_AVAILABLE": 13,
     "OXYGEN_GENERAL_TOTAL": 27,
-    "OXYGEN_GENERAL_OCCUPIED": 4,
-    "OXYGEN_GENERAL_AVAILABLE": 23,
+    "OXYGEN_GENERAL_OCCUPIED": 3,
+    "OXYGEN_GENERAL_AVAILABLE": 24,
     "GENERAL_TOTAL": 13,
     "GENERAL_OCCUPIED": 4,
     "GENERAL_AVAILABLE": 9,
@@ -4775,9 +4825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 192,
+    "SNO": 194,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9a508bd1-79dd-4136-868f-a2ba78d0b2da",
+    "UID": "20704801-9c46-431c-9a15-cf43e11cf8fb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Uday Hospital",
@@ -4800,9 +4850,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 193,
+    "SNO": 195,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9affee20-ac15-418b-864e-473e5d498487",
+    "UID": "f962bfbc-84ef-487b-abe7-87a1f264a6a4",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sri Lakshmi Hospitals",
@@ -4825,9 +4875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 194,
+    "SNO": 196,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "363ff0fc-6a9a-4c6b-8089-43a8223125d3",
+    "UID": "fb25187a-3d27-4f29-807c-1fe0f5a7a689",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Citizen Super Specialty Hospital",
@@ -4850,9 +4900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 195,
+    "SNO": 197,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b4b150f7-9c36-4bf6-9081-be48036f2880",
+    "UID": "331fbdd0-3697-4797-b97d-6cf00824d778",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Prof.D.Ramakotaiah Children's Hospital 9063337983 manager ganesh",
@@ -4875,9 +4925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 196,
+    "SNO": 198,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9d518d79-2fe7-4194-bf97-b33d2d7d7e0e",
+    "UID": "317fcba9-4e0b-4abe-b778-75b626d71799",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Kommineni Super Specialty Hospital",
@@ -4900,9 +4950,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 197,
+    "SNO": 199,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c53df272-3a90-47c8-ae07-6be48e7b4e6e",
+    "UID": "98a1c070-ccab-46f7-9caa-73d211f42f79",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Raghavendra Hospitals",
@@ -4915,8 +4965,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 9,
     "OXYGEN_GENERAL_AVAILABLE": 1,
     "GENERAL_TOTAL": 22,
-    "GENERAL_OCCUPIED": 11,
-    "GENERAL_AVAILABLE": 11,
+    "GENERAL_OCCUPIED": 10,
+    "GENERAL_AVAILABLE": 12,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=2959078489152058000",
     "LAT": 16.2995904,
@@ -4925,23 +4975,23 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 198,
+    "SNO": 200,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d6bba908-d0e6-40bc-8f9d-d572673e23b3",
+    "UID": "8161351b-485b-487a-8454-23aad1b5c3d3",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sri Raghavendra Hospital",
     "CONTACT": 9640241261,
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 5,
-    "ICU_OCCUPIED": 0,
-    "ICU_AVAILABLE": 5,
+    "ICU_OCCUPIED": 1,
+    "ICU_AVAILABLE": 4,
     "OXYGEN_GENERAL_TOTAL": 4,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 4,
     "GENERAL_TOTAL": 16,
-    "GENERAL_OCCUPIED": 5,
-    "GENERAL_AVAILABLE": 11,
+    "GENERAL_OCCUPIED": 10,
+    "GENERAL_AVAILABLE": 6,
     "VENTILATOR": 1,
     "LOCATION": "https://maps.google.com/?cid=2959078489152058000",
     "LAT": 16.2995904,
@@ -4950,9 +5000,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 199,
+    "SNO": 201,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b9b8a45c-51c1-4a01-94d4-fb889a052644",
+    "UID": "ec7f35cc-6c44-426f-8f6b-1e98a24e794d",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Health Hospitals",
@@ -4975,9 +5025,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 200,
+    "SNO": 202,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f028c029-94c2-4d20-bfab-35bcaf564c54",
+    "UID": "ad196000-8eee-4b79-b1c0-7a78f336cca0",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "SHRI Hospital",
@@ -5000,9 +5050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 201,
+    "SNO": 203,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "24c6f7c3-c528-42bc-b11a-a5691f8695dc",
+    "UID": "32bc76b1-29b3-411c-b4ab-99ddbc535823",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Life Hospitals",
@@ -5025,9 +5075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 202,
+    "SNO": 204,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7ab34fcc-02bf-47c6-8b03-3b568d66cdce",
+    "UID": "a956ff9e-49cf-4900-8e35-a82ce73a2ebf",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Ammaji Pavani Memorial Hospital",
@@ -5050,9 +5100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 203,
+    "SNO": 205,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "dbbbe6a6-1a2d-4435-baba-ef45b571675a",
+    "UID": "5514eaa0-df53-48a3-beda-305c204fff88",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Cherukuri Hospitals",
@@ -5075,9 +5125,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 204,
+    "SNO": 206,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f1a9e1f3-2df8-4f1b-8983-1341a37bbefb",
+    "UID": "66e86c0b-1182-48c6-92e0-f678f85e0ff9",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Viswas Hospitals, Inner Ring Road",
@@ -5100,9 +5150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 205,
+    "SNO": 207,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6128a344-780a-49b9-9e11-3778c8b4e8a0",
+    "UID": "895cd3e7-5eee-47d7-a310-164c895a3f17",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Mythri Multi Specialty Hospital",
@@ -5125,9 +5175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 206,
+    "SNO": 208,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "42b09fb2-08b0-4f80-9bf6-2d151c4a566c",
+    "UID": "cc533266-30f6-4f13-8bad-7cefea9e96ad",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Sri Venkateswara Hospital",
@@ -5150,9 +5200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 207,
+    "SNO": 209,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6651607d-f6c5-436c-b54a-a300ff9e4e05",
+    "UID": "f3e826ac-a549-4a39-816d-e1289750aafb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Jayathi Hospitals",
@@ -5162,8 +5212,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 10,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 10,
-    "OXYGEN_GENERAL_OCCUPIED": 8,
-    "OXYGEN_GENERAL_AVAILABLE": 2,
+    "OXYGEN_GENERAL_OCCUPIED": 10,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 5,
     "GENERAL_OCCUPIED": 5,
     "GENERAL_AVAILABLE": 0,
@@ -5175,9 +5225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 208,
+    "SNO": 210,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5536b97a-4d86-4e37-bb24-26976bb74ba4",
+    "UID": "34404950-0a8d-4fb8-ab69-7b5fc711045b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "NIMS 24  Hospital",
@@ -5200,9 +5250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 209,
+    "SNO": 211,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "424a25cf-dc4e-4316-8bad-efdc998ae7ee",
+    "UID": "e550625a-8387-453d-9532-2d8e8e567c8a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Swathi Institute  of Medical  Science",
@@ -5225,9 +5275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 210,
+    "SNO": 212,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "dabb4e35-eb87-476f-bcd4-587c8ec5143e",
+    "UID": "a72f9992-6dbc-4e48-87e2-9b8f57751423",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Mother Theresa  Hospital",
@@ -5250,9 +5300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 211,
+    "SNO": 213,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "03e607f1-9583-481b-8374-0bddc862605f",
+    "UID": "8da30cf2-0b00-4ce0-b5e5-113dcf54f7d7",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "GBR Hospital",
@@ -5275,9 +5325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 212,
+    "SNO": 214,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f7738cca-bb9a-407f-b16e-1190a5ccd01d",
+    "UID": "81d05193-ae8d-4a9e-9ad0-1e1b93308d8d",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Vunnam  Hospital",
@@ -5300,9 +5350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 213,
+    "SNO": 215,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "61c5d25c-0129-4bbf-b108-9b15f68459fb",
+    "UID": "d6a70ace-08f9-4284-b619-0e5c4b6bcdba",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Amaravathi  Hospital",
@@ -5325,9 +5375,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 214,
+    "SNO": 216,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d54aa5a2-23b1-4890-9256-8446a91cb805",
+    "UID": "4e35c349-9b7b-4c41-acdd-02135da8854f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "RK.Multi Speciality Hospital",
@@ -5350,9 +5400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 215,
+    "SNO": 217,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "68726c05-0f78-4d81-88d9-2cf481253cd5",
+    "UID": "1ce96345-16a0-48c0-addd-7e120e1f87a6",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Narayana Hospital",
@@ -5375,9 +5425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 216,
+    "SNO": 218,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3b7e4811-d797-46f1-8655-f405a384fa4c",
+    "UID": "094e3202-6b61-4dff-acb6-59f21189885b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Renuuka Hospital",
@@ -5400,9 +5450,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 217,
+    "SNO": 219,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e7b99445-5d24-458b-93bc-6bef684b1cb3",
+    "UID": "1f834627-dee4-4278-a10f-7da09f160ccd",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Guntur",
     "HOSPITAL_NAME": "Varababu Hospital",
@@ -5425,9 +5475,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 218,
+    "SNO": 220,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5fe4ca01-5467-4227-b13f-2f31292b9972",
+    "UID": "4ce0f73f-fdd4-4b72-84d3-409f4a66da57",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Govt. General Hospital (GGH), Vijayawada",
@@ -5450,9 +5500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 219,
+    "SNO": 221,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e5f9136d-4208-4cb3-8894-f788992e23c1",
+    "UID": "bbf8c4dc-9f01-47cf-90d0-909e0f98a0e2",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Pinnamaneni Hospital, Gannavaram",
@@ -5475,9 +5525,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 220,
+    "SNO": 222,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "acdd130a-e1ea-47e9-a3f4-494dc2054729",
+    "UID": "df0884ce-143f-4573-b7e9-6095a8cbe379",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "NIMRA Hospital",
@@ -5500,9 +5550,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 221,
+    "SNO": 223,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "791b80ca-fc93-4d8b-b454-f64953bbd159",
+    "UID": "52c082b0-8665-4042-9f83-cdb533d4b401",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Indo-British Hospital, Vijayawada",
@@ -5525,9 +5575,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 222,
+    "SNO": 224,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1ef93d8e-2f59-4768-91e6-594b2e0a5a2d",
+    "UID": "8388bf5c-b310-4fe4-b4f0-07c6186109c7",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Andhra Hospitals Bhavanipuram Pvt Ltd",
@@ -5550,9 +5600,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 223,
+    "SNO": 225,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ab401c16-06a1-4ac7-a3db-c0c08cb38c0f",
+    "UID": "ebff4425-0c96-4be2-ad92-f0e6443171f9",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "District Hospital,  Machilipatnam",
@@ -5562,11 +5612,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 38,
     "ICU_AVAILABLE": 6,
     "OXYGEN_GENERAL_TOTAL": 172,
-    "OXYGEN_GENERAL_OCCUPIED": 56,
-    "OXYGEN_GENERAL_AVAILABLE": 116,
+    "OXYGEN_GENERAL_OCCUPIED": 58,
+    "OXYGEN_GENERAL_AVAILABLE": 114,
     "GENERAL_TOTAL": 34,
-    "GENERAL_OCCUPIED": 11,
-    "GENERAL_AVAILABLE": 23,
+    "GENERAL_OCCUPIED": 14,
+    "GENERAL_AVAILABLE": 20,
     "VENTILATOR": 8,
     "LOCATION": "https://maps.google.com/?cid=8557612828574437685",
     "LAT": 16.1905457,
@@ -5575,9 +5625,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 224,
+    "SNO": 226,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e0febd2b-9cf9-4304-af98-42fbfcbd4244",
+    "UID": "9147de0a-d2af-4049-8899-c7fe5440a67e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Railway Hospital Vijayawada",
@@ -5589,9 +5639,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 75,
     "OXYGEN_GENERAL_OCCUPIED": 75,
     "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 50,
-    "GENERAL_OCCUPIED": 49,
-    "GENERAL_AVAILABLE": 1,
+    "GENERAL_TOTAL": 55,
+    "GENERAL_OCCUPIED": 53,
+    "GENERAL_AVAILABLE": 2,
     "VENTILATOR": 10,
     "LOCATION": "https://maps.google.com/?cid=3137402898193205968",
     "LAT": 16.5184836,
@@ -5600,9 +5650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 225,
+    "SNO": 227,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d3566abf-0814-4166-b889-d028ea35e1ee",
+    "UID": "b43c11e8-6094-4c69-a5e5-d51fa15fdec5",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Aayush Nri Lepl Healthcare Pvt Ltd",
@@ -5625,9 +5675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 226,
+    "SNO": 228,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f481bf1a-e723-4954-aad9-6ab725bfa934",
+    "UID": "c50ce312-7c4a-4368-b72f-94b183339bea",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Sri Anuhospitals Pvt Ltd",
@@ -5650,9 +5700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 227,
+    "SNO": 229,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d12020fe-de59-45b8-962e-4fe77cd3e05c",
+    "UID": "052afe05-6642-4d74-b0c5-66d6859d8ad5",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Kamineni Hospital, Vijayawada",
@@ -5675,9 +5725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 228,
+    "SNO": 230,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fc5bf32c-b439-4444-8d3e-d9370bb8afe4",
+    "UID": "778f16c8-a47b-4f7d-ba42-176c399e872e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Heart Care Centre",
@@ -5700,9 +5750,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 229,
+    "SNO": 231,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d93acb62-6cb0-4c27-9539-e2bddaf33e59",
+    "UID": "9ef11c89-f11a-4ca0-86ef-ccffce708adb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Capital Hospital",
@@ -5725,9 +5775,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 230,
+    "SNO": 232,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d4921d16-ec46-4fea-a000-0c84c447bcea",
+    "UID": "c5c6f76e-7cf0-43b4-9288-efb49c61bda0",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "AREA HOSPITAL, GUDIVADA",
@@ -5750,9 +5800,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 231,
+    "SNO": 233,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "73e2ad0d-87b3-4712-b91b-992c47bff196",
+    "UID": "a8cbf75f-1bca-4010-8108-1481d2def313",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "TIME HOSPITALS PVT LTD",
@@ -5775,9 +5825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 232,
+    "SNO": 234,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8d53df15-2855-4171-8440-54cb99f28df4",
+    "UID": "2eb3a9b8-fb7c-4b16-b5d0-a8274786aa8f",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "M V S Accident Hospital",
@@ -5800,9 +5850,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 233,
+    "SNO": 235,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "338a8fd9-0fd9-47d2-8fb8-74a7e21a7b3d",
+    "UID": "68742822-2325-4edb-97e6-064a6129fcc5",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Andhra Hospitals Machilipatnam A Unit Of Viswadeep Medical Services Pvt Ltd",
@@ -5825,9 +5875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 234,
+    "SNO": 236,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "faff5310-8f56-4738-a326-c011cbb776f8",
+    "UID": "9163327d-e754-4da5-b83f-990bb9809518",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Nagarjuna Hospital",
@@ -5850,9 +5900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 235,
+    "SNO": 237,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c979e6df-65c5-4d57-939f-b504a7cc431d",
+    "UID": "bac8d4f3-97cb-476b-ade3-978853f40ca4",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Best Hospital",
@@ -5875,9 +5925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 236,
+    "SNO": 238,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4930418f-0a7e-4261-bf46-f7eac0b698ff",
+    "UID": "f1ba28a3-40a2-47ea-9de9-6963f1811cf3",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Harini Hospital",
@@ -5900,9 +5950,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 237,
+    "SNO": 239,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "eb885cde-361a-4f26-a3ec-f795cd2c61af",
+    "UID": "67fcab39-5ee9-4965-81fe-4a8d2a28a867",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Latha Super speciality hospitals",
@@ -5912,8 +5962,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 2,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 26,
-    "OXYGEN_GENERAL_OCCUPIED": 24,
-    "OXYGEN_GENERAL_AVAILABLE": 2,
+    "OXYGEN_GENERAL_OCCUPIED": 22,
+    "OXYGEN_GENERAL_AVAILABLE": 4,
     "GENERAL_TOTAL": 2,
     "GENERAL_OCCUPIED": 2,
     "GENERAL_AVAILABLE": 0,
@@ -5925,9 +5975,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 238,
+    "SNO": 240,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "db5614f1-1c0b-43ff-b1d8-72d6aa86a394",
+    "UID": "f63e0565-48c5-4d32-84b8-0e9aca6aa25c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Gayatri Hospitals",
@@ -5950,9 +6000,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 239,
+    "SNO": 241,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "cd64ff35-66be-4759-b1c4-e6aff26d7ade",
+    "UID": "9d9fcc91-e7cc-48a5-943e-f3e730a41f16",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "SAI BHASKAR HOSPITALS (A UNIT OF BMR HOSPITALS)",
@@ -5975,9 +6025,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 240,
+    "SNO": 242,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8cfddebc-49e0-4632-afab-df66ee4d8318",
+    "UID": "83a3fe62-6504-4c99-af88-337ce10e7db4",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "ANDHRA HOSPITALS (VIJAYAWADA) PVT LTD",
@@ -6000,9 +6050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 241,
+    "SNO": 243,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "57864075-7793-4b4e-800e-7489a3a141a9",
+    "UID": "62a8654b-4822-4f51-9ef6-2814bde5c53e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "AIMS for CHILD HEALTH",
@@ -6025,9 +6075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 242,
+    "SNO": 244,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a8960b30-8c9b-4c36-8faa-9585a7b31689",
+    "UID": "f68cc8e6-4e4c-477a-b605-a2b667b58d36",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "SENTINI HOSPITALS PRIVATE LIMITED",
@@ -6050,9 +6100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 243,
+    "SNO": 245,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ff493656-e6f6-4d91-a382-3860ca2b7450",
+    "UID": "255b1efc-e597-4dfe-bac5-dce8fccba2c9",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "LIFE LINE TRIMURTY HOSPITAL",
@@ -6075,9 +6125,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 244,
+    "SNO": 246,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0c1afe20-58b9-4e17-858d-89d15f6febb0",
+    "UID": "dd70f1c9-4faa-401c-95b8-de61ec46a73d",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "LALITHA LIFE CARE SOLUTIONS",
@@ -6100,9 +6150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 245,
+    "SNO": 247,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2a62229f-d2d8-4c2e-80bf-c039d5b12e99",
+    "UID": "8ec5949f-af45-45a8-95dd-0187945bbbb6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "ANIL NEURO AND TRAUMA CENTRE",
@@ -6125,9 +6175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 246,
+    "SNO": 248,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0f673412-3115-480c-831c-4fe8a5ed46ae",
+    "UID": "79229bb9-d8e6-466e-a0f5-19faae951492",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "SMILE HOSPITAL, VIJAYAWADA",
@@ -6150,9 +6200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 247,
+    "SNO": 249,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a49f7eed-97eb-4e48-b880-0c7deacdbdc8",
+    "UID": "c5f10d68-5c3c-40ab-a581-7df6b9d0ee9f",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "VIJAY ORTHO AND ACCIDENTAL CARE",
@@ -6175,9 +6225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 248,
+    "SNO": 250,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "cd5f82ec-3375-41d9-be94-d7c4e3f73ca6",
+    "UID": "a55c438d-0ed2-480b-9e3f-f1fcf2f355eb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "GLOBAL MULTI SPECIALITY HOSPITAL",
@@ -6200,9 +6250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 249,
+    "SNO": 251,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "16f9e716-e96e-4d7d-b2f7-f1b68f5dba94",
+    "UID": "a3b319a1-cfcc-402f-9494-47275bf365cf",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "VIJAYA SUPER SPL HOSPITAL",
@@ -6225,9 +6275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 250,
+    "SNO": 252,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7abd2794-a463-4558-948e-1b4a9bd17518",
+    "UID": "647ee47f-e358-4cce-9177-911ad7e7fa26",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "M/S ASSURE HOSPITAL",
@@ -6250,9 +6300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 251,
+    "SNO": 253,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2566c541-086a-4739-920c-5d8eaef4be3c",
+    "UID": "4ffdb8b0-eeab-416c-964f-363797111e8a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Arun Kideny Centre",
@@ -6275,9 +6325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 252,
+    "SNO": 254,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8bfd5a9d-4f2c-4d81-bb2a-08d963a7de91",
+    "UID": "a9a516bb-9f7b-4a78-862c-827c8a1b56fc",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Tamma Vinod Reddy Sruthi Hospital, Pamarru",
@@ -6300,9 +6350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 253,
+    "SNO": 255,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e3710690-9589-4514-bd7f-4771b85c0889",
+    "UID": "1dfd1b41-bda0-411f-8149-d8a251e46809",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Help Hospital",
@@ -6325,9 +6375,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 254,
+    "SNO": 256,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c8560b86-5db7-4e51-8a3c-76893640f844",
+    "UID": "5a1eaa04-cf26-4d2b-8495-e55f92fa65b4",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "K V SHINE HOSPITAL",
@@ -6350,9 +6400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 255,
+    "SNO": 257,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f6ab504b-68e6-4718-b2f5-0c02662e3352",
+    "UID": "810a49bf-e5c2-4c59-aa58-eb0e1f9b607a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "M/S SOWJANYA HOSPITAL",
@@ -6375,9 +6425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 256,
+    "SNO": 258,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6d390113-fef6-44c7-a37a-d003ab608bbf",
+    "UID": "a8b2b636-9319-434b-9994-7ca684616e6e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Krishna Gastro Hospital",
@@ -6400,9 +6450,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 257,
+    "SNO": 259,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a0075715-9ffb-44c2-ab18-3c6f0336b9e9",
+    "UID": "dc76fb79-e165-41d4-b312-b20c1689eeb9",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Charitha Sri Hospital",
@@ -6425,9 +6475,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 258,
+    "SNO": 260,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "298cc53f-701b-4a47-8891-16b00d010e86",
+    "UID": "28b0f526-30a8-4376-b9c0-f283b1dc640b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Ravi Hospital",
@@ -6450,9 +6500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 259,
+    "SNO": 261,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d6ea51a9-9650-48d3-b649-d99caa28b1ef",
+    "UID": "39cce08d-3ab1-48f4-bd46-18538a7072f7",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "CHIKITSAA MULTISPECIALITY HOSPITAL",
@@ -6475,9 +6525,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 260,
+    "SNO": 262,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9be1be8e-6ac3-475a-b5bd-8dffee14d8af",
+    "UID": "261c2317-0217-48dc-9c62-13da20cd0925",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "EVR Hospital, Gudivada",
@@ -6490,8 +6540,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 3,
     "OXYGEN_GENERAL_AVAILABLE": 3,
     "GENERAL_TOTAL": 6,
-    "GENERAL_OCCUPIED": 1,
-    "GENERAL_AVAILABLE": 5,
+    "GENERAL_OCCUPIED": 4,
+    "GENERAL_AVAILABLE": 2,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=14410202214143868054",
     "LAT": 16.4345654,
@@ -6500,9 +6550,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 261,
+    "SNO": 263,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1d3e58bd-caca-4505-9357-9eaa90ec5407",
+    "UID": "e9ba9d78-46f9-4785-b6b1-cffdda774e32",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "LIBERTY HOSPITALS ,VIJAYAWADA",
@@ -6525,9 +6575,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 262,
+    "SNO": 264,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "bc058078-613d-471a-a8f4-b4575f80c400",
+    "UID": "53e6ec10-9833-497d-96eb-11623dc9215e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Sai Madhavi Hospital, Vijayawada",
@@ -6550,9 +6600,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 263,
+    "SNO": 265,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "904a270c-f1d3-4a50-8b86-f622df585d03",
+    "UID": "2ea6f222-da32-4ed9-869b-94ad441d7965",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Dr. kiran reddys joint care",
@@ -6575,9 +6625,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 264,
+    "SNO": 266,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ca7453a4-92d8-474f-abd5-4edb337d5f3f",
+    "UID": "4adf76c9-af8d-455d-92f2-d6f871bb932c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Hanshu ortho and Ent Hospital, Thiruvuru",
@@ -6600,9 +6650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 265,
+    "SNO": 267,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "45f40e13-4acb-49e8-a344-8783dc8b070b",
+    "UID": "8a608154-1903-4547-8f05-34bc4c9a3c6f",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "chaitanya life care hospital",
@@ -6625,9 +6675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 266,
+    "SNO": 268,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "87da5579-fe57-4297-9977-08c98fa94b26",
+    "UID": "cb944432-8e84-4eaa-9893-c7e659adbf77",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "CITI ORTHOPAEDIC CENTRE,VJA",
@@ -6650,9 +6700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 267,
+    "SNO": 269,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4a5115da-d667-405d-a9c5-6f13cb5cd900",
+    "UID": "bfcb6952-c2ed-4a33-93fc-e82f290b6dd3",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "UNION HOSPITAL",
@@ -6675,9 +6725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 268,
+    "SNO": 270,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "569c47dd-6936-4f72-8c3a-155ce50a35dc",
+    "UID": "3eb910d1-8f2d-4917-aa26-d65e5833484b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Sri Santhi Hospitals,Vijayawada",
@@ -6700,9 +6750,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 269,
+    "SNO": 271,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7e6c40ca-68d1-4dfc-b58b-6a33ed46f13d",
+    "UID": "c736d8ad-4d46-4818-8d89-7073cdc2be40",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Svr Neuro Hospital",
@@ -6725,9 +6775,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 270,
+    "SNO": 272,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d3069aef-b145-4895-b768-de504155e948",
+    "UID": "43392765-12ba-4fe1-a403-2f9af9ebb23f",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "S.V.D Multispeciality Hospitals",
@@ -6750,9 +6800,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 271,
+    "SNO": 273,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "301cac3d-08a9-49b3-91b1-700695bf7507",
+    "UID": "a4398d85-7b4f-4e4b-9b81-848b7535da54",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "SUNRISE HOSPITAL",
@@ -6775,9 +6825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 272,
+    "SNO": 274,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fb7a7475-c764-4e6d-8209-a451089ea726",
+    "UID": "87ac1a40-721e-4502-987a-bc4b54045edc",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "SRIKARAHOSPITAL",
@@ -6800,9 +6850,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 273,
+    "SNO": 275,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c807aab3-3b15-4e04-bbab-fa8317c17328",
+    "UID": "74eb21e0-43f5-4515-8a9e-0ab07472fed1",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "SURESH SUPER SPL",
@@ -6825,9 +6875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 274,
+    "SNO": 276,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "888a3bf6-a090-4523-bc7d-0d62dba205f0",
+    "UID": "7bd6e089-32c7-4c99-ad3a-da20c36b22f1",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "VENKATESWARA HOSPITAL, NUZVID",
@@ -6850,9 +6900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 275,
+    "SNO": 277,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "977e782b-3dee-43b1-9684-cb7dc26203dd",
+    "UID": "6dc113c7-3939-4c58-8606-e822254f7d01",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "CHC Avanigadda",
@@ -6875,9 +6925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 276,
+    "SNO": 278,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "394c9ab3-965d-436f-a090-af4955983496",
+    "UID": "fd150725-337e-4e54-a034-27d4081f81a2",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "GIFFERD HOSPITAL",
@@ -6900,9 +6950,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 277,
+    "SNO": 279,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2f203b8a-dce0-44db-9b7f-354f002708ce",
+    "UID": "cc452494-6619-4ad4-9502-5390688d53ce",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "MAHESH HOSPITAL",
@@ -6925,9 +6975,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 278,
+    "SNO": 280,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ebd2f407-ad00-45fd-a54b-a1a420c29d47",
+    "UID": "cab7afde-0354-4337-bc1e-1d8a4ea43c03",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "DR.Y.BHARAGAVA KRISHNA",
@@ -6950,9 +7000,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 279,
+    "SNO": 281,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "dbcdee4c-748b-4c37-af89-1804c859bafd",
+    "UID": "f47c2776-534f-437a-913a-54de181e9893",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "CRANE, Vijayawada",
@@ -6975,9 +7025,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 280,
+    "SNO": 282,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fce9a642-5d91-4692-ae95-4a9551fd542d",
+    "UID": "cf133496-4e7d-42e1-9e22-6cbdb85b394d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "LAHARI HOSPITAL",
@@ -7000,9 +7050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 281,
+    "SNO": 283,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0f0814f2-5dd3-4fb7-83da-2197afd4ce25",
+    "UID": "9739af93-c08d-466e-8120-7d68d6359956",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "SAIDEEPU HOSPITAL",
@@ -7025,9 +7075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 282,
+    "SNO": 284,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f81a41ee-9382-47e2-abb0-c8501f5b883e",
+    "UID": "23ee9e58-3e90-4de2-a569-72f6ecd37e56",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Krishna",
     "HOSPITAL_NAME": "Martha Health Care Services  Pvt Ltd",
@@ -7050,17 +7100,17 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 283,
+    "SNO": 285,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "14a39c19-2c9e-46ce-ba4e-5dea3ae6d1d6",
+    "UID": "5b7dc3e3-9c30-431d-87f8-17534c35f325",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Shanthiram Medical College, Nandyal",
     "CONTACT": 8514222444,
     "AAROGYASRI_EMPANELMENT_STATUS": "Partially Empanelled",
     "ICU_TOTAL": 20,
-    "ICU_OCCUPIED": 12,
-    "ICU_AVAILABLE": 8,
+    "ICU_OCCUPIED": 13,
+    "ICU_AVAILABLE": 7,
     "OXYGEN_GENERAL_TOTAL": 20,
     "OXYGEN_GENERAL_OCCUPIED": 20,
     "OXYGEN_GENERAL_AVAILABLE": 0,
@@ -7075,9 +7125,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 284,
+    "SNO": 286,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "81feedff-1e17-4eb6-a8c3-337792e8abc9",
+    "UID": "662597af-403e-4606-9a36-e69929bd53f5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Vishwabharathi Medical College and Hospital",
@@ -7087,8 +7137,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 10,
     "OXYGEN_GENERAL_TOTAL": 65,
-    "OXYGEN_GENERAL_OCCUPIED": 2,
-    "OXYGEN_GENERAL_AVAILABLE": 63,
+    "OXYGEN_GENERAL_OCCUPIED": 5,
+    "OXYGEN_GENERAL_AVAILABLE": 60,
     "GENERAL_TOTAL": 217,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 217,
@@ -7100,9 +7150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 285,
+    "SNO": 287,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9bba6ee4-64ec-412e-8c2b-693895db248f",
+    "UID": "7fd2b772-c05b-4266-b6a7-a9b113b8f899",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Government General Hospital",
@@ -7112,8 +7162,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 37,
     "ICU_AVAILABLE": 240,
     "OXYGEN_GENERAL_TOTAL": 588,
-    "OXYGEN_GENERAL_OCCUPIED": 418,
-    "OXYGEN_GENERAL_AVAILABLE": 170,
+    "OXYGEN_GENERAL_OCCUPIED": 428,
+    "OXYGEN_GENERAL_AVAILABLE": 160,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -7125,9 +7175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 286,
+    "SNO": 288,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f8392bcc-2b54-4ef4-ad03-cb6f4e6b2973",
+    "UID": "77f6070d-d583-4756-a40b-57d09c729cb5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "District Hospital, Nandyal",
@@ -7137,8 +7187,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 5,
     "ICU_AVAILABLE": 5,
     "OXYGEN_GENERAL_TOTAL": 50,
-    "OXYGEN_GENERAL_OCCUPIED": 36,
-    "OXYGEN_GENERAL_AVAILABLE": 14,
+    "OXYGEN_GENERAL_OCCUPIED": 34,
+    "OXYGEN_GENERAL_AVAILABLE": 16,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -7150,17 +7200,17 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 287,
+    "SNO": 289,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3b60b159-fed5-4b8c-a220-28c1be037722",
+    "UID": "7dd60235-383f-406a-a70e-60d4f5449b47",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Area Hospital, Adoni",
     "CONTACT": 851225400,
     "AAROGYASRI_EMPANELMENT_STATUS": "Government",
     "ICU_TOTAL": 10,
-    "ICU_OCCUPIED": 8,
-    "ICU_AVAILABLE": 2,
+    "ICU_OCCUPIED": 10,
+    "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 65,
     "OXYGEN_GENERAL_OCCUPIED": 45,
     "OXYGEN_GENERAL_AVAILABLE": 20,
@@ -7175,9 +7225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 288,
+    "SNO": 290,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8c9d9cb3-2ddd-4fed-ad8e-5df9705d9c28",
+    "UID": "54a0c71d-3d56-4ab8-81f8-4b698d927409",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Medicover Hospital",
@@ -7187,8 +7237,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 6,
     "ICU_AVAILABLE": 4,
     "OXYGEN_GENERAL_TOTAL": 30,
-    "OXYGEN_GENERAL_OCCUPIED": 12,
-    "OXYGEN_GENERAL_AVAILABLE": 18,
+    "OXYGEN_GENERAL_OCCUPIED": 9,
+    "OXYGEN_GENERAL_AVAILABLE": 21,
     "GENERAL_TOTAL": 10,
     "GENERAL_OCCUPIED": 10,
     "GENERAL_AVAILABLE": 0,
@@ -7200,9 +7250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 289,
+    "SNO": 291,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "627eeb0f-7c8b-4e97-b5c6-a5591f280bf1",
+    "UID": "b2b2a04d-21f8-45cd-bded-cf74d2cc0ebd",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Omni Hospitals",
@@ -7225,9 +7275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 290,
+    "SNO": 292,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a640f7de-edc1-41a9-ad2b-762dbbe8670f",
+    "UID": "50f6d503-71d4-439b-9db4-bbaf0ba322a9",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Sanjeevani Hospitals",
@@ -7237,8 +7287,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 20,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 11,
-    "OXYGEN_GENERAL_OCCUPIED": 1,
-    "OXYGEN_GENERAL_AVAILABLE": 10,
+    "OXYGEN_GENERAL_OCCUPIED": 3,
+    "OXYGEN_GENERAL_AVAILABLE": 8,
     "GENERAL_TOTAL": 10,
     "GENERAL_OCCUPIED": 10,
     "GENERAL_AVAILABLE": 0,
@@ -7250,9 +7300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 291,
+    "SNO": 293,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2cf13ae2-19f2-45a0-81c2-19c6c9e42fd9",
+    "UID": "df0fb613-6d6e-4dbf-9993-af6a02b3c407",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "VR Multispeciality",
@@ -7275,9 +7325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 292,
+    "SNO": 294,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "73a4a777-23a1-4fc2-9f6a-1e75333f455f",
+    "UID": "ea90ba0e-437e-41e6-9da4-38939b0d5836",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Ameelio Hospitals",
@@ -7300,9 +7350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 293,
+    "SNO": 295,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "27369f07-1225-4a5b-9ebb-bd7e1e52baaf",
+    "UID": "8e2c4cf0-a296-43aa-aef9-f9ff7df973be",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Vijaya Hospitals",
@@ -7325,9 +7375,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 294,
+    "SNO": 296,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4f3874a6-41c2-46b6-b0ff-ba58ade032d2",
+    "UID": "177221e3-3a23-42d4-98c3-b2f2e609c03b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Udayanand Hospital, Nandyal",
@@ -7340,8 +7390,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 30,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 10,
-    "GENERAL_OCCUPIED": 4,
-    "GENERAL_AVAILABLE": 6,
+    "GENERAL_OCCUPIED": 9,
+    "GENERAL_AVAILABLE": 1,
     "VENTILATOR": 5,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJnxBZ8QRNtDsRtHY4VM5e6tA",
     "LAT": 15.4670607,
@@ -7350,9 +7400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 295,
+    "SNO": 297,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "dfe82ee1-35c5-4706-b3f3-57c74f2779e3",
+    "UID": "d177e59e-a205-409f-b86b-f257b2f0c01c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Noble Multispecialty Hospital, Kurnool",
@@ -7375,9 +7425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 296,
+    "SNO": 298,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1756e184-c3b6-4610-b230-e7dc37ad80a6",
+    "UID": "82adbc98-6a0f-4e44-ab7c-351cac48ad89",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Sri Gayathri Hospital",
@@ -7400,9 +7450,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 297,
+    "SNO": 299,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a90742d7-9085-41a4-a124-dbaa4ffd5995",
+    "UID": "e9376aa0-b737-4d67-92e9-1ea5370e96f4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "SRG Hospital",
@@ -7425,9 +7475,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 298,
+    "SNO": 300,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b0a033cf-4859-4ace-8e31-be0edc1d390d",
+    "UID": "1266dd8c-c46c-4277-83eb-d86269d0e8b0",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Seven Hills Hospital",
@@ -7450,9 +7500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 299,
+    "SNO": 301,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1e155e43-50e8-4d09-af1a-00748e40e4d2",
+    "UID": "f5484dc8-72a1-4b84-a381-c91689584686",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "Sai Vani Hospital",
@@ -7465,8 +7515,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 8,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 24,
-    "GENERAL_OCCUPIED": 13,
-    "GENERAL_AVAILABLE": 11,
+    "GENERAL_OCCUPIED": 15,
+    "GENERAL_AVAILABLE": 9,
     "VENTILATOR": 2,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJZ5AXRV3ntTsRcfrttSD4_os",
     "LAT": 15.8358682,
@@ -7475,9 +7525,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 300,
+    "SNO": 302,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4b058a0b-df58-412e-b0d6-1f58e48d16b8",
+    "UID": "9ff8df03-82f7-440b-91dd-f48665752427",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "AYUSHMAN HOSPITAL",
@@ -7500,9 +7550,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 301,
+    "SNO": 303,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "aca09f9e-615a-4543-8a1b-c14ae9d9ad17",
+    "UID": "f54173e4-ddbe-4ace-a7f6-042182c5ceb2",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "KVR hospital",
@@ -7525,9 +7575,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 302,
+    "SNO": 304,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "36cfa276-ff6e-41d1-ad51-cd110139ecd3",
+    "UID": "d7fb755a-23e3-4b81-be7c-af2bdd7fce65",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "MSR MULTI SPECIALITY HOSPITAL",
@@ -7550,9 +7600,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 303,
+    "SNO": 305,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "de644b03-9465-4ce1-83a4-db2776d280a3",
+    "UID": "35d4705e-16f9-4a5b-bbe0-2d7399e1f384",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "SRI CHAKRA HOSPITAL",
@@ -7575,9 +7625,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 304,
+    "SNO": 306,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0c247f27-eb53-4b49-b293-5868b5df6ff3",
+    "UID": "e2cf05b5-1eb7-46bd-8be9-1f944c32d05e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "RR HOSPITAL",
@@ -7600,9 +7650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 305,
+    "SNO": 307,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2c438105-42d5-48d4-8aa4-9644663f1d37",
+    "UID": "828d19b3-b957-4bd0-a0c0-3448e527fa39",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "VIJAY CARE HOSPITAL",
@@ -7625,9 +7675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 306,
+    "SNO": 308,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ef03f06f-1c0f-4812-b4e9-c28c7bba7efb",
+    "UID": "45124ad3-27ea-4503-b3eb-ca653ec84422",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "CBR KURNOOL RAMESH HOSPITAL",
@@ -7650,9 +7700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 307,
+    "SNO": 309,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b158239c-812d-4f8a-97bd-4b37be03d40a",
+    "UID": "dc304606-0e0b-4ac7-9385-3a1c4ce63ab4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "JEEVAN HOSPITAL",
@@ -7675,9 +7725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 308,
+    "SNO": 310,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d08665a9-a766-48ee-a1e8-e952c3f8daa2",
+    "UID": "c055b128-7e77-4bb8-8171-3c7f756b1611",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Kurnool",
     "HOSPITAL_NAME": "SJ HOSPITAL",
@@ -7700,9 +7750,59 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 309,
+    "SNO": 311,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "177558e0-2834-4ed7-8cb0-855203620bb6",
+    "UID": "77db55d3-30d4-4185-b643-68769c282486",
+    "IS_NEW_HOSPITAL": "TRUE",
+    "DISTRICT": "Kurnool",
+    "HOSPITAL_NAME": "sai balaji nursing home",
+    "CONTACT": 9989325911,
+    "AAROGYASRI_EMPANELMENT_STATUS": "-",
+    "ICU_TOTAL": 0,
+    "ICU_OCCUPIED": 0,
+    "ICU_AVAILABLE": 0,
+    "OXYGEN_GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_OCCUPIED": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
+    "GENERAL_TOTAL": 0,
+    "GENERAL_OCCUPIED": 0,
+    "GENERAL_AVAILABLE": 0,
+    "VENTILATOR": 0,
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
+  },
+  {
+    "SNO": 312,
+    "STEIN_ID": "AndhraPradesh",
+    "UID": "644b30d4-7731-4dbb-aa94-dd3b2fae88cb",
+    "IS_NEW_HOSPITAL": "TRUE",
+    "DISTRICT": "Kurnool",
+    "HOSPITAL_NAME": "Abhaya hospitals",
+    "CONTACT": 8974111599,
+    "AAROGYASRI_EMPANELMENT_STATUS": "-",
+    "ICU_TOTAL": 0,
+    "ICU_OCCUPIED": 0,
+    "ICU_AVAILABLE": 0,
+    "OXYGEN_GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_OCCUPIED": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
+    "GENERAL_TOTAL": 0,
+    "GENERAL_OCCUPIED": 0,
+    "GENERAL_AVAILABLE": 0,
+    "VENTILATOR": 0,
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
+  },
+  {
+    "SNO": 313,
+    "STEIN_ID": "AndhraPradesh",
+    "UID": "d8649c0f-87a6-4f9a-ada9-cbc9760e1e4b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Area Hospital, Chirala",
@@ -7715,8 +7815,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 6,
     "OXYGEN_GENERAL_AVAILABLE": 44,
     "GENERAL_TOTAL": 10,
-    "GENERAL_OCCUPIED": 2,
-    "GENERAL_AVAILABLE": 8,
+    "GENERAL_OCCUPIED": 4,
+    "GENERAL_AVAILABLE": 6,
     "VENTILATOR": 5,
     "LOCATION": "https://maps.google.com/?cid=13851155629949372300",
     "LAT": 15.8254173,
@@ -7725,9 +7825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 310,
+    "SNO": 314,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "84b817ea-3da9-430f-a84d-e045fe15acad",
+    "UID": "6015fa62-5e71-4bec-9c82-013de7622ec7",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "DIST HOSPITAL,MARKAPUR",
@@ -7737,8 +7837,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 90,
-    "OXYGEN_GENERAL_OCCUPIED": 26,
-    "OXYGEN_GENERAL_AVAILABLE": 64,
+    "OXYGEN_GENERAL_OCCUPIED": 24,
+    "OXYGEN_GENERAL_AVAILABLE": 66,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -7750,23 +7850,23 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 311,
+    "SNO": 315,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ff102099-5b75-4e24-ad50-a955fd5d2c25",
+    "UID": "6b510568-6ec8-4508-a4d8-75095ef84544",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "KIMS",
     "CONTACT": 859266778,
     "AAROGYASRI_EMPANELMENT_STATUS": "Arogyasri",
     "ICU_TOTAL": 18,
-    "ICU_OCCUPIED": 17,
-    "ICU_AVAILABLE": 1,
+    "ICU_OCCUPIED": 18,
+    "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 20,
     "OXYGEN_GENERAL_OCCUPIED": 20,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 22,
-    "GENERAL_OCCUPIED": 20,
-    "GENERAL_AVAILABLE": 2,
+    "GENERAL_OCCUPIED": 22,
+    "GENERAL_AVAILABLE": 0,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=7443189688562985669",
     "LAT": 15.5116257,
@@ -7775,9 +7875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 312,
+    "SNO": 316,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ce3409ac-ff60-4978-af93-b437fd3ad7fa",
+    "UID": "761a23b3-19c2-447c-867e-49894617cd69",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Area Hospital,kandukur",
@@ -7800,9 +7900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 313,
+    "SNO": 317,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6c6880fc-fe60-47fe-90ce-99b7bb40fa88",
+    "UID": "167b99e3-7aaa-4d2e-9484-905d6dc2b01e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Ramesh Sanghamitra Hospital",
@@ -7825,9 +7925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 314,
+    "SNO": 318,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f0d58087-6c1b-4489-b5a1-92b394770e31",
+    "UID": "2781337b-6d3b-47b0-b1d7-3cc749f3bbe7",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Nalluri nursing home",
@@ -7850,22 +7950,22 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 315,
+    "SNO": 319,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9af39919-2007-4008-b4f6-a4cca7d50823",
+    "UID": "78f5b8b8-6051-4df6-8cc4-7aa77b1b35aa",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "GGH ONGOLE",
     "CONTACT": "08592-226000",
     "AAROGYASRI_EMPANELMENT_STATUS": "Government",
     "ICU_TOTAL": 122,
-    "ICU_OCCUPIED": 91,
-    "ICU_AVAILABLE": 31,
-    "OXYGEN_GENERAL_TOTAL": 854,
-    "OXYGEN_GENERAL_OCCUPIED": 690,
-    "OXYGEN_GENERAL_AVAILABLE": 164,
-    "GENERAL_TOTAL": 456,
-    "GENERAL_OCCUPIED": 367,
+    "ICU_OCCUPIED": 93,
+    "ICU_AVAILABLE": 29,
+    "OXYGEN_GENERAL_TOTAL": 863,
+    "OXYGEN_GENERAL_OCCUPIED": 708,
+    "OXYGEN_GENERAL_AVAILABLE": 155,
+    "GENERAL_TOTAL": 461,
+    "GENERAL_OCCUPIED": 372,
     "GENERAL_AVAILABLE": 89,
     "VENTILATOR": 254,
     "LOCATION": "https://maps.google.com/?cid=16150006403713465857",
@@ -7875,9 +7975,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 316,
+    "SNO": 320,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e6dc3407-5680-438c-af6e-88a23b552af6",
+    "UID": "68d93f2c-e997-4623-a1f0-dc61411c00e2",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Vaatsalya Hospital, Ongole",
@@ -7900,9 +8000,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 317,
+    "SNO": 321,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "76fdf835-313f-49dd-957a-587955a0d6b1",
+    "UID": "3ca3066e-fb6d-4e02-8f50-3d25970ae6f6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Prakasam Super Specialty Hospital, Ongole",
@@ -7925,9 +8025,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 318,
+    "SNO": 322,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "719320a5-fad5-4757-956a-7a020f6cd3e6",
+    "UID": "3709b215-fec0-40db-afbb-1acd25b2ef8d",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Aluri Multi Speciality Hospital",
@@ -7950,9 +8050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 319,
+    "SNO": 323,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "611b3506-2153-4a4a-937b-932cd405af3f",
+    "UID": "d99fe8d1-17aa-4f1b-86f6-cbe4c9908042",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Amrutha Heart Hospital",
@@ -7975,9 +8075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 320,
+    "SNO": 324,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "892e0928-a110-4e37-a327-bb22a6fbff46",
+    "UID": "1043c03a-5314-4054-9518-a10e407d146e",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Rambabu Hospital",
@@ -8000,9 +8100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 321,
+    "SNO": 325,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ed538b05-cb41-4ecb-9158-4d3d627681c5",
+    "UID": "d768dd2c-006c-4088-95cb-efbdbe857cd4",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Sri Kamakshi Care Hospital, Chirala",
@@ -8014,9 +8114,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 26,
     "OXYGEN_GENERAL_OCCUPIED": 24,
     "OXYGEN_GENERAL_AVAILABLE": 2,
-    "GENERAL_TOTAL": 0,
+    "GENERAL_TOTAL": 14,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 0,
+    "GENERAL_AVAILABLE": 14,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=3642309144452275738",
     "LAT": 15.82891,
@@ -8025,9 +8125,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 322,
+    "SNO": 326,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "31ed1874-08ff-4e5d-913d-7266da69a72f",
+    "UID": "3ca8a1d9-c9b5-4c7d-a126-267a7136093a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "Gorantla Super Speciality Hospital, Chirala",
@@ -8050,9 +8150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 323,
+    "SNO": 327,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5db26e8b-4ade-45ae-9da1-e290b4cc82ee",
+    "UID": "d2488182-cf40-49a5-81a4-f89fa4d137b2",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "AIMS HOSPITAL",
@@ -8075,9 +8175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 324,
+    "SNO": 328,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "fe67f1f3-5d64-4d8f-8495-078ac97deffc",
+    "UID": "e248c3cb-96f0-418a-97aa-cf20a82dc298",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "ZACHARAIAH HOSPITAL",
@@ -8100,9 +8200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 325,
+    "SNO": 329,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "bf20192f-3728-4bcf-925c-63bfd545bcf3",
+    "UID": "96febaa1-f1d7-4ddd-81c3-a5f526b15dfd",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "SURAKSHA HOSPITAL",
@@ -8125,9 +8225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 326,
+    "SNO": 330,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f2fe1e4b-86a9-4cb5-b6f0-dcc788d42c79",
+    "UID": "f6a5abd7-1b49-4377-b68f-7dd12fc4dbc6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "JIMS",
@@ -8150,9 +8250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 327,
+    "SNO": 331,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "40e41813-432f-4a24-90a9-02eb928bc988",
+    "UID": "8e214cb8-7ce6-443f-8306-d8ccaf6bf5c1",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "SAI NURSING HOME",
@@ -8164,9 +8264,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 20,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 20,
-    "GENERAL_TOTAL": 0,
+    "GENERAL_TOTAL": 12,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 0,
+    "GENERAL_AVAILABLE": 12,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=6380347719913750942",
     "LAT": 15.5111918,
@@ -8175,9 +8275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 328,
+    "SNO": 332,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3a3fa953-beb1-4bee-92d5-551f38a039a6",
+    "UID": "83d3afed-b752-4f1d-91c8-425caafe85a1",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "DGR HOSPITAL",
@@ -8189,9 +8289,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 10,
     "OXYGEN_GENERAL_OCCUPIED": 4,
     "OXYGEN_GENERAL_AVAILABLE": 6,
-    "GENERAL_TOTAL": 12,
+    "GENERAL_TOTAL": 17,
     "GENERAL_OCCUPIED": 1,
-    "GENERAL_AVAILABLE": 11,
+    "GENERAL_AVAILABLE": 16,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=50047292458096039",
     "LAT": 15.3781682,
@@ -8200,9 +8300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 329,
+    "SNO": 333,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8fc0f209-d8d5-4052-afc2-9217595e95e4",
+    "UID": "44faeebd-f4e3-4a22-9549-4ed5e9e7207b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "CHC CHIMAKURTHY",
@@ -8214,9 +8314,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 15,
+    "GENERAL_TOTAL": 25,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 15,
+    "GENERAL_AVAILABLE": 25,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?q=Chimakurthy,+Andhra+Pradesh+523226,+India&ftid=0x3a4ae250ca031f1d:0x8b2576d4c7d91616",
     "LAT": 15.5855375,
@@ -8225,9 +8325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 330,
+    "SNO": 334,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d4e6200e-5004-4ba6-93c4-0eb3bc1eac1c",
+    "UID": "d3cabc5f-b505-4041-ae7a-e7f807b4c4ce",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "CHC PODILI",
@@ -8239,9 +8339,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 14,
+    "GENERAL_TOTAL": 20,
     "GENERAL_OCCUPIED": 12,
-    "GENERAL_AVAILABLE": 2,
+    "GENERAL_AVAILABLE": 8,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=10858272862333249873",
     "LAT": 15.5843089,
@@ -8250,9 +8350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 331,
+    "SNO": 335,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2b3296e4-d72b-4051-8790-327727803177",
+    "UID": "ad5642a5-8cd8-4090-b1ad-0e0f9b2c7795",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "CHC DARSI",
@@ -8275,9 +8375,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 332,
+    "SNO": 336,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7cac943c-53bf-4f37-91c5-d56929f1b3c2",
+    "UID": "af32c309-1a57-48ec-9892-092b3d84cb60",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "CHC PARCHUR",
@@ -8289,9 +8389,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 15,
+    "GENERAL_TOTAL": 25,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 15,
+    "GENERAL_AVAILABLE": 25,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=6804040847803346098",
     "LAT": 15.9670436,
@@ -8300,9 +8400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 333,
+    "SNO": 337,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "883e4e63-4557-4587-bc0f-9a464a1418a6",
+    "UID": "ff252fc8-1373-498a-8f05-334805dd6ac3",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "CHC MARTUR",
@@ -8314,9 +8414,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 15,
+    "GENERAL_TOTAL": 20,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 15,
+    "GENERAL_AVAILABLE": 20,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=10588883311958282916",
     "LAT": 15.9855493,
@@ -8325,9 +8425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 334,
+    "SNO": 338,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3cef0dd1-e25d-4753-ae0b-194dcdeed4f6",
+    "UID": "2545d0b4-0614-495d-af99-6b17fc8a7b69",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "CHC Y.PALEM",
@@ -8339,9 +8439,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 10,
+    "GENERAL_TOTAL": 20,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 10,
+    "GENERAL_AVAILABLE": 20,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5320821672752415442",
     "LAT": 15.2447322,
@@ -8350,9 +8450,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 335,
+    "SNO": 339,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0f0d371c-9d6d-4b28-b87e-50665e260cf8",
+    "UID": "8b113464-135f-433f-882f-6356291f81f6",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "CHC KANIGIRI",
@@ -8364,9 +8464,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
-    "GENERAL_TOTAL": 20,
+    "GENERAL_TOTAL": 30,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 20,
+    "GENERAL_AVAILABLE": 30,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=5460292509713168501",
     "LAT": 15.4054262,
@@ -8375,9 +8475,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 336,
+    "SNO": 340,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5c331eb5-deab-4995-ac2f-16a4902979bc",
+    "UID": "0bba134f-b827-4b87-9b4d-0b41a35fc751",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "ONGOLE CHILDRENS HOSPITAL",
@@ -8389,9 +8489,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 5,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 5,
-    "GENERAL_TOTAL": 15,
+    "GENERAL_TOTAL": 25,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 15,
+    "GENERAL_AVAILABLE": 25,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=7985683122549639568",
     "LAT": 15.5112845,
@@ -8400,9 +8500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 337,
+    "SNO": 341,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "33a2a71b-01d6-46ac-b189-4fecafa31f51",
+    "UID": "3943b631-2580-49c7-b058-b626ad1fca62",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "SKR ICON HOSPITAL",
@@ -8414,9 +8514,9 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_TOTAL": 10,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 10,
-    "GENERAL_TOTAL": 10,
+    "GENERAL_TOTAL": 20,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 10,
+    "GENERAL_AVAILABLE": 20,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=2085622769012218757",
     "LAT": 15.8272736,
@@ -8425,23 +8525,23 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 338,
+    "SNO": 342,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f3b5a8b6-c9ac-4d5a-a610-3f0b80a58b92",
+    "UID": "90cea331-4e0b-4938-be16-6b8a4ea2e5e3",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "ROYAL MULTI SPECIALITY HOSPITAL",
     "CONTACT": "08592 283338",
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 10,
-    "ICU_OCCUPIED": 4,
-    "ICU_AVAILABLE": 6,
-    "OXYGEN_GENERAL_TOTAL": 7,
+    "ICU_OCCUPIED": 6,
+    "ICU_AVAILABLE": 4,
+    "OXYGEN_GENERAL_TOTAL": 9,
     "OXYGEN_GENERAL_OCCUPIED": 0,
-    "OXYGEN_GENERAL_AVAILABLE": 7,
+    "OXYGEN_GENERAL_AVAILABLE": 9,
     "GENERAL_TOTAL": 13,
-    "GENERAL_OCCUPIED": 8,
-    "GENERAL_AVAILABLE": 5,
+    "GENERAL_OCCUPIED": 9,
+    "GENERAL_AVAILABLE": 4,
     "VENTILATOR": 2,
     "LOCATION": "https://maps.google.com/?cid=5162155770407488072",
     "LAT": 15.5162222,
@@ -8450,9 +8550,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 339,
+    "SNO": 343,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7f484f56-954c-4792-bcd5-6ccc7cf83858",
+    "UID": "440a761e-0804-4d86-ac52-133949683e80",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Prakasam",
     "HOSPITAL_NAME": "SURAKSHA HOSPITAL,ONGOLE",
@@ -8461,12 +8561,12 @@ andhra_pradesh_data=[
     "ICU_TOTAL": 3,
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 3,
-    "OXYGEN_GENERAL_TOTAL": 7,
+    "OXYGEN_GENERAL_TOTAL": 10,
     "OXYGEN_GENERAL_OCCUPIED": 0,
-    "OXYGEN_GENERAL_AVAILABLE": 7,
-    "GENERAL_TOTAL": 10,
+    "OXYGEN_GENERAL_AVAILABLE": 10,
+    "GENERAL_TOTAL": 17,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 10,
+    "GENERAL_AVAILABLE": 17,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=985484472630807417",
     "LAT": 15.5129865,
@@ -8475,9 +8575,34 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 340,
+    "SNO": 344,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c030983d-73a5-41e4-9ec2-a752da6d7c33",
+    "UID": "690d2747-0bb6-42b4-858d-340b752b9e3b",
+    "IS_NEW_HOSPITAL": "TRUE",
+    "DISTRICT": "Prakasam",
+    "HOSPITAL_NAME": "Prasad multi speciality hospital Ongole",
+    "CONTACT": "08592 232002",
+    "AAROGYASRI_EMPANELMENT_STATUS": "-",
+    "ICU_TOTAL": 0,
+    "ICU_OCCUPIED": 0,
+    "ICU_AVAILABLE": 0,
+    "OXYGEN_GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_OCCUPIED": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
+    "GENERAL_TOTAL": 0,
+    "GENERAL_OCCUPIED": 0,
+    "GENERAL_AVAILABLE": 0,
+    "VENTILATOR": 0,
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
+  },
+  {
+    "SNO": 345,
+    "STEIN_ID": "AndhraPradesh",
+    "UID": "0edbc752-2c97-4f79-b382-aaeb161348df",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "APOLLO SPECIALTY HOSPITAL",
@@ -8500,9 +8625,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 341,
+    "SNO": 346,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a521dc11-e631-4fcd-bd20-245c87469f60",
+    "UID": "16f56005-fd8d-42d1-b2f8-5c01fb6a46a4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "NARAYANA MEDICAL COLLEGE HOSPITAL",
@@ -8525,9 +8650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 342,
+    "SNO": 347,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a8d2f2f5-7712-4f92-94bc-2f78f87d6537",
+    "UID": "c554d692-f09a-4bfc-b7b1-7bae1289fc92",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Govt General Hospital",
@@ -8550,9 +8675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 343,
+    "SNO": 348,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a5d90f97-b8ad-4d08-95f5-f6d428a3f87b",
+    "UID": "7bb5e6cf-dcd0-4654-bdd6-0d94ff21a041",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Medicover",
@@ -8575,9 +8700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 344,
+    "SNO": 349,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "adce45a4-e726-45c5-9c32-81479ed90f9f",
+    "UID": "1795f2c1-1acc-4099-b352-1e748248e025",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Jaya Bharath Hospitals",
@@ -8587,11 +8712,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 12,
-    "OXYGEN_GENERAL_OCCUPIED": 7,
-    "OXYGEN_GENERAL_AVAILABLE": 5,
+    "OXYGEN_GENERAL_OCCUPIED": 9,
+    "OXYGEN_GENERAL_AVAILABLE": 3,
     "GENERAL_TOTAL": 23,
-    "GENERAL_OCCUPIED": 21,
-    "GENERAL_AVAILABLE": 2,
+    "GENERAL_OCCUPIED": 22,
+    "GENERAL_AVAILABLE": 1,
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJjbmEKcuMTDoR2CTRqIY57F8",
     "LAT": 14.4449945,
@@ -8600,9 +8725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 345,
+    "SNO": 350,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e954315d-d9cc-4572-b1ad-90e2707ca81c",
+    "UID": "402697a7-4627-4525-92ad-0a32eaec3935",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "KIMS Nelloore",
@@ -8625,9 +8750,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 346,
+    "SNO": 351,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9a71632b-2a5f-44ad-ab83-9044cdc29aeb",
+    "UID": "49cde8b3-a185-4d2c-90cf-6fedd4f56b17",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Vijaya Krishna Hospital",
@@ -8650,9 +8775,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 347,
+    "SNO": 352,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8d3c545e-b110-46df-8fbe-0aa63d54790e",
+    "UID": "199f4449-2048-46c1-b634-e5e2b08531e4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "AH Kavali",
@@ -8675,9 +8800,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 348,
+    "SNO": 353,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d784e665-5fd3-481b-836c-3cc4dcdebf06",
+    "UID": "79e5097d-1410-45aa-98e9-d7d6b8278151",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Mythili",
@@ -8700,9 +8825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 349,
+    "SNO": 354,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "94ee2cbc-cc95-4959-ab37-ecf2f2052c8b",
+    "UID": "a6bf68e0-65e8-4e37-bc96-d39c0820257b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Rich Hospital",
@@ -8725,9 +8850,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 350,
+    "SNO": 355,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "da0484ca-03ad-4178-b554-3d6e812e57e7",
+    "UID": "02c29ceb-4fa4-4793-ab78-9748fffd37c9",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Sri Venkateswara Prajavidyasala Hospital,Atmakur",
@@ -8750,9 +8875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 351,
+    "SNO": 356,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "41a40bfc-22fb-43ef-8113-c484e1d11966",
+    "UID": "3c55e8ba-d120-4db3-9699-93cc18635295",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "St Joseph Hospital",
@@ -8775,9 +8900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 352,
+    "SNO": 357,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "df482596-de35-4033-9ce5-3fce46c71760",
+    "UID": "86413aad-0cb4-4cb2-88f9-55347c610a22",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Trinity Hospital Naidupeta",
@@ -8800,9 +8925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 353,
+    "SNO": 358,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8133c42c-bf7a-4aad-936c-40017aee8eea",
+    "UID": "b60e98e0-093d-4738-a2bd-a3f25c2d6f60",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Abhiram Instutions of Medical Sciences,Atmakur",
@@ -8825,9 +8950,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 354,
+    "SNO": 359,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ddf09360-29d4-4768-8f0a-80256d2d9bf9",
+    "UID": "ce719926-5d83-4166-85a1-ca02ba9244bf",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Spsr nellore",
     "HOSPITAL_NAME": "Area Hospital Gudur",
@@ -8850,9 +8975,34 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 355,
+    "SNO": 360,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c19ec2e2-923a-48f2-a7fa-12b45e38708b",
+    "UID": "1069e9a5-e3e9-45fe-87a3-a960d3b58fed",
+    "IS_NEW_HOSPITAL": "TRUE",
+    "DISTRICT": "Spsr nellore",
+    "HOSPITAL_NAME": "CHC Allur",
+    "CONTACT": 9701754428,
+    "AAROGYASRI_EMPANELMENT_STATUS": "-",
+    "ICU_TOTAL": 0,
+    "ICU_OCCUPIED": 0,
+    "ICU_AVAILABLE": 0,
+    "OXYGEN_GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_OCCUPIED": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
+    "GENERAL_TOTAL": 0,
+    "GENERAL_OCCUPIED": 0,
+    "GENERAL_AVAILABLE": 0,
+    "VENTILATOR": 0,
+    "LOCATION": "",
+    "LAT": "",
+    "LONG": "",
+    "HAS_ICU_BEDS": "FALSE",
+    "HAS_VENTILATORS": "FALSE"
+  },
+  {
+    "SNO": 361,
+    "STEIN_ID": "AndhraPradesh",
+    "UID": "5e0410f8-e157-4315-ae3e-eea2b2ff6abc",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "Dr.Golivi Hos[pitals",
@@ -8875,17 +9025,17 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 356,
+    "SNO": 362,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8e795c8d-2f21-4445-abbb-da922f402604",
+    "UID": "e699dac0-b31e-4fbd-a8c0-ceec2874c06c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "RIMS HOSPITAL",
     "CONTACT": 8019850546,
     "AAROGYASRI_EMPANELMENT_STATUS": "Government",
     "ICU_TOTAL": 98,
-    "ICU_OCCUPIED": 27,
-    "ICU_AVAILABLE": 71,
+    "ICU_OCCUPIED": 28,
+    "ICU_AVAILABLE": 70,
     "OXYGEN_GENERAL_TOTAL": 416,
     "OXYGEN_GENERAL_OCCUPIED": 232,
     "OXYGEN_GENERAL_AVAILABLE": 184,
@@ -8900,9 +9050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 357,
+    "SNO": 363,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "9fb712a2-07e2-44fe-8712-4d4b2b536dd7",
+    "UID": "47ca0a21-ae76-4584-84db-d3f92b3e85bb",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "GEMS HOSPITAL",
@@ -8915,8 +9065,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 280,
     "OXYGEN_GENERAL_AVAILABLE": 188,
     "GENERAL_TOTAL": 179,
-    "GENERAL_OCCUPIED": 70,
-    "GENERAL_AVAILABLE": 109,
+    "GENERAL_OCCUPIED": 105,
+    "GENERAL_AVAILABLE": 74,
     "VENTILATOR": 56,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJbXnOhA1rPDoRy009PoZdrnY",
     "LAT": 18.3492579,
@@ -8925,9 +9075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 358,
+    "SNO": 364,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "db7e93a6-f80c-4e08-918c-82d41e1b73f0",
+    "UID": "d6078e56-909d-4389-b525-7dcf0ab9d5b7",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "AREA HOSPITAL PALAKONDA",
@@ -8937,8 +9087,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 100,
-    "OXYGEN_GENERAL_OCCUPIED": 30,
-    "OXYGEN_GENERAL_AVAILABLE": 70,
+    "OXYGEN_GENERAL_OCCUPIED": 35,
+    "OXYGEN_GENERAL_AVAILABLE": 65,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -8950,9 +9100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 359,
+    "SNO": 365,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ef354c32-7f15-4734-9cab-adf591ec19bc",
+    "UID": "53f52b82-b88c-4ca7-8dd9-3f8f5fb44535",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "DH Tekkali",
@@ -8975,9 +9125,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 360,
+    "SNO": 366,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "cb9ec81b-bf31-4055-bac0-4951837352bf",
+    "UID": "965ea0d2-18d3-4be5-820e-52eef5d26acd",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "PVS Rammohan Hospital",
@@ -9000,9 +9150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 361,
+    "SNO": 367,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "db03ffc7-3497-4539-a8c2-b5942abebdf2",
+    "UID": "3006b5aa-7a0a-4a6b-98e3-f9ff50566126",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "Amrutha Hospital",
@@ -9015,8 +9165,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 4,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 40,
-    "GENERAL_OCCUPIED": 8,
-    "GENERAL_AVAILABLE": 32,
+    "GENERAL_OCCUPIED": 10,
+    "GENERAL_AVAILABLE": 30,
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJderCwSEVPDoRR2aTXGGoj34",
     "LAT": 18.3077346,
@@ -9025,9 +9175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 362,
+    "SNO": 368,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7003e621-f30b-481a-8911-50cfa2e3c41b",
+    "UID": "7fa6b327-6094-48bb-b674-65312133b324",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "Life Hospital",
@@ -9050,9 +9200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 363,
+    "SNO": 369,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d872c99d-928a-4822-808b-74b2a65bfb86",
+    "UID": "080bd42a-e0c1-4657-8447-25e58aa05197",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "KIMS Hospital",
@@ -9075,9 +9225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 364,
+    "SNO": 370,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ea83ae62-4968-408e-a331-b33c56fcec3c",
+    "UID": "4ee78e3c-3d7e-49a0-8135-e420823739be",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "MEDICOVER  HOSPITALS",
@@ -9087,8 +9237,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 1,
     "ICU_AVAILABLE": 1,
     "OXYGEN_GENERAL_TOTAL": 35,
-    "OXYGEN_GENERAL_OCCUPIED": 13,
-    "OXYGEN_GENERAL_AVAILABLE": 22,
+    "OXYGEN_GENERAL_OCCUPIED": 16,
+    "OXYGEN_GENERAL_AVAILABLE": 19,
     "GENERAL_TOTAL": 8,
     "GENERAL_OCCUPIED": 3,
     "GENERAL_AVAILABLE": 5,
@@ -9100,9 +9250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 365,
+    "SNO": 371,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "57844e9c-be32-47db-9f7d-03f00dfd2a3f",
+    "UID": "72bda2cc-ee0b-4fb4-91c4-afc6b8f47b4c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Srikakulam",
     "HOSPITAL_NAME": "Baggu sarojini devi hospital",
@@ -9112,8 +9262,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 3,
     "ICU_AVAILABLE": 4,
     "OXYGEN_GENERAL_TOTAL": 18,
-    "OXYGEN_GENERAL_OCCUPIED": 0,
-    "OXYGEN_GENERAL_AVAILABLE": 18,
+    "OXYGEN_GENERAL_OCCUPIED": 3,
+    "OXYGEN_GENERAL_AVAILABLE": 15,
     "GENERAL_TOTAL": 6,
     "GENERAL_OCCUPIED": 3,
     "GENERAL_AVAILABLE": 3,
@@ -9125,9 +9275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 366,
+    "SNO": 372,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6e64359e-052b-421d-972f-d1d6b2a8480d",
+    "UID": "d567af8f-162a-44b1-841f-1a9d0b6aa087",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "DISTRICT HOSPITAL ANAKAPALLI",
@@ -9137,8 +9287,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 50,
-    "OXYGEN_GENERAL_OCCUPIED": 44,
-    "OXYGEN_GENERAL_AVAILABLE": 6,
+    "OXYGEN_GENERAL_OCCUPIED": 42,
+    "OXYGEN_GENERAL_AVAILABLE": 8,
     "GENERAL_TOTAL": 35,
     "GENERAL_OCCUPIED": 34,
     "GENERAL_AVAILABLE": 1,
@@ -9150,9 +9300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 367,
+    "SNO": 373,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d36d9261-7457-40cb-a1c6-9b7bc060b71e",
+    "UID": "985c2c65-9c68-4f43-8f00-1daabebb359e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Apollo Ramnagar",
@@ -9175,9 +9325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 368,
+    "SNO": 374,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "08ae13a9-79bc-4526-a281-cee5c1a8d691",
+    "UID": "ca806885-8210-423c-87d3-21aa5b2e8f51",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Govt Hospital For Chest And Communicable Diseases",
@@ -9200,9 +9350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 369,
+    "SNO": 375,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ae8db5af-05c3-49ce-9ce6-b8cf072b2a7c",
+    "UID": "e52ffc8f-7274-4ed6-9959-921017726317",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "AREA HOSPITAL ARAKU VALLEY",
@@ -9225,20 +9375,20 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 370,
+    "SNO": 376,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c91aba72-bcd0-4bd6-8ba1-72d48c470d20",
+    "UID": "addd02dc-941c-4781-a91a-a8fb9afb0d21",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "VIMS",
     "CONTACT": "08790801234",
     "AAROGYASRI_EMPANELMENT_STATUS": "Arogyasri",
     "ICU_TOTAL": 200,
-    "ICU_OCCUPIED": 187,
-    "ICU_AVAILABLE": 13,
+    "ICU_OCCUPIED": 180,
+    "ICU_AVAILABLE": 20,
     "OXYGEN_GENERAL_TOTAL": 260,
-    "OXYGEN_GENERAL_OCCUPIED": 251,
-    "OXYGEN_GENERAL_AVAILABLE": 9,
+    "OXYGEN_GENERAL_OCCUPIED": 243,
+    "OXYGEN_GENERAL_AVAILABLE": 17,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -9250,9 +9400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 371,
+    "SNO": 377,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a656e768-ab78-48e3-bff8-3e24f2a6ab37",
+    "UID": "64b0324d-a061-4e8a-b7b8-1fa607bb4a82",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "DISTRICT HOSPITAL PADERU",
@@ -9262,8 +9412,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 100,
-    "OXYGEN_GENERAL_OCCUPIED": 24,
-    "OXYGEN_GENERAL_AVAILABLE": 76,
+    "OXYGEN_GENERAL_OCCUPIED": 39,
+    "OXYGEN_GENERAL_AVAILABLE": 61,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -9275,9 +9425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 372,
+    "SNO": 378,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d66fa2ed-2376-4f47-97d7-8affc3b2696f",
+    "UID": "4edeb7b8-70e1-4001-9423-53728fe1ad37",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "AREA HOSPITAL NARSHIPATNAM",
@@ -9300,17 +9450,17 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 373,
+    "SNO": 379,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "bda40bbb-6183-4be5-92b5-ed78e40ff6e2",
+    "UID": "19560d13-069b-4599-907f-30394deebc1a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "csr block,kgh",
     "CONTACT": "0891-2707060",
     "AAROGYASRI_EMPANELMENT_STATUS": "Arogyasri",
     "ICU_TOTAL": 100,
-    "ICU_OCCUPIED": 97,
-    "ICU_AVAILABLE": 3,
+    "ICU_OCCUPIED": 98,
+    "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 340,
     "OXYGEN_GENERAL_OCCUPIED": 340,
     "OXYGEN_GENERAL_AVAILABLE": 0,
@@ -9325,9 +9475,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 374,
+    "SNO": 380,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e1704152-2d7c-43e2-85d5-2442a6fa8c29",
+    "UID": "edc8353e-31b5-4cbf-a44e-38fbc0cd0e13",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Queens NRI Hospital",
@@ -9350,9 +9500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 375,
+    "SNO": 381,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1ce34632-6ca4-495b-aa67-13dc7b54029f",
+    "UID": "33e7becb-5f9a-44c5-9da6-a7ac1fcea6ee",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Indus Hospital",
@@ -9375,9 +9525,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 376,
+    "SNO": 382,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f7d8f65e-11e5-4b81-b255-57c065c637d7",
+    "UID": "6378da42-1937-48de-ac3a-c5084deb134f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Care hospital Ramnagar",
@@ -9400,9 +9550,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 377,
+    "SNO": 383,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a28890a0-bf29-48ad-a031-d2d2dee835d3",
+    "UID": "9642bd96-2d3e-4515-a47a-e41c151054cc",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Anil Neerukonda NRI Hospital",
@@ -9411,13 +9561,13 @@ andhra_pradesh_data=[
     "ICU_TOTAL": 26,
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 26,
-    "OXYGEN_GENERAL_TOTAL": 71,
+    "OXYGEN_GENERAL_TOTAL": 91,
     "OXYGEN_GENERAL_OCCUPIED": 0,
-    "OXYGEN_GENERAL_AVAILABLE": 71,
-    "GENERAL_TOTAL": 0,
+    "OXYGEN_GENERAL_AVAILABLE": 91,
+    "GENERAL_TOTAL": 70,
     "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 0,
-    "VENTILATOR": 12,
+    "GENERAL_AVAILABLE": 70,
+    "VENTILATOR": 15,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJ____cxtYOToRX1ak-kaQS9A",
     "LAT": 17.9218118,
     "LONG": 83.4254775,
@@ -9425,9 +9575,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 378,
+    "SNO": 384,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0c5f8414-174b-4887-980d-49519ed4a81f",
+    "UID": "d4c12c86-24bf-4cd7-b896-21f7edc32e4c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Vivekananda Medical Trust",
@@ -9450,9 +9600,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 379,
+    "SNO": 385,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "882ae1cb-e0f2-4855-b36d-795817f8d2e9",
+    "UID": "d0ca9270-e108-4714-8f83-4b65db00be6b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Seven Hills Hospitals Ltd",
@@ -9475,9 +9625,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 380,
+    "SNO": 386,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c16c0ad1-64ce-485a-9a20-a22bd5d3ea12",
+    "UID": "b08c9c93-159a-4ce5-9523-9a3162bb68ca",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "CARE2 Hospital  Maharanipeta",
@@ -9500,9 +9650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 381,
+    "SNO": 387,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "89fa27e2-58e4-45aa-a37c-39a253ec1f97",
+    "UID": "e570090f-832d-4fb2-8f17-a652f17c150d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "St. Anns Jubilee Memorial Hospita",
@@ -9525,9 +9675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 382,
+    "SNO": 388,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "26537a32-28bc-425d-8a27-5117293cf6cc",
+    "UID": "f0b4e643-8bca-42bf-9cfe-e8653d4e5fb4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "KIMS Icon Hospital Pvt. Ltd",
@@ -9550,9 +9700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 383,
+    "SNO": 389,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d41778b2-4fba-4251-8c3c-0860bf4e57ec",
+    "UID": "111cb5d4-bc1c-45c2-91af-173ae3d08391",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "St. Joseph Hospital Mary Land",
@@ -9562,11 +9712,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 1,
     "ICU_AVAILABLE": 7,
     "OXYGEN_GENERAL_TOTAL": 10,
-    "OXYGEN_GENERAL_OCCUPIED": 0,
-    "OXYGEN_GENERAL_AVAILABLE": 10,
+    "OXYGEN_GENERAL_OCCUPIED": 1,
+    "OXYGEN_GENERAL_AVAILABLE": 9,
     "GENERAL_TOTAL": 47,
-    "GENERAL_OCCUPIED": 13,
-    "GENERAL_AVAILABLE": 34,
+    "GENERAL_OCCUPIED": 33,
+    "GENERAL_AVAILABLE": 14,
     "VENTILATOR": 3,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJPc9j-RJDOToRoi3mfFzjcOw",
     "LAT": 17.7111813,
@@ -9575,9 +9725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 384,
+    "SNO": 390,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "198bb68b-4937-43f9-bebb-8ce0ea03a8d5",
+    "UID": "439dba03-e71e-4b41-8265-80665eb14072",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Venkatarama Hospital",
@@ -9600,9 +9750,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 385,
+    "SNO": 391,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5e76613c-6a7b-4ec1-9d93-8cf08cb742b9",
+    "UID": "b00e069a-b21c-4c9d-b90d-57d9d30d3406",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Gayatri Vidya Parishad Hospital",
@@ -9625,9 +9775,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 386,
+    "SNO": 392,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c6e5deec-15b9-466e-8de3-370e1c71a98c",
+    "UID": "f0b0c671-49be-4e1d-a097-132dfb1a35d0",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Gitam Institute of Medical Science",
@@ -9640,8 +9790,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 106,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 480,
-    "GENERAL_OCCUPIED": 59,
-    "GENERAL_AVAILABLE": 421,
+    "GENERAL_OCCUPIED": 71,
+    "GENERAL_AVAILABLE": 409,
     "VENTILATOR": 20,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJbc7c7QJbOToRskz39WCDnSo",
     "LAT": 17.7854788,
@@ -9650,9 +9800,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 387,
+    "SNO": 393,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "573f6ccc-8583-41fa-8aa0-ffd13b41ecb6",
+    "UID": "8aef8eca-cc9c-435f-bbeb-d9383258b5a3",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Suraksha Health Park Pvt Ltd",
@@ -9675,9 +9825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 388,
+    "SNO": 394,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "948fda1a-b91d-462c-98c8-79ec2b4b4db4",
+    "UID": "5dd87d48-94c2-4bc8-b53d-30e90dcca258",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Smile Care Multi Specialty Hospital India Pvt. Ltd",
@@ -9700,9 +9850,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 389,
+    "SNO": 395,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6651c2df-9333-4e20-b982-750c8f81ad9e",
+    "UID": "d4ad751c-26e4-4a5e-9608-a152d0a96259",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Ujhwal Hospitals",
@@ -9725,9 +9875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 390,
+    "SNO": 396,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "741a7123-e55d-41ec-8e0c-a8dbea68b43e",
+    "UID": "ed8b7e86-628d-43c0-b3c6-9aa9b84e70e5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Vijetha Hospital",
@@ -9750,9 +9900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 391,
+    "SNO": 397,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "022eb942-6298-4219-bae7-fe4dd161e129",
+    "UID": "ab210005-8645-4a33-9ce1-90e68c32b648",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Apollo Hospital",
@@ -9775,9 +9925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 392,
+    "SNO": 398,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3685d2e1-a4f0-4bc6-8bd0-f7b6c22965c7",
+    "UID": "d646528c-5c03-4b4a-abeb-a82ddb0bf343",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Usha Prime Multi Specaility Hospital",
@@ -9800,9 +9950,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 393,
+    "SNO": 399,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e311bd3f-b5e1-4d32-80cf-aec401406e25",
+    "UID": "797da6c3-21b6-4a88-a562-aab15a2fcdc5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "S.R  Hospital",
@@ -9825,9 +9975,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 394,
+    "SNO": 400,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e278ee66-da51-4630-a657-0decb1cfb731",
+    "UID": "c0a25a44-0ee6-4055-9952-427139686188",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Star Pinnacle Heart Center Health City",
@@ -9850,9 +10000,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 395,
+    "SNO": 401,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5a2e8d7b-7e45-48e0-9021-a20e2e98153f",
+    "UID": "a8bf21c8-ce6b-4f23-86ab-451e88f81d47",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Kamala Nursing Home",
@@ -9875,20 +10025,20 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 396,
+    "SNO": 402,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d3c1c2af-60fc-4cbc-8da2-323fd35a9607",
+    "UID": "15a34f45-cef6-451f-88bb-28f1442b196f",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Pradhama Multi Speciality Hospital",
     "CONTACT": 9133444523,
     "AAROGYASRI_EMPANELMENT_STATUS": "Partially Empanelled",
     "ICU_TOTAL": 114,
-    "ICU_OCCUPIED": 71,
-    "ICU_AVAILABLE": 43,
+    "ICU_OCCUPIED": 72,
+    "ICU_AVAILABLE": 42,
     "OXYGEN_GENERAL_TOTAL": 180,
-    "OXYGEN_GENERAL_OCCUPIED": 97,
-    "OXYGEN_GENERAL_AVAILABLE": 83,
+    "OXYGEN_GENERAL_OCCUPIED": 98,
+    "OXYGEN_GENERAL_AVAILABLE": 82,
     "GENERAL_TOTAL": 302,
     "GENERAL_OCCUPIED": 14,
     "GENERAL_AVAILABLE": 288,
@@ -9900,9 +10050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 397,
+    "SNO": 403,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "991b05d9-4393-4fbc-b28e-ef3848af88d6",
+    "UID": "5f7b10ba-2277-4948-9176-13b494530e72",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Q1 Hospitals",
@@ -9925,9 +10075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 398,
+    "SNO": 404,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "87a632df-352f-428a-8b23-e86f8b43e415",
+    "UID": "ac27b617-5929-4d94-8d97-55a67a41e6d4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Tirumala Vijaya Hospital",
@@ -9950,9 +10100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 399,
+    "SNO": 405,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "944fc54f-d5be-40ac-a13c-81b734fb6f1c",
+    "UID": "040510c5-2502-4f7a-b2da-7570efaa9a2a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "MB Multispeciality Hospitals",
@@ -9975,9 +10125,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 400,
+    "SNO": 406,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "19f52d1c-bc43-4b64-a53b-ef18af9e7d8f",
+    "UID": "74dced6e-21d2-4173-8dd2-50acc1b52819",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "L.G.Hospitals",
@@ -10000,9 +10150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 401,
+    "SNO": 407,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f437affb-ede5-4e43-a2fd-03cd5bfc3efb",
+    "UID": "8c471c8d-1a60-4c63-bb10-387e4b1ad98e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Aayushman Hospital",
@@ -10025,9 +10175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 402,
+    "SNO": 408,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "0a42e75c-83df-4703-b337-bcb55d4d218e",
+    "UID": "af815f80-c31e-412b-9494-99aa6c9e792d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "GJ Hospitals",
@@ -10050,9 +10200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 403,
+    "SNO": 409,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a0b4a8cd-f0b3-4f65-ad1d-dd171d6da9cf",
+    "UID": "cdcc6053-1bb6-4004-974e-24525970f7ba",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Lancet Laparoscopy Centre",
@@ -10075,9 +10225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 404,
+    "SNO": 410,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2f04ad8a-f1de-443e-8b1b-a86f2158f417",
+    "UID": "641af958-f72f-4d69-849e-a827d3761ced",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Sree Sivani Multi Speciality Hospital",
@@ -10100,9 +10250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 405,
+    "SNO": 411,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6ba43b8a-fdc9-45d8-a022-78f9a160abf2",
+    "UID": "5644fbe5-179c-46ed-81d6-5341fa0f61c5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Satyadev Hospitals Pvt Ltd",
@@ -10125,9 +10275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 406,
+    "SNO": 412,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e38f6e9e-321c-4ad3-b667-f221bbf0bda7",
+    "UID": "80d7ea51-500f-429c-9215-bae5f0473d45",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "OMNI Hospitals",
@@ -10150,9 +10300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 407,
+    "SNO": 413,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b60178af-9fe7-4aad-bea6-48f4fe1967f1",
+    "UID": "94558f8e-8a06-4a43-a893-482bbb509b4d",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Medicover Hospital",
@@ -10175,9 +10325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 408,
+    "SNO": 414,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b178c927-e971-40fd-ba1a-775cd8719d71",
+    "UID": "3e1bd4a9-37bf-42d5-af1f-dd4f4ef69e96",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Daya Hospitals",
@@ -10200,9 +10350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 409,
+    "SNO": 415,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "29f9d0dc-bcb8-45fe-b6c4-d4b4c13b05a5",
+    "UID": "bb643fe5-e18d-402b-966b-c53ef8441163",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Mani Hospital",
@@ -10225,9 +10375,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 410,
+    "SNO": 416,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ad138027-9322-4f4b-a5ed-1eceaa048adc",
+    "UID": "df6a9d4e-91b6-4f44-9704-337a0a6c6a59",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "A Plus Hospital",
@@ -10250,9 +10400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 411,
+    "SNO": 417,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3e965e04-b06e-4c69-985b-59cbfffb0cbf",
+    "UID": "364485e9-ec9a-4c4b-81cd-6125ff44deee",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Pinnacle Hospitals",
@@ -10275,9 +10425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 412,
+    "SNO": 418,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d17b2c59-74d5-4d80-853d-6f3a370649cc",
+    "UID": "9ccb8232-3fee-4905-a926-0fb994b7016a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Govt. ENT Hospital",
@@ -10300,9 +10450,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 413,
+    "SNO": 419,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "969f572f-8abf-4280-adf9-bf8c3ba11ce8",
+    "UID": "8ec0a414-c464-467b-b59e-37e6af68c135",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Rani Chandramati Devi Hospital",
@@ -10325,9 +10475,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 414,
+    "SNO": 420,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "543c03ff-69c7-43a8-8e9c-960e2c6a0312",
+    "UID": "3c701f36-2cae-4a88-9ff2-ace3aedc13ef",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "CHC Gopalapatnam",
@@ -10350,9 +10500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 415,
+    "SNO": 421,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1c0a3447-367a-4a41-a265-fef9c84de12a",
+    "UID": "8af60032-f713-4d49-97e8-8f7115f301bd",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Community Health Center Kotauratla",
@@ -10375,9 +10525,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 416,
+    "SNO": 422,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "512fb40d-71de-42ef-a42b-761870d1e20a",
+    "UID": "e49c633c-3cd0-4aa5-b158-f5560c2e5478",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Visakhapatanam",
     "HOSPITAL_NAME": "Community Health Centre V Madugula",
@@ -10400,23 +10550,23 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 417,
+    "SNO": 423,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6ef8d1ab-c366-4f97-bdce-cef7ae4a762a",
+    "UID": "4c73bfe2-52a5-4a9e-b06d-fab5f4e75412",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "MIMS",
     "CONTACT": 892224466,
     "AAROGYASRI_EMPANELMENT_STATUS": "Partially Empanelled",
     "ICU_TOTAL": 60,
-    "ICU_OCCUPIED": 50,
-    "ICU_AVAILABLE": 10,
+    "ICU_OCCUPIED": 47,
+    "ICU_AVAILABLE": 13,
     "OXYGEN_GENERAL_TOTAL": 191,
-    "OXYGEN_GENERAL_OCCUPIED": 51,
-    "OXYGEN_GENERAL_AVAILABLE": 140,
+    "OXYGEN_GENERAL_OCCUPIED": 46,
+    "OXYGEN_GENERAL_AVAILABLE": 145,
     "GENERAL_TOTAL": 550,
-    "GENERAL_OCCUPIED": 170,
-    "GENERAL_AVAILABLE": 380,
+    "GENERAL_OCCUPIED": 159,
+    "GENERAL_AVAILABLE": 391,
     "VENTILATOR": 0,
     "LOCATION": "https://maps.google.com/?cid=9323051632486674427",
     "LAT": 18.1460111,
@@ -10425,9 +10575,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 418,
+    "SNO": 424,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "554f045f-848a-4b1a-a741-8ca4c8206193",
+    "UID": "81ac2caf-0569-44c0-9910-31e5e8ebdddb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "DISTRICT HOSPITAL",
@@ -10437,8 +10587,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 43,
     "ICU_AVAILABLE": 27,
     "OXYGEN_GENERAL_TOTAL": 100,
-    "OXYGEN_GENERAL_OCCUPIED": 76,
-    "OXYGEN_GENERAL_AVAILABLE": 24,
+    "OXYGEN_GENERAL_OCCUPIED": 77,
+    "OXYGEN_GENERAL_AVAILABLE": 23,
     "GENERAL_TOTAL": 30,
     "GENERAL_OCCUPIED": 25,
     "GENERAL_AVAILABLE": 5,
@@ -10450,9 +10600,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 419,
+    "SNO": 425,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "edc2f4b6-a374-4689-b151-2139b24ba76f",
+    "UID": "bba93d2e-a8ca-44ba-b12e-591278c1c47b",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "QUEENS NRI",
@@ -10475,9 +10625,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 420,
+    "SNO": 426,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1fd6a584-9c4d-4705-a6ee-140ed4bf06f4",
+    "UID": "33b1682b-0ced-447e-b8e5-a7a782287b1a",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "GAYATRI HOSPITAL",
@@ -10500,9 +10650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 421,
+    "SNO": 427,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "50ec42f6-2466-44e8-b7f1-3e3d3128792c",
+    "UID": "a08ecc94-8b84-42c3-8988-6e0681cba46f",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "SRI SAI SUPER SPECIALITY HOSPITAL",
@@ -10512,11 +10662,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 4,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 8,
-    "OXYGEN_GENERAL_OCCUPIED": 7,
-    "OXYGEN_GENERAL_AVAILABLE": 1,
+    "OXYGEN_GENERAL_OCCUPIED": 6,
+    "OXYGEN_GENERAL_AVAILABLE": 2,
     "GENERAL_TOTAL": 32,
-    "GENERAL_OCCUPIED": 24,
-    "GENERAL_AVAILABLE": 8,
+    "GENERAL_OCCUPIED": 28,
+    "GENERAL_AVAILABLE": 4,
     "VENTILATOR": 4,
     "LOCATION": "https://maps.google.com/?cid=1318276470854418675",
     "LAT": 18.1077696,
@@ -10525,9 +10675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 422,
+    "SNO": 428,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "68b34d56-b32a-4fff-92c1-bd7749a2eea3",
+    "UID": "5bcf99b9-3cdd-465c-aec2-e6380de764a0",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "AREA HOSPITAL",
@@ -10550,9 +10700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 423,
+    "SNO": 429,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2be9c396-89eb-4ac1-a2bd-0fab10896f3a",
+    "UID": "03322248-8d9f-4911-a175-abccade10cec",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "VENKATARAMA HOSPITAL",
@@ -10575,9 +10725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 424,
+    "SNO": 430,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "30bd91fa-93b9-46cb-a963-8aed3e9ec6ee",
+    "UID": "4d478544-8646-4db2-9a8c-9dd2d906c749",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "TIRUMALA HOSPITAL",
@@ -10600,9 +10750,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 425,
+    "SNO": 431,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b6d41061-033d-4bb5-9ea0-523efe407faf",
+    "UID": "ffc545d4-6f07-4491-a7bd-91cc0a10261c",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "P.G.Star Hospital Vizianagaram",
@@ -10625,9 +10775,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 426,
+    "SNO": 432,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "efcd4b66-d0c4-4b95-b875-e8a6107a59fb",
+    "UID": "f9cabc9e-7231-446d-b27d-04cbed1765fb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "Philadelphia Community Hospital, Saluru",
@@ -10650,9 +10800,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 427,
+    "SNO": 433,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "41c76d44-556c-4de7-ab6f-26432780e227",
+    "UID": "8572f5cd-f97a-4aba-bcc1-d89ee18f5731",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "Karshaka Maharshi Hospita, Parvathipuram",
@@ -10675,9 +10825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 428,
+    "SNO": 434,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "293e0a3c-dd3d-43eb-a7bb-a9eff69c5a6c",
+    "UID": "9791ffe0-9d0e-4842-bce6-f18a11bd3504",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "CHC Cheepurupalli",
@@ -10700,9 +10850,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 429,
+    "SNO": 435,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a3d2ae74-1b1b-4a3f-bf3b-2dba0a94c666",
+    "UID": "a0a557be-45b4-4f2e-8376-b5ded2235526",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "CHC S.Kota",
@@ -10725,9 +10875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 430,
+    "SNO": 436,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "8e9a0bde-18d9-446c-a7f9-5d0223677fbe",
+    "UID": "3278e159-3630-45e8-8f90-6e41a8d7508f",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "Kolaparthi Multi Specialty Hospital",
@@ -10737,8 +10887,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 3,
     "OXYGEN_GENERAL_TOTAL": 47,
-    "OXYGEN_GENERAL_OCCUPIED": 26,
-    "OXYGEN_GENERAL_AVAILABLE": 21,
+    "OXYGEN_GENERAL_OCCUPIED": 29,
+    "OXYGEN_GENERAL_AVAILABLE": 18,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -10750,9 +10900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 431,
+    "SNO": 437,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "445b767d-f973-4739-b266-e6e600e64991",
+    "UID": "621d430d-abaf-4949-a0e0-435262ed68fe",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "Abhinav Nurshing Home, S.Kota",
@@ -10775,9 +10925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 432,
+    "SNO": 438,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "c6cd7739-b23b-4333-96fc-12253f547adc",
+    "UID": "1ef3dc61-18e6-4b2a-86af-7501a79699e4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "Andhra Hospitals",
@@ -10800,9 +10950,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 433,
+    "SNO": 439,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2e7306b7-c88a-44dc-a9ed-4af4b1126f1a",
+    "UID": "7be90f20-8722-4eca-a410-3e65a08b2fbb",
     "IS_NEW_HOSPITAL": "FALSE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "Venkata Padma Hospital",
@@ -10825,9 +10975,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 434,
+    "SNO": 440,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "07036630-d892-4fb6-99e5-85538eede0e8",
+    "UID": "0527b397-302e-4603-9635-a0ff5e1d2046",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Vizianagaram",
     "HOSPITAL_NAME": "MUVVA GOPALA HOSPITALS PVT LTD",
@@ -10850,9 +11000,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 435,
+    "SNO": 441,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3c39954a-cbfc-4f9d-9b27-34c36ebd07a7",
+    "UID": "0fa264c7-89b7-4201-b6b3-6a629a8b6c53",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "New Life Hospital",
@@ -10862,11 +11012,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 2,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 22,
-    "OXYGEN_GENERAL_OCCUPIED": 0,
-    "OXYGEN_GENERAL_AVAILABLE": 22,
+    "OXYGEN_GENERAL_OCCUPIED": 8,
+    "OXYGEN_GENERAL_AVAILABLE": 14,
     "GENERAL_TOTAL": 16,
-    "GENERAL_OCCUPIED": 12,
-    "GENERAL_AVAILABLE": 4,
+    "GENERAL_OCCUPIED": 11,
+    "GENERAL_AVAILABLE": 5,
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJM8CxCge3NzoRb_mqR2n11bs",
     "LAT": 16.7570458,
@@ -10875,9 +11025,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 436,
+    "SNO": 442,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3409a66d-21a9-4657-8caa-71b8f91189be",
+    "UID": "1579fae2-8d59-4733-889d-893607cde114",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Ashram",
@@ -10887,11 +11037,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 29,
     "ICU_AVAILABLE": 71,
     "OXYGEN_GENERAL_TOTAL": 697,
-    "OXYGEN_GENERAL_OCCUPIED": 443,
-    "OXYGEN_GENERAL_AVAILABLE": 254,
+    "OXYGEN_GENERAL_OCCUPIED": 477,
+    "OXYGEN_GENERAL_AVAILABLE": 220,
     "GENERAL_TOTAL": 179,
-    "GENERAL_OCCUPIED": 111,
-    "GENERAL_AVAILABLE": 68,
+    "GENERAL_OCCUPIED": 120,
+    "GENERAL_AVAILABLE": 59,
     "VENTILATOR": 50,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJ91wen1tLNjoRiK1NcXLPpvk",
     "LAT": 16.8109037,
@@ -10900,9 +11050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 437,
+    "SNO": 443,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d552d6b7-10ff-43b8-9812-ef1323ade546",
+    "UID": "24e4e215-9d41-4d8e-b940-c045fddebb10",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Area Hospital Tadepalligudem",
@@ -10912,8 +11062,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 117,
-    "OXYGEN_GENERAL_OCCUPIED": 75,
-    "OXYGEN_GENERAL_AVAILABLE": 42,
+    "OXYGEN_GENERAL_OCCUPIED": 80,
+    "OXYGEN_GENERAL_AVAILABLE": 37,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -10925,9 +11075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 438,
+    "SNO": 444,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e0469ade-abe9-4dae-a379-610cdf94bd0c",
+    "UID": "970c0104-869c-47ab-a0a4-08941e1eab99",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "CHC Palacole",
@@ -10950,9 +11100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 439,
+    "SNO": 445,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "83fd8a6b-392d-4e4a-beef-7e5844fb3343",
+    "UID": "f0ed98d5-2dc9-4e4d-9622-8458e91d623a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Mother Vannini",
@@ -10965,8 +11115,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 9,
     "GENERAL_TOTAL": 71,
-    "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 71,
+    "GENERAL_OCCUPIED": 3,
+    "GENERAL_AVAILABLE": 68,
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJU1VVVbG0NzoRHuGI_NIxAWM",
     "LAT": 16.8138415,
@@ -10975,20 +11125,20 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 440,
+    "SNO": 446,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "224e3c9a-d10a-44a1-ba76-b3fa1a1b4480",
+    "UID": "910db7c0-a18d-402c-b9a6-7ccb2706b81a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "CHC BHIMAVARAM",
     "CONTACT": 881623366,
     "AAROGYASRI_EMPANELMENT_STATUS": "Government",
     "ICU_TOTAL": 4,
-    "ICU_OCCUPIED": 4,
-    "ICU_AVAILABLE": 0,
+    "ICU_OCCUPIED": 3,
+    "ICU_AVAILABLE": 1,
     "OXYGEN_GENERAL_TOTAL": 46,
-    "OXYGEN_GENERAL_OCCUPIED": 41,
-    "OXYGEN_GENERAL_AVAILABLE": 5,
+    "OXYGEN_GENERAL_OCCUPIED": 42,
+    "OXYGEN_GENERAL_AVAILABLE": 4,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -11000,9 +11150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 441,
+    "SNO": 447,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d42fc442-55c3-4093-9181-8d92f521d2fd",
+    "UID": "8ec5a6cf-0653-483c-a7d0-8a102e0ff046",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "DISTRICT HOSPITAL ELURU",
@@ -11012,11 +11162,11 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 1,
     "ICU_AVAILABLE": 19,
     "OXYGEN_GENERAL_TOTAL": 300,
-    "OXYGEN_GENERAL_OCCUPIED": 215,
-    "OXYGEN_GENERAL_AVAILABLE": 85,
+    "OXYGEN_GENERAL_OCCUPIED": 226,
+    "OXYGEN_GENERAL_AVAILABLE": 74,
     "GENERAL_TOTAL": 30,
-    "GENERAL_OCCUPIED": 23,
-    "GENERAL_AVAILABLE": 7,
+    "GENERAL_OCCUPIED": 27,
+    "GENERAL_AVAILABLE": 3,
     "VENTILATOR": 130,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJsZsYnLYUNjoRjeZLEWYlSGY",
     "LAT": 16.7139128,
@@ -11025,9 +11175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 442,
+    "SNO": 448,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b25432fe-fffc-4411-9bf7-5e4656c9fe25",
+    "UID": "ea32e0cf-c90a-4564-a701-35f2c64c0aa4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "SRI MULLAPUDI VENKATARAMANAMMA MEMORIAL HOSPITAL TANUKU",
@@ -11050,9 +11200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 443,
+    "SNO": 449,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3e18700f-f61a-4743-96bb-0367c7373d53",
+    "UID": "98862055-d27d-4b57-858b-1a039eecb440",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "CHAITRA HOSPITAL",
@@ -11062,8 +11212,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 9,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 10,
-    "OXYGEN_GENERAL_OCCUPIED": 7,
-    "OXYGEN_GENERAL_AVAILABLE": 3,
+    "OXYGEN_GENERAL_OCCUPIED": 10,
+    "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 10,
     "GENERAL_OCCUPIED": 10,
     "GENERAL_AVAILABLE": 0,
@@ -11075,9 +11225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 444,
+    "SNO": 450,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "955d1ba0-54a0-4d57-8b8b-e72afef1c6c0",
+    "UID": "17bed390-99a3-4a7d-87de-e6d944d204be",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "TANUKU",
@@ -11087,8 +11237,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 30,
-    "OXYGEN_GENERAL_OCCUPIED": 20,
-    "OXYGEN_GENERAL_AVAILABLE": 10,
+    "OXYGEN_GENERAL_OCCUPIED": 22,
+    "OXYGEN_GENERAL_AVAILABLE": 8,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -11100,9 +11250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 445,
+    "SNO": 451,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2c23df89-17ec-42d3-9e98-ef9d7b292dfa",
+    "UID": "366be493-7d5f-4084-b10e-28fd9bd9b83b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "AREA HOSPITAL, JANGAREDDIGUDEM",
@@ -11112,8 +11262,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 28,
-    "OXYGEN_GENERAL_OCCUPIED": 9,
-    "OXYGEN_GENERAL_AVAILABLE": 19,
+    "OXYGEN_GENERAL_OCCUPIED": 11,
+    "OXYGEN_GENERAL_AVAILABLE": 17,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -11125,9 +11275,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 446,
+    "SNO": 452,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "bb9b6478-85fd-40cd-b389-9032de600386",
+    "UID": "209a9028-7eef-446b-be9e-4eb2aab1bec1",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Jabilli Critical Care and Multispeciality Hospital",
@@ -11150,9 +11300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 447,
+    "SNO": 453,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f4fee90a-d3a2-4bab-8f49-da8fc93578d7",
+    "UID": "2f58808a-3eb9-47b3-8bd5-912c115cb7c7",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "CHIRANJEEVI HOSPITAL ORTHO AND MULTI SPECIALITY",
@@ -11175,9 +11325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 448,
+    "SNO": 454,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "bf66317e-61de-47fd-b8b9-95763fc038a0",
+    "UID": "8dbf3fb5-ad6d-4cad-8fef-b5c5d0a2e63a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Vadlamudi Hospital, Nallajerla",
@@ -11200,9 +11350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 449,
+    "SNO": 455,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "97cae841-d191-4754-99e6-d607074ced47",
+    "UID": "6c1b75fc-018d-41e1-ad84-c62a717c99ea",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "VIRRD Hospital, Dwaraka Tirumala",
@@ -11225,9 +11375,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 450,
+    "SNO": 456,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a69aeefb-0db9-4df9-adf8-0bbc7066ce9a",
+    "UID": "f59c746a-ade4-4dcc-8299-e8a7d61180a0",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Mahalakshmi Hospital, Eluru",
@@ -11250,9 +11400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 451,
+    "SNO": 457,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "76d67fa0-915d-4198-9c10-48e18cdabcc1",
+    "UID": "c183529e-bb62-439c-8a69-a554da36ee15",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "St Joseph Dental College",
@@ -11275,23 +11425,23 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 452,
+    "SNO": 458,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5784f793-f791-40d4-93aa-c15485bdd019",
+    "UID": "bef256d0-7fd8-43f4-9356-b527be01e1e6",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Bhimavaram Hospitals, Bhimavarm",
     "CONTACT": "08816-221111",
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 28,
-    "ICU_OCCUPIED": 24,
-    "ICU_AVAILABLE": 4,
+    "ICU_OCCUPIED": 27,
+    "ICU_AVAILABLE": 1,
     "OXYGEN_GENERAL_TOTAL": 0,
     "OXYGEN_GENERAL_OCCUPIED": 0,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 96,
-    "GENERAL_OCCUPIED": 8,
-    "GENERAL_AVAILABLE": 88,
+    "GENERAL_OCCUPIED": 14,
+    "GENERAL_AVAILABLE": 82,
     "VENTILATOR": 5,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJlUcBCF0tNjoRNnTR4NT55zk",
     "LAT": 16.5411268,
@@ -11300,9 +11450,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 453,
+    "SNO": 459,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ae53835f-4ad2-4934-a7cf-fd9f7f5c7569",
+    "UID": "36fba37c-5c51-4e39-bb13-f3dea9c2ae03",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Sri Lakshmi Hospitals, Bhimavaram",
@@ -11325,17 +11475,17 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 454,
+    "SNO": 460,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5dd64e5d-486d-4e2e-9214-84185600f97e",
+    "UID": "97dfd19c-a0c4-482a-b82a-6717e66a2d43",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Imperial Hospital A Unit of Mukunda Health Care Pvt. Ltd., Bhimavaram",
     "CONTACT": "08816-279999",
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 30,
-    "ICU_OCCUPIED": 21,
-    "ICU_AVAILABLE": 9,
+    "ICU_OCCUPIED": 24,
+    "ICU_AVAILABLE": 6,
     "OXYGEN_GENERAL_TOTAL": 10,
     "OXYGEN_GENERAL_OCCUPIED": 10,
     "OXYGEN_GENERAL_AVAILABLE": 0,
@@ -11350,9 +11500,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 455,
+    "SNO": 461,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "462e8d2a-882d-4b9f-82e7-4990b6029d2e",
+    "UID": "39824595-8e61-4ddf-89ad-8147ba3208c4",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Avinash Ortho, Bhimavaram",
@@ -11375,9 +11525,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 456,
+    "SNO": 462,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4d118b54-d5ee-4c93-82a7-273bdec666fa",
+    "UID": "5a692a0b-b502-4b30-b6b2-0265bf3b4c52",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Vadlamudi Multi Speciality Hospital",
@@ -11400,9 +11550,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 457,
+    "SNO": 463,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "016b067f-d85e-454b-87f8-ee6f4db8e069",
+    "UID": "439a1056-471a-42ef-9cc1-cca0af1fd3f1",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Apple Hospital, Tanuku",
@@ -11415,8 +11565,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 2,
     "OXYGEN_GENERAL_AVAILABLE": 13,
     "GENERAL_TOTAL": 20,
-    "GENERAL_OCCUPIED": 1,
-    "GENERAL_AVAILABLE": 19,
+    "GENERAL_OCCUPIED": 2,
+    "GENERAL_AVAILABLE": 18,
     "VENTILATOR": 0,
     "LOCATION": "https://www.google.com/maps/place/?q=place_id:ChIJu47PC-a3NzoRyVDiAspu7yQ",
     "LAT": 16.7545959,
@@ -11425,20 +11575,20 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 458,
+    "SNO": 464,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "91885647-ddfe-4c67-8008-fe83547e5b33",
+    "UID": "a3d7cc4f-a789-4f67-a630-83660590d20b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Sai Prajna Hospital Bhimavaram",
     "CONTACT": "08816-233889",
     "AAROGYASRI_EMPANELMENT_STATUS": "Private",
     "ICU_TOTAL": 10,
-    "ICU_OCCUPIED": 7,
-    "ICU_AVAILABLE": 3,
+    "ICU_OCCUPIED": 8,
+    "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 16,
-    "OXYGEN_GENERAL_OCCUPIED": 6,
-    "OXYGEN_GENERAL_AVAILABLE": 10,
+    "OXYGEN_GENERAL_OCCUPIED": 9,
+    "OXYGEN_GENERAL_AVAILABLE": 7,
     "GENERAL_TOTAL": 3,
     "GENERAL_OCCUPIED": 3,
     "GENERAL_AVAILABLE": 0,
@@ -11450,9 +11600,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 459,
+    "SNO": 465,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "74e252d8-9257-42aa-806b-5bbe38572064",
+    "UID": "a2fb21d5-7b08-4887-9577-de81770975bd",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "PVR HOSPITALS",
@@ -11462,8 +11612,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 4,
     "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 25,
-    "OXYGEN_GENERAL_OCCUPIED": 1,
-    "OXYGEN_GENERAL_AVAILABLE": 24,
+    "OXYGEN_GENERAL_OCCUPIED": 2,
+    "OXYGEN_GENERAL_AVAILABLE": 23,
     "GENERAL_TOTAL": 20,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 20,
@@ -11475,9 +11625,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 460,
+    "SNO": 466,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "cd73a902-ffc4-4b60-9c76-61a1384cc4cb",
+    "UID": "96020976-2b0f-4e37-af0b-72169b20a7ab",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Seshagiri Hospitals  Nidadavole",
@@ -11500,9 +11650,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 461,
+    "SNO": 467,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d065bdfd-18e8-4e13-be81-e5ded79d9bba",
+    "UID": "2d6fbd9d-bf93-471a-9b09-6c8e9fe982d5",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Geetha Hospitals, Tanuku",
@@ -11525,9 +11675,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 462,
+    "SNO": 468,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d7fb5f2c-4c11-4bee-bd26-9fb79bae7fac",
+    "UID": "5d32a21f-e01a-4706-a9d3-3b747a11c6e7",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Sai Swetha Super Specialty, Tanuku",
@@ -11550,9 +11700,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 463,
+    "SNO": 469,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b8b71c1e-1dc5-4a87-afb2-0a21646f24ee",
+    "UID": "50723344-ec84-4527-bc7a-412647de468c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Surya Teja Orthopedic Hospitals, Tanuku",
@@ -11575,9 +11725,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 464,
+    "SNO": 470,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "31a75def-bc76-4f67-9035-4347275cdee9",
+    "UID": "f9d1ed15-fb07-47ab-820c-8a2f53cd0059",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Sudha Hospitals, Tanuku",
@@ -11600,9 +11750,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 465,
+    "SNO": 471,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "2f66493b-3308-4ddf-bd6b-53b8ba9a8081",
+    "UID": "de0e195d-22b7-48a6-81fc-502269a64f25",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Vamsi Hitech Super Speciality Hospital , Tanuku",
@@ -11625,9 +11775,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 466,
+    "SNO": 472,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d3a8e13d-ce06-43bc-b679-127d90e63b69",
+    "UID": "51f119e4-8f89-4bea-bd01-0db575176409",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Vijaya Hospital , Eluru",
@@ -11650,9 +11800,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 467,
+    "SNO": 473,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "902f45f1-9ff7-43d3-beb5-c25aa6e495a4",
+    "UID": "d860afc4-5b15-46e4-b511-a612470b01c3",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Sri Surya Nursing Home",
@@ -11675,9 +11825,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 468,
+    "SNO": 474,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "4b0582a2-5e20-442d-bb07-a7f4381bd79a",
+    "UID": "98d2efc4-39e8-40d7-8cae-fe705220c457",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "SRI VIJAYA HOSPITAL",
@@ -11700,9 +11850,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 469,
+    "SNO": 475,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f792cf62-c0b7-4e3d-af8b-78dc6bbc9043",
+    "UID": "8c5c0cc2-0857-457e-884a-0ce2a69dd9a8",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "SRI JANAKI HOSPITAL NSP",
@@ -11725,9 +11875,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 470,
+    "SNO": 476,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "f41724d6-5463-4931-93a9-8a536a25f428",
+    "UID": "7b02c3fd-5c05-4ec8-b5ed-1c0c322b8b8b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "SRI SURYA HOSPITAL NSP",
@@ -11750,9 +11900,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 471,
+    "SNO": 477,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "6224d388-ac14-4461-a9f1-f0c150dcf4bd",
+    "UID": "c4668b5a-a8b0-4b8c-ab5e-ee7b31089aaa",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "West godavari",
     "HOSPITAL_NAME": "Sri Sai Hospital, Tanuku",
@@ -11775,9 +11925,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 472,
+    "SNO": 478,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3aa70372-7bec-4491-b025-8b7cd10d81b6",
+    "UID": "be73b444-bcef-4d2e-971c-5548d97a5fba",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Fathima Inistitute of Medical Sciences",
@@ -11787,8 +11937,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 45,
     "OXYGEN_GENERAL_TOTAL": 250,
-    "OXYGEN_GENERAL_OCCUPIED": 219,
-    "OXYGEN_GENERAL_AVAILABLE": 31,
+    "OXYGEN_GENERAL_OCCUPIED": 224,
+    "OXYGEN_GENERAL_AVAILABLE": 26,
     "GENERAL_TOTAL": 155,
     "GENERAL_OCCUPIED": 143,
     "GENERAL_AVAILABLE": 12,
@@ -11800,9 +11950,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 473,
+    "SNO": 479,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "328f75a0-f7cb-4610-9bc9-483a4abb3682",
+    "UID": "7524b127-3d7b-4161-b7ae-b8c596f8b773",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "GGH Kadapa",
@@ -11812,8 +11962,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 57,
     "ICU_AVAILABLE": 3,
     "OXYGEN_GENERAL_TOTAL": 440,
-    "OXYGEN_GENERAL_OCCUPIED": 415,
-    "OXYGEN_GENERAL_AVAILABLE": 25,
+    "OXYGEN_GENERAL_OCCUPIED": 429,
+    "OXYGEN_GENERAL_AVAILABLE": 11,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -11825,9 +11975,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 474,
+    "SNO": 480,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "d9efbfad-c94e-4a02-ab1c-97cd6944708c",
+    "UID": "ace2581c-2f51-417c-a0d3-3c7cd9859b4b",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "DH Proddutur",
@@ -11850,9 +12000,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 475,
+    "SNO": 481,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "99505265-fcfc-4656-9b1b-6c23c782fa0b",
+    "UID": "503aa560-5ac1-4993-bf94-35185d500562",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "AH- PULIVENDULA",
@@ -11862,8 +12012,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 0,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 40,
-    "OXYGEN_GENERAL_OCCUPIED": 10,
-    "OXYGEN_GENERAL_AVAILABLE": 30,
+    "OXYGEN_GENERAL_OCCUPIED": 23,
+    "OXYGEN_GENERAL_AVAILABLE": 17,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -11875,9 +12025,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 476,
+    "SNO": 482,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b06d9996-851c-4338-8722-d39d9ad112b4",
+    "UID": "4eea4d89-3976-4aa0-9161-ca6475722f2c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Rama Sreekara Hospital, Kadapa",
@@ -11887,8 +12037,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 3,
     "ICU_AVAILABLE": 0,
     "OXYGEN_GENERAL_TOTAL": 15,
-    "OXYGEN_GENERAL_OCCUPIED": 10,
-    "OXYGEN_GENERAL_AVAILABLE": 5,
+    "OXYGEN_GENERAL_OCCUPIED": 11,
+    "OXYGEN_GENERAL_AVAILABLE": 4,
     "GENERAL_TOTAL": 0,
     "GENERAL_OCCUPIED": 0,
     "GENERAL_AVAILABLE": 0,
@@ -11900,9 +12050,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 477,
+    "SNO": 483,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "05793fa8-f952-469e-94b6-eaff0478fb76",
+    "UID": "d26721e5-4a3d-4dca-8749-df81cc55bcbd",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "AMEEN MULTI SPECIALITY HOSPITAL",
@@ -11925,9 +12075,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 478,
+    "SNO": 484,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "05b26814-4870-4edb-a301-3f312054760b",
+    "UID": "3d2c63f5-a670-4034-9fa3-a7ebea03d279",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "CSI CAMPBELL HOSPITAL",
@@ -11950,9 +12100,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 479,
+    "SNO": 485,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "1a90528b-439d-440d-910b-ced70a100c5f",
+    "UID": "f30c3d72-e638-46d4-97fb-ca8851fbc360",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "SRI SRINIVASA HOSPITAL, KADAPA",
@@ -11962,8 +12112,8 @@ andhra_pradesh_data=[
     "ICU_OCCUPIED": 2,
     "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 8,
-    "OXYGEN_GENERAL_OCCUPIED": 1,
-    "OXYGEN_GENERAL_AVAILABLE": 7,
+    "OXYGEN_GENERAL_OCCUPIED": 3,
+    "OXYGEN_GENERAL_AVAILABLE": 5,
     "GENERAL_TOTAL": 8,
     "GENERAL_OCCUPIED": 3,
     "GENERAL_AVAILABLE": 5,
@@ -11975,9 +12125,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 480,
+    "SNO": 486,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ff429cd5-8f06-4185-8232-da2b27f19931",
+    "UID": "d24f27a0-89a2-4b31-8bd0-65bcde892ec0",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "AMARAVATHY HOSPITAL",
@@ -12000,9 +12150,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 481,
+    "SNO": 487,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "b74614de-0981-422e-9cff-e0696a0017c3",
+    "UID": "7241e1b4-42a2-46e0-af7e-72a1d8dc7cef",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Palla Hospital",
@@ -12025,9 +12175,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 482,
+    "SNO": 488,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "00322f52-515b-411d-9b40-0b385277e7de",
+    "UID": "98b32d19-0916-4d4a-8849-36135ba0b2ea",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "City Care Hospital",
@@ -12050,9 +12200,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 483,
+    "SNO": 489,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "e9a5339b-8e52-4aea-af88-106b5f732465",
+    "UID": "33455906-4e46-4ace-8517-9e968e0bb91a",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "KADAPA HOSPITAL",
@@ -12075,9 +12225,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 484,
+    "SNO": 490,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "71ca8b43-d78c-4775-80e3-38f7d9fb7ad5",
+    "UID": "aecea360-8a1a-47ab-94f0-29fae97fa2ab",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Shreyan Hospital proddatur",
@@ -12100,9 +12250,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 485,
+    "SNO": 491,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "3a274a10-061c-48ef-aae7-3af87e04cedd",
+    "UID": "4bcff267-abc2-48a6-abcc-1c33c76df653",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "KVR MULTI SPECIALITY HOSPITAL",
@@ -12125,17 +12275,17 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 486,
+    "SNO": 492,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "7e604b46-976b-496e-87ac-79c50f169700",
+    "UID": "37882a55-be9f-4a73-b0d6-9844c3776b4e",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Sravanthi Multi Speciality Proddatur",
     "CONTACT": 9701244009,
     "AAROGYASRI_EMPANELMENT_STATUS": "Partially Empanelled",
     "ICU_TOTAL": 3,
-    "ICU_OCCUPIED": 1,
-    "ICU_AVAILABLE": 2,
+    "ICU_OCCUPIED": 2,
+    "ICU_AVAILABLE": 1,
     "OXYGEN_GENERAL_TOTAL": 9,
     "OXYGEN_GENERAL_OCCUPIED": 8,
     "OXYGEN_GENERAL_AVAILABLE": 1,
@@ -12150,9 +12300,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 487,
+    "SNO": 493,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "254288fc-6d48-4372-8515-f27f740cf89b",
+    "UID": "50a4f645-96e6-484a-96a3-47fc981c41a8",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Medicare Hospital Kadapa",
@@ -12175,9 +12325,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 488,
+    "SNO": 494,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "5ffe1381-5aa4-4e0b-8442-c50243fe4ddd",
+    "UID": "b4eff376-7542-4bb5-82ef-3c6f97780ab3",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Veerabhadra Hospitals Kadapa",
@@ -12200,9 +12350,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 489,
+    "SNO": 495,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "a3c0ae06-3fbf-4ff5-a9f6-8acb7e478814",
+    "UID": "8feb5587-aad7-4296-9af0-a062b2680c7c",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "shri madan multi speciality hospital",
@@ -12225,17 +12375,17 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 490,
+    "SNO": 496,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "70c3aeb3-70c1-43b4-8331-1c3af6b8a8bd",
+    "UID": "77a2c2c5-e2d0-4010-bc2b-cfecc97a0d16",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "HARSHA HOSPITAL PRODDATUR",
     "CONTACT": 8564256644,
     "AAROGYASRI_EMPANELMENT_STATUS": "Partially Empanelled",
     "ICU_TOTAL": 10,
-    "ICU_OCCUPIED": 6,
-    "ICU_AVAILABLE": 4,
+    "ICU_OCCUPIED": 8,
+    "ICU_AVAILABLE": 2,
     "OXYGEN_GENERAL_TOTAL": 16,
     "OXYGEN_GENERAL_OCCUPIED": 7,
     "OXYGEN_GENERAL_AVAILABLE": 9,
@@ -12250,9 +12400,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "TRUE"
   },
   {
-    "SNO": 491,
+    "SNO": 497,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "ca2a90c8-c24c-4461-9f95-84e27fc5e758",
+    "UID": "1c6bad31-42e9-4d57-a15e-720769920c69",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "shri mohan hospital",
@@ -12265,8 +12415,8 @@ andhra_pradesh_data=[
     "OXYGEN_GENERAL_OCCUPIED": 14,
     "OXYGEN_GENERAL_AVAILABLE": 0,
     "GENERAL_TOTAL": 6,
-    "GENERAL_OCCUPIED": 0,
-    "GENERAL_AVAILABLE": 6,
+    "GENERAL_OCCUPIED": 6,
+    "GENERAL_AVAILABLE": 0,
     "VENTILATOR": 0,
     "LOCATION": "",
     "LAT": "",
@@ -12275,9 +12425,9 @@ andhra_pradesh_data=[
     "HAS_VENTILATORS": "FALSE"
   },
   {
-    "SNO": 492,
+    "SNO": 498,
     "STEIN_ID": "AndhraPradesh",
-    "UID": "75e6099a-ee13-42db-a23d-daa56a24e2cb",
+    "UID": "4233d283-83c8-49b4-be9b-31656c3c66f7",
     "IS_NEW_HOSPITAL": "TRUE",
     "DISTRICT": "Y.S.R.",
     "HOSPITAL_NAME": "Tirumala Hospital Kadapa",
