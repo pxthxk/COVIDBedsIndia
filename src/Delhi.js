@@ -16,7 +16,7 @@ class DelhiHospital {
     } else {
       var loc = gnctd_covid_facilities_data[hsp_name]["location"]
     } 
-    return "<a href=" + loc + " target='_blank'>Click for Google Maps</a><br>";
+    return "<a href=" + loc + " target='_blank'>View on Google Maps</a><br>";
   }
 
   // private or govt

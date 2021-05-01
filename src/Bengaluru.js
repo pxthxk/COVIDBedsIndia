@@ -1,6 +1,6 @@
 class Bengaluru {
   populate(mcg, bedtype) {
-    let fetchPromise = fetch("https://api.covidbedsindia.in//v1/storages/608982f703eef3de2bd05a72/Bengaluru");
+    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/608982f703eef3de2bd05a72/Bengaluru");
 
     fetchPromise.then(response => {
       return response.json();
@@ -30,8 +30,8 @@ class Bengaluru {
               }
 
               var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-              var type = i["TYPE"] + "<br><br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>Click for Google Maps</a><br>";
+              var type = i["TYPE"] + "<br>";
+              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
               var gen_tot = "<b>GENERAL BEDS</b><br>Total: " + i["ALLOCATED_BEDS_GEN"] + "<br>";
               var gen_vac = "Available: " + i["AVAILABLE_BEDS_GEN"] + "<br><br>";
