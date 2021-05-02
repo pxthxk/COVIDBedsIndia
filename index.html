@@ -30,6 +30,20 @@
 				font-weight: 400;
 				-webkit-font-smoothing: antialiased;
 			}
+			.spinner {
+				width: 24px;
+				height: 24px;
+				margin:auto;
+				position:absolute;
+				top:25%;
+				left:0;
+				bottom:0;
+				right:0;
+				z-index:2000;
+				-webkit-animation:spin 1s linear infinite;
+				-moz-animation:spin 1s linear infinite;
+				animation:spin 1s linear infinite;
+			}
 			#pointers {
 				max-width: 1024px;
 				margin: 1em auto;
@@ -66,7 +80,7 @@
 			}			
 			#mapid {
 				width: 100%;
-				height: 65vh;
+				height: 70vh;
 			}
 			.leaflet-popup-content {
 				width: 300px !important;
@@ -108,6 +122,9 @@
 				width: 32px !important;
 				height: 32px !important;
 			}
+			.modal-dialog {
+				min-width: 575px !important;
+			}
 			.modal-body {
 				font-size: 1.25em;
 			}
@@ -127,10 +144,14 @@
 				text-align: center;
 			}
 			@media only screen and (max-width: 1024px) {
+				.spinner {
+					width: 32px;
+					height: 32px;
+				}
 				#pointers {
-					max-width: 90%;
+					max-width: 95%;
 					margin: 1em auto;
-					font-size: 2em;
+					font-size: 1.9em;
 					line-height: 1.5em
 				}
 				#pointers h4 {
@@ -140,18 +161,24 @@
 					font-size: 1.75em;
 				}
 				#mapid {
-					height: 70vh;
+					height: 75vh;
 				}
+				/*.leaflet-marker-icon {
+					margin-left: -18px !important;
+				    margin-top: -61.5px !important;
+				    width: 37.5px !important;
+				    height: 61.5px !important;
+				}*/
 				.leaflet-popup-content {
-					font-size: 1.25em;
+					font-size: 1.5em;
 				}
 				.modal-title {
 					font-size: 2em;
-    			line-height: 1.5em;
+    				line-height: 1.5em;
 				}
 				.modal-body {
 					font-size: 2em;
-    			line-height: 1.5em;
+    				line-height: 1.5em;
 				}
 				.modal-title {
 					font-size: 3em;
@@ -160,18 +187,17 @@
 					font-size: 1em;
 				}
 			}
-			.spinner{z-index:1000;margin:auto;position:absolute;top:0;left:0;bottom:0;right:0;-webkit-animation:spin 1s linear infinite; -moz-animation:spin 1s linear infinite;animation:spin 1s linear infinite;}@-moz-keyframes spin{100%{ -moz-transform:rotate(360deg);}}@-webkit-keyframes spin{100%{-webkit-transform: rotate(360deg);}}@keyframes spin{100%{-webkit-transform: rotate(360deg); transform:rotate(360deg);}}.primaryGradientBg{background-color:#363B59;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#08aaf9', endColorstr='#00daff', GradientType=1)}.fadeIn{opacity:1;transition:1s ease}
 		</style>
 	</head>
 	<body>
 		<img class="spinner" src="assets/spinner.png" alt="Loading...">
 
 		<div class="container responsive" id="pointers">
-			<h4>NOTE</h4>
+			<!-- <h4>NOTE</h4> -->
 			<div><i class="icon-exclamation"></i><p>The number in the circle represents the number of hospitals in the area and <b>NOT the number of beds</b>.</p></div>
 			<div><i class="icon-exclamation"></i><p>To get bed availability details, click on the <b>blue marker</b>.</p></div>
 			<div><i class="icon-exclamation"></i><p>We use data provided by the government bodies to get the hospital bed status and numbers. The actual number of available beds may differ. <b>Please contact the hospital prior visiting.</b></p></div>
-			<div><i class="icon-info"></i><p>The list of all data sources is available <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">here</a>. To report issues, please reach out us on <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">GitHub</a> or <a href="https://twitter.com/covidbedsindia" target="_blank">Twitter</a>.</p></div>
+			<div><i class="icon-info"></i><p>Get links to data sources <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">here</a>. Report issues on <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">GitHub</a> or <a href="https://twitter.com/covidbedsindia" target="_blank">Twitter</a>.</p></div>
 		</div>
 		<div id="selectors">
 			<div id="loc">
