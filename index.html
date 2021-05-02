@@ -160,9 +160,12 @@
 					font-size: 1em;
 				}
 			}
+			.spinner{z-index:1000;margin:auto;position:absolute;top:0;left:0;bottom:0;right:0;-webkit-animation:spin 1s linear infinite; -moz-animation:spin 1s linear infinite;animation:spin 1s linear infinite;}@-moz-keyframes spin{100%{ -moz-transform:rotate(360deg);}}@-webkit-keyframes spin{100%{-webkit-transform: rotate(360deg);}}@keyframes spin{100%{-webkit-transform: rotate(360deg); transform:rotate(360deg);}}.primaryGradientBg{background-color:#363B59;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#08aaf9', endColorstr='#00daff', GradientType=1)}.fadeIn{opacity:1;transition:1s ease}
 		</style>
 	</head>
 	<body>
+		<img class="spinner" src="assets/spinner.png" alt="Loading...">
+
 		<div class="container responsive" id="pointers">
 			<h4>NOTE</h4>
 			<div><i class="icon-exclamation"></i><p>The number in the circle represents the number of hospitals in the area and <b>NOT the number of beds</b>.</p></div>
@@ -249,6 +252,8 @@
 		<script src="src/West_Bengal.js"></script>
 		<script type="text/javascript">
 			var bedtype = null;
+			var userlatlong = null;
+
 			var mymap = L.map("mapid");
 
 			var mcg = L.markerClusterGroup({
@@ -342,7 +347,15 @@
 
 			initialize(mcg, bedtype);
 
-			loadCity("Lander");
+			navigator.geolocation.getCurrentPosition(function(location) {
+				userlatlong = new L.LatLng(location.coords.latitude, location.coords.longitude);
+				
+				mymap.setView([userlatlong["lat"], userlatlong["lng"]], 12);
+				$(".spinner").hide();
+			}, function() {
+				loadCity("Lander");
+				$(".spinner").hide();
+			});
 		</script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-YHLL5RH0L7"></script>
 		<script>
