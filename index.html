@@ -292,7 +292,8 @@
 				id: 'mapbox/streets-v11',
 				tileSize: 512,
 				zoomOffset: -1,
-				accessToken: mapboxToken
+				accessToken: mapboxToken,
+				detectRetina: true
 			}).addTo(mymap);
 
 			var loc = document.getElementById("city");
