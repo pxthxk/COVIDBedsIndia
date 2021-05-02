@@ -10,16 +10,18 @@
 		<meta property="og:title" content="COVID Beds in India: Realtime availability numbers">
 		<meta property="og:description" content="A volunteer-driven effort to track the COVID Hospital Beds availability in India. Hospitals are marked onto a detailed country map showing the number of oxygen, ICU, ventilator beds available for each state and district.">
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-		<script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
-		
 		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-		<link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+		<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@v0.73.0/dist/L.Control.Locate.min.css" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+		<script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
+		<script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@v0.73.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 		
 		<style type="text/css">
 			body {
@@ -30,7 +32,7 @@
 				font-weight: 400;
 				-webkit-font-smoothing: antialiased;
 			}
-			.spinner {
+			.loader {
 				width: 24px;
 				height: 24px;
 				margin:auto;
@@ -78,7 +80,7 @@
 			.icon-info {
 				color: cornflowerblue;
 			}			
-			#mapid {
+			#mapcontainer {
 				width: 100%;
 				height: 70vh;
 			}
@@ -144,7 +146,7 @@
 				text-align: center;
 			}
 			@media only screen and (max-width: 1024px) {
-				.spinner {
+				.loader {
 					width: 32px;
 					height: 32px;
 				}
@@ -160,7 +162,7 @@
 				#selectors {
 					font-size: 1.75em;
 				}
-				#mapid {
+				#mapcontainer {
 					height: 75vh;
 				}
 				/*.leaflet-marker-icon {
@@ -190,7 +192,7 @@
 		</style>
 	</head>
 	<body>
-		<img class="spinner" src="assets/spinner.png" alt="Loading...">
+		<!-- <img class="loader" src="assets/loader.png" alt="Loading..."> -->
 
 		<div class="container responsive" id="pointers">
 			<!-- <h4>NOTE</h4> -->
@@ -215,7 +217,7 @@
 			</div>
 		</div>
 
-		<div id="mapid"></div>
+		<div id="mapcontainer"></div>
 
 		<div id="icudisclaimer" class="modal">
 		  <div class="modal-dialog">
@@ -278,9 +280,8 @@
 		<script src="src/West_Bengal.js"></script>
 		<script type="text/javascript">
 			var bedtype = null;
-			var userlatlong = null;
 
-			var mymap = L.map("mapid");
+			var map = L.map("mapcontainer");
 
 			var mcg = L.markerClusterGroup({
 				maxClusterRadius: 30
@@ -293,7 +294,15 @@
 				tileSize: 512,
 				zoomOffset: -1,
 				accessToken: mapboxToken
-			}).addTo(mymap);
+			}).addTo(map);
+
+			var lc = L.control.locate({
+				position: "topright",
+				icon: "icon-map-marker",
+				initialZoomLevel: 14,
+				cacheLocation: true,
+				showPopup: false
+			}).addTo(map);
 
 			var loc = document.getElementById("city");
 			for (var i=0; i<locations.length; i++) {
@@ -301,7 +310,7 @@
 			}
 
 			function loadCity(cityName) {
-				mymap.setView(latlong[cityName], zoomFactor[cityName]);
+				map.setView(latlong[cityName], zoomFactor[cityName]);
 			}
 			
 			function cityChanged(newcity) {
@@ -318,6 +327,8 @@
 			}
 
 			function initialize(mcg, bedtype) {
+				$(".loader").show();
+
 				mcg.clearLayers();
 
 				var delhi = new Delhi();
@@ -362,7 +373,7 @@
 				var westbengal = new West_Bengal();
 				westbengal.populate(mcg, bedtype);
 				
-				mymap.addLayer(mcg);
+				map.addLayer(mcg);
 
 				if(bedtype == "icu") {
 					$("#icudisclaimer").modal("toggle");
@@ -371,17 +382,11 @@
 				}
 			}
 
-			initialize(mcg, bedtype);
+			lc.start();
+			
+			loadCity("Lander");
 
-			navigator.geolocation.getCurrentPosition(function(location) {
-				userlatlong = new L.LatLng(location.coords.latitude, location.coords.longitude);
-				
-				mymap.setView([userlatlong["lat"], userlatlong["lng"]], 12);
-				$(".spinner").hide();
-			}, function() {
-				loadCity("Lander");
-				$(".spinner").hide();
-			});
+			initialize(mcg, bedtype);
 		</script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-YHLL5RH0L7"></script>
 		<script>
