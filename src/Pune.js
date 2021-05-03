@@ -25,24 +25,21 @@ class Pune {
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
+
               var addr = i["HOSPITAL_ADDRESS"] + "<br>";
               var contact = "Contact: " + i["CONTACT"] + "<br>";
               var cat = "Category: " + i["HOSPITAL_CATEGORY"] + "<br>";
               var type = "Charges: " + i["CHARGES"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
               var timestamp = new Date(Number(i["LAST_UPDATED"])).toString().split("GMT")[0];
               var last_updated_at = "Last Updated: " + timestamp + "<br><br>";
-              var reg_tot = "<b>BEDS WITHOUT OXYGEN</b><br>Total: " + i["TOTAL_BEDS_WITHOUT_OXYGEN"] + "<br>";
-              var reg_vac = "Available: " + i["AVAILABLE_BEDS_WITHOUT_OXYGEN"] + "<br><br>";
-              var oxy_tot = "<b>OXYGEN BEDS</b><br>Total: " + i["TOTAL_BEDS_WITH_OXYGEN"] + "<br>";
-              var oxy_vac = "Available: " + i["AVAILABLE_BEDS_WITH_OXYGEN"] + "<br><br>";
-              var icu_tot = "<b>ICU BEDS</b><br>Total: " + i["TOTAL_ICU_BEDS_WITHOUT_VENTILATOR"] + "<br>";
-              var icu_vac = "Available: " + i["AVAILABLE_ICU_BEDS_WITHOUT_VENTILATOR"] + "<br><br>";
-              var ven_tot = "<b>ICU BEDS WITH VENTILATOR</b><br>Total: " + i["TOTAL_ICU_BEDS_WITH_VENTILATOR"] + "<br>";
-              var ven_vac = "Available: " + i["AVAILABLE_ICU_BEDS_WITH_VENTILATOR"] + "<br><br>";
-              
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + addr + contact + cat + type + loc + last_updated_at + reg_tot + reg_vac + oxy_tot + oxy_vac + icu_tot + icu_vac + ven_tot + ven_vac);
+
+              var nonoxy = bedDetails("BEDS WITHOUT OXYGEN", i["TOTAL_BEDS_WITHOUT_OXYGEN"], i["AVAILABLE_BEDS_WITHOUT_OXYGEN"]);
+              var oxy = bedDetails("OXYGEN BEDS", i["TOTAL_BEDS_WITH_OXYGEN"], i["AVAILABLE_BEDS_WITH_OXYGEN"]);
+              var icu = bedDetails("ICU BEDS", i["TOTAL_ICU_BEDS_WITHOUT_VENTILATOR"], i["AVAILABLE_ICU_BEDS_WITHOUT_VENTILATOR"]);
+              var ven = bedDetails("VENTILATOR BEDS", i["TOTAL_ICU_BEDS_WITH_VENTILATOR"], i["AVAILABLE_ICU_BEDS_WITH_VENTILATOR"]);
+
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + addr + contact + cat + type + last_updated_at + nonoxy + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

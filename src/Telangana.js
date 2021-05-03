@@ -25,19 +25,17 @@ class Telangana {
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-              var type = i["TYPE"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
+
               var contact = "Contact: " + i["CONTACT"] + "<br>";
+              var type = i["TYPE"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED_DATE"] + " " + i["LAST_UPDATED_TIME"] + "<br><br>";
-              var reg_occ = "<b>REGULAR BEDS</b><br>Total: " + i["REGULAR_BEDS_TOTAL"] + "<br>";
-              var reg_vac = "Vacant: " + i["REGULAR_BEDS_VACANT"] + "<br><br>";
-              var oxy_occ = "<b>OXYGEN BEDS</b><br>Total: " + i["OXYGEN_BEDS_TOTAL"] + "<br>";
-              var oxy_vac = "Vacant: " + i["OXYGEN_BEDS_VACANT"] + "<br><br>";
-              var icu_occ = "<b>ICU BEDS (Ventilator/ CPAP)</b><br>Total: " + i["ICU_BEDS_TOTAL"] + "<br>";
-              var icu_vac = "Vacant: " + i["ICU_BEDS_VACANT"] + "<br><br>";
-              
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + type + contact + loc + last_updated_at + reg_occ + reg_vac + oxy_occ + oxy_vac + icu_occ + icu_vac);
+
+              var reg = bedDetails("REGULAR BEDS", i["REGULAR_BEDS_TOTAL"], i["REGULAR_BEDS_VACANT"]);
+              var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_VACANT"]);
+              var icu = bedDetails("ICU BEDS (Ventilator/ CPAP)", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_VACANT"]);
+
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + type + last_updated_at + reg + oxy + icu);
               mcg.addLayer(marker);
             }
           }

@@ -25,20 +25,17 @@ class Tamil_Nadu {
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-              var contact = "Contact: " + i["CONTACT"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
-              var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
-              var sus_tot = "<b>BEDS FOR SUSPECTED CASES</b><br>Total: " + i["BEDS_FOR_SUSPECTED_CASES_TOTAL"] + "<br>";
-              var sus_vac = "Available: " + i["BEDS_FOR_SUSPECTED_CASES_VACANT"] + "<br><br>";
-              var nonoxy_tot = "<b>NON-OXYGEN BEDS</b><br>Total: " + i["NONOXYGEN_SUPPORTED_BEDS_TOTAL"] + "<br>";
-              var nonoxy_vac = "Available: " + i["NONOXYGEN_SUPPORTED_BEDS_VACANT"] + "<br><br>";
-              var oxy_tot = "<b>OXYGEN BEDS</b><br>Total: " + i["OXYGEN_SUPPORTED_BEDS_TOTAL"] + "<br>";
-              var oxy_vac = "Available: " + i["OXYGEN_SUPPORTED_BEDS_VACANT"] + "<br><br>";
-              var icu_tot = "<b>ICU BEDS</b><br>Total: " + i["ICU_BEDS_TOTAL"] + "<br>";
-              var icu_vac = "Available: " + i["ICU_BEDS_VACANT"] + "<br><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + loc + last_updated_at + sus_tot + sus_vac + nonoxy_tot + nonoxy_vac + oxy_tot + oxy_vac + icu_tot + icu_vac);
+              var contact = "Contact: " + Number(i["CONTACT"]) + "<br>";
+              var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
+
+              var sus = bedDetails("BEDS FOR SUSPECTED CASES", i["BEDS_FOR_SUSPECTED_CASES_TOTAL"], i["BEDS_FOR_SUSPECTED_CASES_VACANT"]);
+              var nonoxy = bedDetails("NON-OXYGEN BEDS", i["NONOXYGEN_SUPPORTED_BEDS_TOTAL"], i["NONOXYGEN_SUPPORTED_BEDS_VACANT"]);
+              var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_SUPPORTED_BEDS_TOTAL"], i["OXYGEN_SUPPORTED_BEDS_VACANT"]);
+              var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_VACANT"]);
+              
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + last_updated_at + sus + nonoxy + oxy + icu);
               mcg.addLayer(marker);
             }
           }

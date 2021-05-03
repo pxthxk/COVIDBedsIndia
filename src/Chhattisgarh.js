@@ -25,24 +25,20 @@ class Chhattisgarh {
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-              var cat = "Category: " + i["CATEGORY"] + "<br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
+
               var contact = "Contact: " + i["CONTACT"] + "<br>";
+              var cat = "Category: " + i["CATEGORY"] + "<br>";
               var ayushman = "Empanelled inn Ayushman: " + i["EMPANELLED_IN_AYUSHMAN"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED_DATE"] + " " + i["LAST_UPDATED_TIME"] + "<br><br>";
-              var reg_tot = "<b>NON-OXYGEN BEDS</b><br>Total: " + i["NONOXYGEN_BEDS_TOTAL"] + "<br>";
-              var reg_vac = "Available: " + i["NONOXYGEN_BEDS_VACANT"] + "<br><br>";
-              var oxy_tot = "<b>OXYGEN BEDS</b><br>Total: " + i["OXYGEN_BEDS_TOTAL"] + "<br>";
-              var oxy_vac = "Available: " + i["OXYGEN_BEDS_VACANT"] + "<br><br>";
-              var hdu_tot = "<b>HDU BEDS</b><br>Total: " + i["HDU_BEDS_TOTAL"] + "<br>";
-              var hdu_vac = "Available: " + i["HDU_BEDS_VACANT"] + "<br><br>";
-              var icu_tot = "<b>ICU BEDS</b><br>Total: " + i["ICU_BEDS_TOTAL"] + "<br>";
-              var icu_vac = "Available: " + i["ICU_BEDS_VACANT"] + "<br><br>";
-              var ven_tot = "<b>ICU BEDS WITH VENTILATOR</b><br>Total: " + i["VENTILATORS_TOTAL"] + "<br>";
-              var ven_vac = "Available: " + i["VENTILATORS_VACANT"] + "<br><br>";
+
+              var nonoxy = bedDetails("NONOXYGEN BEDS", i["NONOXYGEN_BEDS_TOTAL"], i["NONOXYGEN_BEDS_VACANT"]);
+              var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_VACANT"]);
+              var hdu = bedDetails("HDU BEDS", i["HDU_BEDS_TOTAL"], i["HDU_BEDS_VACANT"]);
+              var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_VACANT"]);
+              var ven = bedDetails("VENTILATOR BEDS", i["VENTILATORS_TOTAL"], i["VENTILATORS_VACANT"]);
                 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + cat + ayushman + contact + loc + last_updated_at + reg_tot + reg_vac + oxy_tot + oxy_vac + hdu_tot + hdu_vac + icu_tot + icu_vac + ven_tot + ven_vac);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + cat + ayushman + last_updated_at + nonoxy + oxy + hdu + icu + ven);
               mcg.addLayer(marker);
             }
           }

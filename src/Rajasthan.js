@@ -25,20 +25,18 @@ class Rajasthan {
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
+              
               var contact = "Hospital Contact: " + i["HOSPITAL_HELPLINE_NO"] + "<br>";
               var contact2 = "District Control Room Contact: " + i["DISTRICT_CONTROL_ROOM"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br><br>";
-              var gen_tot = "<b>GENERAL BEDS</b><br>Total: " + i["GENERAL_BEDS_TOTAL"] + "<br>";
-              var gen_vac = "Available: " + i["GENERAL_BEDS_AVAILABLE"] + "<br><br>";
-              var oxy_tot = "<b>OXYGEN BEDS</b><br>Total: " + i["OXYGEN_BEDS_TOTAL"] + "<br>";
-              var oxy_vac = "Available: " + i["OXYGEN_BEDS_AVAILABLE"] + "<br><br>";
-              var icu_tot = "<b>ICU BEDS</b><br>Total: " + i["ICU_BEDS_TOTAL"] + "<br>";
-              var icu_vac = "Available: " + i["ICU_BEDS_AVAILABLE"] + "<br><br>";
-              var ven_tot = "<b>ICU BEDS WITH VENTILATOR</b><br>Total: " + i["VENTILATOR_BEDS_TOTAL"] + "<br>";
-              var ven_vac = "Available: " + i["VENTILATOR_BEDS_AVAILABLE"] + "<br><br>";
-              
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + contact2 + loc + gen_tot + gen_vac + oxy_tot + oxy_vac + icu_tot + icu_vac + ven_tot + ven_vac);
+              var last_updated_at = i["LAST_UPDATED"] + "<br><br>";
+
+              var gen = bedDetails("GENERAL BEDS", i["GENERAL_BEDS_TOTAL"], i["GENERAL_BEDS_OCCUPIED"])
+              var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_OCCUPIED"])
+              var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_OCCUPIED"])
+              var ven = bedDetails("VENTILATOR", i["VENTILATOR_BEDS_TOTAL"], i["VENTILATOR_BEDS_OCCUPIED"])
+
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + contact2 + last_updated_at + gen + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

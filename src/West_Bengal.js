@@ -24,13 +24,13 @@ class West_Bengal {
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-              var last_updated_at = i["LAST_UPDATED"] + "<br><br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br><br>";
-              var beds_tot = "<b>BEDS</b><br>Total: " + i["TOTAL_BEDS"] + "<br>";
-              var beds_vac = "Available: " + i["VACANT_BEDS"] + "<br><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
+
+              var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
+
+              var beds = bedDetails("BEDS", i["TOTAL_BEDS"], i["VACANT_BEDS"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + last_updated_at + loc + beds_tot + beds_vac);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + last_updated_at + beds);
               mcg.addLayer(marker);
             }
           }

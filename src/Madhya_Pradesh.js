@@ -33,19 +33,17 @@ class Madhya_Pradesh {
               
 
               if((coord[0] != 0) && (coord[1] != 0)) {
-                var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-                var type = i["TYPE"] + "<br>";
+                var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"].replace(" ", ""));
+
                 var contact = "Contact: " + (i["CONTACT_1"] ? i["CONTACT_1"].split("Mob: ")[1] : "") + (i["CONTACT_2"] ? ", " + i["CONTACT_2"].split("Mob: ")[1] : "") + (i["CONTACT_3"] ? ", " + i["CONTACT_3"].split("Mob: ")[1] : "") + "<br>";
-                var loc = "<a href=" + i["LOCATION"].replace(" ", "") + " target='_blank'>View on Google Maps</a><br>";
+                var type = i["TYPE"] + "<br>";
                 var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
-                var iso_tot = "<b>ISOLATION BEDS</b><br>Total: " + i["ISOLATION_BEDS_TOTAL"] + "<br>";
-                var iso_vac = "Available: " + i["ISOLATION_BEDS_AVAILABLE"] + "<br><br>";
-                var oxy_tot = "<b>OXYGEN GENERAL BEDS</b><br>Total: " + i["OXYGEN_BEDS_TOTAL"] + "<br>";
-                var oxy_vac = "Available: " + i["OXYGEN_BEDS_AVAILABLE"] + "<br><br>";
-                var icu_tot = "<b>ICU BEDS</b><br>Total: " + i["ICU_BEDS_TOTAL"] + "<br>";
-                var icu_vac = "Available: " + i["ICU_BEDS_AVAILABLE"] + "<br><br>";
+
+                var iso = bedDetails("ISOLATION BEDS", i["ISOLATION_BEDS_TOTAL"], i["ISOLATION_BEDS_AVAILABLE"]);
+                var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_AVAILABLE"]);
+                var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_AVAILABLE"]);
                 
-                var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + type + contact + loc + last_updated_at + iso_tot + iso_vac + oxy_tot + oxy_vac + icu_tot + icu_vac);
+                var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + type + last_updated_at + iso + oxy + icu);
                 mcg.addLayer(marker);
               }
             }

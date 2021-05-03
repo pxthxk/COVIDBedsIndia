@@ -25,21 +25,18 @@ class Gandhinagar {
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
+
               var area = i["AREA"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
               var nodal_officer = "Nodal Officer: " + i["NODAL_OFFICER_NAME"] + ": " + i["NODAL_OFFICER_NUMBER"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
-              var gen_tot = "<b>MILD SYMPTOMS BEDS</b><br>Total: " + i["MILD_SYMPTOMS_BED_TOTAL"] + "<br>";
-              var gen_vac = "Available: " + i["MILD_SYMPTOMS_BED_AVAILABLE"] + "<br><br>";
-              var oxy_tot = "<b>OXYGEN GENERAL BEDS</b><br>Total: " + i["O2_BEDS_TOTAL"] + "<br>";
-              var oxy_vac = "Available: " + i["O2_BEDS_AVAILABLE"] + "<br><br>";
-              var icu_tot = "<b>ICU BEDS</b><br>Total: " + i["ICU_WITHOUT_VENTILATOR_TOTAL"] + "<br>";
-              var icu_vac = "Available: " + i["ICU_WITH_VENTILATOR_AVAILABLE"] + "<br><br>";
-              var ven_tot = "<b>ICU BEDS WITH VENTILATORS</b><br>Total: " + i["ICU_WITH_VENTILATOR_TOTAL"] + "<br>";
-              var ven_vac = "Available: " + i["ICU_WITH_VENTILATOR_AVAILABLE"] + "<br><br>";
+
+              var reg = bedDetails("MILD SYMPTOMS BEDS", i["MILD_SYMPTOMS_BED_TOTAL"], i["MILD_SYMPTOMS_BED_AVAILABLE"]);
+              var oxy = bedDetails("OXYGEN BEDS", i["O2_BEDS_TOTAL"], i["O2_BEDS_AVAILABLE"]);
+              var icu = bedDetails("ICU BEDS", i["ICU_WITHOUT_VENTILATOR_TOTAL"], i["ICU_WITHOUT_VENTILATOR_AVAILABLE"]);
+              var ven = bedDetails("VENTILATOR BEDS", i["ICU_WITH_VENTILATOR_TOTAL"], i["ICU_WITH_VENTILATOR_AVAILABLE"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + area + loc + nodal_officer + last_updated_at + gen_tot + gen_vac + oxy_tot + oxy_vac + icu_tot + icu_vac + ven_tot + ven_vac);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + area + nodal_officer + last_updated_at + reg + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

@@ -29,19 +29,17 @@ class Uttarakhand {
                 var coord = i["LOCATION"].split("/")[7].replace("@", "").split(",");
               }
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-              var type = i["TYPE"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
+
               var nodal_officer = "Nodal Officer: " + i["NODAL_OFFICER_NAME"] + ": " + i["NODAL_OFFICER_NUMBER"] + "<br>";
+              var type = i["TYPE"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
-              var gen_tot = "<b>BEDS WITHOUT OXYGEN</b><br>Total: " + i["BEDS_WITHOUT_OXYGEN_TOTAL"] + "<br>";
-              var gen_vac = "Available: " + i["BEDS_WITHOUT_OXYGEN_AVAILABLE"] + "<br><br>";
-              var oxy_tot = "<b>OXYGEN BEDS</b><br>Total: " + i["BEDS_WITH_OXYGEN_TOTAL"] + "<br>";
-              var oxy_vac = "Available: " + i["BEDS_WITH_OXYGEN_AVAILABLE"] + "<br><br>";
-              var icu_tot = "<b>ICU BEDS</b><br>Total: " + i["ICU_BEDS_TOTAL"] + "<br>";
-              var icu_vac = "Available: " + i["ICU_BEDS_AVAILABLE"] + "<br><br>";
+
+              var nonoxy = bedDetails("BEDS WITHOUT OXYGEN", i["BEDS_WITHOUT_OXYGEN_TOTAL"], i["BEDS_WITHOUT_OXYGEN_AVAILABLE"]);
+              var oxy = bedDetails("OXYGEN BEDS", i["BEDS_WITH_OXYGEN_TOTAL"], i["BEDS_WITH_OXYGEN_AVAILABLE"]);
+              var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_AVAILABLE"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + type + loc + nodal_officer + last_updated_at + gen_tot + gen_vac + oxy_tot + oxy_vac + icu_tot + icu_vac);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + nodal_officer + type + last_updated_at + nonoxy + oxy + icu);
               mcg.addLayer(marker);
             }
           }

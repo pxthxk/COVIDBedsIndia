@@ -29,20 +29,17 @@ class Bengaluru {
                 var coord = i["LOCATION"].split("/")[7].replace("@", "").split(",");
               }
 
-              var hspInfo = "<b>" + i["HOSPITAL_NAME"] + "</b><br>";
-              var type = i["TYPE"] + "<br>";
-              var loc = "<a href=" + i["LOCATION"] + " target='_blank'>View on Google Maps</a><br>";
-              var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
-              var gen_tot = "<b>GENERAL BEDS</b><br>Total: " + i["ALLOCATED_BEDS_GEN"] + "<br>";
-              var gen_vac = "Available: " + i["AVAILABLE_BEDS_GEN"] + "<br><br>";
-              var hdu_tot = "<b>HIGH DEPENDENCY UNIT BEDS</b><br>Total: " + i["ALLOCATED_BEDS_HDU"] + "<br>";
-              var hdu_vac = "Available: " + i["AVAILABLE_BEDS_HDU"] + "<br><br>";
-              var icu_tot = "<b>ICU WITHOUT VENTILATOR BEDS</b><br>Total: " + i["ALLOCATED_BEDS_ICU"] + "<br>";
-              var icu_vac = "Available: " + i["AVAILABLE_BEDS_ICU"] + "<br><br>";
-              var ven_tot = "<b>ICU WITH VENTILATOR BEDS</b><br>Total: " + i["ALLOCATED_BEDS_VENT"] + "<br>";
-              var ven_vac = "Available: " + i["AVAILABLE_BEDS_VENT"] + "<br><br>";
+              var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + type + loc + last_updated_at + gen_tot + gen_vac + hdu_tot + hdu_vac + icu_tot + icu_vac + ven_tot + ven_vac);
+              var type = i["TYPE"] + "<br>";
+              var last_updated_at = "Last Updated: " + i["LAST_SYNCED"] + "<br><br>";
+
+              var gen = bedDetails("GENERAL", i["ALLOCATED_BEDS_GEN"], i["AVAILABLE_BEDS_GEN"]);
+              var hdu = bedDetails("HDU BEDS", i["ALLOCATED_BEDS_HDU"], i["AVAILABLE_BEDS_HDU"]);
+              var icu = bedDetails("ICU BEDS", i["ALLOCATED_BEDS_ICU"], i["AVAILABLE_BEDS_ICU"]);
+              var ven = bedDetails("VENTILATOR BEDS", i["ALLOCATED_BEDS_VENT", "AVAILABLE_BEDS_VENT"]);
+
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + type + last_updated_at + gen + hdu + icu + ven);
               mcg.addLayer(marker);
             }
           }

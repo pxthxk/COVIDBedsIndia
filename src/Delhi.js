@@ -16,7 +16,7 @@ class DelhiHospital {
     } else {
       var loc = gnctd_covid_facilities_data[hsp_name]["location"]
     } 
-    return "<a href=" + loc + " target='_blank'>View on Google Maps</a><br>";
+    return loc;
   }
 
   // private or govt
@@ -27,7 +27,7 @@ class DelhiHospital {
   last_updated_at(hsp_name) {
     for(var j in gnctd_covid_data) {
       if(gnctd_covid_data[j][hsp_name]){
-        return "Last Updated: " + gnctd_covid_data[j][hsp_name]["last_updated_at"] + "<br>";
+        return "Last Updated: " + gnctd_covid_data[j][hsp_name]["last_updated_at"] + "<br><br>";
       }
     }
     return "";
@@ -37,10 +37,7 @@ class DelhiHospital {
     var bedInfo = ""
       for(var j in gnctd_covid_data) {
         if(gnctd_covid_data[j][hsp_name]){
-          var type = gnctd_covid_data[j][hsp_name]["type"] + "<br>";
-          var last_updated_at = "Last Updated: " + gnctd_covid_data[j][hsp_name]["last_updated_at"] + "<br>";
-
-          bedInfo = bedInfo + "<br><b>" + j.split("_").join(" ").replace(/(^|\s)\S/g, l => l).toUpperCase() + "</b><br>Total: " + gnctd_covid_data[j][hsp_name]["total"] + "<br>Vacant: " + gnctd_covid_data[j][hsp_name]["vacant"] + "<br>";
+          bedInfo = bedInfo + bedDetails(j.split("_").join(" ").replace(/(^|\s)\S/g, l => l).toUpperCase(), String(gnctd_covid_data[j][hsp_name]["total"]), String(gnctd_covid_data[j][hsp_name]["vacant"]));
         }
       }
     return bedInfo;
@@ -88,7 +85,7 @@ class Delhi {
     $.getJSON('https://coronabeds.jantasamvad.org/covid-facilities.js?callback=?', function(data) {
       gnctd_covid_facilities_data = data;
     });
-    $.getJSON('https://coronabeds.jantasamvad.org/covid-info.js?callback=?', function(data) {
+    $.getJSON("https://coronabeds.jantasamvad.org/covid-info.js?callback=?", function(data) {
       gnctd_covid_data = data;
     });
 
@@ -116,15 +113,17 @@ class Delhi {
             var hsp = new DelhiHospital(i);
 
             var coord = hsp.coord(i);
-            var hsp_info = "<b>" + i + "</b><br>";
-            var contact_numbers = hsp.contact(i);
-            var loc = hsp.location(i);
-            var bed_info = hsp.bed_info(i);
+
+            var hspInfo = hspName(i, hsp.location(i));
+
+            var contact = hsp.contact(i);
             var type = hsp.hsp_type(i);
             var last_updated_at = hsp.last_updated_at(i);
 
+            var bed_info = hsp.bed_info(i);
+
             if (coord[0] || coord[1]) {
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hsp_info + type + contact_numbers + loc + last_updated_at + bed_info);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + type + last_updated_at + bed_info);
               mcg.addLayer(marker);
             }
           }
@@ -132,6 +131,6 @@ class Delhi {
           console.log(err);
         }
       }
-    }, 2000);
+    }, 3000);
   }
 }
