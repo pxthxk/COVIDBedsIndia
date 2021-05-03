@@ -35,14 +35,14 @@ class Ahmedabad {
               var contact = "Contact: " + i["CONTACT"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
 
-              var amc_iso = "<b>AMC QUOTA FOR PRIVATE PATIENTS</b><br>" + bedDetails("ISOLATION", i["AMC_ISOLATION_OCCUPIED"], i["AMC_ISOLATION_VACANT"]);
-              var amc_hdu = bedDetails("HDU BEDS", i["AMC_HIGH_DEPENDENCY_UNIT_OCCUPIED"], i["AMC_HIGH_DEPENDENCY_UNIT_VACANT"]);
-              var amc_icu = bedDetails("ICU BEDS", i["AMC_ICU_WITHOUT_VENTILATOR_OCCUPIED"], i["AMC_ICU_WITHOUT_VENTILATOR_VACANT"]);
-              var amc_ven = bedDetails("VENTILATOR", i["AMC_ICU_WITH_VENTILATOR_OCCUPIED"], i["AMC_ICU_WITH_VENTILATOR_VACANT"]);
-              var pvt_iso = "<b>PRIVATE QUOTA FOR PRIVATE PATIENTS</b><br>" + bedDetails("ISOLATION", i["PRIVATE_ISOLATION_OCCUPIED"], i["PRIVATE_ISOLATION_VACANT"]);
-              var pvt_hdu = bedDetails("HDU BEDS", i["PRIVATE_HIGH_DEPENDENCY_UNIT_OCCUPIED"], i["PRIVATE_HIGH_DEPENDENCY_UNIT_VACANT"]);
-              var pvt_icu = bedDetails("ICU BEDS", i["PRIVATE_ICU_WITHOUT_VENTILATOR_OCCUPIED"], i["PRIVATE_ICU_WITHOUT_VENTILATOR_VACANT"]);
-              var pvt_ven = bedDetails("VENTILATOR BEDS", i["PRIVATE_ICU_WITH_VENTILATOR_OCCUPIED"], i["PRIVATE_ICU_WITH_VENTILATOR_VACANT"]);
+              var amc_iso = "<b>AMC QUOTA FOR PRIVATE PATIENTS</b><br>" + bedDetails("ISOLATION", i["AMC_ISOLATION_OCCUPIED"], i["AMC_ISOLATION_VACANT"], false);
+              var amc_hdu = bedDetails("HDU BEDS", i["AMC_HIGH_DEPENDENCY_UNIT_OCCUPIED"], i["AMC_HIGH_DEPENDENCY_UNIT_VACANT"], false);
+              var amc_icu = bedDetails("ICU BEDS", i["AMC_ICU_WITHOUT_VENTILATOR_OCCUPIED"], i["AMC_ICU_WITHOUT_VENTILATOR_VACANT"], false);
+              var amc_ven = bedDetails("VENTILATOR", i["AMC_ICU_WITH_VENTILATOR_OCCUPIED"], i["AMC_ICU_WITH_VENTILATOR_VACANT"], false);
+              var pvt_iso = "<b>PRIVATE QUOTA FOR PRIVATE PATIENTS</b><br>" + bedDetails("ISOLATION", i["PRIVATE_ISOLATION_OCCUPIED"], i["PRIVATE_ISOLATION_VACANT"], false);
+              var pvt_hdu = bedDetails("HDU BEDS", i["PRIVATE_HIGH_DEPENDENCY_UNIT_OCCUPIED"], i["PRIVATE_HIGH_DEPENDENCY_UNIT_VACANT"], false);
+              var pvt_icu = bedDetails("ICU BEDS", i["PRIVATE_ICU_WITHOUT_VENTILATOR_OCCUPIED"], i["PRIVATE_ICU_WITHOUT_VENTILATOR_VACANT"], false);
+              var pvt_ven = bedDetails("VENTILATOR BEDS", i["PRIVATE_ICU_WITH_VENTILATOR_OCCUPIED"], i["PRIVATE_ICU_WITH_VENTILATOR_VACANT"], false);
 
               var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + zone + (i["CONTACT"] ? contact : "") + last_updated_at + amc_iso + amc_hdu + amc_icu + amc_ven + pvt_iso + pvt_hdu + pvt_icu + pvt_ven);
               mcg.addLayer(marker);

@@ -31,10 +31,10 @@ class Rajasthan {
               var contact2 = "District Control Room Contact: " + i["DISTRICT_CONTROL_ROOM"] + "<br>";
               var last_updated_at = i["LAST_UPDATED"] + "<br><br>";
 
-              var gen = bedDetails("GENERAL BEDS", i["GENERAL_BEDS_TOTAL"], i["GENERAL_BEDS_OCCUPIED"])
-              var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_OCCUPIED"])
-              var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_OCCUPIED"])
-              var ven = bedDetails("VENTILATOR", i["VENTILATOR_BEDS_TOTAL"], i["VENTILATOR_BEDS_OCCUPIED"])
+              var gen = bedDetails("GENERAL BEDS", i["GENERAL_BEDS_TOTAL"], i["GENERAL_BEDS_AVAILABLE"])
+              var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_AVAILABLE"])
+              var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_AVAILABLE"])
+              var ven = bedDetails("VENTILATOR", i["VENTILATOR_BEDS_TOTAL"], i["VENTILATOR_BEDS_AVAILABLE"])
 
               var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + contact2 + last_updated_at + gen + oxy + icu + ven);
               mcg.addLayer(marker);
