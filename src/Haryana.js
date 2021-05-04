@@ -24,20 +24,57 @@ class Haryana {
               flag = 1;
             }
 
+            var bed_info = {"total": {}, "avail": {}};
+
             if(flag == 1) {
               var coord = [i["LAT"], i["LONG"]];
 
               var hspInfo = hspName(i["HOSPITAL_INFO"].split("Availability of Beds: ")[0].split("Facility Name: ")[1], "https://maps.google.com/?q=" + i["LAT"] + "," + i["LONG"]);
 
-              var contact = (i["HOSPITAL_INFO"].split("Helpline: ")[1] ? "Contact: " + i["HOSPITAL_INFO"].split("Helpline: ")[1] + "<br>" : "");
+              var contact1 = (i["HOSPITAL_INFO"].split("Helpline: ")[1] ? "Contact: " + i["HOSPITAL_INFO"].split("Helpline: ")[1].split("BoardLine Number:")[0] + "<br>" : "");
+              var contact2 = (i["HOSPITAL_INFO"].split("Helpline: ")[1] ? "BoardLine Number: " + contactInfo(i["HOSPITAL_INFO"].split("Helpline: ")[1].split("BoardLine Number:")[1]) + "<br>" : "");
               var last_updated_at = i["LAST_UPDATED"] + "<br><br>";
 
-              var bed_tot = (i["HOSPITAL_INFO"].split("Availability of Oxygen:")[0].split("Allocated Beds:")[1] ? "<b>TOTAL BEDS</b><br>" + i["HOSPITAL_INFO"].split("Availability of Oxygen:")[0].split("Allocated Beds:")[1] + "<br><br>" : "");
-              var bed_vac = (i["HOSPITAL_INFO"].split("Allocated Beds:")[0].split("Availability of Beds:")[1] ? "<b>AVAILABLE BEDS</b><br>" + i["HOSPITAL_INFO"].split("Allocated Beds:")[0].split("Availability of Beds:")[1] + "<br><br>" : "");
-              var oxy_avail = (i["HOSPITAL_INFO"].split("Availability of Drugs")[0].split("Availability of Oxygen: ")[1] ? "<b>AVAILABILITY OF OXYGEN</b><br>" + i["HOSPITAL_INFO"].split("Availability of Drugs")[0].split("Availability of Oxygen: ")[1] + "<br><br>" : "");
-              var drug_avail = (i["HOSPITAL_INFO"].split("Helpline:")[0].split("Availability of Drugs")[1] ? "<b>AVAILABILITY OF DRUGS</b><br>" + i["HOSPITAL_INFO"].split("Helpline:")[0].split("Availability of Drugs")[1] + "<br><br>" : "");
+              var bed_tot = (i["HOSPITAL_INFO"].split("Availability of Oxygen:")[0].split("Allocated Beds:")[1] ? i["HOSPITAL_INFO"].split("Availability of Oxygen:")[0].split("Allocated Beds:")[1] : null);
+              var bed_vac = (i["HOSPITAL_INFO"].split("Allocated Beds:")[0].split("Availability of Beds:")[1] ? i["HOSPITAL_INFO"].split("Allocated Beds:")[0].split("Availability of Beds:")[1] : null);
+
+              if(bed_tot) {
+                bed_tot.split(",").forEach(function(item) { 
+                  if(item.includes("Non-Oxygen")) {
+                    bed_info["total"]["nonoxy"] = item.match(/\d+/)[0];
+                  } else if(item.includes("Oxygen")) {
+                    bed_info["total"]["oxy"] = item.match(/\d+/)[0];
+                  } else if(item.includes("ICU")) {
+                    bed_info["total"]["icu"] = item.match(/\d+/)[0];
+                  } else if(item.includes("Ventilators")) {
+                    bed_info["total"]["ven"] = item.match(/\d+/)[0];
+                  }
+                });
+              }
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + last_updated_at + bed_tot + bed_vac + oxy_avail + drug_avail);
+              if(bed_vac) {
+                bed_vac.split(",").forEach(function(item) { 
+                  if(item.includes("Non-Oxygen")) {
+                    bed_info["avail"]["nonoxy"] = item.match(/\d+/)[0];
+                  } else if(item.includes("Oxygen")) {
+                    bed_info["avail"]["oxy"] = item.match(/\d+/)[0];
+                  } else if(item.includes("ICU")) {
+                    bed_info["avail"]["icu"] = item.match(/\d+/)[0];
+                  } else if(item.includes("Ventilators")) {
+                    bed_info["avail"]["ven"] = item.match(/\d+/)[0];
+                  }
+                });
+              }
+
+              var nonoxy = ((bed_info["total"]["nonoxy"] && bed_info["avail"]["nonoxy"]) ? bedDetails("NONOXYGEN BEDS", bed_info["total"]["nonoxy"], bed_info["avail"]["nonoxy"]) : "");
+              var oxy = ((bed_info["total"]["oxy"] && bed_info["avail"]["oxy"]) ? bedDetails("OXYGEN BEDS", bed_info["total"]["oxy"], bed_info["avail"]["oxy"]) : "");
+              var icu = ((bed_info["total"]["icu"] && bed_info["avail"]["icu"]) ? bedDetails("ICU BEDS", bed_info["total"]["icu"], bed_info["avail"]["icu"]) : "");
+              var ven = ((bed_info["total"]["ven"] && bed_info["avail"]["ven"]) ? bedDetails("VENTILATOR BEDS", bed_info["total"]["ven"], bed_info["avail"]["ven"]) : "");
+
+              var oxy_avail = (i["HOSPITAL_INFO"].split("Availability of Drugs")[0].split("Availability of Oxygen: ")[1] ? "<b>AVAILABILITY OF OXYGEN: </b>" + i["HOSPITAL_INFO"].split("Availability of Drugs")[0].split("Availability of Oxygen: ")[1] + "<br><br>" : "");
+              var drug_avail = (i["HOSPITAL_INFO"].split("Helpline:")[0].split("Availability of Drugs")[1] ? "<b>AVAILABILITY OF DRUGS: </b>" + i["HOSPITAL_INFO"].split("Helpline:")[0].split("Availability of Drugs")[1] + "<br><br>" : "");
+              
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact1 + contact2 + last_updated_at + nonoxy + oxy + icu + ven + oxy_avail + drug_avail);
               mcg.addLayer(marker);
             }
           }
