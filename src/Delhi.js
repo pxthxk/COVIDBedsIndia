@@ -42,8 +42,12 @@ class DelhiHospital {
   bed_info(hsp_name) {
     var bedInfo = ""
       for(var j in gnctd_covid_data) {
-        if(gnctd_covid_data[j][hsp_name]){
-          bedInfo = bedInfo + bedDetails(j.split("_").join(" ").replace(/(^|\s)\S/g, l => l).toUpperCase(), String(gnctd_covid_data[j][hsp_name]["total"]), String(gnctd_covid_data[j][hsp_name]["vacant"]));
+        if(j!="oxygen_left_for") {
+          if(gnctd_covid_data[j][hsp_name]){
+            bedInfo += bedDetails(j.split("_").join(" ").replace(/(^|\s)\S/g, l => l).toUpperCase(), String(gnctd_covid_data[j][hsp_name]["total"]), String(gnctd_covid_data[j][hsp_name]["vacant"]));
+          }
+        } else {
+          bedInfo += "<b>Oxygen left for " + gnctd_covid_data[j][hsp_name]["days"] + " day(s) and " + gnctd_covid_data[j][hsp_name]["hours"] + " hours</b>";
         }
       }
     return bedInfo;
