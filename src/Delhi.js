@@ -7,7 +7,13 @@ class DelhiHospital {
   }
 
   contact(hsp_name) {
-    return "Contact: " + gnctd_covid_facilities_data[hsp_name]["contact_numbers"].join(", ") + "<br>";
+    var contactString = "";
+
+    for(var i=0; i<gnctd_covid_facilities_data[hsp_name]["contact_numbers"].length; i++) {
+      contactString += contactInfo(gnctd_covid_facilities_data[hsp_name]["contact_numbers"][i]) + (i != gnctd_covid_facilities_data[hsp_name]["contact_numbers"].length-1 ? ", " : "")
+    }
+    
+    return "Contact: " + contactString + "<br>";
   }
 
   location(hsp_name) {
