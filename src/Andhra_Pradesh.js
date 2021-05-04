@@ -27,7 +27,7 @@ class Andhra_Pradesh {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var contact = "Contact: " + i["CONTACT"] + "<br><br>";
+              var contact = "Contact: " + contactInfo(i["CONTACT"]) + "<br><br>";
 
               var gen = bedDetails("GENERAL", i["GENERAL_TOTAL"], i["GENERAL_AVAILABLE"]);
               var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_GENERAL_TOTAL"], i["OXYGEN_GENERAL_AVAILABLE"]);

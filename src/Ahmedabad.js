@@ -32,7 +32,7 @@ class Ahmedabad {
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
               var zone = "Zone/Ward: " + i["ZONE_WARDS"] + "<br>";
-              var contact = "Contact: " + i["CONTACT"] + "<br>";
+              var contact = "Contact: " + contactInfo(i["CONTACT"]) + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
 
               var amc_iso = "<b>AMC QUOTA FOR PRIVATE PATIENTS</b><br>" + bedDetails("ISOLATION", i["AMC_ISOLATION_OCCUPIED"], i["AMC_ISOLATION_VACANT"], false);

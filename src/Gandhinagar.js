@@ -28,7 +28,7 @@ class Gandhinagar {
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
               var area = i["AREA"] + "<br>";
-              var nodal_officer = "Nodal Officer: " + i["NODAL_OFFICER_NAME"] + ": " + i["NODAL_OFFICER_NUMBER"] + "<br>";
+              var nodal_officer = "Nodal Officer: " + i["NODAL_OFFICER_NAME"] + ": " + contactInfo(i["NODAL_OFFICER_NUMBER"]) + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
 
               var reg = bedDetails("MILD SYMPTOMS BEDS", i["MILD_SYMPTOMS_BED_TOTAL"], i["MILD_SYMPTOMS_BED_AVAILABLE"]);

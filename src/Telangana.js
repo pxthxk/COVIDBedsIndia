@@ -27,7 +27,7 @@ class Telangana {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var contact = "Contact: " + i["CONTACT"] + "<br>";
+              var contact = "Contact: " + contactInfo(i["CONTACT"]) + "<br>";
               var type = i["TYPE"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED_DATE"] + " " + i["LAST_UPDATED_TIME"] + "<br><br>";
 
@@ -35,7 +35,7 @@ class Telangana {
               var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_VACANT"]);
               var icu = bedDetails("ICU BEDS (Ventilator/ CPAP)", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_VACANT"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + type + last_updated_at + reg + oxy + icu);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + type + last_updated_at + reg + oxy + icu);
               mcg.addLayer(marker);
             }
           }

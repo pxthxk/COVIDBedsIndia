@@ -31,7 +31,7 @@ class Uttarakhand {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var nodal_officer = "Nodal Officer: " + i["NODAL_OFFICER_NAME"] + ": " + i["NODAL_OFFICER_NUMBER"] + "<br>";
+              var nodal_officer = "Nodal Officer: " + i["NODAL_OFFICER_NAME"] + ": " + contactInfo(i["NODAL_OFFICER_NUMBER"]) + "<br>";
               var type = i["TYPE"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
 

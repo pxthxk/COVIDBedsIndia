@@ -35,7 +35,7 @@ class Madhya_Pradesh {
               if((coord[0] != 0) && (coord[1] != 0)) {
                 var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"].replace(" ", ""));
 
-                var contact = "Contact: " + (i["CONTACT_1"] ? i["CONTACT_1"].split("Mob: ")[1] : "") + (i["CONTACT_2"] ? ", " + i["CONTACT_2"].split("Mob: ")[1] : "") + (i["CONTACT_3"] ? ", " + i["CONTACT_3"].split("Mob: ")[1] : "") + "<br>";
+                var contact = "Contact: " + (i["CONTACT_1"] ? contactInfo(i["CONTACT_1"].split("Mob: ")[1]) : "") + (i["CONTACT_2"] ? ", " + contactInfo(i["CONTACT_2"].split("Mob: ")[1]) : "") + (i["CONTACT_3"] ? ", " + contactInfo(i["CONTACT_3"].split("Mob: ")[1]) : "") + "<br>";
                 var type = i["TYPE"] + "<br>";
                 var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
 

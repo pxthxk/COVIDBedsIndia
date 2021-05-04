@@ -27,7 +27,7 @@ class Chhattisgarh {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var contact = "Contact: " + i["CONTACT"] + "<br>";
+              var contact = "Contact: " + (i["CONTACT"] ? i["CONTACT"].replace(i["CONTACT"].split(" ").slice(-1)[0],"") : "") + " " + (i["CONTACT"] ? contactInfo(i["CONTACT"].split(" ").slice(-1)[0]) : "") + "<br>";
               var cat = "Category: " + i["CATEGORY"] + "<br>";
               var ayushman = "Empanelled inn Ayushman: " + i["EMPANELLED_IN_AYUSHMAN"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED_DATE"] + " " + i["LAST_UPDATED_TIME"] + "<br><br>";

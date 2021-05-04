@@ -11,3 +11,9 @@ function bedDetails(bedType, bedTypeTotalOrOccupied, bedTypeAvailable, total=tru
 		"</div></div></div>"
 	);
 }
+
+function contactInfo(contactNumber) {
+	return(
+		"<a href='tel:" + contactNumber + "'>" + contactNumber + "</a>"
+	);
+}

@@ -27,7 +27,7 @@ class Tamil_Nadu {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
               
-              var contact = "Contact: " + Number(i["CONTACT"]) + "<br>";
+              var contact = "Contact: " + contactInfo(Number(i["CONTACT"])) + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
 
               var sus = bedDetails("BEDS FOR SUSPECTED CASES", i["BEDS_FOR_SUSPECTED_CASES_TOTAL"], i["BEDS_FOR_SUSPECTED_CASES_VACANT"]);
@@ -35,7 +35,7 @@ class Tamil_Nadu {
               var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_SUPPORTED_BEDS_TOTAL"], i["OXYGEN_SUPPORTED_BEDS_VACANT"]);
               var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_VACANT"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + last_updated_at + sus + nonoxy + oxy + icu);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + last_updated_at + sus + nonoxy + oxy + icu);
               mcg.addLayer(marker);
             }
           }
