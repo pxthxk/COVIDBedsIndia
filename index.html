@@ -65,13 +65,13 @@
 			}
 			#selectors {
 				text-align: center;
-				padding: 1em 0;
+				padding-bottom: 1em;
 			}
 			#selectors label {
 				padding-left: 1em;
 				margin-bottom: 0;
 				line-height: 2.5em;
-    			vertical-align: text-bottom;
+    			vertical-align: top;
 			}
 			#loc {
 				display: inline-block;
@@ -201,15 +201,15 @@
 				#selectors {
 					font-size: 1.75em;
 				}
+				#selectors label {
+					line-height: 2em;
+				}
+				.select2-dropdown {
+					font-size: 1.5em;
+				}
 				#mapcontainer {
 					height: 75vh;
 				}
-				/*.leaflet-marker-icon {
-					margin-left: -18px !important;
-				    margin-top: -61.5px !important;
-				    width: 37.5px !important;
-				    height: 61.5px !important;
-				}*/
 				.leaflet-popup-content {
 					width: 500px !important;
 					font-size: 1.75em;
@@ -271,7 +271,7 @@
 			<label>Hospitals with facilities of:</label>
 			<div id="bed">
 				<select name="bedtype" id="bedtype" onchange="bedChanged(this.value)">
-					<option value="">- ALL -</option>
+					<option value="">-- ALL --</option>
 					<option value="icu" data-toggle="modal" data-target="#icudisclaimer">ICU Beds</option>
 					<option value="ventilator" data-toggle="modal" data-target="#ventdisclaimer">Ventilators</option>
 				</select>
@@ -415,13 +415,13 @@
 
 			$("#city").select2({
 				theme: "bootstrap4",
-				width: "resolve"
+				width: "100%"
 			});
 
 			$("#bedtype").select2({
 				theme: "bootstrap4",
 				minimumResultsForSearch: -1,
-				width: "resolve"
+				width: "100%"
 			});
 
 			var loc = document.getElementById("city");
