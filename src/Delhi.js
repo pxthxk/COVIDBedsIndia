@@ -42,12 +42,12 @@ class DelhiHospital {
   bed_info(hsp_name) {
     var bedInfo = ""
       for(var j in gnctd_covid_data) {
-        if(j!="oxygen_left_for") {
-          if(gnctd_covid_data[j][hsp_name]){
+        if(gnctd_covid_data[j][hsp_name]){
+          if(j!="oxygen_left_for") {
             bedInfo += bedDetails(j.split("_").join(" ").replace(/(^|\s)\S/g, l => l).toUpperCase(), String(gnctd_covid_data[j][hsp_name]["total"]), String(gnctd_covid_data[j][hsp_name]["vacant"]));
+          } else {
+            bedInfo += "<b>Oxygen left for " + gnctd_covid_data[j][hsp_name]["days"] + " day(s) and " + gnctd_covid_data[j][hsp_name]["hours"] + " hours</b>";
           }
-        } else {
-          bedInfo += "<b>Oxygen left for " + gnctd_covid_data[j][hsp_name]["days"] + " day(s) and " + gnctd_covid_data[j][hsp_name]["hours"] + " hours</b>";
         }
       }
     return bedInfo;
@@ -138,6 +138,7 @@ class Delhi {
             }
           }
         } catch(err) {
+          console.log(i);
           console.log(err);
         }
       }
