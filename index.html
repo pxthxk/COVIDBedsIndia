@@ -16,12 +16,15 @@
 		<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@v0.73.0/dist/L.Control.Locate.min.css" />
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ttskch/select2-bootstrap4-theme@x.x.x/dist/select2-bootstrap4.min.css">
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
 		<script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js'></script>
 		<script type="text/javascript" src="assets/L.Control.Locate.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 		
 		<style type="text/css">
 			body {
@@ -63,10 +66,12 @@
 			#selectors {
 				text-align: center;
 				padding: 1em 0;
-				font-size: 1.25em;
 			}
 			#selectors label {
 				padding-left: 1em;
+				margin-bottom: 0;
+				line-height: 2.5em;
+    			vertical-align: text-bottom;
 			}
 			#loc {
 				display: inline-block;
@@ -259,8 +264,8 @@
 		</div>
 		<div id="selectors">
 			<div id="loc">
-				<select name="city" id="city" onchange="cityChanged(this.value)">
-					<option value="">SELECT YOUR CITY/DISTRICT</option>
+				<select class="custom-select" name="city" id="city" onchange="cityChanged(this.value)">
+					<option value="">SELECT CITY/DISTRICT</option>
 				</select>
 			</div>
 			<label>Hospitals with facilities of:</label>
@@ -327,33 +332,10 @@
 		<script src="src/West_Bengal.js"></script>
 		<script type="text/javascript">
 			var bedtype = null;
-
 			var map = L.map("mapcontainer");
-
 			var mcg = L.markerClusterGroup({
 				maxClusterRadius: 30
 			});
-			
-			L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}", {
-				attribution: "Map data &copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-				maxZoom: 18,
-				id: "mapbox/streets-v11",
-				tileSize: $(window).width() > 1024 ? 512 : 1024,
-				zoomOffset: $(window).width() > 1024 ? -1 : -2,
-				accessToken: mapboxToken
-			}).addTo(map);
-
-			var lc = L.control.locate({
-				position: "topright",
-				icon: "icon-location-arrow",
-				initialZoomLevel: 15,
-				cacheLocation: true
-			}).addTo(map);
-
-			var loc = document.getElementById("city");
-			for (var i=0; i<locations.length; i++) {
-				loc.innerHTML = loc.innerHTML + "<option value='" + locations[i].key + "'>" + locations[i].value + "</option>";
-			}
 
 			function loadCity(cityName) {
 				map.setView(latlong[cityName], zoomFactor[cityName]);
@@ -430,6 +412,42 @@
 					$("#ventdisclaimer").modal("toggle");
 				}
 			}
+
+			$("#city").select2({
+				theme: "bootstrap4",
+				width: "resolve"
+			});
+
+			$("#bedtype").select2({
+				theme: "bootstrap4",
+				minimumResultsForSearch: -1,
+				width: "resolve"
+			});
+
+			var loc = document.getElementById("city");
+			locations.forEach(function(i) {
+				loc.innerHTML += "<optgroup label=\"" + i["state"] + "\"></optgroup>";
+
+				i["district"].forEach(function(j) {
+					loc.innerHTML += "<option value='" + j.key + "'>" + j.value + "</option>";
+				});
+			});
+
+			L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}", {
+				attribution: "Map data &copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+				maxZoom: 18,
+				id: "mapbox/streets-v11",
+				tileSize: $(window).width() > 1024 ? 512 : 1024,
+				zoomOffset: $(window).width() > 1024 ? -1 : -2,
+				accessToken: mapboxToken
+			}).addTo(map);
+
+			var lc = L.control.locate({
+				position: "topright",
+				icon: "icon-location-arrow",
+				initialZoomLevel: 15,
+				cacheLocation: true
+			}).addTo(map);
 
 			lc.start();
 			
