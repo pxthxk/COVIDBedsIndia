@@ -14,6 +14,8 @@ https://ahna.org.in/covid19.html
 https://bbmpgov.com/chbms  
 - Gandhinagar  
 https://vmc.gov.in/HospitalModuleGMC/HospitalBedsDetails.aspx?tid=1  
+- Nashik  
+http://covidcbrs.nmc.gov.in/home/searchHosptial  
 - Pune  
 https://covidpune.com  
 - Andhra Pradesh  
