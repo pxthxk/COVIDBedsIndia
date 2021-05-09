@@ -265,7 +265,7 @@
 		<div id="selectors">
 			<div id="loc">
 				<select class="custom-select" name="city" id="city" onchange="cityChanged(this.value)">
-					<option value="">SELECT CITY/DISTRICT</option>
+					<option value="">SELECT CITY</option>
 				</select>
 			</div>
 			<label>Hospitals with facilities of:</label>
@@ -415,13 +415,13 @@
 
 			$("#city").select2({
 				theme: "bootstrap4",
-				width: "100%"
+				width: "250px"
 			});
 
 			$("#bedtype").select2({
 				theme: "bootstrap4",
 				minimumResultsForSearch: -1,
-				width: "100%"
+				width: "150px"
 			});
 
 			var loc = document.getElementById("city");
