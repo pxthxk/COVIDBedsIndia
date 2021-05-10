@@ -18,6 +18,8 @@ https://vmc.gov.in/HospitalModuleGMC/HospitalBedsDetails.aspx?tid=1
 http://covidcbrs.nmc.gov.in/home/searchHosptial  
 - Pune  
 https://covidpune.com  
+- Surat  
+http://office.suratsmartcity.com/SuratCOVID19/Home/COVID19BedAvailabilityDetails  
 - Andhra Pradesh  
 http://dashboard.covid19.ap.gov.in/ims/hospbed_reports  
 - Chhattisgarh  
