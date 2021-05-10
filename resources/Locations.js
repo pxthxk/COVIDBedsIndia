@@ -60,6 +60,7 @@ locations=[
         "district": [
             {"key": "Ahmedabad", "value": "Ahmedabad"},
             {"key": "Gandhinagar", "value": "Gandhinagar"},
+            {"key": "Surat", "value": "Surat"},
         ]
     },
     {   
@@ -570,6 +571,7 @@ latlong = {
     "Udam_Singh_Nagar": [29.0437119,79.3254541],
     "Uttarkashi": [30.905614,78.385969],
     "Gandhinagar": [23.2387966,72.621648],
+    "Surat": [21.1681648,72.8078767],
 }
 
 zoomFactor = {
@@ -825,4 +827,5 @@ zoomFactor = {
     "Udam_Singh_Nagar": 10,
     "Uttarkashi": 10,
     "Gandhinagar": 12,
+    "Surat": 12,
 }
