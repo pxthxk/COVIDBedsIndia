@@ -1,4 +1,8 @@
 missing_delhi_hsp_location = {
+      "Maa Bharti Hospital": "https://www.google.com/maps/place/Maa+Bharti+Hospital/@28.6178733,77.0141541,17z/data=!4m5!3m4!1s0x390d055858f19bfd:0xf72c49f6258ebe6e!8m2!3d28.6185185!4d77.0144331",
+      "Swasthik Hospital": "https://www.google.com/maps/place/Swasthik+Hospital+-+Best+Hospital+in+Najafgarh,Delhi/@28.6161959,76.9829675,17z/data=!4m9!1m2!2m1!1sSwasthik+Hospital!3m5!1s0x390d0fc3c013c381:0xf9cb6ff359281f89!8m2!3d28.6166299!4d76.9832275!15sChFTd2FzdGhpayBIb3NwaXRhbJIBEGdlbmVyYWxfaG9zcGl0YWw",
+      "Nirogi Charitable and Medical Research Trust": "https://www.google.com/maps/place/Nirogi+charitable+and+medical+research+trust/@28.6282621,77.3143424,17z/data=!4m5!3m4!1s0x390ce5d6805c867d:0x87c5e9bb499ee5ae!8m2!3d28.6287283!4d77.3146428",
+      "Warda Hospital": "https://www.google.com/maps/place/Warda+Hospital/@28.5429222,77.3022665,17z/data=!4m5!3m4!1s0x390ce54c2571b84d:0x183ed79f3946eed0!8m2!3d28.5432474!4d77.3025776",
       "Delhi Golden Hospital": "https://www.google.com/maps/place/Jaipur+Golden+Hospital/@28.6972233,77.1094447,17z/data=!4m5!3m4!1s0x390d03fb225cad53:0x3240cf47ab38df74!8m2!3d28.6976327!4d77.1095627?hl=en",
       "Arogya Hospital": "https://www.google.com/maps/place/Aarogya+Hospital/@28.6409012,77.2858554,16z/data=!4m9!1m2!2m1!1sArogya+Hospital+delhi!3m5!1s0x390cfb1dfb2b9cc3:0xf2164153daa5b5f3!8m2!3d28.641334!4d77.286336!15sChVBcm9neWEgSG9zcGl0YWwgZGVsaGlaKAoPYXJvZ3lhIGhvc3BpdGFsIhVhcm9neWEgaG9zcGl0YWwgZGVsaGmSAQhob3NwaXRhbLABAA?hl=en",
       "CAREWELL MEDICAL CENTRE": "https://www.google.com/maps/place/Care+Well+Medical+Centre+Hair+%26+Skin+Clinic/@28.53351,77.2546924,17z/data=!4m5!3m4!1s0x390ce162f3727511:0x3253a3ec46c1b3f2!8m2!3d28.533675!4d77.254333?hl=en",
