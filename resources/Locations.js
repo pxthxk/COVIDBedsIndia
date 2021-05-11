@@ -155,6 +155,7 @@ locations=[
     {   
         "state": "Maharashtra",
         "district": [
+            {"key": "Nagpur", "value": "Nagpur"},
             {"key": "Nashik", "value": "Nashik"},
             {"key": "Pune", "value": "Pune"},
         ]
@@ -322,7 +323,10 @@ latlong = {
     "Lander": [28.6466773,77.182488],
     "Delhi": [28.6466773,77.182488],
     "Ahmedabad": [23.0324082,72.5842058],
+    "Gandhinagar": [23.2387966,72.621648],
+    "Surat": [21.1681648,72.8078767],
     "Bengaluru": [12.9533282,77.5876808],
+    "Nagpur": [21.1529068,79.090017],
     "Nashik": [19.9883819,73.7821948],
     "Pune": [18.5164779,73.8567876],
     "Ambala": [30.372128,76.7774268],
@@ -570,15 +574,16 @@ latlong = {
     "Tehri_Garhwal": [30.3259873,78.4072486],
     "Udam_Singh_Nagar": [29.0437119,79.3254541],
     "Uttarkashi": [30.905614,78.385969],
-    "Gandhinagar": [23.2387966,72.621648],
-    "Surat": [21.1681648,72.8078767],
 }
 
 zoomFactor = {
     "Lander": 10,
     "Delhi": 11,
     "Ahmedabad": 12,
+    "Gandhinagar": 12,
+    "Surat": 12,
     "Bengaluru": 11,
+    "Nagpur": 12,
     "Nashik": 12,
     "Pune": 11,
     "Ambala": 14,
@@ -826,6 +831,4 @@ zoomFactor = {
     "Tehri_Garhwal": 11,
     "Udam_Singh_Nagar": 10,
     "Uttarkashi": 10,
-    "Gandhinagar": 12,
-    "Surat": 12,
 }
