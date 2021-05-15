@@ -1,7 +1,7 @@
 missing_delhi_hsp_location = {
     "Covid Care Centre,Chhawala": "https://www.google.com/maps/place/BSF+Unit+Hospital/@28.5540228,77.0092745,17z/data=!4m12!1m6!3m5!1s0x390d1080e1cde71d:0x2335ce492447a812!2sB.S.F.+Camp+Chhawla!8m2!3d28.554249!4d77.006249!3m4!1s0x390d1081cc1d159d:0x1fc9e25f8529f677!8m2!3d28.5542767!4d77.009356?hl=en",
-    "Covid Care Center Narela": "",
-    "covid care center-Sultanpuri": "",
+    "Covid Care Center Narela": "https://www.google.com/maps/place/DDA+Flats,+Sector+G-2,+Narela,+Delhi,+110040/@28.8261631,77.0784688,17z/data=!3m1!4b1!4m9!1m2!2m1!1sSector+G-2,+Narela!3m5!1s0x390da997c6ced7ff:0xb452895c1191ad75!8m2!3d28.8257619!4d77.0801899!15sChJTZWN0b3IgRy0yLCBOYXJlbGGSAQxzdWJsb2NhbGl0eTE?hl=en",
+    "covid care center-Sultanpuri": "https://www.google.com/maps/place/Dusib+sheetla+vatika/@28.6970341,77.0764361,17z/data=!4m5!3m4!1s0x390d05d11dfaa393:0xcf7896c22987a243!8m2!3d28.6973813!4d77.0768501?hl=en",
     "covid care center-Jain Swatamber": "https://www.google.com/maps/place/Terapanth+Bhawan/@28.5030389,77.1768325,17z/data=!4m5!3m4!1s0x390d1e3d26c4a1a7:0x202b40cdbd0ae4b!8m2!3d28.5036074!4d77.1771285?hl=en",
     "covid care center-police quarantine centre(shahdara)": "https://www.google.com/maps/place/Police+Station+Shahdara/@28.6741885,77.2898762,15z/data=!4m9!1m2!2m1!1snew+building+shahdra+police+station!3m5!1s0x390cfc806b79efd5:0x9038e45b155e7e3a!8m2!3d28.6762657!4d77.291403!15sCiRuZXcgYnVpbGRpbmcgc2hhaGRhcmEgcG9saWNlIHN0YXRpb25aNAoMbmV3IGJ1aWxkaW5nIiRuZXcgYnVpbGRpbmcgc2hhaGRhcmEgcG9saWNlIHN0YXRpb26SAQ5wb2xpY2Vfc3RhdGlvbpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOTGFqWkVZbmQzUlJBQg?hl=en",
     "Coaches Covid Care Centre- Shakurbasti Railway": "https://www.google.com/maps/place/Shakur+Basti/@28.6811323,77.1274172,17z/data=!4m5!3m4!1s0x390d03be532041a7:0xcc11972eec72c356!8m2!3d28.68141!4d77.1276103?hl=en",
