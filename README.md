@@ -36,6 +36,8 @@ https://covidinfo.rajasthan.gov.in
 https://stopcorona.tn.gov.in/beds.php  
 - Telangana  
 https://health.telangana.gov.in  
+- Thane  
+https://covidthane.org/availabiltyOfHospitalBeds.html  
 - Uttarakhand  
 https://covid19.uk.gov.in/bedssummary.aspx  
 - West Bengal  

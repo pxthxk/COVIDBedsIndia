@@ -158,6 +158,7 @@ locations=[
             {"key": "Nagpur", "value": "Nagpur"},
             {"key": "Nashik", "value": "Nashik"},
             {"key": "Pune", "value": "Pune"},
+            {"key": "Thane", "value": "Thane"}
         ]
     },
     {   
@@ -329,6 +330,7 @@ latlong = {
     "Nagpur": [21.1529068,79.090017],
     "Nashik": [19.9883819,73.7821948],
     "Pune": [18.5164779,73.8567876],
+    "Thane": [19.2164855,72.9741661],
     "Ambala": [30.372128,76.7774268],
     "Bhiwani": [28.7991128,76.1305033],
     "Charki Dadri": [28.5934121,76.2629269],
@@ -586,6 +588,7 @@ zoomFactor = {
     "Nagpur": 12,
     "Nashik": 12,
     "Pune": 11,
+    "Thane": 12,
     "Ambala": 14,
     "Bhiwani": 14,
     "Charki Dadri": 14,

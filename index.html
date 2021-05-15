@@ -291,7 +291,7 @@
 		      <div class="modal-body">
 		        <div>This only lists hospitals that provide ICU beds and <b style="color: crimson">does not show its availability</b>.</div>
 		        <div>To get availability details, click on <b style="color: #1997d4">blue</b> markers on map.</div>
-		        <div>West Bengal does not provide data on the number of ICU beds.</div>
+		        <div>Surat, Thane and Uttar Pradesh do not provide data on the number of ICU beds.</div>
 		        <div><button type="button" class="btn btn-secondary" onclick="$('#icudisclaimer').modal('hide');">OK</button></div>
 		      </div>
 		    </div>
@@ -306,7 +306,7 @@
 		      <div class="modal-body">
 		        <div>This only lists hospitals that provide ICU Ventilator beds and <b style="color: crimson">does not show its availability</b>.</div>
 		        <div>To get availability details, click on <b style="color: #1997d4">blue</b> markers on map.</div>
-		        <div>Madhya Pradesh, Uttarakhand and West Bengal do not provide data on the number of ICU Ventilator beds.</div>
+		        <div>Surat, Thane, Madhya Pradesh, Uttar Pradesh and Uttarakhand do not provide data on the number of Ventilator beds.</div>
 		        <div><button type="button" class="btn btn-secondary" onclick="$('#ventdisclaimer').modal('hide');">OK</button></div>
 		      </div>
 		    </div>
@@ -325,6 +325,7 @@
 		<script src="src/Nashik.js"></script>
 		<script src="src/Pune.js"></script>
 		<script src="src/Surat.js"></script>
+		<script src="src/Thane.js"></script>
 		<script src="src/Andhra_Pradesh.js"></script>
 		<script src="src/Chhattisgarh.js"></script>
 		<script src="src/Haryana.js"></script>
@@ -386,6 +387,9 @@
 
 				var surat = new Surat();
 				surat.populate(mcg, bedtype);
+
+				var thane = new Thane();
+				thane.populate(mcg, bedtype);
 				
 				var andhrapradesh = new Andhra_Pradesh();
 				andhrapradesh.populate(mcg, bedtype);
