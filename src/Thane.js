@@ -27,12 +27,13 @@ class Thane {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var contact = "Contact: " + contactInfo(i["HOSPITAL_NUMBER"]) + "<br>"
+              var contact = "Contact: " + contactInfo(i["HOSPITAL_NUMBER"]) + "<br><br>"
 
+              var beds = bedDetails("TOTAL BEDS", i["TOTAL_BEDS"], i["TOTAL_BEDS_AVAILABLE"]);
               var nonicu = bedDetails("NON-ICU BEDS", null, i["TOTAL_NON_ICU_BEDS_AVAILABLE"]);
               var icu = bedDetails("ICU BEDS", null, i["TOTAL_ICU_BEDS_AVAILABLE"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["HOSPITAL_NUMBER"] ? contact : "") + nonicu + icu);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["HOSPITAL_NUMBER"] ? contact : "") + beds + nonicu + icu);
               mcg.addLayer(marker);
             }
           }
