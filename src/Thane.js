@@ -1,6 +1,6 @@
 class Thane {
   populate(mcg, bedtype) {
-    let fetchPromise = fetch("https://stein.hamaar.cloud/v1/storages/609fc78ae75f9c111f96eb34/Thane");
+    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/609fc78ae75f9c111f96eb34/Thane");
 
     fetchPromise.then(response => {
       return response.json();

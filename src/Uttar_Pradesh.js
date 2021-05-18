@@ -1,6 +1,6 @@
 class Uttar_Pradesh {
   populate(mcg, bedtype) {
-    let fetchPromise = fetch("https://stein.hamaar.cloud/v1/storages/609fc7dde75f9ccdd696eb35/Uttar%20Pradesh");
+    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/609fc7dde75f9ccdd696eb35/Uttar%20Pradesh");
 
     fetchPromise.then(response => {
       return response.json();
