@@ -24,6 +24,8 @@ https://covidpune.com
 http://office.suratsmartcity.com/SuratCOVID19/Home/COVID19BedAvailabilityDetails  
 - Andhra Pradesh  
 http://dashboard.covid19.ap.gov.in/ims/hospbed_reports  
+- Bihar  
+https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied  
 - Chhattisgarh  
 https://cg.nic.in/health/covid19/RTPBedAvailable.aspx  
 - Goa  

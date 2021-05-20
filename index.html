@@ -306,7 +306,7 @@
 		      <div class="modal-body">
 		        <div>This only lists hospitals that provide ICU Ventilator beds and <b style="color: crimson">does not show its availability</b>.</div>
 		        <div>To get availability details, click on <b style="color: #1997d4">blue</b> markers on map.</div>
-		        <div>Surat, Thane, Goa, Madhya Pradesh, Uttar Pradesh and Uttarakhand do not provide data on the number of Ventilator beds.</div>
+		        <div>Surat, Thane, Goa, Bihar, Madhya Pradesh, Uttar Pradesh and Uttarakhand do not provide data on the number of Ventilator beds.</div>
 		        <div><button type="button" class="btn btn-secondary" onclick="$('#ventdisclaimer').modal('hide');">OK</button></div>
 		      </div>
 		    </div>
@@ -327,6 +327,7 @@
 		<script src="src/Surat.js"></script>
 		<script src="src/Thane.js"></script>
 		<script src="src/Andhra_Pradesh.js"></script>
+		<script src="src/Bihar.js"></script>
 		<script src="src/Chhattisgarh.js"></script>
 		<script src="src/Goa.js"></script>
 		<script src="src/Haryana.js"></script>
@@ -395,6 +396,9 @@
 				
 				var andhrapradesh = new Andhra_Pradesh();
 				andhrapradesh.populate(mcg, bedtype);
+
+				var bihar = new Bihar();
+				bihar.populate(mcg, bedtype);
 				
 				var chhattisgarh = new Chhattisgarh();
 				chhattisgarh.populate(mcg, bedtype);
