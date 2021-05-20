@@ -26,6 +26,8 @@ http://office.suratsmartcity.com/SuratCOVID19/Home/COVID19BedAvailabilityDetails
 http://dashboard.covid19.ap.gov.in/ims/hospbed_reports  
 - Chhattisgarh  
 https://cg.nic.in/health/covid19/RTPBedAvailable.aspx  
+- Goa  
+https://goaonline.gov.in/beds  
 - Haryana  
 https://coronaharyana.in
 - Madhya Pradesh  
