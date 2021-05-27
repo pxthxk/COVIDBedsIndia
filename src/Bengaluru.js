@@ -1,6 +1,6 @@
 class Bengaluru {
   populate(mcg, bedtype) {
-    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/608982f703eef3de2bd05a72/Bengaluru");
+    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/608982f703eef3de2bd05a72/Test%20Bengaluru");
 
     fetchPromise.then(response => {
       return response.json();
@@ -31,15 +31,15 @@ class Bengaluru {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var type = i["TYPE"] + "<br>";
+              var contact = "Contact: " + contactInfo("1912") + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_SYNCED"] + "<br><br>";
 
-              var gen = bedDetails("GENERAL", i["ALLOCATED_BEDS_GEN"], i["AVAILABLE_BEDS_GEN"]);
-              var hdu = bedDetails("HDU BEDS", i["ALLOCATED_BEDS_HDU"], i["AVAILABLE_BEDS_HDU"]);
-              var icu = bedDetails("ICU BEDS", i["ALLOCATED_BEDS_ICU"], i["AVAILABLE_BEDS_ICU"]);
-              var ven = bedDetails("VENTILATOR BEDS", i["ALLOCATED_BEDS_VENT", "AVAILABLE_BEDS_VENT"]);
+              var gen = bedDetails("GENERAL", i["ALLOCATED_GENERAL"], i["NET_AVAILABLE_GENERAL"]);
+              var hdu = bedDetails("HDU BEDS", i["ALLOCATED_HDU"], i["NET_AVAILABLE_HDU"]);
+              var icu = bedDetails("ICU BEDS", i["ALLOCATED_ICU"], i["NET_AVAILABLE_ICU"]);
+              var ven = bedDetails("VENTILATOR BEDS", i["ALLOCATED_ICU_WITH_VENTILATOR", "NET_AVAILABLE_ICU_WITH_VENTILATOR"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + type + last_updated_at + gen + hdu + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + last_updated_at + gen + hdu + icu + ven);
               mcg.addLayer(marker);
             }
           }
