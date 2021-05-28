@@ -1,6 +1,6 @@
 class Bengaluru {
   populate(mcg, bedtype) {
-    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/608982f703eef3de2bd05a72/Test%20Bengaluru");
+    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/608982f703eef3de2bd05a72/Bengaluru");
 
     fetchPromise.then(response => {
       return response.json();
