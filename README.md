@@ -4,8 +4,8 @@
 https://covidbedsindia.in  
   
 ---  
-  
-Data Sources:    
+   
+#### Data Sources (Government)   
 - Ahmedabad  
 https://ahna.org.in/covid19.html  
 - Andhra Pradesh  
@@ -48,3 +48,7 @@ https://beds.dgmhup-covid19.in/EN/covid19bedtrack
 https://covid19.uk.gov.in/bedssummary.aspx  
 - West Bengal  
 https://excise.wb.gov.in/CHMS/Public/Page/CHMS_Public_Hospital_Bed_Availability.aspx  
+  
+#### Data Sources (Independent Aggregators)  
+- Jharkhand and Odisha  
+https://docs.google.com/spreadsheets/d/1334PN3T4JzxRTLnnOAEPpVG3yWD3QWXhiaFc6VDcAbM/edit#gid=1644529134  
