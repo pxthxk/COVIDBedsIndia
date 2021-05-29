@@ -35,7 +35,7 @@ class Nagpur {
               var icu = bedDetails("ICU BEDS", i["TOTAL_ICU_BEDS_OCCUPIED"], i["TOTAL_ICU_BEDS_AVAILABLE"], false);
               var ven = bedDetails("VENTILATOR BEDS", i["TOTAL_VENTILATOR_BEDS_OCCUPIED"], i["TOTAL_VENTILATOR_BEDS_AVAILABLE"], false);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + addr + contact + nonoxy + oxy + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + addr + contact + nonoxy + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

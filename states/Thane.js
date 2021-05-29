@@ -33,7 +33,7 @@ class Thane {
               var nonicu = bedDetails("NON-ICU BEDS", null, i["TOTAL_NON_ICU_BEDS_AVAILABLE"]);
               var icu = bedDetails("ICU BEDS", null, i["TOTAL_ICU_BEDS_AVAILABLE"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["HOSPITAL_NUMBER"] ? contact : "") + beds + nonicu + icu);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + (i["HOSPITAL_NUMBER"] ? contact : "") + beds + nonicu + icu);
               mcg.addLayer(marker);
             }
           }

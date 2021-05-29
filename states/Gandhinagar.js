@@ -36,7 +36,7 @@ class Gandhinagar {
               var icu = bedDetails("ICU BEDS", i["ICU_WITHOUT_VENTILATOR_TOTAL"], i["ICU_WITHOUT_VENTILATOR_AVAILABLE"]);
               var ven = bedDetails("VENTILATOR BEDS", i["ICU_WITH_VENTILATOR_TOTAL"], i["ICU_WITH_VENTILATOR_AVAILABLE"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + area + nodal_officer + last_updated_at + reg + oxy + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + area + nodal_officer + last_updated_at + reg + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

@@ -35,7 +35,7 @@ class Telangana {
               var oxy = bedDetails("OXYGEN BEDS", i["OXYGEN_BEDS_TOTAL"], i["OXYGEN_BEDS_VACANT"]);
               var icu = bedDetails("ICU BEDS (Ventilator/ CPAP)", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_VACANT"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + type + last_updated_at + reg + oxy + icu);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + type + last_updated_at + reg + oxy + icu);
               mcg.addLayer(marker);
             }
           }

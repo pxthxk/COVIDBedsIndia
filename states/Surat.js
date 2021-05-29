@@ -36,7 +36,7 @@ class Surat {
               var icu = bedDetails("BIPAP BEDS", null, i["TOTAL_BIPAP_BEDS_AVAILABLE"]);
               var ven = bedDetails("VENTILATOR BEDS", null, i["TOTAL_VENTILATOR_BEDS_AVAILABLE"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + addr + (i["HOSPITAL_NUMBER"] ? contact : "") + last_updated_at + ward + oxy + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + addr + (i["HOSPITAL_NUMBER"] ? contact : "") + last_updated_at + ward + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

@@ -34,7 +34,7 @@ class Andhra_Pradesh {
               var icu = bedDetails("ICU BEDS", i["ICU_TOTAL"], i["ICU_AVAILABLE"]);
               var ven = bedDetails("VENTILATOR BEDS", i["VENTILATOR"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + gen + oxy + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + gen + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

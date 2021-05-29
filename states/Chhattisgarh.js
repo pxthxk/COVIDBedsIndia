@@ -38,7 +38,7 @@ class Chhattisgarh {
               var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_VACANT"]);
               var ven = bedDetails("VENTILATOR BEDS", i["VENTILATORS_TOTAL"], i["VENTILATORS_VACANT"]);
                 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + cat + ayushman + last_updated_at + nonoxy + oxy + hdu + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + cat + ayushman + last_updated_at + nonoxy + oxy + hdu + icu + ven);
               mcg.addLayer(marker);
             }
           }

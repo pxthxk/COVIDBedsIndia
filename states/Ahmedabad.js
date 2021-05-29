@@ -44,7 +44,7 @@ class Ahmedabad {
               var pvt_icu = bedDetails("ICU BEDS", i["PRIVATE_ICU_WITHOUT_VENTILATOR_OCCUPIED"], i["PRIVATE_ICU_WITHOUT_VENTILATOR_VACANT"], false);
               var pvt_ven = bedDetails("VENTILATOR BEDS", i["PRIVATE_ICU_WITH_VENTILATOR_OCCUPIED"], i["PRIVATE_ICU_WITH_VENTILATOR_VACANT"], false);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + zone + (i["CONTACT"] ? contact : "") + last_updated_at + amc_iso + amc_hdu + amc_icu + amc_ven + pvt_iso + pvt_hdu + pvt_icu + pvt_ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + zone + (i["CONTACT"] ? contact : "") + last_updated_at + amc_iso + amc_hdu + amc_icu + amc_ven + pvt_iso + pvt_hdu + pvt_icu + pvt_ven);
               mcg.addLayer(marker);
             }
           }

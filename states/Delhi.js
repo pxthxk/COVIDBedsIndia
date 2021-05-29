@@ -1,5 +1,6 @@
 var gnctd_covid_facilities_data;
 var gnctd_covid_data;
+var missing_delhi_hsp_location;
 
 class DelhiHospital {
   constructor(name) {
@@ -17,8 +18,8 @@ class DelhiHospital {
   }
 
   location(hsp_name) {
-    if(hsp_name in missing_delhi_hsp_location) {
-      var loc = missing_delhi_hsp_location[hsp_name];
+    if(missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)) {
+      var loc = missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)["LOCATION"];
     } else {
       var loc = gnctd_covid_facilities_data[hsp_name]["location"]
     } 
@@ -55,11 +56,11 @@ class DelhiHospital {
 
   coord(hsp_name) {
     try {
-      if(hsp_name in missing_delhi_hsp_location) {
-          if(missing_delhi_hsp_location[hsp_name].split("/")[6].split(",").length == 3) {
-            return missing_delhi_hsp_location[hsp_name].split("/")[6].replace("@", "").split(",");
+      if(missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)) {
+          if(missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)["LOCATION"].split("/")[6].split(",").length == 3) {
+            return missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)["LOCATION"].split("/")[6].replace("@", "").split(",");
           } else {
-            return missing_delhi_hsp_location[hsp_name].split("/")[7].replace("@", "").split(",");
+            return missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)["LOCATION"].split("/")[7].replace("@", "").split(",");
           }
         }
        else {
@@ -78,11 +79,11 @@ class DelhiHospital {
       console.log(err);
       console.log(hsp_name);
 
-      if(hsp_name in missing_delhi_hsp_location) {
-        if(missing_delhi_hsp_location[hsp_name].split("/")[6].split(",").length == 3) {
-          return missing_delhi_hsp_location[hsp_name].split("/")[6].replace("@", "").split(",");
+      if(missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)) {
+        if(missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)["LOCATION"].split("/")[6].split(",").length == 3) {
+          return missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)["LOCATION"].split("/")[6].replace("@", "").split(",");
         } else {
-          return missing_delhi_hsp_location[hsp_name].split("/")[7].replace("@", "").split(",");
+          return missing_delhi_hsp_location.find(o => o["HOSPITAL_NAME"] === hsp_name)["LOCATION"].split("/")[7].replace("@", "").split(",");
         }
       }
       return ["", ""]
@@ -100,48 +101,54 @@ class Delhi {
     });
 
     setTimeout(function() {
-      for(var i in gnctd_covid_facilities_data) {
-        var flag = 0;
+      fetch("https://api.covidbedsindia.in/v1/storages/60b1c92490b4574e2c831017/Delhi").then(response => {
+        return response.json();
+      }).then(data => {
+        missing_delhi_hsp_location = data;
 
-        var icu_tot = (gnctd_covid_data["covid_icu_beds"][i] ? gnctd_covid_data["covid_icu_beds"][i]["total"] : null)
-        var ven_tot = (gnctd_covid_data["ventilators"][i] ? gnctd_covid_data["ventilators"][i]["total"] : null)
+        for(var i in gnctd_covid_facilities_data) {
+          var flag = 0;
 
-        try {
-          if(bedtype == "icu") {
-            if(icu_tot) {
+          var icu_tot = (gnctd_covid_data["covid_icu_beds"][i] ? gnctd_covid_data["covid_icu_beds"][i]["total"] : null)
+          var ven_tot = (gnctd_covid_data["ventilators"][i] ? gnctd_covid_data["ventilators"][i]["total"] : null)
+
+          try {
+            if(bedtype == "icu") {
+              if(icu_tot) {
+                flag = 1;
+              }
+            } else if(bedtype == "ventilator") {
+              if(ven_tot) {
+                flag = 1;
+              }
+            } else {
               flag = 1;
             }
-          } else if(bedtype == "ventilator") {
-            if(ven_tot) {
-              flag = 1;
+
+            if(flag == 1) {
+              var hsp = new DelhiHospital(i);
+
+              var coord = hsp.coord(i);
+
+              var hspInfo = hspName(i, hsp.location(i));
+
+              var contact = hsp.contact(i);
+              var type = hsp.hsp_type(i);
+              var last_updated_at = hsp.last_updated_at(i);
+
+              var bed_info = hsp.bed_info(i);
+
+              if (coord[0] || coord[1]) {
+                var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + contact + type + last_updated_at + bed_info);
+                mcg.addLayer(marker);
+              }
             }
-          } else {
-            flag = 1;
+          } catch(err) {
+            console.log(i);
+            console.log(err);
           }
-
-          if(flag == 1) {
-            var hsp = new DelhiHospital(i);
-
-            var coord = hsp.coord(i);
-
-            var hspInfo = hspName(i, hsp.location(i));
-
-            var contact = hsp.contact(i);
-            var type = hsp.hsp_type(i);
-            var last_updated_at = hsp.last_updated_at(i);
-
-            var bed_info = hsp.bed_info(i);
-
-            if (coord[0] || coord[1]) {
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + type + last_updated_at + bed_info);
-              mcg.addLayer(marker);
-            }
-          }
-        } catch(err) {
-          console.log(i);
-          console.log(err);
         }
-      }
-    }, 3000);
+      });
+    }, 2500);
   }
 }

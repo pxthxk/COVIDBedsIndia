@@ -39,7 +39,7 @@ class Pune {
               var icu = bedDetails("ICU BEDS", i["TOTAL_ICU_BEDS_WITHOUT_VENTILATOR"], i["AVAILABLE_ICU_BEDS_WITHOUT_VENTILATOR"]);
               var ven = bedDetails("VENTILATOR BEDS", i["TOTAL_ICU_BEDS_WITH_VENTILATOR"], i["AVAILABLE_ICU_BEDS_WITH_VENTILATOR"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + addr + (i["CONTACT"] ? contact : "") + cat + type + last_updated_at + nonoxy + oxy + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + addr + (i["CONTACT"] ? contact : "") + cat + type + last_updated_at + nonoxy + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

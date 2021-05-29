@@ -57,7 +57,7 @@ class Nashik {
               var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_AVAILABLE"]);
               var ven = bedDetails("VENTILATOR BEDS", i["VENTILATOR_TOTAL"], i["VENTILATOR_AVAILABLE"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + addr + type + contact + coordinator + auditor + nonoxy + oxy + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + addr + type + contact + coordinator + auditor + nonoxy + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

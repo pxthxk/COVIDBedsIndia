@@ -39,7 +39,7 @@ class Bengaluru {
               var icu = bedDetails("ICU BEDS", i["ALLOCATED_ICU"], i["NET_AVAILABLE_ICU"]);
               var ven = bedDetails("VENTILATOR BEDS", i["ALLOCATED_ICU_WITH_VENTILATOR", "NET_AVAILABLE_ICU_WITH_VENTILATOR"]);
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact + last_updated_at + gen + hdu + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + contact + last_updated_at + gen + hdu + icu + ven);
               mcg.addLayer(marker);
             }
           }

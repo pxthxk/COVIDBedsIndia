@@ -1,0 +1,233 @@
+body {
+	color: #1f3349;
+	font-size: 15px;
+	line-height: 24px;
+	font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+}
+.loader {
+	width: 24px;
+	height: 24px;
+	margin:auto;
+	position:absolute;
+	top:25%;
+	left:0;
+	bottom:0;
+	right:0;
+	z-index:2000;
+	-webkit-animation:spin 1s linear infinite;
+	-moz-animation:spin 1s linear infinite;
+	animation:spin 1s linear infinite;
+}
+#pointers {
+	max-width: 1024px;
+	margin: 1em auto;
+}
+#pointers i {
+	display: inline-block;
+}
+#pointers p {
+	width: 95%;
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 0.5em;
+	margin-bottom: 0.1em;
+}
+#selectors {
+	text-align: center;
+	padding-bottom: 1em;
+}
+#selectors label {
+	padding-left: 1em;
+	margin-bottom: 0;
+	line-height: 2.5em;
+    vertical-align: top;
+}
+#markers {
+	text-align: center;
+}
+#markers p {
+	display: inline-block;
+    margin: 0 0.75em 0.75em 0.75em;
+}
+#loc {
+	display: inline-block;
+}
+#bed {
+	display: inline-block;
+}
+.icon-exclamation {
+	color: crimson;
+}
+.icon-info {
+	color: cornflowerblue;
+}
+.icon-location-arrow {
+	color: #1166e4;
+}
+.icon-spinner::before {
+	-webkit-animation:spin 1s linear infinite;
+	-moz-animation:spin 1s linear infinite;
+	animation:spin 1s linear infinite;
+}
+#mapcontainer {
+	width: 100%;
+	height: 70vh;
+}
+.leaflet-popup-content {
+	width: 320px !important;
+}
+.leaflet-popup-content h6 {
+	margin-bottom: 0.5em;
+}
+.leaflet-popup-content h6 a {
+	padding: 0 0.5em;
+}
+.leaflet-popup-content h6 a:hover, a:active, a:visited, a:focus {
+	text-decoration:none;
+}
+.leaflet-popup-content .row {
+	margin-bottom: 1em;
+}
+.leaflet-popup-content .col-5 {
+	padding: 0;
+}
+.leaflet-popup-content .col-5 b {
+	line-height: 18px;
+} 
+.leaflet-popup-content .col-7 {
+	padding-left: 0;
+	padding-right: 0;
+}
+.leaflet-popup-content .badge {
+	margin-right: 0.5em;
+	font-size: 1em;
+}
+.leaflet-popup-content .badge-success {
+	margin-right: 0;
+}
+.marker-cluster-small {
+	background-color: rgba(150,150,150,0.5);
+}
+.marker-cluster-medium {
+	background-color: rgba(150,150,150,0.5);
+}
+.marker-cluster-large {
+	background-color: rgba(150,150,150,0.5);
+}
+.marker-cluster-small div {
+	background-color: rgba(150,150,150,0.5);
+	color: white;
+	font-size: 16px !important;
+}
+.marker-cluster-medium div {
+	background-color: rgba(150,150,150,0.5);
+	color: white;
+	font-size: 16px !important;
+}
+.marker-cluster-large div {
+	background-color: rgba(150,150,150,0.5);
+	color: white;
+	font-size: 14px !important;
+}
+.marker-cluster span {
+	line-height: 24px !important;;
+}
+.marker-cluster div {
+	width: 24px !important;;
+	height: 24px !important;;
+	margin-left: 4px !important;;
+	margin-top: 4px !important;;
+}
+.marker-cluster {
+	width: 32px !important;
+	height: 32px !important;
+}
+.modal-dialog {
+	min-width: 575px !important;
+}
+.modal-body {
+	font-size: 1.25em;
+}
+.modal-body div:nth-child(1) {
+	padding-bottom: 0.5em;
+}
+.modal-body div:nth-child(2) {
+	padding-bottom: 1em;
+}
+.modal-body div:nth-child(3) {
+	padding-bottom: 1em;
+	font-size: 0.8em;
+	line-height: 1.5em;
+	color: #777;
+}
+.modal-body div:nth-child(4) {
+	text-align: center;
+}
+@media only screen and (max-width: 1024px) {
+	.loader {
+		width: 32px;
+		height: 32px;
+	}
+	#pointers {
+		max-width: 95%;
+		margin: 1em auto;
+		font-size: 1.9em;
+		line-height: 1.5em
+	}
+	#pointers h4 {
+		font-size: 1.5em;
+	}
+	#selectors {
+		font-size: 1.75em;
+	}
+	#selectors label {
+		line-height: 2em;
+	}
+	.select2-dropdown {
+		font-size: 1.5em;
+	}
+	#mapcontainer {
+		height: 75vh;
+	}
+	.leaflet-popup-content {
+		width: 500px !important;
+		font-size: 1.75em;
+	}
+	.leaflet-popup-content h6 {
+		font-size: 1.5em;
+	}
+	.leaflet-control-zoom-in {
+		width: 80px !important;
+		height: 80px !important;
+		font-size: 48px !important;
+		line-height: 80px !important;
+	}
+	.leaflet-control-zoom-out {
+		width: 80px !important;
+		height: 80px !important;
+		font-size: 48px !important;
+		line-height: 80px !important;
+	}
+	.leaflet-bar-part {
+		width: 80px !important;
+		height: 80px !important;
+		font-size: 48px !important;
+		line-height: 80px !important;
+	}
+	.modal-title {
+		font-size: 2em;
+    	line-height: 1.5em;
+	}
+	.modal-body {
+		font-size: 2em;
+    	line-height: 1.5em;
+	}
+	.modal-title {
+		font-size: 3em;
+	}
+	.modal-body button {
+		font-size: 1em;
+	}
+}

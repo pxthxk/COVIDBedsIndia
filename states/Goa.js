@@ -1,11 +1,11 @@
-class Uttar_Pradesh {
+class Goa {
   populate(mcg, bedtype) {
-    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/609fc7dde75f9ccdd696eb35/Uttar%20Pradesh");
+    let fetchPromise = fetch("https://api.covidbedsindia.in/v1/storages/60a36cb4e75f9c5d8c96eb36/Goa");
 
     fetchPromise.then(response => {
       return response.json();
-    }).then(uttar_pradesh_data => {
-      uttar_pradesh_data.map(i => {
+    }).then(goa_data => {
+      goa_data.map(i => {
         var flag = 0;
 
         try {
@@ -27,14 +27,12 @@ class Uttar_Pradesh {
 
               var hspInfo = hspName(i["HOSPITAL_NAME"], i["LOCATION"]);
 
-              var addr = (i["ADDRESS"] ? i["ADDRESS"] + "<br>" : "");
-              var contact = (i["CONTACT"] ? "Contact: " + contactInfo(i["CONTACT"]) + "<br>" : "");
-              var type = "Type: " + i["TYPE"] + "<br>";
               var last_updated_at = "Last Updated: " + i["LAST_UPDATED"] + "<br><br>";
-
-              var beds = bedDetails("BEDS", i["TOTAL"], i["VACANT"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + addr + contact + type + last_updated_at + beds);
+              var total = bedDetails("TOTAL BEDS", i["TOTAL_BEDS"], i["TOTAL_BEDS_AVAILABLE"]);
+              var icu = bedDetails("ICU BEDS", i["TOTAL_ICU_BEDS"], i["TOTAL_ICU_BEDS_AVAILABLE"]);
+
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + total + icu);
               mcg.addLayer(marker);
             }
           }

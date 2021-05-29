@@ -39,7 +39,7 @@ class Uttarakhand {
               var oxy = bedDetails("OXYGEN BEDS", i["BEDS_WITH_OXYGEN_TOTAL"], i["BEDS_WITH_OXYGEN_AVAILABLE"]);
               var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_AVAILABLE"]);
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + nodal_officer + type + last_updated_at + nonoxy + oxy + icu);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + nodal_officer + type + last_updated_at + nonoxy + oxy + icu);
               mcg.addLayer(marker);
             }
           }

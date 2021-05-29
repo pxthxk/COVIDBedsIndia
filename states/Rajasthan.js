@@ -36,7 +36,7 @@ class Rajasthan {
               var icu = bedDetails("ICU BEDS", i["ICU_BEDS_TOTAL"], i["ICU_BEDS_AVAILABLE"])
               var ven = bedDetails("VENTILATOR", i["VENTILATOR_BEDS_TOTAL"], i["VENTILATOR_BEDS_AVAILABLE"])
 
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + (i["DISTRICT_CONTROL_ROOM"] ? contact2 : "") + last_updated_at + gen + oxy + icu + ven);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + (i["CONTACT"] ? contact : "") + (i["DISTRICT_CONTROL_ROOM"] ? contact2 : "") + last_updated_at + gen + oxy + icu + ven);
               mcg.addLayer(marker);
             }
           }

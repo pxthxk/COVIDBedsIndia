@@ -74,7 +74,7 @@ class Haryana {
               var oxy_avail = (i["HOSPITAL_INFO"].split("Availability of Drugs")[0].split("Availability of Oxygen: ")[1] ? "<b>AVAILABILITY OF OXYGEN: </b>" + i["HOSPITAL_INFO"].split("Availability of Drugs")[0].split("Availability of Oxygen: ")[1] + "<br><br>" : "");
               var drug_avail = (i["HOSPITAL_INFO"].split("Helpline:")[0].split("Availability of Drugs")[1] ? "<b>AVAILABILITY OF DRUGS: </b>" + i["HOSPITAL_INFO"].split("Helpline:")[0].split("Availability of Drugs")[1] + "<br><br>" : "");
               
-              var marker = L.marker(new L.LatLng(coord[0], coord[1])).bindPopup(hspInfo + contact1 + contact2 + last_updated_at + nonoxy + oxy + icu + ven + oxy_avail + drug_avail);
+              var marker = L.marker(new L.LatLng(coord[0], coord[1]), {icon: govIcon}).bindPopup(hspInfo + contact1 + contact2 + last_updated_at + nonoxy + oxy + icu + ven + oxy_avail + drug_avail);
               mcg.addLayer(marker);
             }
           }
