@@ -185,6 +185,12 @@ body {
 	#selectors label {
 		line-height: 2em;
 	}
+	#markers {
+		font-size: 1.75em;
+	}
+	#markers p {
+		margin: 0 0.25em 0.75em 0.25em;
+	}
 	.select2-dropdown {
 		font-size: 1.5em;
 	}
