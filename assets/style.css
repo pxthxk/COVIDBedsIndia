@@ -186,16 +186,24 @@ body {
 	background-position: 0 0;
 	background-size: 65px 20px;
 }
-
 @media only screen and (max-width: 1024px) {
 	#header {
-		font-size: 0.9em;
+		font-size: 0.7em;
+		line-height: 1.6em;
 	}
 	#pointers {
-		margin: 0.5em auto;
+		margin: 0.5em 0;
+		padding: 0px 0.5em 0 0.75em;
+	}
+	#pointers p {
+		padding-left: 0.75em;
+		margin-bottom: 0.25em;
 	}
 	#selectors {
-		margin-bottom: 0.25em;
+		margin-bottom: 0.5em;
+	}
+	#selectors label {
+		padding-left: 0.5em;
 	}
 	#markers {
 		font-size: 0.85em;
@@ -203,7 +211,30 @@ body {
 	#markers p {
 		margin: 0 0.25em 0.5em 0.25em;
 	}
+	#markers img {
+		width: 15px;
+	}
+	.leaflet-popup-content {
+		width: 280px !important;
+	}
 	.modal-dialog {
 		min-width: 300px !important;
+	}
+	.modal-body {
+		font-size: 1em;
+		line-height: 1.4em;
+	}
+	.modal-body div:nth-child(1) {
+		padding-bottom: 0.4em;
+	}
+	.modal-body div:nth-child(2) {
+		padding-bottom: 0.5em;
+	}
+	.modal-body div:nth-child(3) {
+		padding-bottom: 0.5em;
+		color: #777;
+	}
+	.modal-body div:nth-child(4) {
+		text-align: center;
 	}
 }

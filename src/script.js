@@ -31,7 +31,7 @@ var bedType = null;
 $("#bedType").select2({
 	theme: "bootstrap4",
 	minimumResultsForSearch: -1,
-	width: $(window).width() > 1024 ? "150px" : "120px"
+	width: $(window).width() > 1024 ? "150px" : "100px"
 });
 
 var map = L.map("mapcontainer", {"tap": false, "zoomControl": false});
@@ -69,6 +69,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_t
 
 map.on("popupopen", function(e) {
 	var px = map.project(e.target._popup._latlng);
+	px.x += 11;
 	px.y -= e.target._popup._container.clientHeight/1.5;
 	map.panTo(map.unproject(px),{animate: true});
 });
