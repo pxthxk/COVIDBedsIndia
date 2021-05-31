@@ -139,10 +139,6 @@ fetch("https://api.covidbedsindia.in/v1/storages/60b1c92490b4574e2c831017/Distri
 
 var markerIcon = L.Icon.extend({
     options: {
-        // iconSize:     [29.6, 35.75],
-        // shadowSize:   [50, 64],
-        // iconAnchor:   [22, 94],
-        // shadowAnchor: [4, 62],
         popupAnchor:  [10, 0]
     }
 });
@@ -156,7 +152,7 @@ var volIcon = new markerIcon({
 });
 
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}", {
-	attribution: "Map data &copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+	attribution: "&#169; <a href='https://www.mapbox.com/about/maps/' target='_blank'>Mapbox</a> &#169; <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> <a class='font-weight-bold' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>",
 	maxZoom: 18,
 	id: "mapbox/streets-v11",
 	tileSize: $(window).width() > 1024 ? 512 : 1024,
