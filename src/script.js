@@ -1,23 +1,88 @@
+// Populate dropdown
 var districts = null;
-var lander = {"latLong": [28.6466773,77.182488], "zoomFactor": 10}
+var lander = {"latLong": [28.7066773,77.102488], "zoomFactor": 10}
 
-var map = L.map("mapcontainer", {"tap": false});
-var mcg = L.markerClusterGroup({
-	maxClusterRadius: 45
+fetch("https://api.covidbedsindia.in/v1/storages/60b1c92490b4574e2c831017/Districts").then(response => {
+	return response.json();
+}).then(data => {
+	districts = data;
+
+	var loc = document.getElementById("city");
+	var states = []
+				
+	districts.map(i => {
+		if(!states.includes(i["STATE"])) {
+			states.push(i["STATE"]);
+
+			loc.innerHTML += "<optgroup label=\"" + i["STATE"] + "\"></optgroup>";
+		}
+		loc.innerHTML += "<option value='" + i["UID"] + "'>" + i["DISTRICT"] + "</option>";
+	});
+});
+
+// Setup map
+$("#city").select2({
+	theme: "bootstrap4",
+	width: $(window).width() > 1024 ? "250px" : "150px"
 });
 
 var bedType = null;
 
-$("#city").select2({
-	theme: "bootstrap4",
-	width: "250px"
-});
-
 $("#bedType").select2({
 	theme: "bootstrap4",
 	minimumResultsForSearch: -1,
-	width: "150px"
+	width: $(window).width() > 1024 ? "150px" : "120px"
 });
+
+var map = L.map("mapcontainer", {"tap": false, "zoomControl": false});
+
+L.control.zoom({
+	position: "bottomright"
+}).addTo(map);
+
+var mcg = L.markerClusterGroup({
+	maxClusterRadius: 45
+});
+
+var markerIcon = L.Icon.extend({
+	options: {
+		popupAnchor: [10, 0]
+	}
+});
+
+var govIcon = new markerIcon({
+	iconUrl: "assets/marker-gov.svg",
+});
+
+var volIcon = new markerIcon({
+	iconUrl: "assets/marker-vol.svg",
+});
+
+L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}", {
+	attribution: "&#169; <a href='https://www.mapbox.com/about/maps/' target='_blank'>Mapbox</a> &#169; <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> <a class='font-weight-bold' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>",
+	maxZoom: 18,
+	id: "mapbox/streets-v11",
+	tileSize: 512,
+	zoomOffset: -1,
+	accessToken: mapboxToken
+}).addTo(map);
+
+map.on("popupopen", function(e) {
+	var px = map.project(e.target._popup._latlng);
+	px.y -= e.target._popup._container.clientHeight/1.5;
+	map.panTo(map.unproject(px),{animate: true});
+});
+
+var lc = L.control.locate({
+	position: "bottomright",
+	icon: "icon-location-arrow",
+	initialZoomLevel: 15,
+	cacheLocation: true
+}).addTo(map);
+
+lc.start();
+focusMap();
+loadPlaces(mcg, bedType);
 
 function focusMap(placeUID) {
 	if(placeUID) {
@@ -32,7 +97,7 @@ function changePlace(placeUID) {
 	focusMap(placeUID);
 }
 
-function changeBed(bedType) {
+function changeBedType(bedType) {
 	loadPlaces(mcg, bedType);
 }
 
@@ -118,55 +183,3 @@ function loadPlaces(mcg, bedType) {
 		$("#ventdisclaimer").modal("toggle");
 	}
 }
-
-fetch("https://api.covidbedsindia.in/v1/storages/60b1c92490b4574e2c831017/Districts").then(response => {
-	return response.json();
-}).then(data => {
-	districts = data;
-
-	var loc = document.getElementById("city");
-	var states = []
-				
-	districts.map(i => {
-		if(!states.includes(i["STATE"])) {
-			states.push(i["STATE"]);
-
-			loc.innerHTML += "<optgroup label=\"" + i["STATE"] + "\"></optgroup>";
-		}
-		loc.innerHTML += "<option value='" + i["UID"] + "'>" + i["DISTRICT"] + "</option>";
-	});
-});
-
-var markerIcon = L.Icon.extend({
-    options: {
-        popupAnchor:  [10, 0]
-    }
-});
-
-var govIcon = new markerIcon({
-	iconUrl: "assets/marker-gov.svg",
-});
-
-var volIcon = new markerIcon({
-	iconUrl: "assets/marker-vol.svg",
-});
-
-L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}", {
-	attribution: "&#169; <a href='https://www.mapbox.com/about/maps/' target='_blank'>Mapbox</a> &#169; <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> <a class='font-weight-bold' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>",
-	maxZoom: 18,
-	id: "mapbox/streets-v11",
-	tileSize: $(window).width() > 1024 ? 512 : 1024,
-	zoomOffset: $(window).width() > 1024 ? -1 : -2,
-	accessToken: mapboxToken
-}).addTo(map);
-
-var lc = L.control.locate({
-	position: "topright",
-	icon: "icon-location-arrow",
-	initialZoomLevel: 15,
-	cacheLocation: true
-}).addTo(map);
-
-lc.start();
-focusMap();
-loadPlaces(mcg, bedType);
