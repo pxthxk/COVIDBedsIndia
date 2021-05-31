@@ -1,54 +1,36 @@
 # COVIDBedsIndia
-### A volunteer-driven effort to track COVID Hospital Beds availability in India.  
+
+A volunteer-driven effort to track COVID hospital beds availability in India.  
   
-### https://covidbedsindia.in  
+&nbsp;&nbsp;&nbsp;:link:&nbsp;&nbsp;&nbsp;https://covidbedsindia.in  
   
----  
-   
-#### Data Sources (Government)   
-- Ahmedabad  
-https://ahna.org.in/covid19.html  
-- Andhra Pradesh  
-http://dashboard.covid19.ap.gov.in/ims/hospbed_reports  
-- Bengaluru  
-https://apps.bbmpgov.in/covid19  
-- Bihar  
-https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied  
-- Chhattisgarh  
-https://cg.nic.in/health/covid19/RTPBedAvailable.aspx  
-- Delhi  
-https://coronabeds.jantasamvad.org  
-- Gandhinagar  
-https://vmc.gov.in/HospitalModuleGMC/HospitalBedsDetails.aspx?tid=1  
-- Goa  
-https://goaonline.gov.in/beds  
-- Haryana  
-https://coronaharyana.in
-- Madhya Pradesh  
-http://sarthak.nhmmp.gov.in/covid/facility-bed-occupancy-details  
-- Nagpur  
-https://nsscdcl.org/covidbeds/  
-- Nashik  
-http://covidcbrs.nmc.gov.in/home/searchHosptial  
-- Pune  
-https://covidpune.com  
-- Rajasthan  
-https://covidinfo.rajasthan.gov.in  
-- Surat  
-http://office.suratsmartcity.com/SuratCOVID19/Home/COVID19BedAvailabilityDetails  
-- Tamil Nadu  
-https://stopcorona.tn.gov.in/beds.php  
-- Telangana  
-https://health.telangana.gov.in  
-- Thane  
-https://covidthane.org/availabiltyOfHospitalBeds.html  
-- Uttar Pradesh  
-https://beds.dgmhup-covid19.in/EN/covid19bedtrack  
-- Uttarakhand  
-https://covid19.uk.gov.in/bedssummary.aspx  
-- West Bengal  
-https://excise.wb.gov.in/CHMS/Public/Page/CHMS_Public_Hospital_Bed_Availability.aspx  
-  
-#### Data Sources (Independent Aggregators)  
-- Jharkhand and Odisha  
-https://docs.google.com/spreadsheets/d/1334PN3T4JzxRTLnnOAEPpVG3yWD3QWXhiaFc6VDcAbM/edit#gid=1644529134  
+Aggregated data is available for non-commercial usage. Refer the [API documentation](https://documenter.getpostman.com/view/15598746/TzXzDH7k) for details on state/district-wise fields and endpoints.  
+
+Data Sources
+--
+
+State/District | Source Link | Provider
+------------ | ------------- | -------------
+Ahmedabad | https://ahna.org.in/covid19.html | Government
+Andhra Pradesh | http://dashboard.covid19.ap.gov.in/ims/hospbed_reports | Government
+Bengaluru | https://apps.bbmpgov.in/covid19 | Government
+Bihar | https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied | Government
+Chhattisgarh | https://cg.nic.in/health/covid19/RTPBedAvailable.aspx | Government
+Delhi | https://coronabeds.jantasamvad.org | Government
+Gandhinagar | https://vmc.gov.in/HospitalModuleGMC/HospitalBedsDetails.aspx?tid=1 | Government
+Goa | https://goaonline.gov.in/beds | Government
+Haryana | https://coronaharyana.in | Government
+Jharkhand | https://bit.ly/3fZs8jW | Independent Aggregator
+Madhya Pradesh | http://sarthak.nhmmp.gov.in/covid/facility-bed-occupancy-details | Government
+Nagpur | https://nsscdcl.org/covidbeds/ | Government
+Nashik | http://covidcbrs.nmc.gov.in/home/searchHosptial | Government
+Odisha | https://bit.ly/3fZs8jW | Independent Aggregator
+Pune | https://covidpune.com | Government
+Rajasthan | https://covidinfo.rajasthan.gov.in | Government
+Surat | http://office.suratsmartcity.com/SuratCOVID19/Home/COVID19BedAvailabilityDetails | Government
+Tamil Nadu | https://stopcorona.tn.gov.in/beds.php | Government
+Telangana | https://health.telangana.gov.in | Government
+Thane | https://covidthane.org/availabiltyOfHospitalBeds.html | Government
+Uttar Pradesh | https://beds.dgmhup-covid19.in/EN/covid19bedtrack | Government
+Uttarakhand | https://covid19.uk.gov.in/bedssummary.aspx | Government
+West Bengal | https://excise.wb.gov.in/CHMS/Public/Page/CHMS_Public_Hospital_Bed_Availability.aspx | Government
