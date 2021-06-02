@@ -1,4 +1,4 @@
-// Populate dropdown
+// Populate dropdowns
 var districts = null;
 var lander = {"latLong": [28.7066773,77.102488], "zoomFactor": 10}
 
@@ -20,7 +20,6 @@ fetch("https://api.covidbedsindia.in/v1/storages/60b1c92490b4574e2c831017/Distri
 	});
 });
 
-// Setup map
 $("#city").select2({
 	theme: "bootstrap4",
 	width: $(window).width() > 1024 ? "250px" : "150px"
@@ -34,15 +33,34 @@ $("#bedType").select2({
 	width: $(window).width() > 1024 ? "150px" : "100px"
 });
 
-var map = L.map("mapcontainer", {"tap": false, "zoomControl": false});
+// Setup map
+var map = L.map("mapcontainer", {"maxZoom": 18, "tap": false, "zoomControl": false});
 
-L.control.zoom({
-	position: "bottomright"
+// L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}", {
+// 	attribution: "&#169; <a href='https://www.mapbox.com/about/maps/' target='_blank'>Mapbox</a> &#169; <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> <a class='font-weight-bold' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>",
+// 	maxZoom: 18,
+// 	id: "mapbox/streets-v11",
+// 	tileSize: 512,
+// 	zoomOffset: -1,
+// 	accessToken: mapboxToken
+// }).addTo(map);
+
+var gl = L.mapboxGL({
+	accessToken: mapboxToken,
+	style: "mapbox://styles/mapbox/streets-v11",
+	attribution: "&#169; <a href='https://www.mapbox.com/about/maps/' target='_blank'>Mapbox</a> &#169; <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> <a class='font-weight-bold' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>",
 }).addTo(map);
 
 var mcg = L.markerClusterGroup({
-	maxClusterRadius: 45
+	maxClusterRadius: 60
 });
+
+var lc = L.control.locate({
+	position: "bottomright",
+	icon: "icon-location-arrow",
+	initialZoomLevel: 15,
+	cacheLocation: true
+}).addTo(map);
 
 var markerIcon = L.Icon.extend({
 	options: {
@@ -58,13 +76,8 @@ var volIcon = new markerIcon({
 	iconUrl: "assets/marker-vol.svg",
 });
 
-L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}@2x?access_token={accessToken}", {
-	attribution: "&#169; <a href='https://www.mapbox.com/about/maps/' target='_blank'>Mapbox</a> &#169; <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> <a class='font-weight-bold' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>",
-	maxZoom: 18,
-	id: "mapbox/streets-v11",
-	tileSize: 512,
-	zoomOffset: -1,
-	accessToken: mapboxToken
+L.control.zoom({
+	position: "bottomright"
 }).addTo(map);
 
 map.on("popupopen", function(e) {
@@ -73,13 +86,6 @@ map.on("popupopen", function(e) {
 	px.y -= e.target._popup._container.clientHeight/1.5;
 	map.panTo(map.unproject(px),{animate: true});
 });
-
-var lc = L.control.locate({
-	position: "bottomright",
-	icon: "icon-location-arrow",
-	initialZoomLevel: 15,
-	cacheLocation: true
-}).addTo(map);
 
 lc.start();
 focusMap();
