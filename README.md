@@ -11,7 +11,7 @@ Data Sources
 
 State/District | Source Link | Provider
 ------------ | ------------- | -------------
-Ahmedabad | https://ahna.org.in/covid19.html | Government
+Ahmedabad | https://ahmedabadcity.gov.in/portal/web?requestType=ApplicationRH&actionVal=loadCoronaRelatedDtls&queryType=Select&screenId=114 | Government
 Andhra Pradesh | http://dashboard.covid19.ap.gov.in/ims/hospbed_reports | Government
 Bengaluru | https://apps.bbmpgov.in/covid19 | Government
 Bihar | https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied | Government
