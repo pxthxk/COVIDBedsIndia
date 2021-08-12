@@ -5,6 +5,8 @@ A volunteer-driven effort to track COVID hospital beds availability in India.
 &nbsp;&nbsp;&nbsp;:link:&nbsp;&nbsp;&nbsp;https://covidbedsindia.in  
   
 Aggregated data is available for non-commercial usage. Refer the [API documentation](https://documenter.getpostman.com/view/15598746/TzXzDH7k) for details on state/district-wise fields and endpoints.  
+  
+NOTE: Ahmedabad and West Bengal are not updated anymore.  
 
 Data Sources
 --
