@@ -39,7 +39,7 @@
 		<div id="header">
 			<div class="container responsive" id="pointers">
 				<!-- <div><i class="icon-exclamation"></i><p>Numbers in circle represent the number of hospitals in the area and <b>NOT the number of beds</b>.</p></div> -->
-				<div><i class="icon-exclamation"></i><p>We use data provided by the government and volunteer-run aggregators to get hospital bed numbers. The actual numbers may differ. <b>Please contact the hospital prior visiting.</b></p></div>
+				<div><i class="icon-exclamation"></i><p>We use data provided by the government to get hospital bed numbers. The actual numbers may differ. <b>Please contact the hospital prior visiting.</b></p></div>
 				<div><i class="icon-info"></i><p>Access data via <a href="https://documenter.getpostman.com/view/15598746/TzXzDH7k" target="_blank">API</a>. Report issues on <a href="https://github.com/pxthxk/COVIDBedsIndia" target="_blank">GitHub</a> or <a href="https://twitter.com/covidbedsindia" target="_blank">Twitter</a>.</p></div>
 			</div>
 			<div id="selectors">
@@ -57,11 +57,11 @@
 					</select>
 				</div>
 			</div>
-			<div id="markers">
+			<!-- <div id="markers">
 				<span>Data from:</span>
 				<p><img src="assets/marker-gov.svg"> Govt. Sources</p>
 				<p><img src="assets/marker-vol.svg"> Independent Aggregators</p>
-			</div>
+			</div> -->
 		</div>
 
 		<div id="mapcontainer">
@@ -77,7 +77,7 @@
 		      <div class="modal-body">
 		        <div>This only lists hospitals that provide ICU beds and <b style="color: crimson">does not show its availability</b>.</div>
 		        <div>To get availability details, click on <b style="color: #1997d4">blue</b> markers on map.</div>
-		        <div>Ahmedabad, Surat, Thane, Jharkhand, Odisha and Uttar Pradesh do not provide data on the number of ICU beds.</div>
+		        <div>Ahmedabad, Surat, Thane and Uttar Pradesh do not provide data on the number of ICU beds.</div>
 		        <div><button type="button" class="btn btn-secondary" onclick="$('#icudisclaimer').modal('hide');">OK</button></div>
 		      </div>
 		    </div>
@@ -92,7 +92,7 @@
 		      <div class="modal-body">
 		        <div>This only lists hospitals that provide ICU Ventilator beds and <b style="color: crimson">does not show its availability</b>.</div>
 		        <div>To get availability details, click on <b style="color: #1997d4">blue</b> markers on map.</div>
-		        <div>Ahmedabad, Surat, Thane, Goa, Bihar, Jharkhand, Madhya Pradesh, Odisha, Uttar Pradesh and Uttarakhand do not provide data on the number of Ventilator beds.</div>
+		        <div>Ahmedabad, Surat, Thane, Goa, Bihar, Madhya Pradesh, Uttar Pradesh and Uttarakhand do not provide data on the number of Ventilator beds.</div>
 		        <div><button type="button" class="btn btn-secondary" onclick="$('#ventdisclaimer').modal('hide');">OK</button></div>
 		      </div>
 		    </div>
@@ -115,9 +115,9 @@
 		<script type="text/javascript" src="states/Chhattisgarh.js"></script>
 		<script type="text/javascript" src="states/Goa.js"></script>
 		<script type="text/javascript" src="states/Haryana.js"></script>
-		<script type="text/javascript" src="states/Jharkhand.js"></script>
+		<!-- <script type="text/javascript" src="states/Jharkhand.js"></script> -->
 		<script type="text/javascript" src="states/Madhya_Pradesh.js"></script>
-		<script type="text/javascript" src="states/Odisha.js"></script>
+		<!-- <script type="text/javascript" src="states/Odisha.js"></script> -->
 		<script type="text/javascript" src="states/Rajasthan.js"></script>
 		<script type="text/javascript" src="states/Tamil_Nadu.js"></script>
 		<script type="text/javascript" src="states/Telangana.js"></script>

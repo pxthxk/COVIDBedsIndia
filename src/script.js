@@ -155,14 +155,14 @@ function loadPlaces(mcg, bedType) {
 	var haryana = new Haryana();
 	haryana.populate(mcg, bedType);
 
-	var jharkhand = new Jharkhand();
-	jharkhand.populate(mcg, bedType);
+	// var jharkhand = new Jharkhand();
+	// jharkhand.populate(mcg, bedType);
 				
 	var madhyapradesh = new Madhya_Pradesh();
 	madhyapradesh.populate(mcg, bedType);
 
-	var odisha = new Odisha();
-	odisha.populate(mcg, bedType);
+	// var odisha = new Odisha();
+	// odisha.populate(mcg, bedType);
 
 	var rajasthan = new Rajasthan();
 	rajasthan.populate(mcg, bedType);
